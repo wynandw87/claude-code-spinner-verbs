@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **501 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,073 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + additional verbs across 66 themed categories.
+**185 built-in defaults** + **888 additional verbs** across 65 themed categories.
 
 ## How to Add Verbs
 
