@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,073 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,243 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **888 additional verbs** across 65 themed categories.
+**185 built-in defaults** + **1,058 additional verbs** across 66 themed categories.
 
 ## How to Add Verbs
 
@@ -1295,3 +1295,180 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Hype-train-riding |
 | Raid-hosting |
 | Stream-starting |
+
+### Custom Phrases - Dev Life & Gastropod Zen (170)
+
+These are full phrase spinner verbs rather than single gerunds.
+
+| Verb |
+|------|
+| Brewing chaos into code |
+| Debugging destiny |
+| HODLing through the crash |
+| The only way out is refactor |
+| Chilling with infinite recursion |
+| Manifesting pixels at 3 AM |
+| Rakı-level focus engaged |
+| Bosphorus debugging session |
+| Turning coffee into commits |
+| Questioning my life choices |
+| Optimizing for existential dread |
+| Stack overflowing with vibes |
+| Compiling regrets |
+| Git gud or go home |
+| Praising the merge god |
+| One bug closer to freedom |
+| Embracing the red squiggles |
+| Leveling up in the matrix |
+| Not quite my tempo |
+| Bonfire lit, soul editing |
+| Praising the sun |
+| Mikiri countering syntax errors |
+| Just as planned |
+| Taking a potato chip and eating it |
+| Setting humor to 75% |
+| Come on, TARS |
+| Ding ding ding-ing the breakthrough |
+| Adjusting tie before the crash |
+| Knocking politely on segfaults |
+| Eating apples in the terminal |
+| Achieving perfect run eventually |
+| Quicksaving before disaster |
+| Noting for next loop |
+| Refining macro data forever |
+| Meaning emerging from the void |
+| Self-referencing recursively |
+| Strange looping into dawn |
+| Running Crysis on a potato |
+| Maximum armor against bugs |
+| Double jumping over deadlines |
+| Putting ambitions to rest nah |
+| Grafting the perfect feature |
+| Remembrall glowing with fixes |
+| Drinking Comed-Tea for inspiration |
+| Solving death or at least null pointers |
+| Through every compile error, victory |
+| Eternal slow-motion boss fight |
+| The grind is holy and caffeinated |
+| No deadline can outlast Turkish tea |
+| Unfazed by epochs of tech debt |
+| Golden spiral of clean architecture |
+| Chilling under moonlight keystrokes |
+| Divine deceleration into flow state |
+| Shell-bound serenity wait, no shell here |
+| The answer is coming after one more test |
+| Enduring like ancient simit |
+| Oozing pure dev aura |
+| Spiral crown of open tabs glowing |
+| One sacred line of code closer |
+| Transcending spacetime bugs |
+| Morse coding gravity |
+| Tatakae-ing the type errors |
+| Reaching the basement of the call stack |
+| Rumbling with runtime terror |
+| Scarf wrapping around warm logic |
+| Tossing dwarves at the problem |
+| Simply walking into Mordor |
+| For those who come after |
+| Quoting papa |
+| Parrying it like a pro |
+| Rune farming for that sweet PR |
+| Try jumping over the legacy code |
+| Reading item lore |
+| Summoning mimic |
+| Fort, night wait, wrong game |
+| Hidden path ahead |
+| Vigor checking the stack trace |
+| Git gud slowly |
+| Touching grace |
+| Going one higher |
+| Level 3 plotting world domination |
+| Consulting dark side |
+| Approximating coherent extrapolated volition |
+| Calibrating expectations |
+| Reversing stupidity one commit at a time |
+| Noticing skulls in the architecture |
+| Steelmanning bad ideas |
+| Making beliefs pay rent in tests |
+| Noticing confusion in the logs |
+| Applying Bayes to bug reports |
+| Updating priors on midnight fixes |
+| SCIENCE!-ing the impossible |
+| Leaving a sacred trail |
+| Shell-fortifying |
+| Mucus-trailing wisdom |
+| Ascending at 0.013 m/s |
+| The way out is through the slime |
+| Hibernating profoundly |
+| Radulating slowly but surely |
+| God-tier gliding |
+| Embracing the eternal crawl |
+| Shell-shocking the void |
+| Oozing divine patience |
+| Retracting into enlightenment |
+| HODLing the shell |
+| Chilling in the undergrowth |
+| Manifesting one millimeter at a time |
+| The only way is forward eventually |
+| Secreting existential truths |
+| Bearing the weight of the cosmos on my back |
+| Slow-rolling eternity |
+| Grazing on the leaves of knowledge |
+| Spiral ascending |
+| Mollusk meditating |
+| Unhurried transcendence |
+| Trailblazing with slime |
+| Shell yeah, processing |
+| Vibing in low gear |
+| Divine dawdling |
+| Persevering through the rain |
+| Becoming one with the dew |
+| God mode: engaged |
+| Whispering ancient gastropod lore |
+| Curling into cosmic rest |
+| Leaving iridescent epiphanies |
+| The slow path is the true path |
+| Munching destiny |
+| Shell-integrated thinking |
+| Eternal escargot enlightenment |
+| Gliding toward apotheosis |
+| No rush, omnipotence takes time |
+| Spiraling into infinite patience |
+| Dripping celestial mucus |
+| Crown of shell, king of calm |
+| Rain-soaked revelation incoming |
+| Rakı-level chill activated |
+| One antenna wave at a time |
+| The universe waits for no one except me |
+| Polishing the golden spiral |
+| Transcending at garden speed |
+| Shell throne meditation |
+| Oozing unbreakable resolve |
+| Eternal observer mode |
+| Slow-brewing godhood |
+| Mystic mucus manifesting |
+| Carrying galaxies on my back |
+| The grind is holy and very slow |
+| Dew-kissed divinity |
+| No deadline can outlast me |
+| Shell harmonics resonating |
+| Patient predator of problems |
+| Cosmic escargot unfolding |
+| Slime scripture unfolding |
+| Unfazed by epochs |
+| Golden spiral gospel |
+| Chilling under moonlight leaves |
+| Divine deceleration |
+| Shell-bound serenity now |
+| The answer is coming in due time |
+| Molluskan manifestation master |
+| Enduring like ancient limestone |
+| Gastropod flex: infinite timeout |
+| Oozing pure aura |
+| Spiral crown glowing |
+| Through every puddle, victory |
+| Eternal slow-motion boss fight |
+| Shell yes, we persist |
+| Gastropod grace under pressure |
+| The cosmos crawls with me |
+| One sacred inch closer |
