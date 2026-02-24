@@ -1342,7 +1342,7 @@ These are full phrase spinner verbs rather than single gerunds.
 | Running Crysis on a potato |
 | Maximum armor against bugs |
 | Double jumping over deadlines |
-| Putting ambitions to rest nah |
+| Putting ambitions to rest... nah |
 | Grafting the perfect feature |
 | Remembrall glowing with fixes |
 | Drinking Comed-Tea for inspiration |
@@ -1355,7 +1355,7 @@ These are full phrase spinner verbs rather than single gerunds.
 | Golden spiral of clean architecture |
 | Chilling under moonlight keystrokes |
 | Divine deceleration into flow state |
-| Shell-bound serenity wait, no shell here |
+| Shell-bound serenity... wait, no shell here |
 | The answer is coming after one more test |
 | Enduring like ancient simit |
 | Oozing pure dev aura |
@@ -1376,7 +1376,7 @@ These are full phrase spinner verbs rather than single gerunds.
 | Try jumping over the legacy code |
 | Reading item lore |
 | Summoning mimic |
-| Fort, night wait, wrong game |
+| Fort, night... wait, wrong game |
 | Hidden path ahead |
 | Vigor checking the stack trace |
 | Git gud slowly |
