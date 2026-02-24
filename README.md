@@ -16,6 +16,13 @@ Add the following spinner verbs to my ~/.claude/settings.json using "mode": "app
 
 Claude Code will update your `settings.json` with the correct `spinnerVerbs` configuration.
 
+### Modes
+
+| Mode | Behavior |
+|------|----------|
+| `"append"` | Adds your custom verbs to the 185 built-in defaults |
+| `"replace"` | Uses only your custom verbs, ignoring all defaults |
+
 ---
 
 ## Built-in Default Verbs (185)
