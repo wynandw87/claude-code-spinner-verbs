@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,243 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,298 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,058 additional verbs** across 66 themed categories.
+**185 built-in defaults** + **1,113 additional verbs** across 67 themed categories.
 
 ## How to Add Verbs
 
@@ -1295,6 +1295,66 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Hype-train-riding |
 | Raid-hosting |
 | Stream-starting |
+
+### Catering (55)
+
+| Verb |
+|------|
+| Plating with precision |
+| Buffet line forming |
+| Chafing dish duty |
+| Tray-passing like a pro |
+| Napkin-folding into swans |
+| The garnish makes the dish |
+| Carving station open |
+| Menu planning in chaos |
+| Hors d'oeuvres incoming |
+| Portion control is a myth |
+| Ice sculpture melting slowly |
+| One more canapé won't hurt |
+| Centerpiece crisis averted |
+| Reheating with dignity |
+| Who ordered the vegan option |
+| Sterno cans blazing |
+| Table eight needs water |
+| Running out of shrimp |
+| Sneaking a crostini |
+| Silverware polishing |
+| Where's the head chef |
+| Mise en place or bust |
+| Warming the bread rolls |
+| Gravy boat launching |
+| Refilling the punch bowl |
+| Platter rearranging |
+| Someone double-dipped |
+| The dessert table is sacred |
+| Sneaking seconds |
+| Drizzling the balsamic |
+| Tent setup in progress |
+| Linens pressed and ready |
+| Chef's kiss |
+| Prepping 200 plates |
+| That's not gluten-free |
+| Finding more toothpicks |
+| Last call for appetizers |
+| Keeping it warm, somehow |
+| The risotto waits for no one |
+| Coordinating the courses |
+| Flambéing tableside |
+| One tray at a time |
+| Checking the dietary cards |
+| Fondant-smoothing |
+| Wedding cake on the move |
+| No one touches the cake yet |
+| Loading the food truck |
+| Cocktail hour extended |
+| The cheese board is art |
+| Cross-contamination? Never. |
+| Soup course imminent |
+| Fork on the left, always |
+| Bruschetta assembly line |
+| Trust the timeline |
+| Behind! Hot plates! |
 
 ### Custom Phrases - Dev Life & Gastropod Zen (170)
 
