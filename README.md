@@ -82,18 +82,18 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Llamaing |
-| Dolphining |
-| Ottering |
+| Llama spitting |
+| Dolphin clicking |
+| Otter sliding |
 | Squirreling |
 | Beavering |
-| Foxing |
-| Eagling |
-| Pandaring |
-| Kangarooing |
-| Meerkatting |
-| Slothing |
-| Otterpooling |
+| Fox pouncing |
+| Eagle soaring |
+| Panda rolling |
+| Kangaroo boxing |
+| Meerkat standing |
+| Sloth hanging |
+| Otter juggling |
 | Penguin-waddling |
 | Fox-trotting |
 | Cat-napping |
@@ -106,31 +106,32 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Spacewalking |
 | Zero-G-floating |
 | Mission-controlling |
-| Mars-rovering |
+| Mars rover driving |
 | Rocket-launching |
-| Liftoffing |
-| Houston-calling |
+| Lifting off |
+| Calling Houston |
 | Moon-landing |
-| Apollo-countdowning |
-| Hubble-staring |
-| Astronauting |
+| Apollo counting down |
+| Hubble gazing |
+| Astronaut orbiting |
 | Reentering |
 
 ### Disney / Pixar (11)
 
 | Verb |
 |------|
-| Hakuna-matata-ing |
+| Chanting Hakuna Matata |
 | Pixie-dusting |
-| Bibbidi-bobbidying |
-| Let-it-going |
-| Under-the-sea-ing |
-| Ohana-ing |
-| To-infinity-and-beyonding |
-| WALL-E-ing |
+| Glass slipper fitting |
+| Bibbidi bobbidi booing |
+| Belting Let It Go |
+| Dancing under the sea |
+| Embracing Ohana |
+| Launching to infinity |
+| WALL-E dancing |
 | Simba-roaring |
 | Genie-wishing |
-| Ratatouille-chefing |
+| Ratatouille cooking |
 
 ### Dune (13)
 
@@ -138,15 +139,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Spice-harvesting |
 | Sandworm-riding |
-| Bene-gesseriting |
-| Stillsuiting |
+| Bene Gesserit training |
+| Stillsuit sweating |
 | Weirding |
-| Sietching |
+| Sietch dwelling |
 | Crysknife-drawing |
 | Wormsign-spotting |
 | Melange-dreaming |
-| Kwisatz-haderaching |
-| Shai-hulud-calling |
+| Spice trancing |
+| Shai-Hulud summoning |
 | Voice-commanding |
 | Ornithopter-flapping |
 
@@ -161,11 +162,11 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Smoking |
 | Macerating |
 | Spherifying |
-| Sourdoughing |
-| Kombucha-ing |
+| Sourdough starting |
+| Kombucha brewing |
 | Canning |
 | Distilling |
-| Kimchi-ing |
+| Kimchi fermenting |
 | Dry-aging |
 | Aging |
 
@@ -191,16 +192,16 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Expelliarmusing |
-| Expecto-patronum-ing |
+| Expelliarmus casting |
+| Expecto Patronum summoning |
 | Potion-brewing |
-| Quidditch-ing |
+| Quidditch playing |
 | Wand-waving |
 | Horcrux-hunting |
-| Floo-powdering |
+| Floo powder traveling |
 | Snitch-catching |
-| Accio-ing |
-| Alohomora-ing |
+| Accio summoning |
+| Alohomora unlocking |
 | Marauding |
 | Howler-sending |
 | Boggart-banishing |
@@ -210,15 +211,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Shaken-not-stirring |
-| Q-branching |
-| Aston-martining |
-| Double-o-sevening |
+| Q branch tinkering |
+| Aston Martin driving |
+| Introducing 007 |
 | Goldfingering |
 | Bonding |
-| Tuxedoing |
-| One-liner-ing |
-| Casino-royaling |
-| Moneypenny-teasing |
+| Tuxedo strutting |
+| Dropping one liners |
+| Playing Casino Royale |
+| Moneypenny flirting |
 
 ### Lord of the Rings (13)
 
@@ -226,14 +227,14 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Second-breakfasting |
 | Ring-bearing |
-| Entmooting |
-| Shadowfaxing |
+| Ent mooting |
+| Shadowfax riding |
 | Palantir-peeking |
 | Lembas-munching |
 | Balrog-baiting |
 | Precious-hoarding |
 | Mithril-mining |
-| Gandalf-fireworking |
+| Gandalf sparking |
 | Nazgul-screeching |
 | Treebeard-muttering |
 | Shire-frolicking |
@@ -242,15 +243,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Distracted-boyfriending |
-| This-is-fine-ing |
+| Distracted glancing |
+| Sitting in fire |
 | Yeeting |
 | Dank-meming |
 | Galaxy-braining |
-| Press-F-ing |
-| Stonks-investing |
-| Among-us-ing |
-| Shrek-ing |
+| Pressing F |
+| Stonks rising |
+| Among Us sussing |
+| Ogre layering |
 | Drake-approving |
 | Spongebob-mocking |
 
@@ -267,11 +268,11 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Voguing |
 | Sampling |
 | Jamming |
-| Salsa-ing |
+| Salsa dancing |
 | Tangoing |
 | Rapping |
-| Djembe-ing |
-| Turntabling |
+| Djembe drumming |
+| Turntable scratching |
 | Two-stepping |
 | Moonstomping |
 
@@ -323,7 +324,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Bouldering |
 | Parkouring |
 | Skydiving |
-| Bungeeing |
+| Bungee jumping |
 | Freeclimbing |
 | Polevaulting |
 | Kayaking |
@@ -331,7 +332,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Slacklining |
 | Rock-climbing |
 | Shadowboxing |
-| Yoga-ing |
+| Yoga posing |
 | Trampolining |
 
 ### Star Trek (14)
@@ -342,15 +343,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Beaming-up |
 | Boldly-going |
 | Mind-melding |
-| Holodecking |
-| Tricordering |
+| Holodeck simulating |
+| Tricorder scanning |
 | Redshirting |
 | Assimilating |
-| Tribbling |
-| Vulcan-nerving |
+| Tribble breeding |
+| Vulcan nerve pinching |
 | Red-alerting |
-| Kobayashi-maru-ing |
-| Prime-directiving |
+| Cheating Kobayashi |
+| Prime Directive following |
 | Replicating |
 
 ### Star Wars (12)
@@ -374,17 +375,17 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Upside-downing |
+| Upside down exploring |
 | Mind-flaying |
-| Eggo-waffling |
+| Eating Eggos |
 | Demogorgon-dodging |
-| Vecna-cursing |
-| Scoops-ahoying |
-| Starcourt-malling |
-| Hellfire-clubbing |
+| Fleeing Vecna |
+| Scooping cones |
+| Mall raiding |
+| Hellfire Club rolling |
 | Christmas-lighting |
-| Hawkins-labing |
-| D&D-ing |
+| Gate portaling |
+| D&D campaigning |
 
 ### Tech / Programming (14)
 
@@ -409,18 +410,18 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| That's-what-she-said-ing |
+| Dropping innuendos |
 | Chili-spilling |
-| Dwight-schruting |
+| Assistant managing |
 | Stapler-jello-ing |
 | Prison-miking |
 | Beet-farming |
 | Jim-pranking |
-| Dunder-mifflining |
-| Kevin-math-ing |
-| Threat-level-midnighting |
+| Shuffling paper |
+| Botching math |
+| Midnight screening |
 | Dundie-awarding |
-| Stanley-pretzeling |
+| Snatching pretzels |
 
 ### Whimsical (20)
 
@@ -428,7 +429,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Giggling |
 | Daydreaming |
-| Whimsying |
+| Whimsy whirling |
 | Twinkling |
 | Bouncing |
 | Hopscotching |
@@ -441,24 +442,24 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Glimmering |
 | Sparkling |
 | Jesting |
-| Doodad-ing |
+| Doodad fiddling |
 | Stargazing |
 | Galumphing |
 | Bamboozling |
-| Discoballing |
+| Disco ball grooving |
 
 ### Marvel / MCU
 
 | Verb |
 |------|
 | Hulk-smashing |
-| Wakanda-forevering |
+| Wakanda forever chanting |
 | Assembling |
 | Web-slinging |
 | Thanos-snapping |
 | Thor-hammering |
-| Infinity-stoning |
-| Arc-reactoring |
+| Infinity Stone wielding |
+| Arc reactor powering |
 | Vibranium-forging |
 | Multiverse-hopping |
 | Bifrost-bridging |
@@ -469,32 +470,32 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Gotham-ing |
-| Batmanning |
-| Kryptoniting |
+| Gotham patrolling |
+| Bat signaling |
+| Kryptonite dodging |
 | Speed-forcing |
 | Truth-lassoing |
 | Dark-knighting |
-| Justice-leaguing |
+| Justice League assembling |
 | Joker-laughing |
 | Boom-tubing |
-| Wonder-womaning |
+| Wonder Woman bracing |
 | Lantern-powering |
 
 ### Doctor Who
 
 | Verb |
 |------|
-| Tardis-ing |
+| TARDIS flying |
 | Regenerating |
 | Exterminating |
 | Sonic-screwdriving |
-| Timey-wimey-ing |
-| Allons-y-ing |
-| Dalek-rolling |
-| Weeping-angeling |
+| Timey-wimey traveling |
+| Allons-y charging |
+| Dalek invading |
+| Weeping Angel staring |
 | Companion-collecting |
-| Bigger-on-the-insiding |
+| TARDIS expanding |
 
 ### The Matrix
 
@@ -508,7 +509,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Neo-dodging |
 | Kung-fu-loading |
 | Code-raining |
-| There-is-no-spooning |
+| Denying spoons |
 | Jacking-in |
 | Reality-bending |
 
@@ -518,27 +519,27 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Flux-capacitating |
 | Time-traveling |
-| DeLorean-ing |
-| Great-scotting |
+| Jumping timelines |
+| Exclaiming Great Scott |
 | Hoverboarding |
-| 88-mph-ing |
+| Hitting 88mph |
 | Clock-towering |
-| Marty-mcflying |
-| Doc-browning |
+| Hoverboard shredding |
+| Harnessing lightning |
 | Gigawatt-charging |
 
 ### Jurassic Park
 
 | Verb |
 |------|
-| Velociraptoring |
-| Life-finds-a-waying |
+| Stalking raptors |
+| Life finding a way |
 | T-Rex-roaring |
-| Dino-DNA-ing |
-| Chaos-theorying |
-| Clever-girl-ing |
+| Cloning dinos |
+| Pondering chaos theory |
+| Outsmarting raptors |
 | Amber-extracting |
-| Spare-no-expensing |
+| Sparing no expense |
 | Raptor-pack-hunting |
 | Island-escaping |
 
@@ -546,16 +547,16 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Pikachu-ing |
+| Pikachu shocking |
 | Evolving |
 | Pokeball-throwing |
-| Gotta-catch-em-alling |
+| Catchin' em all |
 | Gym-battling |
 | Shiny-hunting |
-| Team-rocketing |
-| Pokedexing |
+| Team Rocket blasting |
+| Pokedex scanning |
 | Thunderbolting |
-| Master-balling |
+| Master Ball throwing |
 | Type-matching |
 
 ### Mario / Nintendo
@@ -567,20 +568,20 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Star-powering |
 | Goomba-stomping |
 | Coin-collecting |
-| Fire-flowering |
+| Fire flower shooting |
 | Princess-rescuing |
 | Kart-racing |
-| 1-up-ing |
+| 1-up collecting |
 | Yoshi-riding |
-| Koopa-shelling |
+| Koopa shell tossing |
 
 ### Minecraft
 
 | Verb |
 |------|
-| Creepering |
-| Redstoning |
-| Endermanning |
+| Creeper sneaking |
+| Redstone wiring |
+| Ender teleporting |
 | Block-placing |
 | Diamond-mining |
 | Nether-portaling |
@@ -601,22 +602,22 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Dead-parroting |
 | Coconut-clopping |
 | French-taunting |
-| Spanish-inquisitioning |
+| Nobody expecting |
 | Black-knight-fighting |
 | Lumberjack-singing |
-| Fetchez-la-vache-ing |
+| Catapulting cows |
 
 ### Studio Ghibli
 
 | Verb |
 |------|
-| Totoro-ing |
+| Totoro waiting |
 | Spiriting-away |
-| Catbussing |
-| Howl-castling |
+| Riding catbus |
+| Moving castle |
 | Calcifer-burning |
 | Kiki-delivering |
-| Soot-spriting |
+| Soot sprite scattering |
 | Ponyo-splashing |
 | Nausicaa-gliding |
 | Laputa-floating |
@@ -640,14 +641,14 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Entangling |
-| Superpositing |
+| Superposition juggling |
 | Collapsing |
 | Tunneling |
 | Schrödinger-catting |
 | Qubit-flipping |
 | Decohering |
-| Wavefunctioning |
-| Uncertainty-principling |
+| Wavefunction evolving |
+| Uncertainty hedging |
 | Vacuum-fluctuating |
 | Spin-flipping |
 
@@ -655,7 +656,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Mitosis-ing |
+| Mitosis doubling |
 | Mutating |
 | Natural-selecting |
 | DNA-sequencing |
@@ -663,7 +664,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Speciating |
 | Adapting |
 | CRISPR-editing |
-| Meiosis-ing |
+| Meiosis halving |
 | Recombining |
 | Phenotype-shifting |
 
@@ -671,15 +672,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Supernova-ing |
-| Black-holing |
+| Supernova blazing |
+| Black hole warping |
 | Redshifting |
 | Pulsar-pulsing |
 | Quasar-blazing |
 | Exoplanet-hunting |
 | Constellation-mapping |
 | Gravitational-lensing |
-| Meteor-showering |
+| Meteor streaking |
 | Comet-trailing |
 
 ### Mathematics
@@ -688,10 +689,10 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Deriving |
 | Integrating |
-| Proof-by-inducting |
+| Induction proving |
 | Factorizing |
-| Eigenvaluing |
-| Fractaling |
+| Eigenvalue hunting |
+| Fractal zooming |
 | Fourier-transforming |
 | Matrix-multiplying |
 | Vectorizing |
@@ -702,7 +703,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Tectonicing |
+| Tectonic shifting |
 | Eroding |
 | Fossilizing |
 | Subducting |
@@ -735,12 +736,12 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Mummifying |
-| Pharaoh-ing |
-| Hieroglyphing |
+| Pharaoh ruling |
+| Hieroglyph carving |
 | Pyramid-building |
 | Nile-flooding |
 | Scarab-rolling |
-| Ankh-holding |
+| Ankh wielding |
 | Sphinx-riddling |
 | Papyrus-scrolling |
 | Ra-worshipping |
@@ -752,14 +753,14 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Toga-partying |
 | Philosophizing |
-| Spartaning |
-| Gladiatoring |
+| Spartan drilling |
+| Gladiator thrusting |
 | Chariot-racing |
 | Senate-debating |
 | Oracle-consulting |
 | Laurel-wreathing |
 | Trojan-horsing |
-| Aquaducting |
+| Aqueduct channeling |
 | Olympic-gaming |
 
 ### Viking / Norse
@@ -768,11 +769,11 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Pillaging |
 | Berserking |
-| Valhalla-ing |
+| Valhalla calling |
 | Longship-rowing |
 | Rune-carving |
 | Shield-walling |
-| Mead-halling |
+| Mead hall toasting |
 | Saga-telling |
 | Axe-throwing |
 | Ragnarok-prepping |
@@ -783,26 +784,26 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Jousting |
-| Drawbridge-ing |
+| Drawbridge lowering |
 | Dragon-slaying |
 | Castle-sieging |
 | Sword-swinging |
 | Chainmail-clanking |
 | Quest-embarking |
 | Round-tabling |
-| Chivalry-ing |
+| Chivalry upholding |
 | Armor-donning |
 
 ### Samurai / Japanese
 
 | Verb |
 |------|
-| Bushido-ing |
-| Sensei-ing |
-| Origami-ing |
+| Bushido honoring |
+| Sensei bowing |
+| Origami folding |
 | Katana-drawing |
 | Haiku-writing |
-| Tea-ceremoning |
+| Tea ceremony pouring |
 | Zen-meditating |
 | Dojo-training |
 | Cherry-blossoming |
@@ -830,14 +831,14 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Lasso-ing |
-| Tumbleweeding |
-| Showdowning |
+| Tumbleweed rolling |
+| Facing a showdown |
 | Quick-drawing |
 | Saloon-swinging |
 | Gold-rushing |
 | Cattle-driving |
 | Spur-jingling |
-| Wanted-poster-ing |
+| Wanted poster nailing |
 | Campfire-storying |
 | Revolver-spinning |
 
@@ -846,15 +847,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Haberdashing |
-| Clockworking |
+| Clockwork tinkering |
 | Monocle-adjusting |
 | Airship-sailing |
 | Gear-turning |
-| Cogwheeling |
+| Cogwheel turning |
 | Brass-polishing |
-| Top-hatting |
+| Top hat tipping |
 | Steam-hissing |
-| Goggle-wearing |
+| Goggles adjusting |
 | Automaton-winding |
 
 ### Prohibition Era
@@ -862,15 +863,15 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Bootlegging |
-| Speakeasy-ing |
-| Charleston-ing |
+| Speakeasy sneaking |
+| Charleston dancing |
 | Moonshining |
 | Tommy-gunning |
-| Bathtub-ginning |
+| Bathtub gin brewing |
 | G-man-dodging |
 | Jazz-clubbing |
-| Flapper-fringeing |
-| Gatsby-glamouring |
+| Flapper dancing |
+| Gatsby partying |
 | Fedora-tilting |
 
 ### 1960s Hippie
@@ -880,12 +881,12 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Tie-dyeing |
 | Peace-signing |
 | Flower-powering |
-| Woodstocking |
-| Groovy-ing |
+| Woodstock jamming |
+| Grooving out |
 | Incense-burning |
 | Guitar-strumming |
 | Mind-expanding |
-| Lava-lamping |
+| Lava lamp glowing |
 | VW-bus-driving |
 | Mantra-chanting |
 
@@ -893,32 +894,32 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Synthwaving |
+| Synthwave grooving |
 | Neon-glowing |
-| Boomboxing |
+| Boombox blasting |
 | Mixtape-making |
 | Arcade-mashing |
 | VHS-rewinding |
-| Power-ballading |
-| Rubik-solving |
+| Power ballad belting |
+| Solving Rubik's |
 | Perming |
-| High-topping |
+| High top lacing |
 | Cassette-rewinding |
 
 ### 1990s Nostalgia
 
 | Verb |
 |------|
-| Tamagotchi-ing |
+| Tamagotchi feeding |
 | Dial-upping |
 | Pog-slamming |
 | AOL-chatting |
 | Blockbuster-browsing |
 | Grunge-rocking |
 | Rollerblading |
-| Furby-talking |
+| Furby chattering |
 | Scrunchie-wearing |
-| Slap-braceleting |
+| Slap bracelet snapping |
 | Y2K-panicking |
 
 ### Detective / Noir
@@ -927,9 +928,9 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Sleuthing |
 | Magnifying |
-| Whodunit-ing |
+| Whodunit solving |
 | Case-cracking |
-| Stakeout-ing |
+| Staking out |
 | Clue-connecting |
 | Interrogating |
 | Shadow-tailing |
@@ -947,7 +948,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Dead-dropping |
 | Wiretapping |
 | Safecracking |
-| Double-agenting |
+| Double crossing |
 | Exfiltrating |
 | Disguise-donning |
 | Microfilm-swapping |
@@ -957,14 +958,14 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Trapeze-ing |
+| Trapeze swinging |
 | Tightrope-walking |
 | Ringmastering |
 | Lion-taming |
 | Clowning |
 | Fire-breathing |
 | Human-cannonballing |
-| Cotton-candying |
+| Cotton candy spinning |
 | Plate-spinning |
 | Popcorn-popping |
 | Carousel-spinning |
@@ -975,10 +976,10 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Barrel-rolling |
 | Autopiloting |
-| Mach-speeding |
+| Mach breaking |
 | Dogfighting |
 | Wing-waggling |
-| Loop-looping |
+| Loop de looping |
 | Red-baroning |
 | Formation-flying |
 | Afterburner-thrusting |
@@ -997,7 +998,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Silent-running |
 | Bioluminescing |
 | Depth-charging |
-| Bathysphere-ing |
+| Bathysphere descending |
 | Nautilus-diving |
 | Kraken-wrestling |
 
@@ -1013,7 +1014,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Whip-snapping |
 | Temple-unearthing |
 | Relic-deciphering |
-| Stratigraphy-ing |
+| Stratigraphy layering |
 | Sherd-sorting |
 
 ### Firefighter
@@ -1036,8 +1037,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Monsoon-ing |
-| Tornado-ing |
+| Monsoon raging |
+| Tornado twisting |
 | Lightning-striking |
 | Thunder-rumbling |
 | Hurricane-eyeing |
@@ -1053,16 +1054,16 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Whale-singing |
-| Coral-reefing |
+| Reef building |
 | Tide-pooling |
 | Dolphin-leaping |
 | Shark-circling |
 | Octopus-inking |
-| Kelp-foresting |
+| Kelp swaying |
 | Wave-crashing |
 | Plankton-drifting |
 | Seashell-collecting |
-| Seafoaming |
+| Sea foam bubbling |
 
 ### Volcanic
 
@@ -1070,25 +1071,25 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Erupting |
 | Lava-flowing |
-| Magma-chambering |
-| Ash-clouding |
-| Pyroclastic-flowing |
+| Magma rising |
+| Ash cloud billowing |
+| Pyroclastic surging |
 | Caldera-collapsing |
 | Pumice-floating |
 | Fumarole-smoking |
 | Tephra-raining |
-| Pompeii-burying |
+| Burying Pompeii |
 | Basalt-cooling |
 
 ### Arctic / Polar
 
 | Verb |
 |------|
-| Iceberging |
+| Iceberg calving |
 | Blizzarding |
-| Aurora-borealis-ing |
+| Aurora dancing |
 | Husky-mushing |
-| Permafrosting |
+| Permafrost freezing |
 | Igloo-building |
 | Ice-fishing |
 | Polar-bear-prowling |
@@ -1118,12 +1119,12 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 |------|
 | Hive-minding |
 | Waggle-dancing |
-| Queen-bee-ing |
+| Queen bee reigning |
 | Nectar-sipping |
 | Pollen-packing |
 | Honey-making |
 | Honeycomb-building |
-| Royal-jellying |
+| Royal jelly feeding |
 | Propolis-patching |
 | Drone-drifting |
 | Stinger-flexing |
@@ -1152,10 +1153,10 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Latte-arting |
 | French-pressing |
 | Bean-grinding |
-| Pour-overing |
+| Pour over brewing |
 | Milk-steaming |
 | Cold-brewing |
-| Aeropressing |
+| Aeropress extracting |
 | Cupping |
 | Shot-tamping |
 | Dose-weighing |
@@ -1179,8 +1180,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Checkmate-ing |
-| Yahtzee-ing |
+| Checkmate calling |
+| Yahtzee rolling |
 | Uno-reversing |
 | Dice-rolling |
 | Meeple-moving |
@@ -1195,8 +1196,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Campfiring |
-| Marshmallowing |
+| Campfire crackling |
+| Marshmallow roasting |
 | Trail-blazing |
 | Tent-pitching |
 | S'mores-toasting |
@@ -1211,9 +1212,9 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Aperturing |
-| Long-exposuring |
-| Golden-houring |
+| Aperture tweaking |
+| Long exposing |
+| Golden hour chasing |
 | Shutter-clicking |
 | Lens-focusing |
 | Bokeh-blurring |
@@ -1243,9 +1244,9 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Ultraviolet-ing |
-| Iridescencing |
-| Prism-ing |
+| Ultraviolet glowing |
+| Iridescent shimmering |
+| Prism refracting |
 | Hue-shifting |
 | Chromatic-blooming |
 | Spectrum-singing |
@@ -1260,8 +1261,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Doom-swiping |
-| Going-viral-ing |
-| Algorithm-ing |
+| Going viral |
+| Algorithm gaming |
 | Hashtagging |
 | DM-sliding |
 | Clout-chasing |
@@ -1275,9 +1276,9 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 | Verb |
 |------|
-| Pac-manning |
-| Tetris-ing |
-| Konami-coding |
+| Pac-Man chomping |
+| Tetris stacking |
+| Konami code entering |
 | Cartridge-blowing |
 | Coin-inserting |
 | Joystick-waggling |
@@ -1292,7 +1293,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Verb |
 |------|
 | Rage-quitting |
-| GG-ing |
+| Calling GG |
 | Chat-moderating |
 | Sub-gifting |
 | Emote-spamming |
