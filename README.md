@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,359 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,439 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,174 additional verbs** across 68 themed categories.
+**185 built-in defaults** + **1,254 additional verbs** across 69 themed categories.
 
 ## How to Add Verbs
 
@@ -1540,6 +1540,93 @@ These are full phrase spinner verbs rather than single gerunds.
 | Gastropod grace under pressure |
 | The cosmos crawls with me |
 | One sacred inch closer |
+
+### Custom Phrases - Mission Control / Space Launch (80)
+
+Space ops drama meets software development.
+
+| Verb |
+|------|
+| T-minus deployment |
+| Go for launch on main |
+| We have liftoff on the build |
+| Ignition sequence start for the build |
+| Clearing the tower for release |
+| Main engine start, build igniting |
+| Pre-flight checks on dependencies |
+| Running preflight checks on PRs |
+| Fueling up the dependency tank |
+| Uploading flight plan to the repo |
+| Holding at T-minus for review |
+| T-minus npm install |
+| All systems nominal... probably |
+| Passing through max-Q |
+| Booster separation confirmed |
+| Telemetry looks good from here |
+| Entering the deployment window |
+| Copy that, deploying payload |
+| Mission elapsed time unknown |
+| Orbit achieved, tests are green |
+| The build is in a stable orbit |
+| Entering warp speed for compilation |
+| Max Q, peak CPU usage |
+| Fairing separation, lint complete |
+| Ion thrusters, code optimizing |
+| Spinning up nav for the next sprint |
+| Computing burn vector for hotfix |
+| Houston, we have a merge conflict |
+| Houston, we have a memory leak |
+| Houston, requesting permission to push |
+| Ground control to major refactor |
+| Flight, we are go for commit |
+| Downrange tracking, logs incoming |
+| Acquiring signal from the test suite |
+| Establishing a secure comm link with the API |
+| Searching for life in the log files |
+| Uplink PR diffs |
+| Checking comms on the API link |
+| Initiating docking sequence with upstream |
+| Rendezvous with main branch |
+| Rendezvous with the staging environment |
+| Capturing the capsule with code review |
+| Synchronizing primary and backup databases |
+| Synchronizing clocks with NTP and git |
+| Abort abort abort... never mind |
+| Go no-go for rebase |
+| Correcting trajectory with a quick rebase |
+| Performing a trajectory correction on the roadmap |
+| Aligning guidance with lint rules |
+| Activating the debug thrusters |
+| Holding attitude while cache warms up |
+| Commencing payload separation into microservices |
+| Deploying the lunar module to a new branch |
+| Staging the payload in production |
+| Cycling the airlock on feature flags |
+| Jettisoning debug logs at altitude |
+| Reentry is always the hard part |
+| Initiating a controlled descent into production |
+| Preparing for reentry, cross your fingers |
+| Deorbit burn for rollback |
+| Patching the heat shield for prod |
+| Parachute deploy, graceful degrade |
+| Touchdown on prod server |
+| Post-flight debug underway |
+| Running diagnostics on the core components |
+| Core stage, core dumps analyzed |
+| Range safety, circuit breaker |
+| Navigating the asteroid field of deprecated libraries |
+| Monitoring cabin pressure in containers |
+| Aligning the orbital parameters for the database |
+| Avionics bay, refactoring modules |
+| One small step for the codebase |
+| The eagle has merged |
+| Houston, dependency injected |
+| Go for orbital commit |
+| Engaging autopilot on the deploy script |
+| Engaging the autopilot for code review |
+| Next launch window polling |
+| Clearing tower for git push |
+| Igniting engines on the CI stack |
 
 ### Custom Phrases - Existential Developer (61)
 
