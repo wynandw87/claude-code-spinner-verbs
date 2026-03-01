@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,519 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,590 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,334 additional verbs** across 70 themed categories.
+**185 built-in defaults** + **1,405 additional verbs** across 71 themed categories.
 
 ## How to Add Verbs
 
@@ -1782,3 +1782,81 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Build bash blender |
 | Lint limp lasagne |
 | Fork fiasco frozen |
+
+### Custom Phrases - Noir Detective (71)
+
+Hard-boiled debugging — film noir meets software development.
+
+| Verb |
+|------|
+| The logs told a different story |
+| Following the stack trace downtown |
+| This bug had an alibi |
+| The function was a dead end |
+| Someone left a null in the alley |
+| The debugger never lies |
+| Every variable has a past |
+| I've seen cleaner code in a dumpster |
+| The exception came in from the cold |
+| Two threads walked into a deadlock |
+| The commit history don't add up |
+| She had errors in all the right places |
+| Nobody leaves production clean |
+| This recursion goes deeper than I thought |
+| The memory leak started at midnight |
+| Trust nobody, especially the tests |
+| I've been chasing this pointer for days |
+| The dependency was hiding in plain sight |
+| Rain on the terminal window |
+| Another night, another nil |
+| Stakeout on the garbage collector |
+| Promises colder than the rain |
+| Shady inheritance in the class |
+| Neon glow on console errors |
+| Regex with a criminal record |
+| Hotfix was the smoking gun |
+| Iterator spilled all the beans |
+| Deprecated shadow in the code |
+| Race condition in the mist |
+| Profiling dim-lit suspects |
+| Router hid a dirty secret |
+| Merge conflict at midnight |
+| Floating point double-cross |
+| Coroutine vanished in fog |
+| Ciphertext cracked open |
+| Payload dropped in shadows |
+| Breach lit by terminal rain |
+| The build was rigged from the start |
+| This API had a shady reputation |
+| The latency was a real killer |
+| Authenticating the alibi |
+| Refactoring the crooked logic |
+| The firewall was a brick wall |
+| Chasing a phantom reference |
+| The cache, a dame with a short memory |
+| Debugging by the pale moonlight |
+| Another case, another corrupted file |
+| The client was a known liar |
+| Parsing the confession |
+| This endpoint leads to nowhere |
+| Digging up ancient commit messages |
+| Decrypting the server's whispers |
+| Compiling the case notes |
+| Shaking down the service for answers |
+| The casefile was full of edge cases |
+| A shadow moved in the heap |
+| That loop was running a racket |
+| The build went missing after dark |
+| Interrogating the flaky test witness |
+| The pipeline sang like a cheap violin |
+| I tailed the bug through old commits |
+| The UI wore a perfect mask |
+| Someone tampered with the config |
+| The profiler lit a cigarette and talked |
+| A dirty flag in a clean suit |
+| The API squealed under pressure |
+| This patch smells like trouble |
+| The server hummed a guilty tune |
+| Another clue in the core dump |
+| Grepping the streets for a clue |
+| The cache was lying to my face |
