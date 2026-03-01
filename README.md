@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,439 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,519 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,254 additional verbs** across 69 themed categories.
+**185 built-in defaults** + **1,334 additional verbs** across 70 themed categories.
 
 ## How to Add Verbs
 
@@ -1695,3 +1695,90 @@ Philosophical musings about the craft of software development.
 | The logs know more than we admit |
 | There is no done, only deployed |
 | All pull requests seek forgiveness, not approval |
+
+### Custom Phrases - Kitchen Nightmares (80)
+
+Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
+
+| Verb |
+|------|
+| It's raw... the data |
+| Where's the error sauce |
+| Finally, some good clean code |
+| This code is frozen, not fresh |
+| Shut it down, shut it all down |
+| You call this a function |
+| The deployment is burnt to a crisp |
+| Get out of my kitchen terminal |
+| Two deploys, one pan |
+| The code has no seasoning |
+| Beautifully plated, zero flavor |
+| Back to basics, back to main |
+| That merge was undercooked |
+| An idiot sandwich of dependencies |
+| Taste it before you ship it |
+| The pipeline is stone cold |
+| This repo is a dumpster fire |
+| Lamb sauce not found, 404 |
+| One star, would not deploy again |
+| Absolute donkey of an algorithm |
+| What are you even deploying? |
+| Too many cooks in the code |
+| Cross-contamination in the branches |
+| Microwaving that pull request |
+| Prepping the database for disaster |
+| Service! The server is down! |
+| This module is absolute rubbish! |
+| Compile it properly, you muppet! |
+| Out of the frying pan, into production |
+| Following a broken recipe for success |
+| Expired dependencies in the package |
+| The refactor heat is on |
+| What a mess of a codebase! |
+| I'm walking out on this repository |
+| The documentation is bone dry |
+| Need a fresh install, not this muck |
+| Throw it in the code sink! |
+| You've ruined the entire API! |
+| Pull the fire alarm on this feature |
+| Ready for deployment, chef? |
+| Reheating last night's commits |
+| Plating the patch with precision |
+| Whisking tests until they pass |
+| Simmering the build on low heat |
+| Chopping legacy code into bits |
+| Deglazing logs for real errors |
+| Refactoring like a proper brigade |
+| Proofing the release in staging |
+| Scraping the pan of tech debt |
+| Garnishing the UI with sanity |
+| Basting the API with retries |
+| Cleaning the grease off the stacktrace |
+| Portioning memory before it spills |
+| Sending the bugs back to the pass |
+| Seasoning the config to taste |
+| Turning down the heat on prod |
+| Sharpening knives and lint rules |
+| Tossing spaghetti code in the bin |
+| Flambéing flaky tests into ash |
+| Running the kitchen, CI on time |
+| Infinite loop linguine |
+| Memory leak meatloaf |
+| Null nightmare entrée |
+| Off-by-one onions |
+| Janky JavaScript jam |
+| Lazy loading lettuce |
+| Handler hell heating |
+| Feature flag fumble |
+| Stack smash stew |
+| Thread thrashing tripe |
+| Runtime rage rising |
+| Query quicker, donut |
+| Schema searing sins |
+| Prop parsing putrid |
+| State slicing shoddy |
+| Hook horror show |
+| Cache congealed cold |
+| Build bash blender |
+| Lint limp lasagne |
+| Fork fiasco frozen |
