@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,298 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,359 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,113 additional verbs** across 67 themed categories.
+**185 built-in defaults** + **1,174 additional verbs** across 68 themed categories.
 
 ## How to Add Verbs
 
@@ -1540,3 +1540,71 @@ These are full phrase spinner verbs rather than single gerunds.
 | Gastropod grace under pressure |
 | The cosmos crawls with me |
 | One sacred inch closer |
+
+### Custom Phrases - Existential Developer (61)
+
+Philosophical musings about the craft of software development.
+
+| Verb |
+|------|
+| To ship or not to ship |
+| Every bug was once a feature |
+| The code compiles but at what cost |
+| We are all just functions awaiting our callback |
+| Nothing is permanent except technical debt |
+| The real bug was inside us all along |
+| What if the tests are testing us |
+| I think therefore I refactor |
+| To understand recursion, first understand yourself |
+| The code works and nobody knows why |
+| Existence precedes deployment |
+| We debug therefore we are |
+| The unexamined code is not worth shipping |
+| All abstractions are leaky, all code is temporary |
+| Is it a feature or a cry for help |
+| The void returns nothing, as expected |
+| Every commit is a promise to your future self |
+| Between keystrokes, eternity |
+| The backlog stares back |
+| Every merge conflict is a dialogue with the past |
+| The compiler forgives no sins |
+| Race conditions defy fate |
+| The halting problem mocks us |
+| Garbage collector reaps the unworthy |
+| Infinite recursion mirrors the soul |
+| Stack traces reveal hidden truths |
+| Legacy haunts every refactor |
+| Algorithms ponder their creators |
+| Pull requests beg for mercy |
+| Hotfixes mend fractured realities |
+| The build succeeded, but did we truly win |
+| We chase ghosts in the machine |
+| A segmentation fault, a crisis of being |
+| What is truth, if not a passed test |
+| Is the bug a choice or a destiny |
+| The null pointer whispers sweet nothings |
+| To deploy is to surrender control |
+| Do we write code, or does code write us |
+| The cursor blinks, questioning our purpose |
+| The infinite loop, a mirror of eternity |
+| The blank screen, an infinite possibility |
+| Shipping is a leap into the unknown |
+| We commit, therefore we doubt |
+| The build passes, yet meaning fails |
+| In the beginning, there was a TODO |
+| Each refactor erases a former self |
+| The simplest solution hides the deepest pain |
+| We chase edge cases to feel alive |
+| The spec is vague; so are we |
+| In production, all truths are provisional |
+| The debugger reveals, but never consoles |
+| What is a variable but borrowed certainty |
+| Every architecture is a bet against time |
+| The dependency graph mirrors our entanglements |
+| We name things to postpone the chaos |
+| The null is patient; it waits everywhere |
+| Your API reflects your inner boundaries |
+| If it works, it will be rewritten |
+| The logs know more than we admit |
+| There is no done, only deployed |
+| All pull requests seek forgiveness, not approval |
