@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,590 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,670 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,405 additional verbs** across 71 themed categories.
+**185 built-in defaults** + **1,485 additional verbs** across 72 themed categories.
 
 ## How to Add Verbs
 
@@ -1860,3 +1860,90 @@ Hard-boiled debugging — film noir meets software development.
 | Another clue in the core dump |
 | Grepping the streets for a clue |
 | The cache was lying to my face |
+
+### Custom Phrases - Motivational Poster (80)
+
+Inspirational quotes that went through a code review — slightly off, deeply developer.
+
+| Verb |
+|------|
+| Believe in your build pipeline |
+| Every deploy is a leap of faith |
+| You miss 100% of the commits you don't push |
+| Dream big, compile bigger |
+| Shoot for the moon, land in a stack trace |
+| The journey of a thousand lines begins with a single commit |
+| Be the senior dev you wish you had |
+| Fall seven times, rebase eight |
+| What doesn't kill your build makes it stronger |
+| Today is a good day to ship |
+| Stars can't shine without a little downtime |
+| Your potential is as unlimited as your recursion |
+| Courage is pushing to main on a Friday |
+| Success is just failure that hasn't crashed yet |
+| The best time to refactor was yesterday |
+| Keep calm and clear the cache |
+| Fortune favors the bold deploy |
+| Impossible is just an untested edge case |
+| Every expert was once a junior dev |
+| Growth happens outside your comfort zone... and in production |
+| Grit your teeth and git push |
+| Bugs don't quit, neither do you |
+| Deploy today, celebrate tomorrow |
+| Refactor your reality |
+| Merge conflicts conquer all |
+| Test like you mean it |
+| Cache in the wins |
+| Lint your legacy |
+| Branch out boldly |
+| Squash fears with commits |
+| Pipeline to perfection |
+| Dockerize determination |
+| Kubernetes conquers chaos |
+| Fail fast, learn faster |
+| Code clean, sleep sound |
+| PRs pave paradise |
+| Hotfixes heal all |
+| Rollouts rock worlds |
+| Scale to success |
+| Cloudward bound |
+| Never give up on the debugger |
+| Embrace the merge conflict |
+| Find your why in the logs |
+| Success is a well-documented API |
+| Love your code, but test it harder |
+| Don't stop until the linter is green |
+| The future belongs to clean code |
+| Small commits, big features |
+| Your code is stronger than its worst bug |
+| If you can dream it, containerize it |
+| Every push is a new beginning |
+| Be the change in the codebase |
+| Progress over perfection, pass all tests |
+| Learn from production, live for refactor |
+| Difficult merges lead to stable features |
+| Inspire with clean commit history |
+| Work smarter, write more unit tests |
+| Believe you can fix it |
+| Keep your dependencies fresh |
+| Prevent bugs with more tests |
+| Keep your chin up and your logs verbose |
+| Greatness begins at the first TODO |
+| Be fearless; your tests have your back |
+| Trust the process... then add retries |
+| Stay humble; even prod is just staging |
+| When in doubt, document like it's a feature |
+| Embrace uncertainty; ship behind a flag |
+| Let your dreams be typed and your errors caught |
+| Success is 99% persistence, 1% pagination |
+| Your future self will thank your commit messages |
+| Aim high; settle for reproducible builds |
+| Make today count; increment the version |
+| Turn setbacks into postmortems with action items |
+| Be the light that lints the darkness |
+| Keep going; your breakpoint is near |
+| Dare to be different; rename that variable |
+| Hope is not a strategy; neither is hardcoding |
+| Believe in yourself like CI believes in failing |
+| Small steps; large diffs are still steps |
+| Progress is one more green checkmark |
