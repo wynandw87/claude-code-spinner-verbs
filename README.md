@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,670 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,744 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,485 additional verbs** across 72 themed categories.
+**185 built-in defaults** + **1,559 additional verbs** across 73 themed categories.
 
 ## How to Add Verbs
 
@@ -1947,3 +1947,84 @@ Inspirational quotes that went through a code review — slightly off, deeply de
 | Believe in yourself like CI believes in failing |
 | Small steps; large diffs are still steps |
 | Progress is one more green checkmark |
+
+### Custom Phrases - Museum Tour Guide (74)
+
+Narrating legacy code — a museum docent walks you through the relics of an old codebase.
+
+| Verb |
+|------|
+| And here we see early jQuery, circa 2012 |
+| Notice the elegant spaghetti of this era |
+| Please do not touch the deprecated methods |
+| This artifact dates back to the first sprint |
+| Observe the fossilized TODO comments |
+| A rare example of pre-TypeScript civilization |
+| The original author has been lost to time |
+| Carbon dating suggests Node 0.12 |
+| Note the hand-carved SQL queries |
+| This was once considered best practice |
+| Remarkably, this still passes all tests |
+| Scholars debate the intent of this regex |
+| A masterwork of the copy-paste school |
+| No one alive remembers why this works |
+| From the classical period of PHP 4 |
+| Restored from a backup of a backup |
+| The last known use of GOTO in the wild |
+| Visitors often weep at this callback hell |
+| Preserved exactly as the intern left it |
+| This comment has outlived three frameworks |
+| Behold the venerable document.write relic |
+| This polyfill spans the browser wars |
+| A specimen of infinite loop mastery |
+| Admire the global namespace conquest |
+| From the dawn of prototype pollution |
+| Note the exquisite magic number mosaic |
+| This hackery defies all refactoring |
+| Witness the ternary operator tower |
+| Preserved in git: the great merge conflict |
+| Carbon-dated to Angular 1.x antiquity |
+| The silent guardian of dead code |
+| Behold the unminified build artifact |
+| A triumph of browser user-agent sniffing |
+| This flag enables zombie features |
+| Miraculously endures the async/await apocalypse |
+| Etched forever: var that = this |
+| The final frontier of eval abuse |
+| Immortalized in lore: works in prod |
+| This sacred text was never refactored |
+| Behold the ancient XML configuration |
+| Traces of manual memory management remain |
+| The original build system required incantations |
+| Careful, the globals still ripple widely |
+| This section predates version control itself |
+| Note the handcrafted server configuration |
+| A prime example of premature optimization |
+| Unearthing the original requirements document |
+| Here resides the forgotten README |
+| Dated by its reliance on Flash plugins |
+| Witness the mighty monolith, still standing |
+| Experts theorize this causes a race condition |
+| From an era before responsive design |
+| The legendary 'works on my machine' bug |
+| This comment implies a dire warning |
+| Discovered in a forgotten developer's repo |
+| Observe the rare, unpatched vulnerability |
+| The database schema, untouched since 1999 |
+| We believe this feature was never requested |
+| Mind the gap between these abstractions |
+| Behold the ceremonial singleton, still worshipped |
+| This module is on the endangered list |
+| Here lies a once-proud build script |
+| Please admire the artisanal null checks |
+| An exquisite specimen of global state |
+| This endpoint predates modern authentication |
+| The varnish hides many a quick fix |
+| Our curators recommend not refactoring today |
+| Listen closely: you can hear the linter sob |
+| This function has evolved beyond comprehension |
+| A charming relic of Hungarian notation |
+| Note the ceremonial try/catch with no catch |
+| Observe the sacred constant: MAGIC_NUMBER_7 |
+| This interface was added to appease auditors |
+| Please ignore the dust: it's just warnings |
