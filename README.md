@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,744 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,804 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,559 additional verbs** across 73 themed categories.
+**185 built-in defaults** + **1,619 additional verbs** across 74 themed categories.
 
 ## How to Add Verbs
 
@@ -2028,3 +2028,70 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | Observe the sacred constant: MAGIC_NUMBER_7 |
 | This interface was added to appease auditors |
 | Please ignore the dust: it's just warnings |
+
+### Custom Phrases - Git Commit Messages (60)
+
+Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
+
+| Verb |
+|------|
+| fix: everything, hopefully |
+| feat: something probably useful |
+| feat: one more button |
+| chore: pretend this never happened |
+| chore: swept under rug |
+| docs: update README, still unclear |
+| docs: lied about changes |
+| refactor: same bugs, new names |
+| refactor: because I got bored |
+| perf: feels faster anyway |
+| perf: make it faster-ish |
+| style: appease the linter |
+| test: passes in theory |
+| test: works on my machine |
+| hotfix: production is on fire |
+| hotfix: ctrl+z reality |
+| ci: appease the pipeline gods |
+| build: sacrifice to dependency hell |
+| fixup! pretend this is normal |
+| revert: back to broken |
+| Rebasing on a prayer |
+| Squashing commits and dreams |
+| git blame never lies |
+| Amending history, as one does |
+| Cherry-picking the good parts |
+| Force pushing with confidence |
+| Resolving conflicts, inner and outer |
+| Stashing feelings for later |
+| Detached HEAD, attached heart |
+| Reverting to simpler times |
+| Merge branch 'hope' into 'reality' |
+| Staging changes, not emotions |
+| Branching into existential crisis |
+| Stashed changes for future regret |
+| New branch, same old problems |
+| Pulling latest, summoning new bugs |
+| Fetching origin, ignoring my problems |
+| Reflog reveals past mistakes |
+| blame: it wasn't me |
+| WIP don't judge me |
+| WIP: send help |
+| Please work this time |
+| Commit now, explain never |
+| One more commit ought to do it |
+| This commit fixes the last fix |
+| Fixing the fix that fixed the fix |
+| Pushing to main, living dangerously |
+| Pushing to prod, what could go wrong? |
+| deploy: hold my beer |
+| release: ship it, hold breath |
+| Tagging v1.0, emotionally unready |
+| git reset: like it never happened |
+| The diff tells a story |
+| git log: therapy session |
+| pull: latest version of dread |
+| Merge conflicts, choose violence |
+| bisect: find the crime scene |
+| git push --force-with-fear |
+| squash: condense chaos into one |
+| Applying patch of temporary relief |
