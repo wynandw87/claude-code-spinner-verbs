@@ -1,17 +1,17 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,804 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These are the gerunds (ending in -ing) that display in the spinner while Claude is working.
+A curated collection of **1,804 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,619 additional verbs** across 74 themed categories.
+**185 built-in defaults** + **1,619 additional verbs** across 75 themed categories.
 
 ## How to Add Verbs
 
-Copy the verbs you like from the categories below, then paste the following prompt into Claude Code:
+Copy the entries you like from the categories below, then paste the following prompt into Claude Code:
 
 ```
 Add the following spinner verbs to my ~/.claude/settings.json using "mode": "append":
 
-<paste your chosen verbs here>
+<paste your chosen entries here>
 ```
 
 Claude Code will update your `settings.json` with the correct `spinnerVerbs` configuration.
@@ -1364,9 +1364,7 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Trust the timeline |
 | Behind! Hot plates! |
 
-### Custom Phrases - Dev Life & Gastropod Zen (170)
-
-These are full phrase spinner verbs rather than single gerunds.
+### Dev Life (92)
 
 | Verb |
 |------|
@@ -1462,6 +1460,11 @@ These are full phrase spinner verbs rather than single gerunds.
 | Applying Bayes to bug reports |
 | Updating priors on midnight fixes |
 | SCIENCE!-ing the impossible |
+
+### Gastropod Zen (78)
+
+| Verb |
+|------|
 | Leaving a sacred trail |
 | Shell-fortifying |
 | Mucus-trailing wisdom |
@@ -1541,7 +1544,7 @@ These are full phrase spinner verbs rather than single gerunds.
 | The cosmos crawls with me |
 | One sacred inch closer |
 
-### Custom Phrases - Mission Control / Space Launch (80)
+### Mission Control / Space Launch (80)
 
 Space ops drama meets software development.
 
@@ -1628,7 +1631,7 @@ Space ops drama meets software development.
 | Clearing tower for git push |
 | Igniting engines on the CI stack |
 
-### Custom Phrases - Existential Developer (61)
+### Existential Developer (61)
 
 Philosophical musings about the craft of software development.
 
@@ -1696,7 +1699,7 @@ Philosophical musings about the craft of software development.
 | There is no done, only deployed |
 | All pull requests seek forgiveness, not approval |
 
-### Custom Phrases - Kitchen Nightmares (80)
+### Kitchen Nightmares (80)
 
 Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 
@@ -1783,7 +1786,7 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Lint limp lasagne |
 | Fork fiasco frozen |
 
-### Custom Phrases - Noir Detective (71)
+### Noir Detective (71)
 
 Hard-boiled debugging — film noir meets software development.
 
@@ -1861,7 +1864,7 @@ Hard-boiled debugging — film noir meets software development.
 | Grepping the streets for a clue |
 | The cache was lying to my face |
 
-### Custom Phrases - Motivational Poster (80)
+### Motivational Poster (80)
 
 Inspirational quotes that went through a code review — slightly off, deeply developer.
 
@@ -1948,7 +1951,7 @@ Inspirational quotes that went through a code review — slightly off, deeply de
 | Small steps; large diffs are still steps |
 | Progress is one more green checkmark |
 
-### Custom Phrases - Museum Tour Guide (74)
+### Museum Tour Guide (74)
 
 Narrating legacy code — a museum docent walks you through the relics of an old codebase.
 
@@ -2029,7 +2032,7 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | This interface was added to appease auditors |
 | Please ignore the dust: it's just warnings |
 
-### Custom Phrases - Git Commit Messages (60)
+### Git Commit Messages (60)
 
 Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
 
