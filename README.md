@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,804 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **1,832 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,619 additional verbs** across 75 themed categories.
+**185 built-in defaults** + **1,647 additional verbs** across 76 themed categories.
 
 ## How to Add Verbs
 
@@ -2098,3 +2098,38 @@ Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
 | git push --force-with-fear |
 | squash: condense chaos into one |
 | Applying patch of temporary relief |
+
+### Godzilla (28)
+
+Verbs based on the Godzilla franchise.
+
+| Verb |
+|------|
+| Atomic-breathing |
+| Kaiju-wrangling |
+| MechaGodzilla-piloting |
+| Monster Island-vacationing |
+| Mothra-praying |
+| City-stomping |
+| MUTO-nesting |
+| Titan-awakening |
+| Oxygen-destroying |
+| Dorsal-fin-glowing |
+| Ghidorah-headbutting |
+| Skull Island-exploring |
+| Monarch-monitoring |
+| Rodan-swooping |
+| Kong-climbing |
+| Gigan-slashing |
+| Shobijin-summoning |
+| Evangelion-syncing |
+| Kaiju-scoring |
+| Radiation-absorbing |
+| Godzilla-roaring |
+| Mothra-chanting |
+| Biollante-blooming |
+| Hedorah-polluting |
+| Anguirus-rolling |
+| Jet Jaguar-signaling |
+| SpaceGodzilla-crystalizing |
+| Destroyah-fragmenting |
