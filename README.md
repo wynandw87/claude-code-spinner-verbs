@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,832 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **1,835 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,647 additional verbs** across 76 themed categories.
+**185 built-in defaults** + **1,650 additional verbs** across 87 themed categories.
 
 ## How to Add Verbs
 
@@ -35,23 +35,153 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 
 ## Additional Verbs by Category
 
-### Trading / Crypto (13)
+### Spinner Verbs
+
+Short, themed verbs — one or two words that replace the default spinner text.
+
+- [1960s Hippie (11)](#1960s-hippie-11)
+- [1980s Retro (11)](#1980s-retro-11)
+- [1990s Nostalgia (11)](#1990s-nostalgia-11)
+- [Absurd / Nonsense (20)](#absurd--nonsense-20)
+- [Ancient Egyptian (11)](#ancient-egyptian-11)
+- [Ancient Greek / Roman (11)](#ancient-greek--roman-11)
+- [Animals (16)](#animals-16)
+- [Archaeology (10)](#archaeology-10)
+- [Arctic / Polar (11)](#arctic--polar-11)
+- [Astronaut (12)](#astronaut-12)
+- [Astronomy (10)](#astronomy-10)
+- [Aviation / Pilot (11)](#aviation--pilot-11)
+- [Back to the Future (10)](#back-to-the-future-10)
+- [Bee-themed (11)](#bee-themed-11)
+- [Biology / Evolution (11)](#biology--evolution-11)
+- [Board Games (11)](#board-games-11)
+- [Camping / Outdoors (11)](#camping--outdoors-11)
+- [Chemistry (9)](#chemistry-9)
+- [Circus / Carnival (11)](#circus--carnival-11)
+- [Coffee / Barista (11)](#coffee--barista-11)
+- [DC Comics (11)](#dc-comics-11)
+- [Deep Sea / Submarine (11)](#deep-sea--submarine-11)
+- [Detective / Noir (11)](#detective--noir-11)
+- [Disney / Pixar (11)](#disney--pixar-11)
+- [Doctor Who (10)](#doctor-who-10)
+- [Dune (13)](#dune-13)
+- [Espionage / Spy (11)](#espionage--spy-11)
+- [Firefighter (11)](#firefighter-11)
+- [Food (14)](#food-14)
+- [Gaming (13)](#gaming-13)
+- [Gardening / Botanical (11)](#gardening--botanical-11)
+- [Geology (11)](#geology-11)
+- [Godzilla (28)](#godzilla-28)
+- [Harry Potter (13)](#harry-potter-13)
+- [James Bond (10)](#james-bond-10)
+- [Jungle / Rainforest (11)](#jungle--rainforest-11)
+- [Jurassic Park (10)](#jurassic-park-10)
+- [Knitting / Textile (11)](#knitting--textile-11)
+- [Lord of the Rings (13)](#lord-of-the-rings-13)
+- [Mario / Nintendo (11)](#mario--nintendo-11)
+- [Marvel / MCU (13)](#marvel--mcu-13)
+- [Mathematics (11)](#mathematics-11)
+- [The Matrix (11)](#the-matrix-11)
+- [Medieval / Knights (10)](#medieval--knights-10)
+- [Meme Culture (11)](#meme-culture-11)
+- [Minecraft (11)](#minecraft-11)
+- [Monty Python (11)](#monty-python-11)
+- [Music / Dance (16)](#music--dance-16)
+- [Ocean / Marine (11)](#ocean--marine-11)
+- [The Office (12)](#the-office-12)
+- [Onomatopoeia (12)](#onomatopoeia-12)
+- [Paleontology (11)](#paleontology-11)
+- [Photography (11)](#photography-11)
+- [Pirate / Nautical (11)](#pirate--nautical-11)
+- [Pokemon (11)](#pokemon-11)
+- [Prohibition Era (11)](#prohibition-era-11)
+- [Quantum Physics (11)](#quantum-physics-11)
+- [Retro Gaming (11)](#retro-gaming-11)
+- [Samurai / Japanese (11)](#samurai--japanese-11)
+- [Sci-Fi / Space (16)](#sci-fi--space-16)
+- [Social Media (11)](#social-media-11)
+- [Sports (16)](#sports-16)
+- [Star Trek (14)](#star-trek-14)
+- [Star Wars (12)](#star-wars-12)
+- [Stranger Things (11)](#stranger-things-11)
+- [Streaming / Creator (11)](#streaming--creator-11)
+- [Studio Ghibli (10)](#studio-ghibli-10)
+- [Synesthesia / Colors (11)](#synesthesia--colors-11)
+- [Tech / Programming (14)](#tech--programming-14)
+- [Trading / Crypto (13)](#trading--crypto-13)
+- [Victorian / Steampunk (11)](#victorian--steampunk-11)
+- [Viking / Norse (11)](#viking--norse-11)
+- [Volcanic (11)](#volcanic-11)
+- [Weather / Storms (11)](#weather--storms-11)
+- [Whimsical (20)](#whimsical-20)
+- [Wild West / Cowboy (11)](#wild-west--cowboy-11)
+- [Wine / Sommelier (10)](#wine--sommelier-10)
+
+### Spinner Phrases
+
+Full sentences and phrases — longer, more expressive spinner text with personality.
+
+- [Catering (55)](#catering-55)
+- [Dev Life (92)](#dev-life-92)
+- [Existential Developer (61)](#existential-developer-61)
+- [Gastropod Zen (78)](#gastropod-zen-78)
+- [Git Commit Messages (60)](#git-commit-messages-60)
+- [Kitchen Nightmares (80)](#kitchen-nightmares-80)
+- [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
+- [Motivational Poster (80)](#motivational-poster-80)
+- [Museum Tour Guide (74)](#museum-tour-guide-74)
+- [Noir Detective (71)](#noir-detective-71)
+
+### 1960s Hippie (11)
 
 | Verb |
 |------|
-| Hodling |
-| Longing |
-| Shorting |
-| Staking |
-| Mining |
-| Minting |
-| Degening |
-| Apeing |
-| Mooning |
-| Swapping |
-| Charting |
-| Yieldfarming |
-| Arbitraging |
+| Tie-dyeing |
+| Peace-signing |
+| Flower-powering |
+| Woodstock jamming |
+| Grooving out |
+| Incense-burning |
+| Guitar-strumming |
+| Mind-expanding |
+| Lava lamp glowing |
+| VW-bus-driving |
+| Mantra-chanting |
+
+
+### 1980s Retro (11)
+
+| Verb |
+|------|
+| Synthwave grooving |
+| Neon-glowing |
+| Boombox blasting |
+| Mixtape-making |
+| Arcade-mashing |
+| VHS-rewinding |
+| Power ballad belting |
+| Solving Rubik's |
+| Perming |
+| High top lacing |
+| Cassette-rewinding |
+
+
+### 1990s Nostalgia (11)
+
+| Verb |
+|------|
+| Tamagotchi feeding |
+| Dial-upping |
+| Pog-slamming |
+| AOL-chatting |
+| Blockbuster-browsing |
+| Grunge-rocking |
+| Rollerblading |
+| Furby chattering |
+| Scrunchie-wearing |
+| Slap bracelet snapping |
+| Y2K-panicking |
+
 
 ### Absurd / Nonsense (20)
 
@@ -78,6 +208,41 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Glimmerglonking |
 | Flooperdoodling |
 
+
+### Ancient Egyptian (11)
+
+| Verb |
+|------|
+| Mummifying |
+| Pharaoh ruling |
+| Hieroglyph carving |
+| Pyramid-building |
+| Nile-flooding |
+| Scarab-rolling |
+| Ankh wielding |
+| Sphinx-riddling |
+| Papyrus-scrolling |
+| Ra-worshipping |
+| Canopic-jarring |
+
+
+### Ancient Greek / Roman (11)
+
+| Verb |
+|------|
+| Toga-partying |
+| Philosophizing |
+| Spartan drilling |
+| Gladiator thrusting |
+| Chariot-racing |
+| Senate-debating |
+| Oracle-consulting |
+| Laurel-wreathing |
+| Trojan-horsing |
+| Aqueduct channeling |
+| Olympic-gaming |
+
+
 ### Animals (16)
 
 | Verb |
@@ -99,6 +264,40 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Cat-napping |
 | Prowling |
 
+
+### Archaeology (10)
+
+| Verb |
+|------|
+| Artifact-hunting |
+| Indiana-Jonesing |
+| Tomb-raiding |
+| Trowel-scraping |
+| Site-mapping |
+| Whip-snapping |
+| Temple-unearthing |
+| Relic-deciphering |
+| Stratigraphy layering |
+| Sherd-sorting |
+
+
+### Arctic / Polar (11)
+
+| Verb |
+|------|
+| Iceberg calving |
+| Blizzarding |
+| Aurora dancing |
+| Husky-mushing |
+| Permafrost freezing |
+| Igloo-building |
+| Ice-fishing |
+| Polar-bear-prowling |
+| Glacier-trekking |
+| Snowshoeing |
+| Frost-nipping |
+
+
 ### Astronaut (12)
 
 | Verb |
@@ -116,559 +315,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Astronaut orbiting |
 | Reentering |
 
-### Disney / Pixar (11)
 
-| Verb |
-|------|
-| Chanting Hakuna Matata |
-| Pixie-dusting |
-| Glass slipper fitting |
-| Bibbidi bobbidi booing |
-| Belting Let It Go |
-| Dancing under the sea |
-| Embracing Ohana |
-| Launching to infinity |
-| WALL-E dancing |
-| Simba-roaring |
-| Genie-wishing |
-| Ratatouille cooking |
-
-### Dune (13)
-
-| Verb |
-|------|
-| Spice-harvesting |
-| Sandworm-riding |
-| Bene Gesserit training |
-| Stillsuit sweating |
-| Weirding |
-| Sietch dwelling |
-| Crysknife-drawing |
-| Wormsign-spotting |
-| Melange-dreaming |
-| Spice trancing |
-| Shai-Hulud summoning |
-| Voice-commanding |
-| Ornithopter-flapping |
-
-### Food (14)
-
-| Verb |
-|------|
-| Pickling |
-| Curing |
-| Brining |
-| Dehydrating |
-| Smoking |
-| Macerating |
-| Spherifying |
-| Sourdough starting |
-| Kombucha brewing |
-| Canning |
-| Distilling |
-| Kimchi fermenting |
-| Dry-aging |
-| Aging |
-
-### Gaming (13)
-
-| Verb |
-|------|
-| Respawning |
-| Speedrunning |
-| Leveling-up |
-| Button-mashing |
-| Looting |
-| Nerfing |
-| Buffing |
-| Glitch-hunting |
-| No-scoping |
-| Save-scumming |
-| Power-leveling |
-| Loot-farming |
-| Pixel-pushing |
-
-### Harry Potter (13)
-
-| Verb |
-|------|
-| Expelliarmus casting |
-| Expecto Patronum summoning |
-| Potion-brewing |
-| Quidditch playing |
-| Wand-waving |
-| Horcrux-hunting |
-| Floo powder traveling |
-| Snitch-catching |
-| Accio summoning |
-| Alohomora unlocking |
-| Marauding |
-| Howler-sending |
-| Boggart-banishing |
-
-### James Bond (10)
-
-| Verb |
-|------|
-| Shaken-not-stirring |
-| Q branch tinkering |
-| Aston Martin driving |
-| Introducing 007 |
-| Goldfingering |
-| Bonding |
-| Tuxedo strutting |
-| Dropping one liners |
-| Playing Casino Royale |
-| Moneypenny flirting |
-
-### Lord of the Rings (13)
-
-| Verb |
-|------|
-| Second-breakfasting |
-| Ring-bearing |
-| Ent mooting |
-| Shadowfax riding |
-| Palantir-peeking |
-| Lembas-munching |
-| Balrog-baiting |
-| Precious-hoarding |
-| Mithril-mining |
-| Gandalf sparking |
-| Nazgul-screeching |
-| Treebeard-muttering |
-| Shire-frolicking |
-
-### Meme Culture (11)
-
-| Verb |
-|------|
-| Distracted glancing |
-| Sitting in fire |
-| Yeeting |
-| Dank-meming |
-| Galaxy-braining |
-| Pressing F |
-| Stonks rising |
-| Among Us sussing |
-| Ogre layering |
-| Drake-approving |
-| Spongebob-mocking |
-
-### Music / Dance (16)
-
-| Verb |
-|------|
-| Beatboxing |
-| Breakdancing |
-| Freestyling |
-| Headbanging |
-| Moshing |
-| Krumping |
-| Voguing |
-| Sampling |
-| Jamming |
-| Salsa dancing |
-| Tangoing |
-| Rapping |
-| Djembe drumming |
-| Turntable scratching |
-| Two-stepping |
-| Moonstomping |
-
-### Onomatopoeia (12)
-
-| Verb |
-|------|
-| Zapping |
-| Swooshing |
-| Clicking |
-| Splatting |
-| Boinging |
-| Fizzing |
-| Buzzing |
-| Bleeping |
-| Clunking |
-| Thunking |
-| Ka-powing |
-| Gurgling |
-
-### Sci-Fi / Space (16)
-
-| Verb |
-|------|
-| Teleporting |
-| Wormholing |
-| Hyperdriving |
-| Lightspeeding |
-| Quantumleaping |
-| Astrogating |
-| Planetforming |
-| Nanoswarming |
-| Warp-driving |
-| Lightsabering |
-| Phasing |
-| Time-warping |
-| Hypershifting |
-| Nebula-hopping |
-| Photon-blasting |
-| Tractor-beaming |
-
-### Sports (16)
-
-| Verb |
-|------|
-| Skateboarding |
-| Snowboarding |
-| Surfing |
-| Bouldering |
-| Parkouring |
-| Skydiving |
-| Bungee jumping |
-| Freeclimbing |
-| Polevaulting |
-| Kayaking |
-| Juggling |
-| Slacklining |
-| Rock-climbing |
-| Shadowboxing |
-| Yoga posing |
-| Trampolining |
-
-### Star Trek (14)
-
-| Verb |
-|------|
-| Engaging |
-| Beaming-up |
-| Boldly-going |
-| Mind-melding |
-| Holodeck simulating |
-| Tricorder scanning |
-| Redshirting |
-| Assimilating |
-| Tribble breeding |
-| Vulcan nerve pinching |
-| Red-alerting |
-| Cheating Kobayashi |
-| Prime Directive following |
-| Replicating |
-
-### Star Wars (12)
-
-| Verb |
-|------|
-| Force-pushing |
-| Jedi-mind-tricking |
-| Podracing |
-| Wookiee-roaring |
-| Kessel-running |
-| Cantina-jamming |
-| Bounty-hunting |
-| Sarlacc-dodging |
-| Ewok-dancing |
-| Saber-dueling |
-| Trench-running |
-| Yoda-flipping |
-
-### Stranger Things (11)
-
-| Verb |
-|------|
-| Upside down exploring |
-| Mind-flaying |
-| Eating Eggos |
-| Demogorgon-dodging |
-| Fleeing Vecna |
-| Scooping cones |
-| Mall raiding |
-| Hellfire Club rolling |
-| Christmas-lighting |
-| Gate portaling |
-| D&D campaigning |
-
-### Tech / Programming (14)
-
-| Verb |
-|------|
-| Dockerizing |
-| Kubernetizing |
-| Terraforming |
-| Refactoring |
-| Parsing |
-| Recursing |
-| Virtualizing |
-| Microservicing |
-| Debugging |
-| Deploying |
-| Compiling |
-| Linting |
-| Hotfixing |
-| Profiling |
-
-### The Office (12)
-
-| Verb |
-|------|
-| Dropping innuendos |
-| Chili-spilling |
-| Assistant managing |
-| Stapler-jello-ing |
-| Prison-miking |
-| Beet-farming |
-| Jim-pranking |
-| Shuffling paper |
-| Botching math |
-| Midnight screening |
-| Dundie-awarding |
-| Snatching pretzels |
-
-### Whimsical (20)
-
-| Verb |
-|------|
-| Giggling |
-| Daydreaming |
-| Whimsy whirling |
-| Twinkling |
-| Bouncing |
-| Hopscotching |
-| Whistling |
-| Fiddlesticking |
-| Gibbering |
-| Whiffling |
-| Bumbling |
-| Swooning |
-| Glimmering |
-| Sparkling |
-| Jesting |
-| Doodad fiddling |
-| Stargazing |
-| Galumphing |
-| Bamboozling |
-| Disco ball grooving |
-
-### Marvel / MCU
-
-| Verb |
-|------|
-| Hulk-smashing |
-| Wakanda forever chanting |
-| Assembling |
-| Web-slinging |
-| Thanos-snapping |
-| Thor-hammering |
-| Infinity Stone wielding |
-| Arc reactor powering |
-| Vibranium-forging |
-| Multiverse-hopping |
-| Bifrost-bridging |
-| Groot-rooting |
-| Shield-throwing |
-
-### DC Comics
-
-| Verb |
-|------|
-| Gotham patrolling |
-| Bat signaling |
-| Kryptonite dodging |
-| Speed-forcing |
-| Truth-lassoing |
-| Dark-knighting |
-| Justice League assembling |
-| Joker-laughing |
-| Boom-tubing |
-| Wonder Woman bracing |
-| Lantern-powering |
-
-### Doctor Who
-
-| Verb |
-|------|
-| TARDIS flying |
-| Regenerating |
-| Exterminating |
-| Sonic-screwdriving |
-| Timey-wimey traveling |
-| Allons-y charging |
-| Dalek invading |
-| Weeping Angel staring |
-| Companion-collecting |
-| TARDIS expanding |
-
-### The Matrix
-
-| Verb |
-|------|
-| Red-pilling |
-| Bullet-timing |
-| Glitching |
-| Spoon-bending |
-| Agent-smithing |
-| Neo-dodging |
-| Kung-fu-loading |
-| Code-raining |
-| Denying spoons |
-| Jacking-in |
-| Reality-bending |
-
-### Back to the Future
-
-| Verb |
-|------|
-| Flux-capacitating |
-| Time-traveling |
-| Jumping timelines |
-| Exclaiming Great Scott |
-| Hoverboarding |
-| Hitting 88mph |
-| Clock-towering |
-| Hoverboard shredding |
-| Harnessing lightning |
-| Gigawatt-charging |
-
-### Jurassic Park
-
-| Verb |
-|------|
-| Stalking raptors |
-| Life finding a way |
-| T-Rex-roaring |
-| Cloning dinos |
-| Pondering chaos theory |
-| Outsmarting raptors |
-| Amber-extracting |
-| Sparing no expense |
-| Raptor-pack-hunting |
-| Island-escaping |
-
-### Pokemon
-
-| Verb |
-|------|
-| Pikachu shocking |
-| Evolving |
-| Pokeball-throwing |
-| Catchin' em all |
-| Gym-battling |
-| Shiny-hunting |
-| Team Rocket blasting |
-| Pokedex scanning |
-| Thunderbolting |
-| Master Ball throwing |
-| Type-matching |
-
-### Mario / Nintendo
-
-| Verb |
-|------|
-| Mushrooming |
-| Pipe-warping |
-| Star-powering |
-| Goomba-stomping |
-| Coin-collecting |
-| Fire flower shooting |
-| Princess-rescuing |
-| Kart-racing |
-| 1-up collecting |
-| Yoshi-riding |
-| Koopa shell tossing |
-
-### Minecraft
-
-| Verb |
-|------|
-| Creeper sneaking |
-| Redstone wiring |
-| Ender teleporting |
-| Block-placing |
-| Diamond-mining |
-| Nether-portaling |
-| Elytra-gliding |
-| Villager-trading |
-| Bed-exploding |
-| Biome-exploring |
-| Pickaxe-swinging |
-
-### Monty Python
-
-| Verb |
-|------|
-| Ni-ing |
-| Holy-grailing |
-| Spam-spamming |
-| Silly-walking |
-| Dead-parroting |
-| Coconut-clopping |
-| French-taunting |
-| Nobody expecting |
-| Black-knight-fighting |
-| Lumberjack-singing |
-| Catapulting cows |
-
-### Studio Ghibli
-
-| Verb |
-|------|
-| Totoro waiting |
-| Spiriting-away |
-| Riding catbus |
-| Moving castle |
-| Calcifer-burning |
-| Kiki-delivering |
-| Soot sprite scattering |
-| Ponyo-splashing |
-| Nausicaa-gliding |
-| Laputa-floating |
-
-### Chemistry
-
-| Verb |
-|------|
-| Titrating |
-| Catalyzing |
-| Polymerizing |
-| Oxidizing |
-| Reducing |
-| Electroplating |
-| Buffering |
-| pH-adjusting |
-| Spectroscopy-scanning |
-
-### Quantum Physics
-
-| Verb |
-|------|
-| Entangling |
-| Superposition juggling |
-| Collapsing |
-| Tunneling |
-| Schrödinger-catting |
-| Qubit-flipping |
-| Decohering |
-| Wavefunction evolving |
-| Uncertainty hedging |
-| Vacuum-fluctuating |
-| Spin-flipping |
-
-### Biology / Evolution
-
-| Verb |
-|------|
-| Mitosis doubling |
-| Mutating |
-| Natural-selecting |
-| DNA-sequencing |
-| Gene-editing |
-| Speciating |
-| Adapting |
-| CRISPR-editing |
-| Meiosis halving |
-| Recombining |
-| Phenotype-shifting |
-
-### Astronomy
+### Astronomy (10)
 
 | Verb |
 |------|
@@ -683,294 +331,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Meteor streaking |
 | Comet-trailing |
 
-### Mathematics
 
-| Verb |
-|------|
-| Deriving |
-| Integrating |
-| Induction proving |
-| Factorizing |
-| Eigenvalue hunting |
-| Fractal zooming |
-| Fourier-transforming |
-| Matrix-multiplying |
-| Vectorizing |
-| Graph-traversing |
-| Differentiating |
-
-### Geology
-
-| Verb |
-|------|
-| Tectonic shifting |
-| Eroding |
-| Fossilizing |
-| Subducting |
-| Stratifying |
-| Sedimenting |
-| Faulting |
-| Quaking |
-| Geyser-spewing |
-| Core-drilling |
-| Magma-intruding |
-
-### Paleontology
-
-| Verb |
-|------|
-| Excavating |
-| Carbon-dating |
-| Fossil-hunting |
-| Bone-brushing |
-| Dino-reconstructing |
-| Strata-sifting |
-| Trackway-tracing |
-| Amber-entombing |
-| Coprolite-collecting |
-| Museum-curating |
-| Skull-mounting |
-
-### Ancient Egyptian
-
-| Verb |
-|------|
-| Mummifying |
-| Pharaoh ruling |
-| Hieroglyph carving |
-| Pyramid-building |
-| Nile-flooding |
-| Scarab-rolling |
-| Ankh wielding |
-| Sphinx-riddling |
-| Papyrus-scrolling |
-| Ra-worshipping |
-| Canopic-jarring |
-
-### Ancient Greek / Roman
-
-| Verb |
-|------|
-| Toga-partying |
-| Philosophizing |
-| Spartan drilling |
-| Gladiator thrusting |
-| Chariot-racing |
-| Senate-debating |
-| Oracle-consulting |
-| Laurel-wreathing |
-| Trojan-horsing |
-| Aqueduct channeling |
-| Olympic-gaming |
-
-### Viking / Norse
-
-| Verb |
-|------|
-| Pillaging |
-| Berserking |
-| Valhalla calling |
-| Longship-rowing |
-| Rune-carving |
-| Shield-walling |
-| Mead hall toasting |
-| Saga-telling |
-| Axe-throwing |
-| Ragnarok-prepping |
-| Fjord-sailing |
-
-### Medieval / Knights
-
-| Verb |
-|------|
-| Jousting |
-| Drawbridge lowering |
-| Dragon-slaying |
-| Castle-sieging |
-| Sword-swinging |
-| Chainmail-clanking |
-| Quest-embarking |
-| Round-tabling |
-| Chivalry upholding |
-| Armor-donning |
-
-### Samurai / Japanese
-
-| Verb |
-|------|
-| Bushido honoring |
-| Sensei bowing |
-| Origami folding |
-| Katana-drawing |
-| Haiku-writing |
-| Tea ceremony pouring |
-| Zen-meditating |
-| Dojo-training |
-| Cherry-blossoming |
-| Ninja-stealthing |
-| Bamboo-cutting |
-
-### Pirate / Nautical
-
-| Verb |
-|------|
-| Swashbuckling |
-| Plundering |
-| Yo-ho-hoing |
-| Treasure-mapping |
-| Sea-shantying |
-| Cannon-firing |
-| Jolly-rogering |
-| Plank-walking |
-| Parrot-perching |
-| Deck-swabbing |
-| Keelhauling |
-
-### Wild West / Cowboy
-
-| Verb |
-|------|
-| Lasso-ing |
-| Tumbleweed rolling |
-| Facing a showdown |
-| Quick-drawing |
-| Saloon-swinging |
-| Gold-rushing |
-| Cattle-driving |
-| Spur-jingling |
-| Wanted poster nailing |
-| Campfire-storying |
-| Revolver-spinning |
-
-### Victorian / Steampunk
-
-| Verb |
-|------|
-| Haberdashing |
-| Clockwork tinkering |
-| Monocle-adjusting |
-| Airship-sailing |
-| Gear-turning |
-| Cogwheel turning |
-| Brass-polishing |
-| Top hat tipping |
-| Steam-hissing |
-| Goggles adjusting |
-| Automaton-winding |
-
-### Prohibition Era
-
-| Verb |
-|------|
-| Bootlegging |
-| Speakeasy sneaking |
-| Charleston dancing |
-| Moonshining |
-| Tommy-gunning |
-| Bathtub gin brewing |
-| G-man-dodging |
-| Jazz-clubbing |
-| Flapper dancing |
-| Gatsby partying |
-| Fedora-tilting |
-
-### 1960s Hippie
-
-| Verb |
-|------|
-| Tie-dyeing |
-| Peace-signing |
-| Flower-powering |
-| Woodstock jamming |
-| Grooving out |
-| Incense-burning |
-| Guitar-strumming |
-| Mind-expanding |
-| Lava lamp glowing |
-| VW-bus-driving |
-| Mantra-chanting |
-
-### 1980s Retro
-
-| Verb |
-|------|
-| Synthwave grooving |
-| Neon-glowing |
-| Boombox blasting |
-| Mixtape-making |
-| Arcade-mashing |
-| VHS-rewinding |
-| Power ballad belting |
-| Solving Rubik's |
-| Perming |
-| High top lacing |
-| Cassette-rewinding |
-
-### 1990s Nostalgia
-
-| Verb |
-|------|
-| Tamagotchi feeding |
-| Dial-upping |
-| Pog-slamming |
-| AOL-chatting |
-| Blockbuster-browsing |
-| Grunge-rocking |
-| Rollerblading |
-| Furby chattering |
-| Scrunchie-wearing |
-| Slap bracelet snapping |
-| Y2K-panicking |
-
-### Detective / Noir
-
-| Verb |
-|------|
-| Sleuthing |
-| Magnifying |
-| Whodunit solving |
-| Case-cracking |
-| Staking out |
-| Clue-connecting |
-| Interrogating |
-| Shadow-tailing |
-| Plot-twisting |
-| Fingerprint-dusting |
-| Red-herring-sniffing |
-
-### Espionage / Spy
-
-| Verb |
-|------|
-| Infiltrating |
-| Code-breaking |
-| Gadgeteering |
-| Dead-dropping |
-| Wiretapping |
-| Safecracking |
-| Double crossing |
-| Exfiltrating |
-| Disguise-donning |
-| Microfilm-swapping |
-| Bomb-defusing |
-
-### Circus / Carnival
-
-| Verb |
-|------|
-| Trapeze swinging |
-| Tightrope-walking |
-| Ringmastering |
-| Lion-taming |
-| Clowning |
-| Fire-breathing |
-| Human-cannonballing |
-| Cotton candy spinning |
-| Plate-spinning |
-| Popcorn-popping |
-| Carousel-spinning |
-
-### Aviation / Pilot
+### Aviation / Pilot (11)
 
 | Verb |
 |------|
@@ -986,134 +348,24 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Carrier-landing |
 | Preflighting |
 
-### Deep Sea / Submarine
+
+### Back to the Future (10)
 
 | Verb |
 |------|
-| Fathoming |
-| Submersing |
-| Sonar-pinging |
-| Periscope-peeking |
-| Trench-diving |
-| Silent-running |
-| Bioluminescing |
-| Depth-charging |
-| Bathysphere descending |
-| Nautilus-diving |
-| Kraken-wrestling |
+| Flux-capacitating |
+| Time-traveling |
+| Jumping timelines |
+| Exclaiming Great Scott |
+| Hoverboarding |
+| Hitting 88mph |
+| Clock-towering |
+| Hoverboard shredding |
+| Harnessing lightning |
+| Gigawatt-charging |
 
-### Archaeology
 
-| Verb |
-|------|
-| Artifact-hunting |
-| Indiana-Jonesing |
-| Tomb-raiding |
-| Trowel-scraping |
-| Site-mapping |
-| Whip-snapping |
-| Temple-unearthing |
-| Relic-deciphering |
-| Stratigraphy layering |
-| Sherd-sorting |
-
-### Firefighter
-
-| Verb |
-|------|
-| Hose-blasting |
-| Ladder-climbing |
-| Siren-wailing |
-| Axe-chopping |
-| Smoke-venting |
-| Hydrant-hooking |
-| Backdraft-watching |
-| Rescue-carrying |
-| Hotspot-spotting |
-| Dalmatian-petting |
-| Fireline-holding |
-
-### Weather / Storms
-
-| Verb |
-|------|
-| Monsoon raging |
-| Tornado twisting |
-| Lightning-striking |
-| Thunder-rumbling |
-| Hurricane-eyeing |
-| Cyclone-spinning |
-| Hail-pelting |
-| Rainbow-arching |
-| Fog-rolling |
-| Downpouring |
-| Barometer-watching |
-
-### Ocean / Marine
-
-| Verb |
-|------|
-| Whale-singing |
-| Reef building |
-| Tide-pooling |
-| Dolphin-leaping |
-| Shark-circling |
-| Octopus-inking |
-| Kelp swaying |
-| Wave-crashing |
-| Plankton-drifting |
-| Seashell-collecting |
-| Sea foam bubbling |
-
-### Volcanic
-
-| Verb |
-|------|
-| Erupting |
-| Lava-flowing |
-| Magma rising |
-| Ash cloud billowing |
-| Pyroclastic surging |
-| Caldera-collapsing |
-| Pumice-floating |
-| Fumarole-smoking |
-| Tephra-raining |
-| Burying Pompeii |
-| Basalt-cooling |
-
-### Arctic / Polar
-
-| Verb |
-|------|
-| Iceberg calving |
-| Blizzarding |
-| Aurora dancing |
-| Husky-mushing |
-| Permafrost freezing |
-| Igloo-building |
-| Ice-fishing |
-| Polar-bear-prowling |
-| Glacier-trekking |
-| Snowshoeing |
-| Frost-nipping |
-
-### Jungle / Rainforest
-
-| Verb |
-|------|
-| Vine-swinging |
-| Canopy-hopping |
-| Toucan-calling |
-| Monkey-chattering |
-| Jaguar-stalking |
-| Anaconda-dodging |
-| Frog-chorusing |
-| Waterfall-plunging |
-| Butterfly-fluttering |
-| River-rafting |
-| Orchid-blooming |
-
-### Bee-themed
+### Bee-themed (11)
 
 | Verb |
 |------|
@@ -1129,54 +381,25 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Drone-drifting |
 | Stinger-flexing |
 
-### Gardening / Botanical
+
+### Biology / Evolution (11)
 
 | Verb |
 |------|
-| Composting |
-| Pruning |
-| Trellising |
-| Repotting |
-| Mulching |
-| Seed-starting |
-| Deadheading |
-| Grafting |
-| Transplanting |
-| Weed-whacking |
-| Worm-casting |
+| Mitosis doubling |
+| Mutating |
+| Natural-selecting |
+| DNA-sequencing |
+| Gene-editing |
+| Speciating |
+| Adapting |
+| CRISPR-editing |
+| Meiosis halving |
+| Recombining |
+| Phenotype-shifting |
 
-### Coffee / Barista
 
-| Verb |
-|------|
-| Espresso-pulling |
-| Latte-arting |
-| French-pressing |
-| Bean-grinding |
-| Pour over brewing |
-| Milk-steaming |
-| Cold-brewing |
-| Aeropress extracting |
-| Cupping |
-| Shot-tamping |
-| Dose-weighing |
-
-### Wine / Sommelier
-
-| Verb |
-|------|
-| Decanting |
-| Corking |
-| Aerating |
-| Barrel-aging |
-| Vintage-selecting |
-| Bouquet-sniffing |
-| Cellar-stocking |
-| Tannin-softening |
-| Terroir-tasting |
-| Uncorking |
-
-### Board Games
+### Board Games (11)
 
 | Verb |
 |------|
@@ -1192,7 +415,8 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Jenga-stacking |
 | Victory-pointing |
 
-### Camping / Outdoors
+
+### Camping / Outdoors (11)
 
 | Verb |
 |------|
@@ -1208,101 +432,6 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Map-folding |
 | Bear-proofing |
 
-### Photography
-
-| Verb |
-|------|
-| Aperture tweaking |
-| Long exposing |
-| Golden hour chasing |
-| Shutter-clicking |
-| Lens-focusing |
-| Bokeh-blurring |
-| Focus-pulling |
-| White-balancing |
-| RAW-processing |
-| Color-grading |
-| ISO-adjusting |
-
-### Knitting / Textile
-
-| Verb |
-|------|
-| Crocheting |
-| Loom-weaving |
-| Yarn-bombing |
-| Purling |
-| Casting-on |
-| Cable-twisting |
-| Felting |
-| Quilting |
-| Bobbin-winding |
-| Swatch-knitting |
-| Pattern-reading |
-
-### Synesthesia / Colors
-
-| Verb |
-|------|
-| Ultraviolet glowing |
-| Iridescent shimmering |
-| Prism refracting |
-| Hue-shifting |
-| Chromatic-blooming |
-| Spectrum-singing |
-| Color-splashing |
-| Saturation-boosting |
-| Rainbow-blending |
-| Luminance-mapping |
-| Aura-sensing |
-
-### Social Media
-
-| Verb |
-|------|
-| Doom-swiping |
-| Going viral |
-| Algorithm gaming |
-| Hashtagging |
-| DM-sliding |
-| Clout-chasing |
-| Clickbaiting |
-| Thread-spinning |
-| Feed-refreshing |
-| Like-farming |
-| Influencing |
-
-### Retro Gaming
-
-| Verb |
-|------|
-| Pac-Man chomping |
-| Tetris stacking |
-| Konami code entering |
-| Cartridge-blowing |
-| Coin-inserting |
-| Joystick-waggling |
-| 8-bit-bopping |
-| Sprite-rendering |
-| Warp-zoning |
-| Boss-rushing |
-| High-score-chasing |
-
-### Streaming / Creator
-
-| Verb |
-|------|
-| Rage-quitting |
-| Calling GG |
-| Chat-moderating |
-| Sub-gifting |
-| Emote-spamming |
-| Overlay-tweaking |
-| Clip-editing |
-| Mic-checking |
-| Hype-train-riding |
-| Raid-hosting |
-| Stream-starting |
 
 ### Catering (55)
 
@@ -1363,6 +492,107 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Bruschetta assembly line |
 | Trust the timeline |
 | Behind! Hot plates! |
+
+
+### Chemistry (9)
+
+| Verb |
+|------|
+| Titrating |
+| Catalyzing |
+| Polymerizing |
+| Oxidizing |
+| Reducing |
+| Electroplating |
+| Buffering |
+| pH-adjusting |
+| Spectroscopy-scanning |
+
+
+### Circus / Carnival (11)
+
+| Verb |
+|------|
+| Trapeze swinging |
+| Tightrope-walking |
+| Ringmastering |
+| Lion-taming |
+| Clowning |
+| Fire-breathing |
+| Human-cannonballing |
+| Cotton candy spinning |
+| Plate-spinning |
+| Popcorn-popping |
+| Carousel-spinning |
+
+
+### Coffee / Barista (11)
+
+| Verb |
+|------|
+| Espresso-pulling |
+| Latte-arting |
+| French-pressing |
+| Bean-grinding |
+| Pour over brewing |
+| Milk-steaming |
+| Cold-brewing |
+| Aeropress extracting |
+| Cupping |
+| Shot-tamping |
+| Dose-weighing |
+
+
+### DC Comics (11)
+
+| Verb |
+|------|
+| Gotham patrolling |
+| Bat signaling |
+| Kryptonite dodging |
+| Speed-forcing |
+| Truth-lassoing |
+| Dark-knighting |
+| Justice League assembling |
+| Joker-laughing |
+| Boom-tubing |
+| Wonder Woman bracing |
+| Lantern-powering |
+
+
+### Deep Sea / Submarine (11)
+
+| Verb |
+|------|
+| Fathoming |
+| Submersing |
+| Sonar-pinging |
+| Periscope-peeking |
+| Trench-diving |
+| Silent-running |
+| Bioluminescing |
+| Depth-charging |
+| Bathysphere descending |
+| Nautilus-diving |
+| Kraken-wrestling |
+
+
+### Detective / Noir (11)
+
+| Verb |
+|------|
+| Sleuthing |
+| Magnifying |
+| Whodunit solving |
+| Case-cracking |
+| Staking out |
+| Clue-connecting |
+| Interrogating |
+| Shadow-tailing |
+| Plot-twisting |
+| Fingerprint-dusting |
+| Red-herring-sniffing |
+
 
 ### Dev Life (92)
 
@@ -1461,6 +691,219 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | Updating priors on midnight fixes |
 | SCIENCE!-ing the impossible |
 
+
+### Disney / Pixar (11)
+
+| Verb |
+|------|
+| Chanting Hakuna Matata |
+| Pixie-dusting |
+| Glass slipper fitting |
+| Bibbidi bobbidi booing |
+| Belting Let It Go |
+| Dancing under the sea |
+| Embracing Ohana |
+| Launching to infinity |
+| WALL-E dancing |
+| Simba-roaring |
+| Genie-wishing |
+| Ratatouille cooking |
+
+
+### Doctor Who (10)
+
+| Verb |
+|------|
+| TARDIS flying |
+| Regenerating |
+| Exterminating |
+| Sonic-screwdriving |
+| Timey-wimey traveling |
+| Allons-y charging |
+| Dalek invading |
+| Weeping Angel staring |
+| Companion-collecting |
+| TARDIS expanding |
+
+
+### Dune (13)
+
+| Verb |
+|------|
+| Spice-harvesting |
+| Sandworm-riding |
+| Bene Gesserit training |
+| Stillsuit sweating |
+| Weirding |
+| Sietch dwelling |
+| Crysknife-drawing |
+| Wormsign-spotting |
+| Melange-dreaming |
+| Spice trancing |
+| Shai-Hulud summoning |
+| Voice-commanding |
+| Ornithopter-flapping |
+
+
+### Espionage / Spy (11)
+
+| Verb |
+|------|
+| Infiltrating |
+| Code-breaking |
+| Gadgeteering |
+| Dead-dropping |
+| Wiretapping |
+| Safecracking |
+| Double crossing |
+| Exfiltrating |
+| Disguise-donning |
+| Microfilm-swapping |
+| Bomb-defusing |
+
+
+### Existential Developer (61)
+
+Philosophical musings about the craft of software development.
+
+| Verb |
+|------|
+| To ship or not to ship |
+| Every bug was once a feature |
+| The code compiles but at what cost |
+| We are all just functions awaiting our callback |
+| Nothing is permanent except technical debt |
+| The real bug was inside us all along |
+| What if the tests are testing us |
+| I think therefore I refactor |
+| To understand recursion, first understand yourself |
+| The code works and nobody knows why |
+| Existence precedes deployment |
+| We debug therefore we are |
+| The unexamined code is not worth shipping |
+| All abstractions are leaky, all code is temporary |
+| Is it a feature or a cry for help |
+| The void returns nothing, as expected |
+| Every commit is a promise to your future self |
+| Between keystrokes, eternity |
+| The backlog stares back |
+| Every merge conflict is a dialogue with the past |
+| The compiler forgives no sins |
+| Race conditions defy fate |
+| The halting problem mocks us |
+| Garbage collector reaps the unworthy |
+| Infinite recursion mirrors the soul |
+| Stack traces reveal hidden truths |
+| Legacy haunts every refactor |
+| Algorithms ponder their creators |
+| Pull requests beg for mercy |
+| Hotfixes mend fractured realities |
+| The build succeeded, but did we truly win |
+| We chase ghosts in the machine |
+| A segmentation fault, a crisis of being |
+| What is truth, if not a passed test |
+| Is the bug a choice or a destiny |
+| The null pointer whispers sweet nothings |
+| To deploy is to surrender control |
+| Do we write code, or does code write us |
+| The cursor blinks, questioning our purpose |
+| The infinite loop, a mirror of eternity |
+| The blank screen, an infinite possibility |
+| Shipping is a leap into the unknown |
+| We commit, therefore we doubt |
+| The build passes, yet meaning fails |
+| In the beginning, there was a TODO |
+| Each refactor erases a former self |
+| The simplest solution hides the deepest pain |
+| We chase edge cases to feel alive |
+| The spec is vague; so are we |
+| In production, all truths are provisional |
+| The debugger reveals, but never consoles |
+| What is a variable but borrowed certainty |
+| Every architecture is a bet against time |
+| The dependency graph mirrors our entanglements |
+| We name things to postpone the chaos |
+| The null is patient; it waits everywhere |
+| Your API reflects your inner boundaries |
+| If it works, it will be rewritten |
+| The logs know more than we admit |
+| There is no done, only deployed |
+| All pull requests seek forgiveness, not approval |
+
+
+### Firefighter (11)
+
+| Verb |
+|------|
+| Hose-blasting |
+| Ladder-climbing |
+| Siren-wailing |
+| Axe-chopping |
+| Smoke-venting |
+| Hydrant-hooking |
+| Backdraft-watching |
+| Rescue-carrying |
+| Hotspot-spotting |
+| Dalmatian-petting |
+| Fireline-holding |
+
+
+### Food (14)
+
+| Verb |
+|------|
+| Pickling |
+| Curing |
+| Brining |
+| Dehydrating |
+| Smoking |
+| Macerating |
+| Spherifying |
+| Sourdough starting |
+| Kombucha brewing |
+| Canning |
+| Distilling |
+| Kimchi fermenting |
+| Dry-aging |
+| Aging |
+
+
+### Gaming (13)
+
+| Verb |
+|------|
+| Respawning |
+| Speedrunning |
+| Leveling-up |
+| Button-mashing |
+| Looting |
+| Nerfing |
+| Buffing |
+| Glitch-hunting |
+| No-scoping |
+| Save-scumming |
+| Power-leveling |
+| Loot-farming |
+| Pixel-pushing |
+
+
+### Gardening / Botanical (11)
+
+| Verb |
+|------|
+| Composting |
+| Pruning |
+| Trellising |
+| Repotting |
+| Mulching |
+| Seed-starting |
+| Deadheading |
+| Grafting |
+| Transplanting |
+| Weed-whacking |
+| Worm-casting |
+
+
 ### Gastropod Zen (78)
 
 | Verb |
@@ -1544,160 +987,194 @@ Accomplishing, Actioning, Actualizing, Architecting, Baking, Beaming, Beboppin',
 | The cosmos crawls with me |
 | One sacred inch closer |
 
-### Mission Control / Space Launch (80)
 
-Space ops drama meets software development.
-
-| Verb |
-|------|
-| T-minus deployment |
-| Go for launch on main |
-| We have liftoff on the build |
-| Ignition sequence start for the build |
-| Clearing the tower for release |
-| Main engine start, build igniting |
-| Pre-flight checks on dependencies |
-| Running preflight checks on PRs |
-| Fueling up the dependency tank |
-| Uploading flight plan to the repo |
-| Holding at T-minus for review |
-| T-minus npm install |
-| All systems nominal... probably |
-| Passing through max-Q |
-| Booster separation confirmed |
-| Telemetry looks good from here |
-| Entering the deployment window |
-| Copy that, deploying payload |
-| Mission elapsed time unknown |
-| Orbit achieved, tests are green |
-| The build is in a stable orbit |
-| Entering warp speed for compilation |
-| Max Q, peak CPU usage |
-| Fairing separation, lint complete |
-| Ion thrusters, code optimizing |
-| Spinning up nav for the next sprint |
-| Computing burn vector for hotfix |
-| Houston, we have a merge conflict |
-| Houston, we have a memory leak |
-| Houston, requesting permission to push |
-| Ground control to major refactor |
-| Flight, we are go for commit |
-| Downrange tracking, logs incoming |
-| Acquiring signal from the test suite |
-| Establishing a secure comm link with the API |
-| Searching for life in the log files |
-| Uplink PR diffs |
-| Checking comms on the API link |
-| Initiating docking sequence with upstream |
-| Rendezvous with main branch |
-| Rendezvous with the staging environment |
-| Capturing the capsule with code review |
-| Synchronizing primary and backup databases |
-| Synchronizing clocks with NTP and git |
-| Abort abort abort... never mind |
-| Go no-go for rebase |
-| Correcting trajectory with a quick rebase |
-| Performing a trajectory correction on the roadmap |
-| Aligning guidance with lint rules |
-| Activating the debug thrusters |
-| Holding attitude while cache warms up |
-| Commencing payload separation into microservices |
-| Deploying the lunar module to a new branch |
-| Staging the payload in production |
-| Cycling the airlock on feature flags |
-| Jettisoning debug logs at altitude |
-| Reentry is always the hard part |
-| Initiating a controlled descent into production |
-| Preparing for reentry, cross your fingers |
-| Deorbit burn for rollback |
-| Patching the heat shield for prod |
-| Parachute deploy, graceful degrade |
-| Touchdown on prod server |
-| Post-flight debug underway |
-| Running diagnostics on the core components |
-| Core stage, core dumps analyzed |
-| Range safety, circuit breaker |
-| Navigating the asteroid field of deprecated libraries |
-| Monitoring cabin pressure in containers |
-| Aligning the orbital parameters for the database |
-| Avionics bay, refactoring modules |
-| One small step for the codebase |
-| The eagle has merged |
-| Houston, dependency injected |
-| Go for orbital commit |
-| Engaging autopilot on the deploy script |
-| Engaging the autopilot for code review |
-| Next launch window polling |
-| Clearing tower for git push |
-| Igniting engines on the CI stack |
-
-### Existential Developer (61)
-
-Philosophical musings about the craft of software development.
+### Geology (11)
 
 | Verb |
 |------|
-| To ship or not to ship |
-| Every bug was once a feature |
-| The code compiles but at what cost |
-| We are all just functions awaiting our callback |
-| Nothing is permanent except technical debt |
-| The real bug was inside us all along |
-| What if the tests are testing us |
-| I think therefore I refactor |
-| To understand recursion, first understand yourself |
-| The code works and nobody knows why |
-| Existence precedes deployment |
-| We debug therefore we are |
-| The unexamined code is not worth shipping |
-| All abstractions are leaky, all code is temporary |
-| Is it a feature or a cry for help |
-| The void returns nothing, as expected |
-| Every commit is a promise to your future self |
-| Between keystrokes, eternity |
-| The backlog stares back |
-| Every merge conflict is a dialogue with the past |
-| The compiler forgives no sins |
-| Race conditions defy fate |
-| The halting problem mocks us |
-| Garbage collector reaps the unworthy |
-| Infinite recursion mirrors the soul |
-| Stack traces reveal hidden truths |
-| Legacy haunts every refactor |
-| Algorithms ponder their creators |
-| Pull requests beg for mercy |
-| Hotfixes mend fractured realities |
-| The build succeeded, but did we truly win |
-| We chase ghosts in the machine |
-| A segmentation fault, a crisis of being |
-| What is truth, if not a passed test |
-| Is the bug a choice or a destiny |
-| The null pointer whispers sweet nothings |
-| To deploy is to surrender control |
-| Do we write code, or does code write us |
-| The cursor blinks, questioning our purpose |
-| The infinite loop, a mirror of eternity |
-| The blank screen, an infinite possibility |
-| Shipping is a leap into the unknown |
-| We commit, therefore we doubt |
-| The build passes, yet meaning fails |
-| In the beginning, there was a TODO |
-| Each refactor erases a former self |
-| The simplest solution hides the deepest pain |
-| We chase edge cases to feel alive |
-| The spec is vague; so are we |
-| In production, all truths are provisional |
-| The debugger reveals, but never consoles |
-| What is a variable but borrowed certainty |
-| Every architecture is a bet against time |
-| The dependency graph mirrors our entanglements |
-| We name things to postpone the chaos |
-| The null is patient; it waits everywhere |
-| Your API reflects your inner boundaries |
-| If it works, it will be rewritten |
-| The logs know more than we admit |
-| There is no done, only deployed |
-| All pull requests seek forgiveness, not approval |
+| Tectonic shifting |
+| Eroding |
+| Fossilizing |
+| Subducting |
+| Stratifying |
+| Sedimenting |
+| Faulting |
+| Quaking |
+| Geyser-spewing |
+| Core-drilling |
+| Magma-intruding |
+
+
+### Git Commit Messages (60)
+
+Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
+
+| Verb |
+|------|
+| fix: everything, hopefully |
+| feat: something probably useful |
+| feat: one more button |
+| chore: pretend this never happened |
+| chore: swept under rug |
+| docs: update README, still unclear |
+| docs: lied about changes |
+| refactor: same bugs, new names |
+| refactor: because I got bored |
+| perf: feels faster anyway |
+| perf: make it faster-ish |
+| style: appease the linter |
+| test: passes in theory |
+| test: works on my machine |
+| hotfix: production is on fire |
+| hotfix: ctrl+z reality |
+| ci: appease the pipeline gods |
+| build: sacrifice to dependency hell |
+| fixup! pretend this is normal |
+| revert: back to broken |
+| Rebasing on a prayer |
+| Squashing commits and dreams |
+| git blame never lies |
+| Amending history, as one does |
+| Cherry-picking the good parts |
+| Force pushing with confidence |
+| Resolving conflicts, inner and outer |
+| Stashing feelings for later |
+| Detached HEAD, attached heart |
+| Reverting to simpler times |
+| Merge branch 'hope' into 'reality' |
+| Staging changes, not emotions |
+| Branching into existential crisis |
+| Stashed changes for future regret |
+| New branch, same old problems |
+| Pulling latest, summoning new bugs |
+| Fetching origin, ignoring my problems |
+| Reflog reveals past mistakes |
+| blame: it wasn't me |
+| WIP don't judge me |
+| WIP: send help |
+| Please work this time |
+| Commit now, explain never |
+| One more commit ought to do it |
+| This commit fixes the last fix |
+| Fixing the fix that fixed the fix |
+| Pushing to main, living dangerously |
+| Pushing to prod, what could go wrong? |
+| deploy: hold my beer |
+| release: ship it, hold breath |
+| Tagging v1.0, emotionally unready |
+| git reset: like it never happened |
+| The diff tells a story |
+| git log: therapy session |
+| pull: latest version of dread |
+| Merge conflicts, choose violence |
+| bisect: find the crime scene |
+| git push --force-with-fear |
+| squash: condense chaos into one |
+| Applying patch of temporary relief |
+
+
+### Godzilla (28)
+
+Verbs based on the Godzilla franchise.
+
+| Verb |
+|------|
+| Atomic-breathing |
+| Kaiju-wrangling |
+| MechaGodzilla-piloting |
+| Monster Island-vacationing |
+| Mothra-praying |
+| City-stomping |
+| MUTO-nesting |
+| Titan-awakening |
+| Oxygen-destroying |
+| Dorsal-fin-glowing |
+| Ghidorah-headbutting |
+| Skull Island-exploring |
+| Monarch-monitoring |
+| Rodan-swooping |
+| Kong-climbing |
+| Gigan-slashing |
+| Shobijin-summoning |
+| Evangelion-syncing |
+| Kaiju-scoring |
+| Radiation-absorbing |
+| Godzilla-roaring |
+| Mothra-chanting |
+| Biollante-blooming |
+| Hedorah-polluting |
+| Anguirus-rolling |
+| Jet Jaguar-signaling |
+| SpaceGodzilla-crystalizing |
+| Destroyah-fragmenting |
+
+### Harry Potter (13)
+
+| Verb |
+|------|
+| Expelliarmus casting |
+| Expecto Patronum summoning |
+| Potion-brewing |
+| Quidditch playing |
+| Wand-waving |
+| Horcrux-hunting |
+| Floo powder traveling |
+| Snitch-catching |
+| Accio summoning |
+| Alohomora unlocking |
+| Marauding |
+| Howler-sending |
+| Boggart-banishing |
+
+
+### James Bond (10)
+
+| Verb |
+|------|
+| Shaken-not-stirring |
+| Q branch tinkering |
+| Aston Martin driving |
+| Introducing 007 |
+| Goldfingering |
+| Bonding |
+| Tuxedo strutting |
+| Dropping one liners |
+| Playing Casino Royale |
+| Moneypenny flirting |
+
+
+### Jungle / Rainforest (11)
+
+| Verb |
+|------|
+| Vine-swinging |
+| Canopy-hopping |
+| Toucan-calling |
+| Monkey-chattering |
+| Jaguar-stalking |
+| Anaconda-dodging |
+| Frog-chorusing |
+| Waterfall-plunging |
+| Butterfly-fluttering |
+| River-rafting |
+| Orchid-blooming |
+
+
+### Jurassic Park (10)
+
+| Verb |
+|------|
+| Stalking raptors |
+| Life finding a way |
+| T-Rex-roaring |
+| Cloning dinos |
+| Pondering chaos theory |
+| Outsmarting raptors |
+| Amber-extracting |
+| Sparing no expense |
+| Raptor-pack-hunting |
+| Island-escaping |
+
 
 ### Kitchen Nightmares (80)
 
@@ -1786,83 +1263,267 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Lint limp lasagne |
 | Fork fiasco frozen |
 
-### Noir Detective (71)
 
-Hard-boiled debugging — film noir meets software development.
+### Knitting / Textile (11)
 
 | Verb |
 |------|
-| The logs told a different story |
-| Following the stack trace downtown |
-| This bug had an alibi |
-| The function was a dead end |
-| Someone left a null in the alley |
-| The debugger never lies |
-| Every variable has a past |
-| I've seen cleaner code in a dumpster |
-| The exception came in from the cold |
-| Two threads walked into a deadlock |
-| The commit history don't add up |
-| She had errors in all the right places |
-| Nobody leaves production clean |
-| This recursion goes deeper than I thought |
-| The memory leak started at midnight |
-| Trust nobody, especially the tests |
-| I've been chasing this pointer for days |
-| The dependency was hiding in plain sight |
-| Rain on the terminal window |
-| Another night, another nil |
-| Stakeout on the garbage collector |
-| Promises colder than the rain |
-| Shady inheritance in the class |
-| Neon glow on console errors |
-| Regex with a criminal record |
-| Hotfix was the smoking gun |
-| Iterator spilled all the beans |
-| Deprecated shadow in the code |
-| Race condition in the mist |
-| Profiling dim-lit suspects |
-| Router hid a dirty secret |
-| Merge conflict at midnight |
-| Floating point double-cross |
-| Coroutine vanished in fog |
-| Ciphertext cracked open |
-| Payload dropped in shadows |
-| Breach lit by terminal rain |
-| The build was rigged from the start |
-| This API had a shady reputation |
-| The latency was a real killer |
-| Authenticating the alibi |
-| Refactoring the crooked logic |
-| The firewall was a brick wall |
-| Chasing a phantom reference |
-| The cache, a dame with a short memory |
-| Debugging by the pale moonlight |
-| Another case, another corrupted file |
-| The client was a known liar |
-| Parsing the confession |
-| This endpoint leads to nowhere |
-| Digging up ancient commit messages |
-| Decrypting the server's whispers |
-| Compiling the case notes |
-| Shaking down the service for answers |
-| The casefile was full of edge cases |
-| A shadow moved in the heap |
-| That loop was running a racket |
-| The build went missing after dark |
-| Interrogating the flaky test witness |
-| The pipeline sang like a cheap violin |
-| I tailed the bug through old commits |
-| The UI wore a perfect mask |
-| Someone tampered with the config |
-| The profiler lit a cigarette and talked |
-| A dirty flag in a clean suit |
-| The API squealed under pressure |
-| This patch smells like trouble |
-| The server hummed a guilty tune |
-| Another clue in the core dump |
-| Grepping the streets for a clue |
-| The cache was lying to my face |
+| Crocheting |
+| Loom-weaving |
+| Yarn-bombing |
+| Purling |
+| Casting-on |
+| Cable-twisting |
+| Felting |
+| Quilting |
+| Bobbin-winding |
+| Swatch-knitting |
+| Pattern-reading |
+
+
+### Lord of the Rings (13)
+
+| Verb |
+|------|
+| Second-breakfasting |
+| Ring-bearing |
+| Ent mooting |
+| Shadowfax riding |
+| Palantir-peeking |
+| Lembas-munching |
+| Balrog-baiting |
+| Precious-hoarding |
+| Mithril-mining |
+| Gandalf sparking |
+| Nazgul-screeching |
+| Treebeard-muttering |
+| Shire-frolicking |
+
+
+### Mario / Nintendo (11)
+
+| Verb |
+|------|
+| Mushrooming |
+| Pipe-warping |
+| Star-powering |
+| Goomba-stomping |
+| Coin-collecting |
+| Fire flower shooting |
+| Princess-rescuing |
+| Kart-racing |
+| 1-up collecting |
+| Yoshi-riding |
+| Koopa shell tossing |
+
+
+### Marvel / MCU (13)
+
+| Verb |
+|------|
+| Hulk-smashing |
+| Wakanda forever chanting |
+| Assembling |
+| Web-slinging |
+| Thanos-snapping |
+| Thor-hammering |
+| Infinity Stone wielding |
+| Arc reactor powering |
+| Vibranium-forging |
+| Multiverse-hopping |
+| Bifrost-bridging |
+| Groot-rooting |
+| Shield-throwing |
+
+
+### Mathematics (11)
+
+| Verb |
+|------|
+| Deriving |
+| Integrating |
+| Induction proving |
+| Factorizing |
+| Eigenvalue hunting |
+| Fractal zooming |
+| Fourier-transforming |
+| Matrix-multiplying |
+| Vectorizing |
+| Graph-traversing |
+| Differentiating |
+
+
+### The Matrix (11)
+
+| Verb |
+|------|
+| Red-pilling |
+| Bullet-timing |
+| Glitching |
+| Spoon-bending |
+| Agent-smithing |
+| Neo-dodging |
+| Kung-fu-loading |
+| Code-raining |
+| Denying spoons |
+| Jacking-in |
+| Reality-bending |
+
+
+### Medieval / Knights (10)
+
+| Verb |
+|------|
+| Jousting |
+| Drawbridge lowering |
+| Dragon-slaying |
+| Castle-sieging |
+| Sword-swinging |
+| Chainmail-clanking |
+| Quest-embarking |
+| Round-tabling |
+| Chivalry upholding |
+| Armor-donning |
+
+
+### Meme Culture (11)
+
+| Verb |
+|------|
+| Distracted glancing |
+| Sitting in fire |
+| Yeeting |
+| Dank-meming |
+| Galaxy-braining |
+| Pressing F |
+| Stonks rising |
+| Among Us sussing |
+| Ogre layering |
+| Drake-approving |
+| Spongebob-mocking |
+
+
+### Minecraft (11)
+
+| Verb |
+|------|
+| Creeper sneaking |
+| Redstone wiring |
+| Ender teleporting |
+| Block-placing |
+| Diamond-mining |
+| Nether-portaling |
+| Elytra-gliding |
+| Villager-trading |
+| Bed-exploding |
+| Biome-exploring |
+| Pickaxe-swinging |
+
+
+### Mission Control / Space Launch (80)
+
+Space ops drama meets software development.
+
+| Verb |
+|------|
+| T-minus deployment |
+| Go for launch on main |
+| We have liftoff on the build |
+| Ignition sequence start for the build |
+| Clearing the tower for release |
+| Main engine start, build igniting |
+| Pre-flight checks on dependencies |
+| Running preflight checks on PRs |
+| Fueling up the dependency tank |
+| Uploading flight plan to the repo |
+| Holding at T-minus for review |
+| T-minus npm install |
+| All systems nominal... probably |
+| Passing through max-Q |
+| Booster separation confirmed |
+| Telemetry looks good from here |
+| Entering the deployment window |
+| Copy that, deploying payload |
+| Mission elapsed time unknown |
+| Orbit achieved, tests are green |
+| The build is in a stable orbit |
+| Entering warp speed for compilation |
+| Max Q, peak CPU usage |
+| Fairing separation, lint complete |
+| Ion thrusters, code optimizing |
+| Spinning up nav for the next sprint |
+| Computing burn vector for hotfix |
+| Houston, we have a merge conflict |
+| Houston, we have a memory leak |
+| Houston, requesting permission to push |
+| Ground control to major refactor |
+| Flight, we are go for commit |
+| Downrange tracking, logs incoming |
+| Acquiring signal from the test suite |
+| Establishing a secure comm link with the API |
+| Searching for life in the log files |
+| Uplink PR diffs |
+| Checking comms on the API link |
+| Initiating docking sequence with upstream |
+| Rendezvous with main branch |
+| Rendezvous with the staging environment |
+| Capturing the capsule with code review |
+| Synchronizing primary and backup databases |
+| Synchronizing clocks with NTP and git |
+| Abort abort abort... never mind |
+| Go no-go for rebase |
+| Correcting trajectory with a quick rebase |
+| Performing a trajectory correction on the roadmap |
+| Aligning guidance with lint rules |
+| Activating the debug thrusters |
+| Holding attitude while cache warms up |
+| Commencing payload separation into microservices |
+| Deploying the lunar module to a new branch |
+| Staging the payload in production |
+| Cycling the airlock on feature flags |
+| Jettisoning debug logs at altitude |
+| Reentry is always the hard part |
+| Initiating a controlled descent into production |
+| Preparing for reentry, cross your fingers |
+| Deorbit burn for rollback |
+| Patching the heat shield for prod |
+| Parachute deploy, graceful degrade |
+| Touchdown on prod server |
+| Post-flight debug underway |
+| Running diagnostics on the core components |
+| Core stage, core dumps analyzed |
+| Range safety, circuit breaker |
+| Navigating the asteroid field of deprecated libraries |
+| Monitoring cabin pressure in containers |
+| Aligning the orbital parameters for the database |
+| Avionics bay, refactoring modules |
+| One small step for the codebase |
+| The eagle has merged |
+| Houston, dependency injected |
+| Go for orbital commit |
+| Engaging autopilot on the deploy script |
+| Engaging the autopilot for code review |
+| Next launch window polling |
+| Clearing tower for git push |
+| Igniting engines on the CI stack |
+
+
+### Monty Python (11)
+
+| Verb |
+|------|
+| Ni-ing |
+| Holy-grailing |
+| Spam-spamming |
+| Silly-walking |
+| Dead-parroting |
+| Coconut-clopping |
+| French-taunting |
+| Nobody expecting |
+| Black-knight-fighting |
+| Lumberjack-singing |
+| Catapulting cows |
+
 
 ### Motivational Poster (80)
 
@@ -1951,6 +1612,7 @@ Inspirational quotes that went through a code review — slightly off, deeply de
 | Small steps; large diffs are still steps |
 | Progress is one more green checkmark |
 
+
 ### Museum Tour Guide (74)
 
 Narrating legacy code — a museum docent walks you through the relics of an old codebase.
@@ -2032,104 +1694,625 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | This interface was added to appease auditors |
 | Please ignore the dust: it's just warnings |
 
-### Git Commit Messages (60)
 
-Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
-
-| Verb |
-|------|
-| fix: everything, hopefully |
-| feat: something probably useful |
-| feat: one more button |
-| chore: pretend this never happened |
-| chore: swept under rug |
-| docs: update README, still unclear |
-| docs: lied about changes |
-| refactor: same bugs, new names |
-| refactor: because I got bored |
-| perf: feels faster anyway |
-| perf: make it faster-ish |
-| style: appease the linter |
-| test: passes in theory |
-| test: works on my machine |
-| hotfix: production is on fire |
-| hotfix: ctrl+z reality |
-| ci: appease the pipeline gods |
-| build: sacrifice to dependency hell |
-| fixup! pretend this is normal |
-| revert: back to broken |
-| Rebasing on a prayer |
-| Squashing commits and dreams |
-| git blame never lies |
-| Amending history, as one does |
-| Cherry-picking the good parts |
-| Force pushing with confidence |
-| Resolving conflicts, inner and outer |
-| Stashing feelings for later |
-| Detached HEAD, attached heart |
-| Reverting to simpler times |
-| Merge branch 'hope' into 'reality' |
-| Staging changes, not emotions |
-| Branching into existential crisis |
-| Stashed changes for future regret |
-| New branch, same old problems |
-| Pulling latest, summoning new bugs |
-| Fetching origin, ignoring my problems |
-| Reflog reveals past mistakes |
-| blame: it wasn't me |
-| WIP don't judge me |
-| WIP: send help |
-| Please work this time |
-| Commit now, explain never |
-| One more commit ought to do it |
-| This commit fixes the last fix |
-| Fixing the fix that fixed the fix |
-| Pushing to main, living dangerously |
-| Pushing to prod, what could go wrong? |
-| deploy: hold my beer |
-| release: ship it, hold breath |
-| Tagging v1.0, emotionally unready |
-| git reset: like it never happened |
-| The diff tells a story |
-| git log: therapy session |
-| pull: latest version of dread |
-| Merge conflicts, choose violence |
-| bisect: find the crime scene |
-| git push --force-with-fear |
-| squash: condense chaos into one |
-| Applying patch of temporary relief |
-
-### Godzilla (28)
-
-Verbs based on the Godzilla franchise.
+### Music / Dance (16)
 
 | Verb |
 |------|
-| Atomic-breathing |
-| Kaiju-wrangling |
-| MechaGodzilla-piloting |
-| Monster Island-vacationing |
-| Mothra-praying |
-| City-stomping |
-| MUTO-nesting |
-| Titan-awakening |
-| Oxygen-destroying |
-| Dorsal-fin-glowing |
-| Ghidorah-headbutting |
-| Skull Island-exploring |
-| Monarch-monitoring |
-| Rodan-swooping |
-| Kong-climbing |
-| Gigan-slashing |
-| Shobijin-summoning |
-| Evangelion-syncing |
-| Kaiju-scoring |
-| Radiation-absorbing |
-| Godzilla-roaring |
-| Mothra-chanting |
-| Biollante-blooming |
-| Hedorah-polluting |
-| Anguirus-rolling |
-| Jet Jaguar-signaling |
-| SpaceGodzilla-crystalizing |
-| Destroyah-fragmenting |
+| Beatboxing |
+| Breakdancing |
+| Freestyling |
+| Headbanging |
+| Moshing |
+| Krumping |
+| Voguing |
+| Sampling |
+| Jamming |
+| Salsa dancing |
+| Tangoing |
+| Rapping |
+| Djembe drumming |
+| Turntable scratching |
+| Two-stepping |
+| Moonstomping |
+
+
+### Noir Detective (71)
+
+Hard-boiled debugging — film noir meets software development.
+
+| Verb |
+|------|
+| The logs told a different story |
+| Following the stack trace downtown |
+| This bug had an alibi |
+| The function was a dead end |
+| Someone left a null in the alley |
+| The debugger never lies |
+| Every variable has a past |
+| I've seen cleaner code in a dumpster |
+| The exception came in from the cold |
+| Two threads walked into a deadlock |
+| The commit history don't add up |
+| She had errors in all the right places |
+| Nobody leaves production clean |
+| This recursion goes deeper than I thought |
+| The memory leak started at midnight |
+| Trust nobody, especially the tests |
+| I've been chasing this pointer for days |
+| The dependency was hiding in plain sight |
+| Rain on the terminal window |
+| Another night, another nil |
+| Stakeout on the garbage collector |
+| Promises colder than the rain |
+| Shady inheritance in the class |
+| Neon glow on console errors |
+| Regex with a criminal record |
+| Hotfix was the smoking gun |
+| Iterator spilled all the beans |
+| Deprecated shadow in the code |
+| Race condition in the mist |
+| Profiling dim-lit suspects |
+| Router hid a dirty secret |
+| Merge conflict at midnight |
+| Floating point double-cross |
+| Coroutine vanished in fog |
+| Ciphertext cracked open |
+| Payload dropped in shadows |
+| Breach lit by terminal rain |
+| The build was rigged from the start |
+| This API had a shady reputation |
+| The latency was a real killer |
+| Authenticating the alibi |
+| Refactoring the crooked logic |
+| The firewall was a brick wall |
+| Chasing a phantom reference |
+| The cache, a dame with a short memory |
+| Debugging by the pale moonlight |
+| Another case, another corrupted file |
+| The client was a known liar |
+| Parsing the confession |
+| This endpoint leads to nowhere |
+| Digging up ancient commit messages |
+| Decrypting the server's whispers |
+| Compiling the case notes |
+| Shaking down the service for answers |
+| The casefile was full of edge cases |
+| A shadow moved in the heap |
+| That loop was running a racket |
+| The build went missing after dark |
+| Interrogating the flaky test witness |
+| The pipeline sang like a cheap violin |
+| I tailed the bug through old commits |
+| The UI wore a perfect mask |
+| Someone tampered with the config |
+| The profiler lit a cigarette and talked |
+| A dirty flag in a clean suit |
+| The API squealed under pressure |
+| This patch smells like trouble |
+| The server hummed a guilty tune |
+| Another clue in the core dump |
+| Grepping the streets for a clue |
+| The cache was lying to my face |
+
+
+### Ocean / Marine (11)
+
+| Verb |
+|------|
+| Whale-singing |
+| Reef building |
+| Tide-pooling |
+| Dolphin-leaping |
+| Shark-circling |
+| Octopus-inking |
+| Kelp swaying |
+| Wave-crashing |
+| Plankton-drifting |
+| Seashell-collecting |
+| Sea foam bubbling |
+
+
+### The Office (12)
+
+| Verb |
+|------|
+| Dropping innuendos |
+| Chili-spilling |
+| Assistant managing |
+| Stapler-jello-ing |
+| Prison-miking |
+| Beet-farming |
+| Jim-pranking |
+| Shuffling paper |
+| Botching math |
+| Midnight screening |
+| Dundie-awarding |
+| Snatching pretzels |
+
+
+### Onomatopoeia (12)
+
+| Verb |
+|------|
+| Zapping |
+| Swooshing |
+| Clicking |
+| Splatting |
+| Boinging |
+| Fizzing |
+| Buzzing |
+| Bleeping |
+| Clunking |
+| Thunking |
+| Ka-powing |
+| Gurgling |
+
+
+### Paleontology (11)
+
+| Verb |
+|------|
+| Excavating |
+| Carbon-dating |
+| Fossil-hunting |
+| Bone-brushing |
+| Dino-reconstructing |
+| Strata-sifting |
+| Trackway-tracing |
+| Amber-entombing |
+| Coprolite-collecting |
+| Museum-curating |
+| Skull-mounting |
+
+
+### Photography (11)
+
+| Verb |
+|------|
+| Aperture tweaking |
+| Long exposing |
+| Golden hour chasing |
+| Shutter-clicking |
+| Lens-focusing |
+| Bokeh-blurring |
+| Focus-pulling |
+| White-balancing |
+| RAW-processing |
+| Color-grading |
+| ISO-adjusting |
+
+
+### Pirate / Nautical (11)
+
+| Verb |
+|------|
+| Swashbuckling |
+| Plundering |
+| Yo-ho-hoing |
+| Treasure-mapping |
+| Sea-shantying |
+| Cannon-firing |
+| Jolly-rogering |
+| Plank-walking |
+| Parrot-perching |
+| Deck-swabbing |
+| Keelhauling |
+
+
+### Pokemon (11)
+
+| Verb |
+|------|
+| Pikachu shocking |
+| Evolving |
+| Pokeball-throwing |
+| Catchin' em all |
+| Gym-battling |
+| Shiny-hunting |
+| Team Rocket blasting |
+| Pokedex scanning |
+| Thunderbolting |
+| Master Ball throwing |
+| Type-matching |
+
+
+### Prohibition Era (11)
+
+| Verb |
+|------|
+| Bootlegging |
+| Speakeasy sneaking |
+| Charleston dancing |
+| Moonshining |
+| Tommy-gunning |
+| Bathtub gin brewing |
+| G-man-dodging |
+| Jazz-clubbing |
+| Flapper dancing |
+| Gatsby partying |
+| Fedora-tilting |
+
+
+### Quantum Physics (11)
+
+| Verb |
+|------|
+| Entangling |
+| Superposition juggling |
+| Collapsing |
+| Tunneling |
+| Schrödinger-catting |
+| Qubit-flipping |
+| Decohering |
+| Wavefunction evolving |
+| Uncertainty hedging |
+| Vacuum-fluctuating |
+| Spin-flipping |
+
+
+### Retro Gaming (11)
+
+| Verb |
+|------|
+| Pac-Man chomping |
+| Tetris stacking |
+| Konami code entering |
+| Cartridge-blowing |
+| Coin-inserting |
+| Joystick-waggling |
+| 8-bit-bopping |
+| Sprite-rendering |
+| Warp-zoning |
+| Boss-rushing |
+| High-score-chasing |
+
+
+### Samurai / Japanese (11)
+
+| Verb |
+|------|
+| Bushido honoring |
+| Sensei bowing |
+| Origami folding |
+| Katana-drawing |
+| Haiku-writing |
+| Tea ceremony pouring |
+| Zen-meditating |
+| Dojo-training |
+| Cherry-blossoming |
+| Ninja-stealthing |
+| Bamboo-cutting |
+
+
+### Sci-Fi / Space (16)
+
+| Verb |
+|------|
+| Teleporting |
+| Wormholing |
+| Hyperdriving |
+| Lightspeeding |
+| Quantumleaping |
+| Astrogating |
+| Planetforming |
+| Nanoswarming |
+| Warp-driving |
+| Lightsabering |
+| Phasing |
+| Time-warping |
+| Hypershifting |
+| Nebula-hopping |
+| Photon-blasting |
+| Tractor-beaming |
+
+
+### Social Media (11)
+
+| Verb |
+|------|
+| Doom-swiping |
+| Going viral |
+| Algorithm gaming |
+| Hashtagging |
+| DM-sliding |
+| Clout-chasing |
+| Clickbaiting |
+| Thread-spinning |
+| Feed-refreshing |
+| Like-farming |
+| Influencing |
+
+
+### Sports (16)
+
+| Verb |
+|------|
+| Skateboarding |
+| Snowboarding |
+| Surfing |
+| Bouldering |
+| Parkouring |
+| Skydiving |
+| Bungee jumping |
+| Freeclimbing |
+| Polevaulting |
+| Kayaking |
+| Juggling |
+| Slacklining |
+| Rock-climbing |
+| Shadowboxing |
+| Yoga posing |
+| Trampolining |
+
+
+### Star Trek (14)
+
+| Verb |
+|------|
+| Engaging |
+| Beaming-up |
+| Boldly-going |
+| Mind-melding |
+| Holodeck simulating |
+| Tricorder scanning |
+| Redshirting |
+| Assimilating |
+| Tribble breeding |
+| Vulcan nerve pinching |
+| Red-alerting |
+| Cheating Kobayashi |
+| Prime Directive following |
+| Replicating |
+
+
+### Star Wars (12)
+
+| Verb |
+|------|
+| Force-pushing |
+| Jedi-mind-tricking |
+| Podracing |
+| Wookiee-roaring |
+| Kessel-running |
+| Cantina-jamming |
+| Bounty-hunting |
+| Sarlacc-dodging |
+| Ewok-dancing |
+| Saber-dueling |
+| Trench-running |
+| Yoda-flipping |
+
+
+### Stranger Things (11)
+
+| Verb |
+|------|
+| Upside down exploring |
+| Mind-flaying |
+| Eating Eggos |
+| Demogorgon-dodging |
+| Fleeing Vecna |
+| Scooping cones |
+| Mall raiding |
+| Hellfire Club rolling |
+| Christmas-lighting |
+| Gate portaling |
+| D&D campaigning |
+
+
+### Streaming / Creator (11)
+
+| Verb |
+|------|
+| Rage-quitting |
+| Calling GG |
+| Chat-moderating |
+| Sub-gifting |
+| Emote-spamming |
+| Overlay-tweaking |
+| Clip-editing |
+| Mic-checking |
+| Hype-train-riding |
+| Raid-hosting |
+| Stream-starting |
+
+
+### Studio Ghibli (10)
+
+| Verb |
+|------|
+| Totoro waiting |
+| Spiriting-away |
+| Riding catbus |
+| Moving castle |
+| Calcifer-burning |
+| Kiki-delivering |
+| Soot sprite scattering |
+| Ponyo-splashing |
+| Nausicaa-gliding |
+| Laputa-floating |
+
+
+### Synesthesia / Colors (11)
+
+| Verb |
+|------|
+| Ultraviolet glowing |
+| Iridescent shimmering |
+| Prism refracting |
+| Hue-shifting |
+| Chromatic-blooming |
+| Spectrum-singing |
+| Color-splashing |
+| Saturation-boosting |
+| Rainbow-blending |
+| Luminance-mapping |
+| Aura-sensing |
+
+
+### Tech / Programming (14)
+
+| Verb |
+|------|
+| Dockerizing |
+| Kubernetizing |
+| Terraforming |
+| Refactoring |
+| Parsing |
+| Recursing |
+| Virtualizing |
+| Microservicing |
+| Debugging |
+| Deploying |
+| Compiling |
+| Linting |
+| Hotfixing |
+| Profiling |
+
+
+### Trading / Crypto (13)
+
+| Verb |
+|------|
+| Hodling |
+| Longing |
+| Shorting |
+| Staking |
+| Mining |
+| Minting |
+| Degening |
+| Apeing |
+| Mooning |
+| Swapping |
+| Charting |
+| Yieldfarming |
+| Arbitraging |
+
+
+### Victorian / Steampunk (11)
+
+| Verb |
+|------|
+| Haberdashing |
+| Clockwork tinkering |
+| Monocle-adjusting |
+| Airship-sailing |
+| Gear-turning |
+| Cogwheel turning |
+| Brass-polishing |
+| Top hat tipping |
+| Steam-hissing |
+| Goggles adjusting |
+| Automaton-winding |
+
+
+### Viking / Norse (11)
+
+| Verb |
+|------|
+| Pillaging |
+| Berserking |
+| Valhalla calling |
+| Longship-rowing |
+| Rune-carving |
+| Shield-walling |
+| Mead hall toasting |
+| Saga-telling |
+| Axe-throwing |
+| Ragnarok-prepping |
+| Fjord-sailing |
+
+
+### Volcanic (11)
+
+| Verb |
+|------|
+| Erupting |
+| Lava-flowing |
+| Magma rising |
+| Ash cloud billowing |
+| Pyroclastic surging |
+| Caldera-collapsing |
+| Pumice-floating |
+| Fumarole-smoking |
+| Tephra-raining |
+| Burying Pompeii |
+| Basalt-cooling |
+
+
+### Weather / Storms (11)
+
+| Verb |
+|------|
+| Monsoon raging |
+| Tornado twisting |
+| Lightning-striking |
+| Thunder-rumbling |
+| Hurricane-eyeing |
+| Cyclone-spinning |
+| Hail-pelting |
+| Rainbow-arching |
+| Fog-rolling |
+| Downpouring |
+| Barometer-watching |
+
+
+### Whimsical (20)
+
+| Verb |
+|------|
+| Giggling |
+| Daydreaming |
+| Whimsy whirling |
+| Twinkling |
+| Bouncing |
+| Hopscotching |
+| Whistling |
+| Fiddlesticking |
+| Gibbering |
+| Whiffling |
+| Bumbling |
+| Swooning |
+| Glimmering |
+| Sparkling |
+| Jesting |
+| Doodad fiddling |
+| Stargazing |
+| Galumphing |
+| Bamboozling |
+| Disco ball grooving |
+
+
+### Wild West / Cowboy (11)
+
+| Verb |
+|------|
+| Lasso-ing |
+| Tumbleweed rolling |
+| Facing a showdown |
+| Quick-drawing |
+| Saloon-swinging |
+| Gold-rushing |
+| Cattle-driving |
+| Spur-jingling |
+| Wanted poster nailing |
+| Campfire-storying |
+| Revolver-spinning |
+
+
+### Wine / Sommelier (10)
+
+| Verb |
+|------|
+| Decanting |
+| Corking |
+| Aerating |
+| Barrel-aging |
+| Vintage-selecting |
+| Bouquet-sniffing |
+| Cellar-stocking |
+| Tannin-softening |
+| Terroir-tasting |
+| Uncorking |
+
