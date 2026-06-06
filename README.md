@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,043 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,133 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,858 additional verbs** across 90 themed categories.
+**185 built-in defaults** + **1,948 additional verbs** across 92 themed categories.
 
 ## How to Add Verbs
 
@@ -78,6 +78,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Jungle / Rainforest (11)](#jungle--rainforest-11)
 - [Jurassic Park (10)](#jurassic-park-10)
 - [Knitting / Textile (11)](#knitting--textile-11)
+- [LinkedIn-Speak (45)](#linkedin-speak-45)
 - [Lord of the Rings (13)](#lord-of-the-rings-13)
 - [Mario / Nintendo (11)](#mario--nintendo-11)
 - [Marvel / MCU (13)](#marvel--mcu-13)
@@ -129,6 +130,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
+- [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
@@ -1394,6 +1396,110 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Bobbin-winding |
 | Swatch-knitting |
 | Pattern-reading |
+
+
+### LinkedIn-Speak (45)
+
+| Verb |
+|------|
+| Synergizing |
+| Circling-back |
+| Leveraging |
+| Operationalizing |
+| Future-proofing |
+| Doubling-down |
+| Moving-the-needle |
+| Deep-diving |
+| Touching-base |
+| Value-adding |
+| Growth-hacking |
+| Hustling |
+| Grinding |
+| Scaling |
+| Disrupting |
+| Streamlining |
+| Executing |
+| Amplifying |
+| Elevating |
+| Bandwidth-checking |
+| Boiling-the-ocean |
+| 10x-ing |
+| Paradigm-shifting |
+| Taking-it-offline |
+| Unpacking |
+| Building-in-public |
+| Maximizing-ROI |
+| Synergy-seeking |
+| Right-sizing |
+| Aligning |
+| Roadmapping |
+| Low-hanging-fruiting |
+| Delivering-impact |
+| Driving-outcomes |
+| Recalibrating |
+| Thought-leading |
+| Onboarding |
+| Upskilling |
+| Reskilling |
+| Empowering |
+| Networking |
+| Socializing |
+| Prioritizing |
+| Pivoting |
+| Optimizing |
+
+
+### LinkedIn-Speak Phrases (45)
+
+Thought-leader cringe for the timeline — humbled and honored to compile your code.
+
+| Verb |
+|------|
+| Humbled and honored to announce… |
+| I'm thrilled to share… |
+| Agree? |
+| Thoughts? |
+| Let that sink in. |
+| Read that again. |
+| Here's why that matters 🧵 |
+| Here are 3 key takeaways 👇 |
+| Unpopular opinion: |
+| Hot take: |
+| POV: |
+| This 👏 is 👏 everything. |
+| Failure taught me everything. |
+| Rejection is redirection. |
+| Your network is your net worth. |
+| Culture eats strategy for breakfast. |
+| It's not a sprint, it's a marathon. |
+| Consistency beats talent. |
+| Grateful for this incredible journey. |
+| We're hiring! |
+| DMs are open. |
+| Let's connect. |
+| Tag someone who needs to see this. |
+| Curious to hear your thoughts. |
+| Drop a "interested" below. |
+| Link in the comments! |
+| Stop scrolling and read this. |
+| What's your "why"? |
+| If you're not doing this, you're already behind. |
+| Not enough people are talking about this. |
+| The lesson I learned the hard way… |
+| I woke up at 4 AM for this. |
+| I had to get uncomfortable to level up. |
+| Manifesting this energy. |
+| Grindset activated. |
+| Founder mode engaged. |
+| Building in public. |
+| Thought leadership loading. |
+| Humble brag incoming. |
+| Growth unlocked. |
+| Low-hanging fruit secured. |
+| Big news: we're scaling. |
+| To the recruiter who rejected me: |
+| Quick win, big impact. |
+| Stop boiling the ocean. |
 
 
 ### Lord of the Rings (13)
