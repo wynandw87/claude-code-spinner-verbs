@@ -1,2 +1,5 @@
 # macOS
 .DS_Store
+
+# Local Claude Code skills (not shared)
+.claude/skills/
