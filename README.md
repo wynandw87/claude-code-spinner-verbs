@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,133 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,228 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,948 additional verbs** across 92 themed categories.
+**185 built-in defaults** + **2,043 additional verbs** across 94 themed categories.
 
 ## How to Add Verbs
 
@@ -73,6 +73,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Gen-Z (48)](#gen-z-48)
 - [Geology (11)](#geology-11)
 - [Godzilla (28)](#godzilla-28)
+- [Gym Bro (50)](#gym-bro-50)
 - [Harry Potter (13)](#harry-potter-13)
 - [James Bond (10)](#james-bond-10)
 - [Jungle / Rainforest (11)](#jungle--rainforest-11)
@@ -129,6 +130,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Gastropod Zen (78)](#gastropod-zen-78)
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
+- [Gym Bro Phrases (45)](#gym-bro-phrases-45)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
@@ -1224,6 +1226,116 @@ Verbs based on the Godzilla franchise.
 | Jet Jaguar-signaling |
 | SpaceGodzilla-crystalizing |
 | Destroyah-fragmenting |
+
+
+### Gym Bro (50)
+
+| Verb |
+|------|
+| Bulking |
+| Cutting |
+| Shredding |
+| Repping-out |
+| Gains-chasing |
+| Pump-chasing |
+| Deadlifting |
+| Benching |
+| Squatting |
+| Curling |
+| Spotting |
+| Maxing-out |
+| Supersetting |
+| Drop-setting |
+| Rest-pausing |
+| Deloading |
+| Overloading |
+| Micro-loading |
+| Plate-loading |
+| Rack-pulling |
+| Racking-up |
+| Macro-tracking |
+| Carb-loading |
+| Protein-loading |
+| Protein-shaking |
+| Pre-workouting |
+| Dry-scooping |
+| Foam-rolling |
+| Meal-prepping |
+| Peaking |
+| Recomping |
+| Leaning-out |
+| Locking-in |
+| Dialing-in |
+| Beast-moding |
+| Swole-maxing |
+| Flexing |
+| Mirin' |
+| Grindsetting |
+| Hypertrophying |
+| Pumping-iron |
+| Pushing-failure |
+| Chalk-dusting |
+| Mind-muscling |
+| Vein-popping |
+| Core-crushing |
+| Ego-lifting |
+| Lunking-around |
+| Rowing-hard |
+| PR-hunting |
+
+
+### Gym Bro Phrases (45)
+
+Light weight, baby — gym-bro hype for when Claude is locked in and chasing gains.
+
+| Verb |
+|------|
+| Yeah buddy, light weight |
+| Light weight baby |
+| One more rep |
+| We don't skip leg day |
+| It's all you bro |
+| Ain't nothin' but a peanut |
+| Who's gonna carry the boats?! |
+| Who's gonna carry the logs? We are |
+| Beast mode engaged |
+| No pain, no gain |
+| Feel the burn |
+| Get after it |
+| Form check |
+| Spot me bro |
+| Macros on point |
+| Progressive overload |
+| Time under tension |
+| Mind-muscle connection |
+| Chalk up, lock in, send it |
+| Sun's out, guns out |
+| Trust the process, trust the gains |
+| Sets and reps, nothing else matters |
+| Protein first, ask questions later |
+| Hydrate or diedrate |
+| Hydrate, caffeinate, compile |
+| Bulk now, cut later |
+| Gains are loading, hold tight |
+| Lock in, the rack is waiting |
+| Spotting your code like a gym bro |
+| We're going up |
+| Mirin these gains |
+| Add a plate |
+| Rack it up |
+| Train insane or remain the same |
+| Pump never lies |
+| No excuses, just reps |
+| Do you even lift |
+| Bro, do you even code? |
+| Trust me bro, this code isn't natty |
+| Loading plates, I mean modules |
+| If it's not burning, it's not learning |
+| Reps for respect, tests for proof |
+| Supersetting fixes with features |
+| New PR incoming, stand by |
+| Grind don't stop |
+
 
 ### Harry Potter (13)
 
