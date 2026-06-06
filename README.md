@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **1,945 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,043 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **1,760 additional verbs** across 88 themed categories.
+**185 built-in defaults** + **1,858 additional verbs** across 90 themed categories.
 
 ## How to Add Verbs
 
@@ -70,6 +70,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Food (14)](#food-14)
 - [Gaming (13)](#gaming-13)
 - [Gardening / Botanical (11)](#gardening--botanical-11)
+- [Gen-Z (48)](#gen-z-48)
 - [Geology (11)](#geology-11)
 - [Godzilla (28)](#godzilla-28)
 - [Harry Potter (13)](#harry-potter-13)
@@ -125,6 +126,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
 - [Gastropod Zen (78)](#gastropod-zen-78)
+- [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
@@ -987,6 +989,118 @@ Philosophical musings about the craft of software development.
 | Gastropod grace under pressure |
 | The cosmos crawls with me |
 | One sacred inch closer |
+
+
+### Gen-Z (48)
+
+| Verb |
+|------|
+| Rizzing |
+| Gyatt-checking |
+| Mogging |
+| Looksmaxxing |
+| Code-maxxing |
+| Sigma-grinding |
+| Based-ing |
+| Glazing |
+| Mewing |
+| Brainrotting |
+| Aura-farming |
+| Vibe-checking |
+| Cap-checking |
+| No-capping |
+| Skibidi-ing |
+| Tweaking |
+| Ratio-ing |
+| Spitting facts |
+| Gaslighting |
+| Gatekeeping |
+| Girlbossing |
+| Yapping |
+| Locking in |
+| Crashing out |
+| Fanum-taxing |
+| Popping off |
+| Slaying |
+| Serving |
+| Bussin |
+| Cooking |
+| Tryharding |
+| Geeking |
+| Doomscrolling |
+| Simping |
+| Cringe-dodging |
+| Pilling |
+| ATE-ing |
+| Skill-issuing |
+| Fr-fr'ing |
+| Glow-upping |
+| Maxxing |
+| Grass-touching |
+| Uncooking |
+| Deluluing |
+| Ohio-ing |
+| Main-charactering |
+| NPC-ing |
+| Sus-ing |
+
+
+### Gen-Z Phrases (50)
+
+Brainrot energy for the terminal — authentic 2024-2025 slang while Claude cooks.
+
+| Verb |
+|------|
+| No cap, cooking fr fr |
+| Ate the logic and left no crumbs |
+| It's giving compiling |
+| Understood the assignment |
+| Let him cook, fr fr |
+| Hold up, let me cook |
+| Lowkey optimizing your codebase |
+| Highkey carrying this project |
+| It's giving senior developer |
+| Highkey in my coder era |
+| Entering my main character era |
+| Main character energy — refactor time |
+| Debugging this Ohio-level code |
+| Writing based functions, no cap |
+| Securing the massive W |
+| The math is mathing |
+| The code is coding |
+| Upgrading your NPC scripts |
+| NPC bugs getting patched |
+| Checking for sus variables |
+| Sus behavior detected, investigating |
+| Compiling so you can go touch grass |
+| Being delulu about zero warnings |
+| Trust, delulu is the solulu |
+| Giving your repo a massive glow-up |
+| Generating immaculate vibes only |
+| Bet, writing that right now |
+| Living rent-free in the terminal |
+| Making your syntax valid fr fr |
+| Standing on business with this PR |
+| Vibe check passed, shipping soon |
+| Rizz check passed |
+| Doing side quests in the backend |
+| Boosting your coding aura +1000 |
+| Escaping the matrix, one line at a time |
+| This build boutta be bussin |
+| Fixing it like it's light work |
+| Rizzing up the runtime |
+| Mogging these errors rn |
+| Not me debugging this again |
+| Bruh, the stack trace is wild |
+| Chat, we're so back |
+| Chat, it's cooked — rebuilding |
+| Zero crumbs, just clean code |
+| It's not mid, trust |
+| No glaze, this patch is based |
+| Skibidi compiling in Ohio |
+| Gyatt, that diff is huge |
+| Caught the bug in 4K |
+| Fr fr, no notes |
 
 
 ### Geology (11)
