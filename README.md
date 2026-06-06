@@ -2523,6 +2523,124 @@ Hard-boiled debugging — film noir meets software development.
 | Arbitraging |
 
 
+### Vibe Check (110)
+
+Gentle nudges for AI-assisted developers — reminders that make you a better engineer, one spinner tick at a time.
+
+| Verb |
+|------|
+| Did you read the error message? |
+| Do you understand what this code does? |
+| What happens if this fails? |
+| Have you tested the unhappy path? |
+| Are secrets out of the codebase? |
+| Could this accept malicious input? |
+| What edge cases are you missing? |
+| When did you last commit? |
+| Is there a test for this? |
+| Would you mass-deploy this on a Friday? |
+| Who owns this if it breaks at 3am? |
+| Does this need a rollback plan? |
+| Did you check the dependency licenses? |
+| Are you logging sensitive data? |
+| Have you validated all user input? |
+| SQL injection: are you sure? |
+| Is this endpoint authenticated? |
+| What does the error message tell the user? |
+| Could another dev maintain this? |
+| Are you duplicating existing code? |
+| Did you check for race conditions? |
+| Is this idempotent on retry? |
+| Have you tested on staging? |
+| What if the external API is down? |
+| Are promises and async calls handled? |
+| Did you null-check before using that? |
+| Is the blast radius small if this breaks? |
+| Have you run the linter? |
+| Does this scale under load? |
+| Are you blindly accepting AI output? |
+| Did you actually read the diff? |
+| Is this solving the right problem? |
+| Will this make sense in six months? |
+| Are the variable names self-explanatory? |
+| What would a code reviewer flag here? |
+| Did you test with real-world data? |
+| Is there proper error handling? |
+| Are you over-engineering this? |
+| What's the simplest solution here? |
+| Did you check for memory leaks? |
+| Is the CI pipeline green? |
+| Have you considered accessibility? |
+| Are feature flags in place? |
+| Did you update the docs? |
+| Is the schema explicitly defined? |
+| Have you scanned for vulnerabilities? |
+| What's the monitoring story? |
+| Can you reproduce this locally? |
+| Did you get a second pair of eyes? |
+| Are you trusting the AI too much? |
+| What broke the last time you skipped tests? |
+| Is there a clear source of truth? |
+| Does this respect rate limits? |
+| Are you handling timeouts? |
+| Is PII scrubbed from logs? |
+| Does this break backward compatibility? |
+| Have you checked all the TODOs? |
+| Is this change behind a feature flag? |
+| Are the permissions least-privilege? |
+| Ship it, or think about it one more minute? |
+| Did you follow TDD? |
+| Did you use the JTDB framework? |
+| Did you run the RED phase before the GREEN phase? |
+| Did you add sad-path tests? |
+| Do you have integration tests? |
+| Do you create a contract.md before you deploy sub-agents? |
+| Do you have contract tests to catch drift between front-end and back-end? |
+| Do you have a catalog.yaml to standardize all boundary enums? |
+| Have you seen the test fail? |
+| Is this class single-responsibility? |
+| Does this depend on abstractions? |
+| Open for extension, closed for modification? |
+| Is Liskov preserved here? |
+| Are your interfaces segregated? |
+| Is there a code smell here? |
+| Can you extract a method? |
+| Are you eliminating duplication? |
+| Time to refactor? |
+| Quick hack or permanent fix? |
+| Have you logged the tech debt? |
+| Is this a leaky abstraction? |
+| Are your layer dependencies correct? |
+| Does the domain logic live in the domain? |
+| Are your bounded contexts explicit? |
+| Is your ubiquitous language consistent? |
+| Did you pin your dependencies? |
+| Are builds reproducible? |
+| Is your container image lean? |
+| Are your logs structured? |
+| Did you set meaningful alerts? |
+| Could this error go unnoticed? |
+| Is your code self-documenting? |
+| Did you update the changelog? |
+| Is the PR description clear? |
+| Could you pair on this? |
+| Don't repeat yourself |
+| Make it work, make it right, make it fast |
+| Is this function doing too much? |
+| Would you approve this in code review? |
+| Are you testing behavior, not implementation? |
+| Is this the right level of abstraction? |
+| Premature optimization? |
+| Is this a command or a query? Not both. |
+| Are exceptions enriched with context? |
+| Never return null when you can return empty |
+| Is shared mutable state minimized? |
+| Does this follow the principle of least surprise? |
+| Tracer bullet: does it hit the target? |
+| Are you programming by coincidence? |
+| Refactor commits separate from feature commits? |
+
+
 ### Victorian / Steampunk (11)
 
 | Verb |
@@ -2648,122 +2766,3 @@ Hard-boiled debugging — film noir meets software development.
 | Tannin-softening |
 | Terroir-tasting |
 | Uncorking |
-
-
-### Vibe Check (110)
-
-Gentle nudges for AI-assisted developers — reminders that make you a better engineer, one spinner tick at a time.
-
-| Verb |
-|------|
-| Did you read the error message? |
-| Do you understand what this code does? |
-| What happens if this fails? |
-| Have you tested the unhappy path? |
-| Are secrets out of the codebase? |
-| Could this accept malicious input? |
-| What edge cases are you missing? |
-| When did you last commit? |
-| Is there a test for this? |
-| Would you mass-deploy this on a Friday? |
-| Who owns this if it breaks at 3am? |
-| Does this need a rollback plan? |
-| Did you check the dependency licenses? |
-| Are you logging sensitive data? |
-| Have you validated all user input? |
-| SQL injection: are you sure? |
-| Is this endpoint authenticated? |
-| What does the error message tell the user? |
-| Could another dev maintain this? |
-| Are you duplicating existing code? |
-| Did you check for race conditions? |
-| Is this idempotent on retry? |
-| Have you tested on staging? |
-| What if the external API is down? |
-| Are promises and async calls handled? |
-| Did you null-check before using that? |
-| Is the blast radius small if this breaks? |
-| Have you run the linter? |
-| Does this scale under load? |
-| Are you blindly accepting AI output? |
-| Did you actually read the diff? |
-| Is this solving the right problem? |
-| Will this make sense in six months? |
-| Are the variable names self-explanatory? |
-| What would a code reviewer flag here? |
-| Did you test with real-world data? |
-| Is there proper error handling? |
-| Are you over-engineering this? |
-| What's the simplest solution here? |
-| Did you check for memory leaks? |
-| Is the CI pipeline green? |
-| Have you considered accessibility? |
-| Are feature flags in place? |
-| Did you update the docs? |
-| Is the schema explicitly defined? |
-| Have you scanned for vulnerabilities? |
-| What's the monitoring story? |
-| Can you reproduce this locally? |
-| Did you get a second pair of eyes? |
-| Are you trusting the AI too much? |
-| What broke the last time you skipped tests? |
-| Is there a clear source of truth? |
-| Does this respect rate limits? |
-| Are you handling timeouts? |
-| Is PII scrubbed from logs? |
-| Does this break backward compatibility? |
-| Have you checked all the TODOs? |
-| Is this change behind a feature flag? |
-| Are the permissions least-privilege? |
-| Ship it, or think about it one more minute? |
-| Did you follow TDD? |
-| Did you use the JTDB framework? |
-| Did you run the RED phase before the GREEN phase? |
-| Did you add sad-path tests? |
-| Do you have integration tests? |
-| Do you create a contract.md before you deploy sub-agents? |
-| Do you have contract tests to catch drift between front-end and back-end? |
-| Do you have a catalog.yaml to standardize all boundary enums? |
-| Have you seen the test fail? |
-| Is this class single-responsibility? |
-| Does this depend on abstractions? |
-| Open for extension, closed for modification? |
-| Is Liskov preserved here? |
-| Are your interfaces segregated? |
-| Is there a code smell here? |
-| Can you extract a method? |
-| Are you eliminating duplication? |
-| Time to refactor? |
-| Quick hack or permanent fix? |
-| Have you logged the tech debt? |
-| Is this a leaky abstraction? |
-| Are your layer dependencies correct? |
-| Does the domain logic live in the domain? |
-| Are your bounded contexts explicit? |
-| Is your ubiquitous language consistent? |
-| Did you pin your dependencies? |
-| Are builds reproducible? |
-| Is your container image lean? |
-| Are your logs structured? |
-| Did you set meaningful alerts? |
-| Could this error go unnoticed? |
-| Is your code self-documenting? |
-| Did you update the changelog? |
-| Is the PR description clear? |
-| Could you pair on this? |
-| Don't repeat yourself |
-| Make it work, make it right, make it fast |
-| Is this function doing too much? |
-| Would you approve this in code review? |
-| Are you testing behavior, not implementation? |
-| Is this the right level of abstraction? |
-| Premature optimization? |
-| Is this a command or a query? Not both. |
-| Are exceptions enriched with context? |
-| Never return null when you can return empty |
-| Is shared mutable state minimized? |
-| Does this follow the principle of least surprise? |
-| Tracer bullet: does it hit the target? |
-| Are you programming by coincidence? |
-| Refactor commits separate from feature commits? |
-
