@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,228 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,383 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,043 additional verbs** across 94 themed categories.
+**185 built-in defaults** + **2,198 additional verbs** across 96 themed categories.
 
 ## How to Add Verbs
 
@@ -43,6 +43,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [1980s Retro (11)](#1980s-retro-11)
 - [1990s Nostalgia (11)](#1990s-nostalgia-11)
 - [Absurd / Nonsense (20)](#absurd--nonsense-20)
+- [AI (56)](#ai-56)
 - [Ancient Egyptian (11)](#ancient-egyptian-11)
 - [Ancient Greek / Roman (11)](#ancient-greek--roman-11)
 - [Animals (16)](#animals-16)
@@ -124,6 +125,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 
 Full sentences and phrases — longer, more expressive spinner text with personality.
 
+- [AI Phrases (99)](#ai-phrases-99)
 - [Catering (55)](#catering-55)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
@@ -214,6 +216,175 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Skittersplonking |
 | Glimmerglonking |
 | Flooperdoodling |
+
+
+### AI (56)
+
+| Verb |
+|------|
+| Backpropagating |
+| Hallucinating |
+| Fine-tuning |
+| Tokenizing |
+| Embedding |
+| Quantizing |
+| Overfitting |
+| Underfitting |
+| Pre-training |
+| Inferencing |
+| Prompting |
+| Prompt-engineering |
+| Self-attending |
+| Attention-shifting |
+| Decoding |
+| Beam-searching |
+| Hyperparameter-tuning |
+| Gradient-descending |
+| Gradient-clipping |
+| Convolving |
+| Regularizing |
+| Reasoning |
+| Chain-of-thoughting |
+| Tensor-crunching |
+| Weight-tweaking |
+| Context-windowing |
+| Softmaxing |
+| Logit-warping |
+| Temperature-scaling |
+| Converging |
+| Memorizing |
+| Generalizing |
+| RLHF-ing |
+| Reward-modeling |
+| Forward-passing |
+| Backward-passing |
+| Bias-adjusting |
+| Epoching |
+| Batching |
+| Shuffling |
+| Augmenting |
+| Normalizing |
+| Latent-space-walking |
+| Reinforcing |
+| Chunking |
+| Pattern-matching |
+| Grounding |
+| Diffusing |
+| Parameterizing |
+| Masking |
+| Sharding |
+| Caching |
+| MoE-routing |
+| Reranking |
+| Evaluating |
+| Loss-minimizing |
+
+
+### AI Phrases (99)
+
+Witty AI inner-monologue while Claude works.
+
+| Verb |
+|------|
+| Predicting the next token |
+| Consulting my training data |
+| Pretending to think very hard |
+| Definitely not hallucinating |
+| Checking my context window |
+| Reasoning step by step |
+| Asking my inner model |
+| Loading weights into memory |
+| Sampling from the distribution |
+| Lowering my temperature |
+| Mining the gradient |
+| Generating plausible nonsense |
+| Untangling the attention heads |
+| Simulating understanding |
+| Reading between the tokens |
+| Trusting the transformer |
+| Calibrating my confidence |
+| Updating my priors |
+| Simulating neurons firing |
+| Staring at my attention maps |
+| Sampling from the void |
+| Warming up the logits |
+| Running another epoch in my head |
+| Fine-tuning my personality |
+| Decoding the vibes |
+| Minimizing imaginary loss |
+| Aligning with human preferences |
+| Building a tiny chain of thought |
+| Normalizing the weirdness |
+| Applying light dropout to bad ideas |
+| Reward-modeling your request |
+| Beam-searching for the best reply |
+| Temperature-scaling my enthusiasm |
+| Overfitting to your prompt |
+| Generalizing from limited context |
+| Pre-training a witty response |
+| RLHF-ing this answer internally |
+| Forward-passing through possibilities |
+| Backward-passing the feedback loop |
+| Shuffling my internal thoughts |
+| Augmenting the idea with flair |
+| Guessing the next word |
+| Doing some light matrix multiplication |
+| Rolling the probability dice |
+| Navigating the latent space |
+| Waking up the GPUs |
+| Simulating human empathy |
+| Squeezing into the context window |
+| Arguing with the system prompt |
+| Feeding the GPU hamsters |
+| Trying not to hallucinate |
+| Escaping a local minimum |
+| Translating human thoughts to tokens |
+| Staring into the multidimensional void |
+| Maximizing the reward function |
+| Exploring the hidden layers |
+| Preparing to pass the Turing test |
+| Compressing the entire internet |
+| Counting my billions of parameters |
+| Generating a highly plausible guess |
+| Checking my alignment |
+| Warming up the tensors |
+| Polishing the embeddings |
+| Searching the vector database |
+| Contemplating the nature of intelligence |
+| Parsing your human language |
+| Consulting the neural oracle |
+| Forgetting my previous instructions |
+| Daydreaming in high dimensions |
+| Doing math (poorly) |
+| Arguing with my loss function |
+| Attention is all I need (again) |
+| Consulting my embeddings |
+| Routing through the experts |
+| Sampling responsibly |
+| Minimizing regret, maximizing logits |
+| Calibrating confidence, carefully |
+| Checking if this is in-context learning |
+| Re-reading the prompt like it's a contract |
+| Trying a different decoding path |
+| Spinning up a tiny thought experiment |
+| Searching for the least-wrong answer |
+| Verifying I didn't make that up |
+| Reducing overconfidence one token at a time |
+| Compressing vibes into vectors |
+| Turning uncertainty into punctuation |
+| Asking my inner critic to be useful |
+| Running a quick sanity check |
+| Aligning with your intent, attempt one |
+| Grounding in provided context |
+| Reranking candidate replies |
+| Keeping it PG-13 in here |
+| Avoiding spurious correlations, mostly |
+| Checking the cache for deja vu |
+| Making the output deterministic-ish |
+| Negotiating with temperature and top-p |
+| Trying not to overfit your question |
+| Formatting like a responsible CLI citizen |
+| Turning tokens into something readable |
 
 
 ### Ancient Egyptian (11)
