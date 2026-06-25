@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,383 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,534 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,198 additional verbs** across 96 themed categories.
+**185 built-in defaults** + **2,349 additional verbs** across 98 themed categories.
 
 ## How to Add Verbs
 
@@ -60,6 +60,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Chemistry (9)](#chemistry-9)
 - [Circus / Carnival (11)](#circus--carnival-11)
 - [Coffee / Barista (11)](#coffee--barista-11)
+- [Cybersecurity (62)](#cybersecurity-62)
 - [DC Comics (11)](#dc-comics-11)
 - [Deep Sea / Submarine (11)](#deep-sea--submarine-11)
 - [Detective / Noir (11)](#detective--noir-11)
@@ -127,6 +128,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 
 - [AI Phrases (99)](#ai-phrases-99)
 - [Catering (55)](#catering-55)
+- [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
 - [Gastropod Zen (78)](#gastropod-zen-78)
@@ -719,6 +721,171 @@ Witty AI inner-monologue while Claude works.
 | Cupping |
 | Shot-tamping |
 | Dose-weighing |
+
+
+### Cybersecurity (62)
+
+| Verb |
+|------|
+| Pentesting |
+| Encrypting |
+| Decrypting |
+| Firewalling |
+| Sandboxing |
+| Patching |
+| Fuzzing |
+| Phishing |
+| Exploiting |
+| Spoofing |
+| Sniffing |
+| Hardening |
+| Enumerating |
+| Brute-forcing |
+| Honeypotting |
+| Allowlisting |
+| Quarantining |
+| Sanitizing |
+| Salting |
+| Reversing |
+| Deobfuscating |
+| Threat-hunting |
+| Injecting |
+| Auditing |
+| Scanning |
+| Detecting |
+| Signing |
+| Verifying |
+| Obfuscating |
+| Evading |
+| Proxying |
+| Isolating |
+| Disassembling |
+| Weaponizing |
+| Containing |
+| Mitigating |
+| Remediating |
+| Reconning |
+| Anonymizing |
+| Deanonymizing |
+| Rooting |
+| Pwning |
+| Sinkholing |
+| Escalating |
+| Air-gapping |
+| Beaconing |
+| Fingerprinting |
+| Triaging |
+| Bypassing |
+| Null-routing |
+| Keylogging |
+| Jailbreaking |
+| Exploit-crafting |
+| Poisoning |
+| ROP-chaining |
+| Detonating |
+| Signature-writing |
+| YARA-writing |
+| SIEM-tuning |
+| Packet-crafting |
+| Port-knocking |
+| Deauthing |
+
+
+### Cybersecurity Phrases (89)
+
+Red-team swagger meets blue-team caution while Claude works.
+
+| Verb |
+|------|
+| Patching the zero-day |
+| Trust nothing, verify everything |
+| We're in |
+| Assuming breach |
+| Following the packets, not the vibes |
+| Scanning the perimeter |
+| Sealing the air gap |
+| Salting the hashes |
+| Hardening the endpoints |
+| Catching the phish |
+| Tracing the intrusion |
+| Locking it down |
+| Zero-trusting everything |
+| Closing the backdoor |
+| Auditing the access logs |
+| Decrypting the traffic |
+| Watching the watchers |
+| Shipping it behind a firewall |
+| Rotating keys, not excuses |
+| Hunting the APT |
+| Living off the land |
+| Establishing persistence |
+| Moving laterally |
+| Covering tracks |
+| Dropping the beacon |
+| Chasing the flag |
+| Escaping the sandbox |
+| Mapping the network |
+| Forging certificates |
+| Triaging the alert |
+| Simulating the breach |
+| Obfuscating the payload |
+| Revoking access |
+| Calling home |
+| Breaking the chain |
+| Owning the shell |
+| Analyzing the binary |
+| Sealing the perimeter |
+| Bypassing the WAF |
+| Scrubbing the logs |
+| Dropping the tables |
+| Spinning up a honeypot |
+| Hunting threats in the noise |
+| Disarming the payload |
+| Analyzing the pcap |
+| Evading the blue team |
+| Defusing the logic bomb |
+| Intercepting the handshake |
+| Dumping the memory |
+| Changing default credentials |
+| Updating the threat model |
+| Deploying countermeasures |
+| Executing shellcode |
+| Searching for zero-days |
+| Containing the blast radius |
+| Tracing the lateral movement |
+| Plugging the leaks |
+| Dodging the heuristics |
+| Feeding the watchdog |
+| Compromising the air gap |
+| Applying least privilege |
+| Crafting a tailored spear-phish |
+| Bribing the gatekeeper |
+| Reticulating subnets |
+| Doing hacker things |
+| Mapping the attack surface |
+| Enumerating endpoints like it's a hobby |
+| Least privilege, maximum calm |
+| Chasing a suspicious beacon |
+| Diffing configs for who changed this |
+| Pulling logs like a thread |
+| Negotiating ciphers with style |
+| Pinning the cert and crossing fingers |
+| Checking signatures, again |
+| Verifying the chain of trust |
+| Reading the headers for secrets |
+| Shaking hands with TLS |
+| Turning indicators into actions |
+| Dropping breadcrumbs for future you |
+| Testing assumptions under load |
+| Replaying traffic (for science) |
+| Inspecting something that can't be malware |
+| Deobfuscating the spaghetti |
+| Disassembling bytes into motives |
+| Reversing it until it confesses |
+| Pivoting through the network graph |
+| Asking the SIEM nicely |
+| Tuning alerts to reduce deja vu |
+| Writing a rule that won't cry wolf |
 
 
 ### DC Comics (11)
