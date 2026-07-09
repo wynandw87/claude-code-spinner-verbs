@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,665 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,816 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,480 additional verbs** across 100 themed categories.
+**185 built-in defaults** + **2,631 additional verbs** across 102 themed categories.
 
 ## How to Add Verbs
 
@@ -56,6 +56,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Bee-themed (11)](#bee-themed-11)
 - [Biology / Evolution (11)](#biology--evolution-11)
 - [Board Games (11)](#board-games-11)
+- [Bureaucracy / DMV (68)](#bureaucracy--dmv-68)
 - [Camping / Outdoors (11)](#camping--outdoors-11)
 - [Chemistry (9)](#chemistry-9)
 - [Circus / Carnival (11)](#circus--carnival-11)
@@ -128,6 +129,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 Full sentences and phrases — longer, more expressive spinner text with personality.
 
 - [AI Phrases (99)](#ai-phrases-99)
+- [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Catering (55)](#catering-55)
 - [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
@@ -596,6 +598,171 @@ Witty AI inner-monologue while Claude works.
 | Battleship-sinking |
 | Jenga-stacking |
 | Victory-pointing |
+
+
+### Bureaucracy / DMV (68)
+
+| Verb |
+|------|
+| Amending |
+| Appending |
+| Appraising |
+| Approving |
+| Archiving |
+| Authorizing |
+| Backdating |
+| Backlogging |
+| Cataloging |
+| Certifying |
+| Co-signing |
+| Collating |
+| Compliance-checking |
+| Complying |
+| Countersigning |
+| Credentialing |
+| Cross-referencing |
+| De-escalating |
+| Delaying |
+| Denying |
+| Deputizing |
+| Docketing |
+| Documenting |
+| Eligibility-verifying |
+| Endorsing |
+| Expediting |
+| Expiring |
+| Faxing |
+| Filing |
+| Form-checking |
+| Forwarding |
+| Indexing |
+| Initialing |
+| Inspecting |
+| Laminating |
+| Microfilming |
+| Misplacing |
+| Notarizing |
+| Over-complicating |
+| Paper-pushing |
+| Permitting |
+| Photocopying |
+| Pigeonholing |
+| Queueing |
+| Re-routing |
+| Re-scheduling |
+| Reassessing |
+| Reconciling |
+| Red-taping |
+| Redacting |
+| Refiling |
+| Reissuing |
+| Renewing |
+| Requisitioning |
+| Revalidating |
+| Reviewing |
+| Routing |
+| Rubber-stamping |
+| Scheduling |
+| Standardizing |
+| Stonewalling |
+| Subcontracting |
+| Submitting |
+| Tabulating |
+| Ticketing |
+| Transferring |
+| Triplicating |
+| Validating |
+
+
+### Bureaucracy / DMV Phrases (83)
+
+Please take a number — deadpan red-tape lines for when Claude is processing your request in triplicate.
+
+| Verb |
+|------|
+| Aligning documents for ISO 9001 certification |
+| Appealing to the procurement committee |
+| Applying the official seal of pending review |
+| Applying the official seal with ceremonial hesitation |
+| Asking you to sign the same line in three separate places |
+| Calculating processing fees plus applicable surcharges |
+| Calculating your late fees |
+| Checking the checklist for the checklist you didn't receive |
+| Checking the expiration date on the prior approval |
+| Clocking out for a long lunch |
+| Closing your case as "resolved" pending additional documentation |
+| Confirming identity using an expired driver's license |
+| Consulting paragraph 4, subsection C |
+| Consulting the 47-page regulatory handbook |
+| Cross-referencing reference numbers by hand |
+| Denying your permit application |
+| Dusting off the official seal |
+| Escalating this to the regional manager |
+| Explaining that the website is down, as designed |
+| Explaining that we don't handle that here |
+| Faxing a PDF to comply with modern standards |
+| Filling out Form 82-B in triplicate |
+| Flagging your submission for "manual review" indefinitely |
+| Forwarding the query to the appropriate subcommittee |
+| Forwarding your issue to IT, who will forward it back shortly |
+| Informing you that your stamp expired yesterday at 4:59 PM |
+| Issuing a temporary permit valid thirty days only |
+| Listening to smooth jazz hold music |
+| Listening to the hold music on endless loop |
+| Locating the correct filing cabinet |
+| Locating the missing carbon copy from 1997 |
+| Losing your paperwork in the mailroom |
+| Notarizing the affidavit before two witnesses |
+| Opening a ticket to investigate the ticket you just opened |
+| Performing a compliance audit on your compliance audit request |
+| Placing the file in the incorrect department bin |
+| Placing you on hold while the hold music does its job |
+| Preparing the freedom-of-information response packet |
+| Printing a form that asks why you're printing the form |
+| Procuring office supplies via requisition 14-C |
+| Putting you on a brief, 45-minute hold |
+| Re-scheduling your appointment due to unforeseen scheduling |
+| Realizing you are in the wrong line |
+| Realizing your stamps have expired |
+| Redacting sensitive information from your request |
+| Rejecting your application for a missing staple |
+| Requesting a notarized affidavit confirming you are you |
+| Requesting three quotes for a purchase order for one pen |
+| Requesting two additional proofs of proof |
+| Requiring an original document that can never be replaced |
+| Requiring two additional forms of ID |
+| Returning your paperwork for using blue ink instead of black |
+| Reviewing city-planning zoning ordinances |
+| Reviewing your application for missing middle initials |
+| Reviewing your Freedom of Information request for excessive information |
+| Routing the request through seven approval layers |
+| Routing your request to the correct department (not this one) |
+| Scanning your documents at a thoughtful 200 DPI |
+| Scheduling a hearing for next Tuesday |
+| Scheduling the appointment for next fiscal quarter |
+| Scheduling your appointment for the earliest available date: next month |
+| Searching for a lost manila folder |
+| Searching for the department's only working pen |
+| Searching for the stamp that was right here a moment ago |
+| Searching the basement archives for the lost folder |
+| Searching the microfiche archives |
+| Sending your file to Records, where it will become history |
+| Stamping the form "REQUIRES ADDITIONAL REVIEW" |
+| Submitting your request for pre-approval to request approval |
+| Taking a mandatory 15-minute union break |
+| Taking a number and immediately losing it |
+| Transferring the call to the next available clerk |
+| Transferring your call to another department |
+| Updating the status to "UNDER CONSIDERATION" |
+| Validating your signature against your signature on file |
+| Verifying residency using a bill from a company that no longer exists |
+| Verifying the signature against archived specimens |
+| Verifying your proof of residency |
+| Waiting for a supervisor to return from a mandatory meeting about meetings |
+| Waiting for a supervisor's stamp |
+| Waiting for the "Now Serving" sign to feel inspired |
+| Waiting for the dot-matrix printer to finish |
+| Waiting for the ink to dry on the carbon copy |
 
 
 ### Camping / Outdoors (11)
