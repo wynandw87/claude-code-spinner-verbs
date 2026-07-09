@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,534 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,665 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,349 additional verbs** across 98 themed categories.
+**185 built-in defaults** + **2,480 additional verbs** across 100 themed categories.
 
 ## How to Add Verbs
 
@@ -77,6 +77,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Godzilla (28)](#godzilla-28)
 - [Gym Bro (50)](#gym-bro-50)
 - [Harry Potter (13)](#harry-potter-13)
+- [Hustle Culture (64)](#hustle-culture-64)
 - [James Bond (10)](#james-bond-10)
 - [Jungle / Rainforest (11)](#jungle--rainforest-11)
 - [Jurassic Park (10)](#jurassic-park-10)
@@ -135,6 +136,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
 - [Gym Bro Phrases (45)](#gym-bro-phrases-45)
+- [Hustle Culture Phrases (67)](#hustle-culture-phrases-67)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
@@ -1692,6 +1694,151 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 | Marauding |
 | Howler-sending |
 | Boggart-banishing |
+
+
+### Hustle Culture (64)
+
+| Verb |
+|------|
+| 5am-clubbing |
+| Audience-growing |
+| Automating |
+| Bag-chasing |
+| Bag-securing |
+| Benchmarking |
+| Biohacking |
+| Closing |
+| Cold-calling |
+| Cold-emailing |
+| Cold-plunging |
+| Compounding |
+| Content-creating |
+| Cross-selling |
+| Day-trading |
+| Deal-closing |
+| Deal-flowing |
+| Delegating |
+| Diversifying |
+| Dominating |
+| Dopamine-hacking |
+| Dropshipping |
+| Empire-building |
+| Equity-raising |
+| Exit-planning |
+| Failing-forward |
+| Forecasting |
+| Founder-moding |
+| Funnel-building |
+| Gamifying |
+| Habit-stacking |
+| Intermittent-fasting |
+| KPI-chasing |
+| Lead-generating |
+| Masterminding |
+| Maximizing |
+| Monetizing |
+| Monk-moding |
+| Outhustling |
+| Outsourcing |
+| Outworking |
+| Overachieving |
+| Overdelivering |
+| Paper-stacking |
+| Pitching |
+| Podcasting |
+| Prospecting |
+| Quantifying |
+| Rebranding |
+| Repurposing |
+| Rise-and-grinding |
+| Sidehustling |
+| Sigma-moding |
+| Sleep-skipping |
+| Sleepmaxxing |
+| Sprinting |
+| Strategizing |
+| Timeboxing |
+| Unicorn-chasing |
+| Upselling |
+| Vision-boarding |
+| Wealth-stacking |
+| Wholesaling |
+| Winning |
+
+
+### Hustle Culture Phrases (67)
+
+Rise and grind — sigma grindset energy for when Claude is monetizing every waking second.
+
+| Verb |
+|------|
+| A/B testing my personality for better engagement |
+| Adding "10x" to the plan and subtracting all nuance |
+| Adding "Thought Leader" to my LinkedIn bio |
+| Asking my network if they agree |
+| Building a funnel for something that doesn't need a funnel |
+| Building a personal brand strong enough to bench press accountability |
+| Building a startup around a problem I invented yesterday |
+| Building empires between the snooze button and sunrise |
+| Building in public so everyone can watch the grind unfold |
+| Chasing that seven-figure exit during REM sleep |
+| Cold-emailing at dawn because the early founder gets the meeting |
+| Converting cold plunges into content and content into cash |
+| Converting human emotions into KPIs for alignment |
+| Drafting a LinkedIn post that begins with "No one talks about this" |
+| Drinking bulletproof coffee out of a Yeti tumbler |
+| Entering monk mode for the next 90 days |
+| Explaining Web3 to my barista |
+| Filming a day-in-the-life TikTok |
+| Habit-stacking until my calendar looks like a pitch deck |
+| Hacking my circadian rhythm |
+| Ignoring my hobbies to build generational wealth |
+| Launching a newsletter about launching newsletters |
+| Listening to a mindset podcast in the shower |
+| Making a vision board and calling it product-market fit |
+| Making sure every minute is either content or conversion |
+| Maximizing my dopamine baseline |
+| Monetizing my morning routine one sponsored post at a time |
+| Negotiating with my calendar like it's an investor term sheet |
+| Outsourcing my sleep to a virtual assistant |
+| Outsourcing my weaknesses and invoicing my strengths |
+| Outworking everyone in the room |
+| Pitching a side hustle to my friends like it's a seed round |
+| Planning the IPO of my personal brand before the first meeting |
+| Posting LinkedIn humblebrags while the rest of the world sleeps |
+| Posting a selfie with an unrelated motivational quote |
+| Practicing my alpha handshake |
+| Putting "serial entrepreneur" in my bio after one Etsy sale |
+| Reading a motivational quote and calling it due diligence |
+| Reading one book a day on 3x speed |
+| Rebranding stress as "founder energy" |
+| Reminding everyone that sleep is for the weak |
+| Renting a Lambo for the mastermind thumbnail |
+| Scheduling "deep work" so deeply it needs its own calendar |
+| Scheduling a mastermind to mastermind my scheduling |
+| Selling a course on how to sell courses |
+| Sending a "quick follow-up" that is neither quick nor a follow-up |
+| Setting up a Delaware C-Corp |
+| Stacking passive income streams like it's a competitive sport |
+| Stacking wins so high the algorithm has no choice but to notice |
+| Starting my seventh side hustle |
+| Taking a 3am ice bath for maximum ROI |
+| Telling people I have the same 24 hours as Beyonce |
+| Tracking my steps so I can optimize my hustle per mile |
+| Treating every conversation like a sales pitch |
+| Treating sleep like a bug in the productivity codebase |
+| Treating sleep like a negotiable line item in the budget |
+| Turning "busy" into a personality trait with measurable outcomes |
+| Turning "just a hobby" into "just a revenue stream" |
+| Turning a coffee into a content pillar |
+| Turning a hobby into a revenue stream |
+| Turning every failure into a case study for the personal brand |
+| Turning imposter syndrome into premium newsletter content |
+| Turning my life into a case study for future me |
+| Turning side projects into keynote material |
+| Typing "Agree?" in the comment section |
+| Waking up at 4:59am to beat the 5am club |
+| Writing "passive income" on a sticky note and calling it strategy |
 
 
 ### James Bond (10)
