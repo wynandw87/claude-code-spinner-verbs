@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,816 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **2,953 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,631 additional verbs** across 102 themed categories.
+**185 built-in defaults** + **2,768 additional verbs** across 104 themed categories.
 
 ## How to Add Verbs
 
@@ -115,6 +115,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Studio Ghibli (10)](#studio-ghibli-10)
 - [Synesthesia / Colors (11)](#synesthesia--colors-11)
 - [Tech / Programming (14)](#tech--programming-14)
+- [Theater / Stage Manager (58)](#theater--stage-manager-58)
 - [Trading / Crypto (13)](#trading--crypto-13)
 - [Victorian / Steampunk (11)](#victorian--steampunk-11)
 - [Viking / Norse (11)](#viking--norse-11)
@@ -145,6 +146,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Vibe Check (110)](#vibe-check-110)
 
 ### 1960s Hippie (11)
@@ -3154,6 +3156,157 @@ Hard-boiled debugging — film noir meets software development.
 | Linting |
 | Hotfixing |
 | Profiling |
+
+
+### Theater / Stage Manager (58)
+
+| Verb |
+|------|
+| Balancing |
+| Barn-dooring |
+| Blacking out |
+| Blocking |
+| Calling places |
+| Clearing wings |
+| Counterweighting |
+| Crossfading |
+| Cueing |
+| Dimming |
+| Dressing |
+| Dry-teching |
+| Equalizing |
+| Fading |
+| Flying |
+| Focusing |
+| Followspotting |
+| Gaffing |
+| Gelling |
+| Ghost-lighting |
+| Goboing |
+| Hanging |
+| Hauling |
+| Holding |
+| Leveling |
+| Locking off |
+| Marking |
+| Miking |
+| Muting |
+| Paging |
+| Painting |
+| Paper-teching |
+| Placing |
+| Platforming |
+| Plotting |
+| Presetting |
+| Propping |
+| Quick-changing |
+| Raking |
+| Resetting |
+| Rigging |
+| Ringing out |
+| Sandbagging |
+| Sanding |
+| Sightlining |
+| Spiking |
+| Standing by |
+| Steaming |
+| Stitching |
+| Striking |
+| Sweeping |
+| Taping |
+| Teching |
+| Understudying |
+| Upstaging |
+| Wardrobing |
+| Warming |
+| Winging |
+
+
+### Theater / Stage Manager Phrases (79)
+
+Standing by — backstage crew chatter for when Claude is quietly making the production look effortless.
+
+| Verb |
+|------|
+| Asking, again, if anyone moved the wireless pack |
+| Babysitting the counterweights like they're temperamental pets |
+| Balancing mics so the whisper is louder than the orchestra |
+| Calling a hold because the set is doing a slow interpretive lean |
+| Calling a hold to fix a wardrobe malfunction |
+| Calling lights, sound, and auto to go |
+| Calling places for Act One |
+| Calling the five-minute call |
+| Checking mic levels on the foldback |
+| Checking the fly rail: locked, locked, locked |
+| Checking the prompt book for that one "tiny" change |
+| Doing a last-second quick change with impossible math |
+| Fixing the flat that chose violence during the scene change |
+| Flying in the moon drop and praying it clears the legs |
+| Focusing the side booms |
+| Focusing the specials so they miss everyone equally |
+| Frantically executing a 15-second quick change |
+| Handing off a prop sword in the dark |
+| Hanging a sandbag on a rogue line set |
+| Hanging the new gel frame |
+| Hiding modern water bottles behind period props |
+| Holding for the blackout |
+| Holding for the house lights |
+| Holding the fog machine cue |
+| Hunting the missing shoe that only vanishes in Act Two |
+| Leaving the ghost light center stage |
+| Locking off the counterweight system |
+| Marking the sofa spike |
+| Marking the understudy script in case tonight gets interesting |
+| Mixing paint to match midnight sadness, but warmer |
+| Muting the lead's lavalier backstage |
+| Nudging the followspot a little left, no, your other left |
+| Paging props for the important letter |
+| Patching the followspot circuit |
+| Patching the lighting board for a blackout |
+| Placing the ghost light so the theater behaves tonight |
+| Planning strike in your head while smiling at curtain time |
+| Plotting the next cue stack |
+| Prepping the quick-change station |
+| Presetting the sword, the teacup, and the emotionally significant scarf |
+| Pretending this dress rehearsal isn't a disaster |
+| Pushing this show to production |
+| Quick-changing the lead's coat |
+| Re-taping the spike marks that were absolutely ignored |
+| Reminding everyone to break a leg |
+| Reminding the cast not to touch the main drape |
+| Resetting props exactly until someone improves them |
+| Resetting the fly lines |
+| Resetting the prop table |
+| Ringing out the monitors before the feedback finds us |
+| Running a quiet cue-to-cue at maximum panic |
+| Running levels on the foldback |
+| Running the final dress notes |
+| Setting spike marks that will absolutely be ignored |
+| Standing by for the curtain |
+| Standing by on cue 47 |
+| Steaming a costume that's been in a bin since tech |
+| Striking the Act Two set |
+| Striking the set like we were never here |
+| Surviving another brutal ten-out-of-twelve |
+| Swapping batteries like it's a speedrun category |
+| Swapping out burnt gels in the followspot |
+| Swearing the set was built to scale |
+| Sweeping the deck before the house opens |
+| Taking the blackout personally and fading anyway |
+| Taping down loose cables in the dark |
+| Telling the actors to find their light |
+| Telling the understudy they are going on |
+| Trying not to say the name of the Scottish play |
+| Typing up notes after a messy preview |
+| Updating the cue stack because "it's just one more light" |
+| Waiting for clearance from front of house |
+| Waiting for the half-hour call |
+| Warming the dimmer racks |
+| Warning the fly rail for a heavy drop |
+| Whispering "break a leg" while triple-checking the trap door |
+| Whispering lines from the prompt corner |
+| Wondering if the booth headset is actually working |
+| Wondering who moved the spike tape |
 
 
 ### Trading / Crypto (13)
