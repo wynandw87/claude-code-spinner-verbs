@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **2,953 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,084 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,768 additional verbs** across 104 themed categories.
+**185 built-in defaults** + **2,899 additional verbs** across 106 themed categories.
 
 ## How to Add Verbs
 
@@ -116,6 +116,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Synesthesia / Colors (11)](#synesthesia--colors-11)
 - [Tech / Programming (14)](#tech--programming-14)
 - [Theater / Stage Manager (58)](#theater--stage-manager-58)
+- [Theme Park Operations (48)](#theme-park-operations-48)
 - [Trading / Crypto (13)](#trading--crypto-13)
 - [Victorian / Steampunk (11)](#victorian--steampunk-11)
 - [Viking / Norse (11)](#viking--norse-11)
@@ -147,6 +148,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
+- [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
 - [Vibe Check (110)](#vibe-check-110)
 
 ### 1960s Hippie (11)
@@ -3307,6 +3309,151 @@ Standing by — backstage crew chatter for when Claude is quietly making the pro
 | Whispering lines from the prompt corner |
 | Wondering if the booth headset is actually working |
 | Wondering who moved the spike tape |
+
+
+### Theme Park Operations (48)
+
+| Verb |
+|------|
+| Backstaging |
+| Block-checking |
+| Break-rotating |
+| Churro-stocking |
+| Confiscating |
+| Costume-adjusting |
+| Crowd-herding |
+| E-stopping |
+| Escorting |
+| Evacuating |
+| Float-pushing |
+| Gate-latching |
+| Guest-recovering |
+| Height-measuring |
+| Lap-bar-tugging |
+| Mascot-wrangling |
+| Monorail-towing |
+| On-staging |
+| Overlay-hanging |
+| Parade-marshaling |
+| Placating |
+| Platform-manning |
+| Power-washing |
+| Pulsing |
+| Pyro-loading |
+| Radioing |
+| Re-railing |
+| Re-strapping |
+| Re-theming |
+| Rebooting |
+| Restraint-checking |
+| Rope-dropping |
+| Seatbelt-tugging |
+| Single-rider-merging |
+| Spieling |
+| Spill-coning |
+| Stacking |
+| Stamp-checking |
+| Stanchion-shifting |
+| Stroller-stowing |
+| Switchbacking |
+| Track-walking |
+| Tram-directing |
+| Tunnel-patrolling |
+| Turkey-leg-thawing |
+| Turnstile-unjamming |
+| Unstacking |
+| Wristbanding |
+
+
+### Theme Park Operations Phrases (83)
+
+Have a magical day — backstage park-ops deadpan for when Claude is keeping the ride cycling.
+
+| Verb |
+|------|
+| Acknowledging the alarm that everyone else pretends not to hear |
+| Adjusting performer harnesses in the heat |
+| Announcing "remain seated" to a crowd already standing |
+| Arguing with a teenager about blatantly line-jumping |
+| Calibrating the restraint sensors again |
+| Calling in a stroller jam at the merge point |
+| Changing the hydraulic fluid in the mechanical dinosaur |
+| Checking a sensor that swears it's fine |
+| Cleaning up a Code V near the log flume |
+| Closing the queue and watching someone duck under the chain anyway |
+| Confiscating loose articles at the station gates |
+| Coordinating an evacuation in the calmest voice you own |
+| Coordinating the rope drop team positions |
+| Counting heads before the next cycle |
+| Cramming extra guests onto the parking lot tram |
+| Delivering the safety spiel with the exact same smile |
+| Directing guests to alternate entrances like it's a secret mission |
+| Directing trams while pretending you can see through sunglasses |
+| Dragging the parade float back to the warehouse |
+| Escorting a lost parent to the designated security tent |
+| Evacuating guests down the catwalk stairs |
+| Explaining that the outdoor coaster closes for lightning |
+| Explaining the difference between "down temporarily" and "gone forever" |
+| Explaining the height requirement for the fifth time today |
+| Feeding the single-rider line like a careful science experiment |
+| Filling out the incident log with heroic handwriting |
+| Fixing the audio desynchronization on the haunted house ghost |
+| Hand-stamping like it's a high-speed printing press |
+| Handing out return-time passes with a neutral face |
+| Hanging plastic pumpkins overnight for the seasonal overlay |
+| Hauling trash bags through the concrete basement tunnels |
+| Hiding out of sight backstage until the parade music starts |
+| Issuing a "code V" call with professional serenity |
+| Locating the missing stroller by the exit |
+| Locking the access gate behind the last tram |
+| Logging another complaint about wait times |
+| Measuring height against the sign, not the vibes |
+| Memorizing the ride safety spiel in three languages |
+| Merging the express lane with the regular standby line |
+| Monitoring the crowd density on the midway |
+| Moving stanchions three inches to fix everything |
+| Opening another switchback for the massive overflow crowd |
+| Patrolling the service tunnel after close |
+| Performing a show-stop restart with the confidence of a wizard |
+| Placing cones around a mystery spill you didn't witness |
+| Plugging the sweaty mascot head into the charging wall |
+| Pointing at the exit with exactly two fingers |
+| Power-washing the midway after the fireworks crowd finally leaves |
+| Pretending not to see guests through the underground tunnel vents |
+| Pulsing the line so the switchbacks stop boiling over |
+| Pushing strollers into a mathematically perfect grid |
+| Radio-checking every five seconds for no reason |
+| Rebooting an animatronic that chose today to take a nap |
+| Reminding everyone to please pull down on their safety restraints |
+| Restocking napkins next to the churro cart at battle tempo |
+| Reuniting a lost kid with a parent who blinked once |
+| Running parade crosswalks like a tiny air-traffic controller |
+| Searching the lost-and-found for a generic pair of sunglasses |
+| Signaling the monorail for platform clearance |
+| Smiling through the pain of a twelve-hour holiday shift |
+| Sorting lost-and-found items that have seen things |
+| Splitting parties into odd numbers for maximum efficiency |
+| Spraying disinfectant on a thousand pairs of 3D glasses |
+| Staging the fireworks crew on the roof |
+| Standing behind a rope waiting for 9 AM to happen |
+| Stocking the churro cart under the blistering sun |
+| Telling a grown adult to keep their hands inside the vehicle |
+| Testing the emergency stop from backstage |
+| Thawing frozen turkey legs in the backstage cafeteria |
+| Timing the fireworks perimeter close like a carefully rehearsed dance |
+| Troubleshooting the dispatch panel lights |
+| Tug-testing lap bars like your life depends on it |
+| Unloading the breakdown train manually |
+| Verifying the gate latch again because you know how today goes |
+| Walking the coaster track to retrieve a dropped smartphone |
+| Walking the track with a flashlight and pure optimism |
+| Watching the control panel like it owes you money |
+| Watching the virtual queue clock like a stock trader |
+| Wiping handrails that immediately become handrails again |
+| Wiping sticky cotton candy residue off the lap bars |
+| Wrangling a costumed performer through a door that's two inches too small |
+| Wrestling the stuck restraint on row three |
+| Zipping the mascot actor into a wearable ice vest |
 
 
 ### Trading / Crypto (13)
