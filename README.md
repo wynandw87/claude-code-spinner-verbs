@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,084 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,192 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **2,899 additional verbs** across 106 themed categories.
+**185 built-in defaults** + **3,007 additional verbs** across 108 themed categories.
 
 ## How to Add Verbs
 
@@ -58,6 +58,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Board Games (11)](#board-games-11)
 - [Bureaucracy / DMV (68)](#bureaucracy--dmv-68)
 - [Camping / Outdoors (11)](#camping--outdoors-11)
+- [Cat Behavior (30)](#cat-behavior-30)
 - [Chemistry (9)](#chemistry-9)
 - [Circus / Carnival (11)](#circus--carnival-11)
 - [Coffee / Barista (11)](#coffee--barista-11)
@@ -132,6 +133,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 
 - [AI Phrases (99)](#ai-phrases-99)
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
+- [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
 - [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
@@ -784,6 +786,128 @@ Please take a number — deadpan red-tape lines for when Claude is processing yo
 | Compass-checking |
 | Map-folding |
 | Bear-proofing |
+
+
+### Cat Behavior (30)
+
+| Verb |
+|------|
+| Keyboard-occupying |
+| Box-assessing |
+| 3am-zooming |
+| Void-staring |
+| Sunbeam-relocating |
+| Knocking-off-edge |
+| Loaf-forming |
+| Hairball-composing |
+| Judgmentally-blinking |
+| Toe-bean-retracting |
+| Laser-dot-hunting |
+| Curtain-scaling |
+| Lap-invading |
+| Purr-negotiating |
+| Treat-manipulating |
+| Bird-chittering |
+| Catnip-transcending |
+| Biscuit-kneading |
+| Slow-blinking |
+| Chin-scratch-demanding |
+| Feather-toy-ambushing |
+| Windowsill-surveilling |
+| Cardboard-shredding |
+| Tail-flicking |
+| Human-ignoring |
+| Vet-carrier-evading |
+| Belly-trap-setting |
+| Counter-surfing |
+| Laptop-commandeering |
+| 5am-yowling |
+
+
+### Cat Behavior Phrases (78)
+
+The cat is helping — first-person feline chaos for when Claude is sitting on exactly the thing you need.
+
+| Verb |
+|------|
+| Knocking your mug off the desk to see what happens |
+| Sitting directly on the keyboard you were using |
+| Walking across the keyboard and somehow committing to main |
+| Occupying the exact page you are reading |
+| Watching your code with quiet disappointment |
+| Hunting a bug that exists only to me |
+| Waiting until deep focus to begin complaining |
+| Treating the printer as a hostile organism |
+| Attacking the headphone cord with commitment |
+| Batting pens off the desk in sequence |
+| Testing gravity with your least replaceable object |
+| Toppling the plant you finished repotting |
+| Staring at the wall like it owes rent |
+| Judging you silently from the top of the fridge |
+| Making intense eye contact while doing something forbidden |
+| Screaming at an empty food bowl with visible bottom |
+| Meowing at a bowl that is clearly full |
+| Requesting dinner immediately after finishing dinner |
+| Screaming for wet food and then immediately walking away |
+| Carefully burying the expensive food you just bought |
+| Rejecting today's food for resembling yesterday's favorite |
+| Materializing the second the can opener starts |
+| Pretending to be asleep until you open a wrapper |
+| Sleeping through chaos, then waking for cheese |
+| Sampling the butter when you turn away |
+| Drinking from your glass despite having options |
+| Placing one paw in your unattended beverage |
+| Demanding to be let out, then immediately back in |
+| Demanding you open the door just to stare outside |
+| Waiting beside the wrong door with confidence |
+| Scratching the bathroom door mid-shower |
+| Entering the closet before you can close it |
+| Pretending not to fit through the open door |
+| Escorting you to the bathroom without explanation |
+| Following you upstairs, then immediately going downstairs |
+| Inspecting the shower while maintaining plausible deniability |
+| Sprinting the hallway for classified reasons |
+| Sprint-drifting around the corner on a slippery floor |
+| Running away from the litter box at mach speed |
+| Kicking litter out of the box with maximum force |
+| Watching you clean the freshly scattered litter |
+| Rejecting the cat bed for a shoe box |
+| Compressing into a box half my size |
+| Discovering a bag and becoming unavailable |
+| Getting stuck in a paper bag and reversing out |
+| Chewing on a plastic bag for absolutely no reason |
+| Sitting on the laundry you just folded |
+| Stealing your chair the instant you stand |
+| Sprawling across the only illuminated section of the floor |
+| Sleeping 16 hours to prepare for a nap |
+| Choosing your face as the prime napping zone |
+| Sleeping on the remote beyond negotiation |
+| Becoming liquid only when removal is attempted |
+| Offering the soft belly and then suddenly changing the rules |
+| Headbutting for pets with rising intensity |
+| Biting your hand to say thank you for the petting |
+| Biting your ankle because you walked past too quickly |
+| Tapping your eyelid to request immediate breakfast |
+| Carefully stepping on your bladder while you are sleeping |
+| Blocking the doorway until properly greeted |
+| Refusing to move from the exact center of the stairs |
+| Stretching to maximum length across the entire dark hallway |
+| Presenting a crumpled receipt as a gift |
+| Depositing one toy directly inside your shoe |
+| Carrying a single dirty sock around the entire house |
+| Ignoring a seventy dollar toy to play with literal trash |
+| Losing a toy beneath the heaviest furniture |
+| Announcing a moth as a household emergency |
+| Investigating a noise I personally created |
+| Sprinting away from an entirely harmless cucumber |
+| Pawing at a mirror because the reflection is rude |
+| Preparing to launch onto the highest possible fragile shelf |
+| Aggressively washing one leg in the middle of the hallway |
+| Choosing the expensive sofa over every scratching post |
+| Unrolling the entire toilet paper roll |
+| Pretending not to hear my own name |
+| Hiding silently while everyone checks the neighborhood |
+| Trying to dig a hole in the hardwood floor |
 
 
 ### Catering (55)
