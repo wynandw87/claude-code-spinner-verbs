@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,192 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,330 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,007 additional verbs** across 108 themed categories.
+**185 built-in defaults** + **3,145 additional verbs** across 110 themed categories.
 
 ## How to Add Verbs
 
@@ -79,6 +79,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Godzilla (28)](#godzilla-28)
 - [Gym Bro (50)](#gym-bro-50)
 - [Harry Potter (13)](#harry-potter-13)
+- [Heist Movie (64)](#heist-movie-64)
 - [Hustle Culture (64)](#hustle-culture-64)
 - [James Bond (10)](#james-bond-10)
 - [Jungle / Rainforest (11)](#jungle--rainforest-11)
@@ -142,6 +143,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
 - [Gym Bro Phrases (45)](#gym-bro-phrases-45)
+- [Heist Movie Phrases (74)](#heist-movie-phrases-74)
 - [Hustle Culture Phrases (67)](#hustle-culture-phrases-67)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
@@ -1989,6 +1991,158 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 | Marauding |
 | Howler-sending |
 | Boggart-banishing |
+
+
+### Heist Movie (64)
+
+| Verb |
+|------|
+| Crew-assembling |
+| Talent-scouting |
+| Favor-calling |
+| Score-planning |
+| Joint-casing |
+| Blueprint-unrolling |
+| Floorplan-memorizing |
+| Plan-rehearsing |
+| Alibi-rehearsing |
+| Cover-building |
+| Mark-charming |
+| Gala-gliding |
+| Crowd-blending |
+| Accent-faking |
+| Tuxedo-tailoring |
+| Badge-borrowing |
+| Access-forging |
+| Guard-bribing |
+| Guard-distracting |
+| Insider-briefing |
+| Timing-syncing |
+| Camera-looping |
+| Signal-jamming |
+| Alarm-silencing |
+| Sensor-evading |
+| Laser-dodging |
+| Duct-crawling |
+| Roof-rappelling |
+| Skylight-descending |
+| Tunnel-boring |
+| Glass-cutting |
+| Wire-cutting |
+| Cable-splicing |
+| Hinge-melting |
+| Keypad-bypassing |
+| Lock-picking |
+| Pin-tumbling |
+| Tumbler-listening |
+| Dial-spinning |
+| Combination-guessing |
+| Vault-locating |
+| Vault-drilling |
+| Diamond-palming |
+| Bag-switching |
+| Decoy-deploying |
+| Pocket-picking |
+| Loot-bagging |
+| Lookout-posting |
+| Signal-waiting |
+| Exit-improvising |
+| Escape-mapping |
+| Van-idling |
+| Getaway-driving |
+| Traffic-weaving |
+| Tail-shaking |
+| Heat-avoiding |
+| Loot-fencing |
+| Take-splitting |
+| Betrayal-anticipating |
+| Twist-unveiling |
+| Grudge-burying |
+| Sunset-riding |
+| Retirement-delaying |
+| Last-jobbing |
+
+
+### Heist Movie Phrases (74)
+
+The crew is in position — one last job, ordered loosely as the caper unfolds, from sugar-packet briefing to beach with no extradition.
+
+| Verb |
+|------|
+| Assembling specialists with suspiciously complementary résumés |
+| Convincing the retired wheelman to drive again |
+| Explaining the plan over the blueprints one more time |
+| Explaining the impossible plan using sugar packets |
+| Rehearsing Plan B before Plan A exists |
+| Insisting this job is different from the last one |
+| Answering one last job's extremely persuasive voicemail |
+| Casing the lobby while admiring the marble |
+| Memorizing the patrol routes of the night guards |
+| Realizing the security grid resets every seven minutes |
+| Synchronizing watches for the third time |
+| Rehearsing the vault routine in an empty warehouse |
+| Practicing the casual walk past security |
+| Wearing tuxedos because stealth has standards |
+| Blending into the charity gala without a ripple |
+| Pretending to be the fire inspector |
+| Pretending to be a wealthy foreign oil baron |
+| Borrowing a badge with impeccable confidence |
+| Flirting with the mark to clone their keycard |
+| Noticing the mark's little tell a beat late |
+| Trusting the forger's paperwork under bright lights |
+| Nodding to the inside man across the casino |
+| Trusting the inside man exactly this much |
+| Distracting the manager with complimentary champagne |
+| Waiting for the guard's scheduled sandwich |
+| Cutting the power to the entire city block |
+| Looping security footage from a quieter afternoon |
+| Riding the service elevator like we own it |
+| Entering through the needlessly dramatic air duct |
+| Hanging from the ceiling by a single wire |
+| Spraying aerosol to reveal the invisible laser beams |
+| Dodging laser grids in formal wear |
+| Crossing the pressure floor in careful socks |
+| Drilling through three feet of reinforced titanium |
+| Listening to vault tumblers like avant-garde jazz |
+| Spinning the dial with cinematic patience |
+| Bypassing the biometric scanner with a gummy bear |
+| Cutting the red wire and hoping |
+| Hearing the scanner chatter start to climb |
+| Watching the vault door ease open at last |
+| Finding another vault behind the expected vault |
+| Replacing the priceless artifact with a cheap replica |
+| Moving the decoy to its decoy position |
+| Passing the bags through the laundry chute |
+| Leaving a playing card at the scene |
+| Blaming the new guy for tripping the alarm |
+| Rolling out clean before the sprinklers wake up |
+| Waiting for the garbage truck to block the alley |
+| Keeping the engine running outside the bank |
+| Parking the van exactly where the blueprint promised |
+| Adjusting the rear-view mirror before peeling out |
+| Synchronizing the traffic lights for a clean getaway |
+| Loading three tiny getaway cars very efficiently |
+| Driving a compact car down a flight of stairs |
+| Driving normally while everyone looks suspicious |
+| Losing the tail beside a convenient parade |
+| Smirking at the detective from a departing train |
+| Discussing professional standards during an intense diner meeting |
+| Meeting the fence in a poorly lit parking garage |
+| Opening the van doors to reveal the missing gold |
+| Realizing the duffel bags are full of phonebooks |
+| Discovering the diamonds were merely decorative |
+| Arguing about the split before the job is done |
+| Splitting the take with aggressively precise arithmetic |
+| Noticing someone revised the betrayal schedule |
+| Pretending the double-cross was fully anticipated |
+| Revealing you were playing them the entire time |
+| Revealing the backup plan inside the backup plan |
+| Peeling off a very realistic latex facial appliance |
+| Realizing the real score was friendship, briefly |
+| Returning the borrowed suits mostly undamaged |
+| Toasting the score before the final head-count |
+| Drinking margaritas on a beach with no extradition |
+| Walking away before the soundtrack finishes |
 
 
 ### Hustle Culture (64)
