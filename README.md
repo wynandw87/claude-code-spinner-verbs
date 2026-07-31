@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,330 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,456 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,145 additional verbs** across 110 themed categories.
+**185 built-in defaults** + **3,271 additional verbs** across 112 themed categories.
 
 ## How to Add Verbs
 
@@ -109,6 +109,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Social Media (11)](#social-media-11)
+- [Space / NASA (47)](#space--nasa-47)
 - [Sports (16)](#sports-16)
 - [Star Trek (14)](#star-trek-14)
 - [Star Wars (12)](#star-wars-12)
@@ -151,6 +152,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
 - [Vibe Check (110)](#vibe-check-110)
@@ -3289,6 +3291,146 @@ Hard-boiled debugging — film noir meets software development.
 | Feed-refreshing |
 | Like-farming |
 | Influencing |
+
+
+### Space / NASA (47)
+
+| Verb |
+|------|
+| Aerobraking |
+| Attitude-tuning |
+| Berthing |
+| Chilling down |
+| Circularizing |
+| Coasting |
+| Comet-chasing |
+| Crater-hopping |
+| Deorbiting |
+| Depressurizing |
+| Docking |
+| Downlinking |
+| Egressing |
+| Gimbaling |
+| Grappling |
+| Gravity-assisting |
+| Igniting |
+| Ingressing |
+| Jettisoning |
+| Midcourse-correcting |
+| Nulling rates |
+| Parachuting |
+| Plane-changing |
+| Pressurizing |
+| Reboosting |
+| Refueling |
+| Rendezvousing |
+| Retroburning |
+| Retrorocketing |
+| Rocketing |
+| Roving |
+| Slingshotting |
+| Splashing down |
+| Staging |
+| Star-tracking |
+| Starhopping |
+| Station-keeping |
+| Sunskimming |
+| Throttling |
+| Thrusting |
+| Touching down |
+| Ullaging |
+| Undocking |
+| Uplinking |
+| Vectoring |
+| Venting |
+| Yawing |
+
+
+### Space / NASA Phrases (79)
+
+Pure NASA — launch sequences, orbital mechanics, and mission-control radio chatter.
+
+| Verb |
+|------|
+| Achieving orbital velocity |
+| Acquiring signal from Goldstone |
+| Admiring the pale blue dot |
+| Aligning the high-gain antenna |
+| Aligning the solar arrays |
+| Aligning the star tracker |
+| Arming the launch escape system |
+| Asking Houston for a minute |
+| Borrowing speed from Jupiter |
+| Cabin pressure stable |
+| Calculating the delta-v budget |
+| Chasing the sunrise around Earth |
+| Checking vitals on the EVA suit |
+| Comm check, how do you read? |
+| Contact light |
+| Crossing the terminator |
+| Drogues are out |
+| Entering the gravity well |
+| Entering the Van Allen belts |
+| Equalizing pressure |
+| Establishing S-band lock |
+| Extending the landing legs |
+| Failure is not an option |
+| Firing the orbital maneuvering system |
+| Firing the retro rockets |
+| Go flight |
+| Go for trans-lunar injection |
+| Grappling with the Canadarm |
+| Guidance is internal |
+| Hard dock latched |
+| Heat shield at peak heating |
+| Houston, we have a solution |
+| Initiating roll program |
+| Keeping the pointy end up |
+| Lighting the candle |
+| Looking for a safe landing zone |
+| LOS in two minutes |
+| Losing signal behind the Moon |
+| Main chutes inflated |
+| Main engine start |
+| MECO confirmed |
+| Opening the payload bay doors |
+| Opening the pod bay doors |
+| Passing the Kármán line |
+| Phoning home across the void |
+| Plotting a Hohmann transfer |
+| Polling the flight controllers |
+| Purging the liquid oxygen lines |
+| Raising the apoapsis |
+| Reacquiring signal |
+| Recycling the countdown |
+| Rendezvous radar locked |
+| Repacking the parachutes |
+| Riding out the plasma blackout |
+| Riding the free-return trajectory |
+| Rolling out to the pad |
+| Safety tether secured |
+| Samples are bagged |
+| Scrubbing the carbon dioxide |
+| Scrubbing the launch |
+| Searching for intelligent telemetry |
+| Securing the airlock hatch |
+| Skimming the upper atmosphere |
+| Slingshotting around the Moon |
+| Soft capture complete |
+| Spinning up the gyros |
+| Spinning up the reaction wheels |
+| Stand by for stage separation |
+| Stirring the cryo tanks |
+| T-minus 10 and counting |
+| The range is green |
+| Throttling up to 104% |
+| Trajectory is looking nominal |
+| Unpacking the freeze-dried ice cream |
+| Voyager still calling home |
+| Waiting for the transfer window |
+| Waking the Deep Space Network |
+| You are go for egress |
+| You are go for powered descent |
 
 
 ### Sports (16)
