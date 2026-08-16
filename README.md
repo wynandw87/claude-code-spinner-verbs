@@ -16,6 +16,21 @@ Add the following spinner verbs to my ~/.claude/settings.json using "mode": "app
 
 Claude Code will update your `settings.json` with the correct `spinnerVerbs` configuration.
 
+### Manual Setup
+
+Prefer to edit the file yourself? Add a top-level `spinnerVerbs` key to your `~/.claude/settings.json`:
+
+```json
+{
+  "spinnerVerbs": {
+    "mode": "append",
+    "verbs": ["Second-breakfasting", "Silly-walking", "Great-scotting"]
+  }
+}
+```
+
+Replace the example verbs with any entries you like from the categories below.
+
 ### Modes
 
 | Mode | Behavior |
