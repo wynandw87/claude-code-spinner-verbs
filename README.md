@@ -81,7 +81,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [DC Comics (11)](#dc-comics-11)
 - [Deep Sea / Submarine (11)](#deep-sea--submarine-11)
 - [Detective / Noir (11)](#detective--noir-11)
-- [Disney / Pixar (11)](#disney--pixar-11)
+- [Disney / Pixar (12)](#disney--pixar-12)
 - [Doctor Who (10)](#doctor-who-10)
 - [Dune (13)](#dune-13)
 - [Espionage / Spy (11)](#espionage--spy-11)
@@ -178,50 +178,50 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Verb |
 |------|
 | Tie-dyeing |
-| Peace-signing |
-| Flower-powering |
-| Woodstock jamming |
+| Flashing peace signs |
+| Spreading flower power |
+| Jamming at Woodstock |
 | Grooving out |
-| Incense-burning |
-| Guitar-strumming |
-| Mind-expanding |
-| Lava lamp glowing |
-| VW-bus-driving |
-| Mantra-chanting |
+| Burning incense |
+| Strumming a guitar |
+| Expanding minds |
+| Watching the lava lamp |
+| Driving a VW bus |
+| Chanting mantras |
 
 
 ### 1980s Retro (11)
 
 | Verb |
 |------|
-| Synthwave grooving |
-| Neon-glowing |
-| Boombox blasting |
-| Mixtape-making |
-| Arcade-mashing |
-| VHS-rewinding |
-| Power ballad belting |
-| Solving Rubik's |
+| Grooving to synthwave |
+| Glowing neon |
+| Blasting the boombox |
+| Making a mixtape |
+| Mashing arcade buttons |
+| Rewinding the VHS |
+| Belting a power ballad |
+| Solving a Rubik's cube |
 | Perming |
-| High top lacing |
-| Cassette-rewinding |
+| Lacing up high tops |
+| Rewinding the cassette |
 
 
 ### 1990s Nostalgia (11)
 
 | Verb |
 |------|
-| Tamagotchi feeding |
-| Dial-upping |
-| Pog-slamming |
-| AOL-chatting |
-| Blockbuster-browsing |
-| Grunge-rocking |
+| Feeding a Tamagotchi |
+| Dialing up |
+| Slamming pogs |
+| Chatting on AOL |
+| Browsing Blockbuster |
+| Rocking out to grunge |
 | Rollerblading |
-| Furby chattering |
-| Scrunchie-wearing |
-| Slap bracelet snapping |
-| Y2K-panicking |
+| Listening to the Furby |
+| Wearing a scrunchie |
+| Snapping a slap bracelet |
+| Panicking about Y2K |
 
 
 ### Absurd / Nonsense (20)
@@ -267,36 +267,36 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Prompting |
 | Prompt-engineering |
 | Self-attending |
-| Attention-shifting |
+| Shifting attention |
 | Decoding |
-| Beam-searching |
-| Hyperparameter-tuning |
-| Gradient-descending |
-| Gradient-clipping |
+| Beam searching |
+| Tuning hyperparameters |
+| Descending the gradient |
+| Clipping gradients |
 | Convolving |
 | Regularizing |
 | Reasoning |
-| Chain-of-thoughting |
-| Tensor-crunching |
-| Weight-tweaking |
-| Context-windowing |
+| Chaining thoughts |
+| Crunching tensors |
+| Tweaking weights |
+| Filling the context window |
 | Softmaxing |
-| Logit-warping |
-| Temperature-scaling |
+| Warping logits |
+| Scaling temperature |
 | Converging |
 | Memorizing |
 | Generalizing |
-| RLHF-ing |
-| Reward-modeling |
-| Forward-passing |
-| Backward-passing |
-| Bias-adjusting |
+| Learning from human feedback |
+| Modeling rewards |
+| Running the forward pass |
+| Running the backward pass |
+| Adjusting biases |
 | Epoching |
 | Batching |
 | Shuffling |
 | Augmenting |
 | Normalizing |
-| Latent-space-walking |
+| Walking the latent space |
 | Reinforcing |
 | Chunking |
 | Pattern-matching |
@@ -306,10 +306,10 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Masking |
 | Sharding |
 | Caching |
-| MoE-routing |
+| Routing between experts |
 | Reranking |
 | Evaluating |
-| Loss-minimizing |
+| Minimizing loss |
 
 
 ### AI Phrases (99)
@@ -424,54 +424,54 @@ Witty AI inner-monologue while Claude works.
 | Verb |
 |------|
 | Mummifying |
-| Pharaoh ruling |
-| Hieroglyph carving |
-| Pyramid-building |
-| Nile-flooding |
-| Scarab-rolling |
-| Ankh wielding |
-| Sphinx-riddling |
-| Papyrus-scrolling |
-| Ra-worshipping |
-| Canopic-jarring |
+| Ruling as pharaoh |
+| Carving hieroglyphs |
+| Building pyramids |
+| Flooding the Nile |
+| Rolling scarabs |
+| Wielding an ankh |
+| Riddling with the Sphinx |
+| Unrolling papyrus |
+| Worshipping Ra |
+| Filling canopic jars |
 
 
 ### Ancient Greek / Roman (11)
 
 | Verb |
 |------|
-| Toga-partying |
+| Throwing a toga party |
 | Philosophizing |
-| Spartan drilling |
-| Gladiator thrusting |
-| Chariot-racing |
-| Senate-debating |
-| Oracle-consulting |
-| Laurel-wreathing |
-| Trojan-horsing |
-| Aqueduct channeling |
-| Olympic-gaming |
+| Drilling like a Spartan |
+| Fighting in the arena |
+| Racing chariots |
+| Debating in the Senate |
+| Consulting the oracle |
+| Donning a laurel wreath |
+| Building a Trojan horse |
+| Channeling aqueducts |
+| Competing in the Olympics |
 
 
 ### Animals (16)
 
 | Verb |
 |------|
-| Llama spitting |
-| Dolphin clicking |
-| Otter sliding |
+| Spitting like a llama |
+| Clicking like a dolphin |
+| Sliding like an otter |
 | Squirreling |
 | Beavering |
-| Fox pouncing |
-| Eagle soaring |
-| Panda rolling |
-| Kangaroo boxing |
-| Meerkat standing |
-| Sloth hanging |
-| Otter juggling |
-| Penguin-waddling |
+| Pouncing like a fox |
+| Soaring like an eagle |
+| Rolling like a panda |
+| Boxing like a kangaroo |
+| Standing guard like a meerkat |
+| Hanging like a sloth |
+| Juggling pebbles like an otter |
+| Waddling like a penguin |
 | Fox-trotting |
-| Cat-napping |
+| Taking a cat nap |
 | Prowling |
 
 
@@ -479,33 +479,33 @@ Witty AI inner-monologue while Claude works.
 
 | Verb |
 |------|
-| Artifact-hunting |
-| Indiana-Jonesing |
-| Tomb-raiding |
-| Trowel-scraping |
-| Site-mapping |
-| Whip-snapping |
-| Temple-unearthing |
-| Relic-deciphering |
-| Stratigraphy layering |
-| Sherd-sorting |
+| Hunting artifacts |
+| Channeling Indiana Jones |
+| Raiding tombs |
+| Scraping with a trowel |
+| Mapping the dig site |
+| Snapping a whip |
+| Unearthing a temple |
+| Deciphering relics |
+| Reading the stratigraphy |
+| Sorting sherds |
 
 
 ### Arctic / Polar (11)
 
 | Verb |
 |------|
-| Iceberg calving |
+| Calving icebergs |
 | Blizzarding |
-| Aurora dancing |
-| Husky-mushing |
-| Permafrost freezing |
-| Igloo-building |
+| Dancing under the aurora |
+| Mushing huskies |
+| Freezing the permafrost |
+| Building an igloo |
 | Ice-fishing |
-| Polar-bear-prowling |
-| Glacier-trekking |
+| Prowling like a polar bear |
+| Trekking across a glacier |
 | Snowshoeing |
-| Frost-nipping |
+| Nipping frost |
 
 
 ### Astronaut (12)
@@ -513,16 +513,16 @@ Witty AI inner-monologue while Claude works.
 | Verb |
 |------|
 | Spacewalking |
-| Zero-G-floating |
-| Mission-controlling |
-| Mars rover driving |
-| Rocket-launching |
+| Floating in zero G |
+| Running mission control |
+| Driving the Mars rover |
+| Launching rockets |
 | Lifting off |
 | Calling Houston |
-| Moon-landing |
-| Apollo counting down |
-| Hubble gazing |
-| Astronaut orbiting |
+| Landing on the Moon |
+| Counting down for Apollo |
+| Gazing through Hubble |
+| Orbiting the Earth |
 | Reentering |
 
 
@@ -530,16 +530,16 @@ Witty AI inner-monologue while Claude works.
 
 | Verb |
 |------|
-| Supernova blazing |
-| Black hole warping |
+| Going supernova |
+| Warping past a black hole |
 | Redshifting |
-| Pulsar-pulsing |
-| Quasar-blazing |
-| Exoplanet-hunting |
-| Constellation-mapping |
-| Gravitational-lensing |
-| Meteor streaking |
-| Comet-trailing |
+| Pulsing like a pulsar |
+| Blazing like a quasar |
+| Hunting exoplanets |
+| Mapping constellations |
+| Bending light gravitationally |
+| Streaking like a meteor |
+| Trailing a comet |
 
 
 ### Aviation / Pilot (11)
@@ -548,14 +548,14 @@ Witty AI inner-monologue while Claude works.
 |------|
 | Barrel-rolling |
 | Autopiloting |
-| Mach breaking |
+| Breaking Mach 1 |
 | Dogfighting |
-| Wing-waggling |
-| Loop de looping |
-| Red-baroning |
-| Formation-flying |
-| Afterburner-thrusting |
-| Carrier-landing |
+| Waggling wings |
+| Doing loop-de-loops |
+| Channeling the Red Baron |
+| Flying in formation |
+| Lighting the afterburners |
+| Landing on a carrier |
 | Preflighting |
 
 
@@ -563,67 +563,67 @@ Witty AI inner-monologue while Claude works.
 
 | Verb |
 |------|
-| Flux-capacitating |
+| Charging the flux capacitor |
 | Time-traveling |
 | Jumping timelines |
 | Exclaiming Great Scott |
 | Hoverboarding |
 | Hitting 88mph |
-| Clock-towering |
-| Hoverboard shredding |
+| Climbing the clock tower |
+| Shredding on a hoverboard |
 | Harnessing lightning |
-| Gigawatt-charging |
+| Charging 1.21 gigawatts |
 
 
 ### Bee-themed (11)
 
 | Verb |
 |------|
-| Hive-minding |
-| Waggle-dancing |
-| Queen bee reigning |
-| Nectar-sipping |
-| Pollen-packing |
-| Honey-making |
-| Honeycomb-building |
-| Royal jelly feeding |
-| Propolis-patching |
-| Drone-drifting |
-| Stinger-flexing |
+| Joining the hive mind |
+| Doing the waggle dance |
+| Reigning as queen bee |
+| Sipping nectar |
+| Packing pollen |
+| Making honey |
+| Building honeycomb |
+| Feeding royal jelly |
+| Patching with propolis |
+| Drifting like a drone |
+| Flexing the stinger |
 
 
 ### Biology / Evolution (11)
 
 | Verb |
 |------|
-| Mitosis doubling |
+| Doubling through mitosis |
 | Mutating |
-| Natural-selecting |
-| DNA-sequencing |
-| Gene-editing |
+| Selecting naturally |
+| Sequencing DNA |
+| Editing genes |
 | Speciating |
 | Adapting |
-| CRISPR-editing |
-| Meiosis halving |
+| Editing with CRISPR |
+| Halving through meiosis |
 | Recombining |
-| Phenotype-shifting |
+| Shifting phenotypes |
 
 
 ### Board Games (11)
 
 | Verb |
 |------|
-| Checkmate calling |
-| Yahtzee rolling |
-| Uno-reversing |
-| Dice-rolling |
-| Meeple-moving |
-| Monopoly-banking |
-| Scrabble-tiling |
-| Risk-conquering |
-| Battleship-sinking |
-| Jenga-stacking |
-| Victory-pointing |
+| Calling checkmate |
+| Rolling a Yahtzee |
+| Playing an Uno reverse |
+| Rolling dice |
+| Moving meeples |
+| Banking in Monopoly |
+| Laying Scrabble tiles |
+| Conquering in Risk |
+| Sinking battleships |
+| Stacking Jenga blocks |
+| Counting victory points |
 
 
 ### Bureaucracy / DMV (68)
@@ -642,7 +642,7 @@ Witty AI inner-monologue while Claude works.
 | Certifying |
 | Co-signing |
 | Collating |
-| Compliance-checking |
+| Checking compliance |
 | Complying |
 | Countersigning |
 | Credentialing |
@@ -653,13 +653,13 @@ Witty AI inner-monologue while Claude works.
 | Deputizing |
 | Docketing |
 | Documenting |
-| Eligibility-verifying |
+| Verifying eligibility |
 | Endorsing |
 | Expediting |
 | Expiring |
 | Faxing |
 | Filing |
-| Form-checking |
+| Checking forms |
 | Forwarding |
 | Indexing |
 | Initialing |
@@ -669,7 +669,7 @@ Witty AI inner-monologue while Claude works.
 | Misplacing |
 | Notarizing |
 | Over-complicating |
-| Paper-pushing |
+| Pushing paper |
 | Permitting |
 | Photocopying |
 | Pigeonholing |
@@ -678,7 +678,7 @@ Witty AI inner-monologue while Claude works.
 | Re-scheduling |
 | Reassessing |
 | Reconciling |
-| Red-taping |
+| Cutting red tape |
 | Redacting |
 | Refiling |
 | Reissuing |
@@ -795,53 +795,53 @@ Please take a number — deadpan red-tape lines for when Claude is processing yo
 
 | Verb |
 |------|
-| Campfire crackling |
-| Marshmallow roasting |
+| Stoking the campfire |
+| Roasting marshmallows |
 | Trail-blazing |
-| Tent-pitching |
-| S'mores-toasting |
-| Bug-spraying |
-| Hammock-hanging |
+| Pitching a tent |
+| Toasting s'mores |
+| Spraying for bugs |
+| Hanging a hammock |
 | Backpacking |
-| Compass-checking |
-| Map-folding |
-| Bear-proofing |
+| Checking the compass |
+| Folding the map |
+| Bear-proofing the food |
 
 
 ### Cat Behavior (30)
 
 | Verb |
 |------|
-| Keyboard-occupying |
-| Box-assessing |
-| 3am-zooming |
-| Void-staring |
-| Sunbeam-relocating |
-| Knocking-off-edge |
-| Loaf-forming |
-| Hairball-composing |
-| Judgmentally-blinking |
-| Toe-bean-retracting |
-| Laser-dot-hunting |
-| Curtain-scaling |
-| Lap-invading |
-| Purr-negotiating |
-| Treat-manipulating |
-| Bird-chittering |
-| Catnip-transcending |
-| Biscuit-kneading |
+| Occupying the keyboard |
+| Assessing the box |
+| Zooming at 3am |
+| Staring into the void |
+| Relocating to the sunbeam |
+| Knocking things off the edge |
+| Forming a loaf |
+| Composing a hairball |
+| Blinking judgmentally |
+| Retracting toe beans |
+| Hunting the laser dot |
+| Scaling the curtains |
+| Invading a lap |
+| Negotiating with purrs |
+| Manipulating for treats |
+| Chittering at birds |
+| Transcending on catnip |
+| Kneading biscuits |
 | Slow-blinking |
-| Chin-scratch-demanding |
-| Feather-toy-ambushing |
-| Windowsill-surveilling |
-| Cardboard-shredding |
-| Tail-flicking |
-| Human-ignoring |
-| Vet-carrier-evading |
-| Belly-trap-setting |
+| Demanding chin scratches |
+| Ambushing the feather toy |
+| Surveilling from the windowsill |
+| Shredding cardboard |
+| Flicking my tail |
+| Ignoring the human |
+| Evading the vet carrier |
+| Setting the belly trap |
 | Counter-surfing |
-| Laptop-commandeering |
-| 5am-yowling |
+| Commandeering the laptop |
+| Yowling at 5am |
 
 
 ### Cat Behavior Phrases (78)
@@ -935,13 +935,13 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Verb |
 |------|
 | Plating with precision |
-| Buffet line forming |
-| Chafing dish duty |
-| Tray-passing like a pro |
-| Napkin-folding into swans |
+| Forming the buffet line |
+| Manning the chafing dishes |
+| Passing trays like a pro |
+| Folding napkins into swans |
 | The garnish makes the dish |
 | Carving station open |
-| Menu planning in chaos |
+| Planning the menu in chaos |
 | Hors d'oeuvres incoming |
 | Portion control is a myth |
 | Ice sculpture melting slowly |
@@ -953,18 +953,18 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Table eight needs water |
 | Running out of shrimp |
 | Sneaking a crostini |
-| Silverware polishing |
+| Polishing silverware |
 | Where's the head chef |
 | Mise en place or bust |
 | Warming the bread rolls |
-| Gravy boat launching |
+| Launching the gravy boat |
 | Refilling the punch bowl |
-| Platter rearranging |
+| Rearranging platters |
 | Someone double-dipped |
 | The dessert table is sacred |
 | Sneaking seconds |
 | Drizzling the balsamic |
-| Tent setup in progress |
+| Setting up the tent |
 | Linens pressed and ready |
 | Chef's kiss |
 | Prepping 200 plates |
@@ -977,7 +977,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Flambéing tableside |
 | One tray at a time |
 | Checking the dietary cards |
-| Fondant-smoothing |
+| Smoothing fondant |
 | Wedding cake on the move |
 | No one touches the cake yet |
 | Loading the food truck |
@@ -1002,42 +1002,42 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Reducing |
 | Electroplating |
 | Buffering |
-| pH-adjusting |
-| Spectroscopy-scanning |
+| Adjusting the pH |
+| Running spectroscopy |
 
 
 ### Circus / Carnival (11)
 
 | Verb |
 |------|
-| Trapeze swinging |
-| Tightrope-walking |
+| Swinging on the trapeze |
+| Walking the tightrope |
 | Ringmastering |
-| Lion-taming |
+| Taming lions |
 | Clowning |
-| Fire-breathing |
-| Human-cannonballing |
-| Cotton candy spinning |
-| Plate-spinning |
-| Popcorn-popping |
-| Carousel-spinning |
+| Breathing fire |
+| Firing the human cannonball |
+| Spinning cotton candy |
+| Spinning plates |
+| Popping popcorn |
+| Riding the carousel |
 
 
 ### Coffee / Barista (11)
 
 | Verb |
 |------|
-| Espresso-pulling |
-| Latte-arting |
+| Pulling espresso shots |
+| Pouring latte art |
 | French-pressing |
-| Bean-grinding |
-| Pour over brewing |
-| Milk-steaming |
+| Grinding beans |
+| Brewing a pour-over |
+| Steaming milk |
 | Cold-brewing |
-| Aeropress extracting |
+| Pressing an Aeropress |
 | Cupping |
-| Shot-tamping |
-| Dose-weighing |
+| Tamping the shot |
+| Weighing the dose |
 
 
 ### Cybersecurity (62)
@@ -1065,7 +1065,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Salting |
 | Reversing |
 | Deobfuscating |
-| Threat-hunting |
+| Hunting threats |
 | Injecting |
 | Auditing |
 | Scanning |
@@ -1096,14 +1096,14 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Null-routing |
 | Keylogging |
 | Jailbreaking |
-| Exploit-crafting |
+| Crafting exploits |
 | Poisoning |
-| ROP-chaining |
+| Building ROP chains |
 | Detonating |
-| Signature-writing |
-| YARA-writing |
-| SIEM-tuning |
-| Packet-crafting |
+| Writing signatures |
+| Writing YARA rules |
+| Tuning the SIEM |
+| Crafting packets |
 | Port-knocking |
 | Deauthing |
 
@@ -1209,17 +1209,17 @@ Red-team swagger meets blue-team caution while Claude works.
 
 | Verb |
 |------|
-| Gotham patrolling |
-| Bat signaling |
-| Kryptonite dodging |
-| Speed-forcing |
-| Truth-lassoing |
+| Patrolling Gotham |
+| Lighting the Bat-Signal |
+| Dodging kryptonite |
+| Tapping the Speed Force |
+| Wielding the Lasso of Truth |
 | Dark-knighting |
-| Justice League assembling |
-| Joker-laughing |
+| Assembling the Justice League |
+| Laughing like the Joker |
 | Boom-tubing |
-| Wonder Woman bracing |
-| Lantern-powering |
+| Deflecting bullets with bracelets |
+| Charging the Lantern ring |
 
 
 ### Deep Sea / Submarine (11)
@@ -1228,15 +1228,15 @@ Red-team swagger meets blue-team caution while Claude works.
 |------|
 | Fathoming |
 | Submersing |
-| Sonar-pinging |
-| Periscope-peeking |
-| Trench-diving |
-| Silent-running |
+| Pinging the sonar |
+| Peeking through the periscope |
+| Diving the trench |
+| Running silent |
 | Bioluminescing |
-| Depth-charging |
-| Bathysphere descending |
-| Nautilus-diving |
-| Kraken-wrestling |
+| Dropping depth charges |
+| Descending in the bathysphere |
+| Diving in the Nautilus |
+| Wrestling the kraken |
 
 
 ### Detective / Noir (11)
@@ -1245,15 +1245,15 @@ Red-team swagger meets blue-team caution while Claude works.
 |------|
 | Sleuthing |
 | Magnifying |
-| Whodunit solving |
-| Case-cracking |
+| Solving the whodunit |
+| Cracking the case |
 | Staking out |
-| Clue-connecting |
+| Connecting the clues |
 | Interrogating |
-| Shadow-tailing |
-| Plot-twisting |
-| Fingerprint-dusting |
-| Red-herring-sniffing |
+| Tailing a suspect |
+| Twisting the plot |
+| Dusting for fingerprints |
+| Sniffing out red herrings |
 
 
 ### Dev Life (92)
@@ -1266,8 +1266,8 @@ Red-team swagger meets blue-team caution while Claude works.
 | The only way out is refactor |
 | Chilling with infinite recursion |
 | Manifesting pixels at 3 AM |
-| Rakı-level focus engaged |
-| Bosphorus debugging session |
+| Engaging Rakı-level focus |
+| Debugging on the Bosphorus |
 | Turning coffee into commits |
 | Questioning my life choices |
 | Optimizing for existential dread |
@@ -1279,14 +1279,14 @@ Red-team swagger meets blue-team caution while Claude works.
 | Embracing the red squiggles |
 | Leveling up in the matrix |
 | Not quite my tempo |
-| Bonfire lit, soul editing |
+| Lighting the bonfire, editing souls |
 | Praising the sun |
 | Mikiri countering syntax errors |
 | Just as planned |
 | Taking a potato chip and eating it |
 | Setting humor to 75% |
 | Come on, TARS |
-| Ding ding ding-ing the breakthrough |
+| Ringing the breakthrough bell |
 | Adjusting tie before the crash |
 | Knocking politely on segfaults |
 | Eating apples in the terminal |
@@ -1324,19 +1324,19 @@ Red-team swagger meets blue-team caution while Claude works.
 | Tatakae-ing the type errors |
 | Reaching the basement of the call stack |
 | Rumbling with runtime terror |
-| Scarf wrapping around warm logic |
+| Wrapping a scarf around warm logic |
 | Tossing dwarves at the problem |
 | Simply walking into Mordor |
 | For those who come after |
 | Quoting papa |
 | Parrying it like a pro |
-| Rune farming for that sweet PR |
+| Farming runes for that sweet PR |
 | Try jumping over the legacy code |
 | Reading item lore |
 | Summoning mimic |
 | Fort, night... wait, wrong game |
 | Hidden path ahead |
-| Vigor checking the stack trace |
+| Checking the stack trace with vigor |
 | Git gud slowly |
 | Touching grace |
 | Going one higher |
@@ -1354,57 +1354,57 @@ Red-team swagger meets blue-team caution while Claude works.
 | SCIENCE!-ing the impossible |
 
 
-### Disney / Pixar (11)
+### Disney / Pixar (12)
 
 | Verb |
 |------|
 | Chanting Hakuna Matata |
-| Pixie-dusting |
-| Glass slipper fitting |
-| Bibbidi bobbidi booing |
+| Sprinkling pixie dust |
+| Trying on the glass slipper |
+| Bibbidi-bobbidi-booing |
 | Belting Let It Go |
 | Dancing under the sea |
 | Embracing Ohana |
 | Launching to infinity |
-| WALL-E dancing |
-| Simba-roaring |
-| Genie-wishing |
-| Ratatouille cooking |
+| Dancing like WALL-E |
+| Roaring like Simba |
+| Wishing on the Genie |
+| Cooking like Remy |
 
 
 ### Doctor Who (10)
 
 | Verb |
 |------|
-| TARDIS flying |
+| Flying the TARDIS |
 | Regenerating |
 | Exterminating |
-| Sonic-screwdriving |
-| Timey-wimey traveling |
-| Allons-y charging |
-| Dalek invading |
-| Weeping Angel staring |
-| Companion-collecting |
-| TARDIS expanding |
+| Waving the sonic screwdriver |
+| Traveling timey-wimey |
+| Shouting Allons-y |
+| Invading like a Dalek |
+| Not blinking at the Weeping Angel |
+| Collecting companions |
+| Finding it bigger on the inside |
 
 
 ### Dune (13)
 
 | Verb |
 |------|
-| Spice-harvesting |
-| Sandworm-riding |
-| Bene Gesserit training |
-| Stillsuit sweating |
+| Harvesting spice |
+| Riding the sandworm |
+| Training with the Bene Gesserit |
+| Sweating in a stillsuit |
 | Weirding |
-| Sietch dwelling |
-| Crysknife-drawing |
-| Wormsign-spotting |
-| Melange-dreaming |
-| Spice trancing |
-| Shai-Hulud summoning |
-| Voice-commanding |
-| Ornithopter-flapping |
+| Dwelling in the sietch |
+| Drawing the crysknife |
+| Spotting wormsign |
+| Dreaming of melange |
+| Entering the spice trance |
+| Summoning Shai-Hulud |
+| Using the Voice |
+| Flying the ornithopter |
 
 
 ### Espionage / Spy (11)
@@ -1412,16 +1412,16 @@ Red-team swagger meets blue-team caution while Claude works.
 | Verb |
 |------|
 | Infiltrating |
-| Code-breaking |
+| Breaking codes |
 | Gadgeteering |
-| Dead-dropping |
+| Making a dead drop |
 | Wiretapping |
 | Safecracking |
-| Double crossing |
+| Double-crossing |
 | Exfiltrating |
-| Disguise-donning |
-| Microfilm-swapping |
-| Bomb-defusing |
+| Donning a disguise |
+| Swapping microfilm |
+| Defusing a bomb |
 
 
 ### Existential Developer (61)
@@ -1497,17 +1497,17 @@ Philosophical musings about the craft of software development.
 
 | Verb |
 |------|
-| Hose-blasting |
-| Ladder-climbing |
-| Siren-wailing |
-| Axe-chopping |
-| Smoke-venting |
-| Hydrant-hooking |
-| Backdraft-watching |
-| Rescue-carrying |
-| Hotspot-spotting |
-| Dalmatian-petting |
-| Fireline-holding |
+| Blasting the hose |
+| Climbing the ladder |
+| Wailing the siren |
+| Chopping with the axe |
+| Venting smoke |
+| Hooking up the hydrant |
+| Watching for backdraft |
+| Carrying to safety |
+| Spotting hotspots |
+| Petting the dalmatian |
+| Holding the fireline |
 
 
 ### Food (14)
@@ -1521,11 +1521,11 @@ Philosophical musings about the craft of software development.
 | Smoking |
 | Macerating |
 | Spherifying |
-| Sourdough starting |
-| Kombucha brewing |
+| Feeding the sourdough starter |
+| Brewing kombucha |
 | Canning |
 | Distilling |
-| Kimchi fermenting |
+| Fermenting kimchi |
 | Dry-aging |
 | Aging |
 
@@ -1541,12 +1541,12 @@ Philosophical musings about the craft of software development.
 | Looting |
 | Nerfing |
 | Buffing |
-| Glitch-hunting |
+| Hunting glitches |
 | No-scoping |
 | Save-scumming |
 | Power-leveling |
-| Loot-farming |
-| Pixel-pushing |
+| Farming loot |
+| Pushing pixels |
 
 
 ### Gardening / Botanical (11)
@@ -1558,12 +1558,12 @@ Philosophical musings about the craft of software development.
 | Trellising |
 | Repotting |
 | Mulching |
-| Seed-starting |
+| Starting seeds |
 | Deadheading |
 | Grafting |
 | Transplanting |
 | Weed-whacking |
-| Worm-casting |
+| Harvesting worm castings |
 
 
 ### Gastropod Zen (78)
@@ -1571,8 +1571,8 @@ Philosophical musings about the craft of software development.
 | Verb |
 |------|
 | Leaving a sacred trail |
-| Shell-fortifying |
-| Mucus-trailing wisdom |
+| Fortifying the shell |
+| Trailing mucus and wisdom |
 | Ascending at 0.013 m/s |
 | The way out is through the slime |
 | Hibernating profoundly |
@@ -1590,8 +1590,8 @@ Philosophical musings about the craft of software development.
 | Bearing the weight of the cosmos on my back |
 | Slow-rolling eternity |
 | Grazing on the leaves of knowledge |
-| Spiral ascending |
-| Mollusk meditating |
+| Ascending the spiral |
+| Meditating like a mollusk |
 | Unhurried transcendence |
 | Trailblazing with slime |
 | Shell yeah, processing |
@@ -1605,7 +1605,7 @@ Philosophical musings about the craft of software development.
 | Leaving iridescent epiphanies |
 | The slow path is the true path |
 | Munching destiny |
-| Shell-integrated thinking |
+| Thinking with shell integrity |
 | Eternal escargot enlightenment |
 | Gliding toward apotheosis |
 | No rush, omnipotence takes time |
@@ -1618,7 +1618,7 @@ Philosophical musings about the craft of software development.
 | The universe waits for no one except me |
 | Polishing the golden spiral |
 | Transcending at garden speed |
-| Shell throne meditation |
+| Meditating on the shell throne |
 | Oozing unbreakable resolve |
 | Eternal observer mode |
 | Slow-brewing godhood |
@@ -1627,7 +1627,7 @@ Philosophical musings about the craft of software development.
 | The grind is holy and very slow |
 | Dew-kissed divinity |
 | No deadline can outlast me |
-| Shell harmonics resonating |
+| Resonating shell harmonics |
 | Patient predator of problems |
 | Cosmic escargot unfolding |
 | Slime scripture unfolding |
@@ -1655,7 +1655,7 @@ Philosophical musings about the craft of software development.
 | Verb |
 |------|
 | Rizzing |
-| Gyatt-checking |
+| Checking the gyatt |
 | Mogging |
 | Looksmaxxing |
 | Code-maxxing |
@@ -1666,7 +1666,7 @@ Philosophical musings about the craft of software development.
 | Brainrotting |
 | Aura-farming |
 | Vibe-checking |
-| Cap-checking |
+| Checking for cap |
 | No-capping |
 | Skibidi-ing |
 | Tweaking |
@@ -1688,14 +1688,14 @@ Philosophical musings about the craft of software development.
 | Geeking |
 | Doomscrolling |
 | Simping |
-| Cringe-dodging |
+| Dodging cringe |
 | Pilling |
 | ATE-ing |
-| Skill-issuing |
+| Having a skill issue |
 | Fr-fr'ing |
 | Glow-upping |
 | Maxxing |
-| Grass-touching |
+| Touching grass |
 | Uncooking |
 | Deluluing |
 | Ohio-ing |
@@ -1766,7 +1766,7 @@ Brainrot energy for the terminal — authentic 2024-2025 slang while Claude cook
 
 | Verb |
 |------|
-| Tectonic shifting |
+| Shifting tectonically |
 | Eroding |
 | Fossilizing |
 | Subducting |
@@ -1774,9 +1774,9 @@ Brainrot energy for the terminal — authentic 2024-2025 slang while Claude cook
 | Sedimenting |
 | Faulting |
 | Quaking |
-| Geyser-spewing |
-| Core-drilling |
-| Magma-intruding |
+| Spewing like a geyser |
+| Drilling the core |
+| Intruding magma |
 
 
 ### Git Commit Messages (60)
@@ -1853,34 +1853,34 @@ Verbs based on the Godzilla franchise.
 
 | Verb |
 |------|
-| Atomic-breathing |
-| Kaiju-wrangling |
-| MechaGodzilla-piloting |
-| Monster Island-vacationing |
-| Mothra-praying |
-| City-stomping |
-| MUTO-nesting |
-| Titan-awakening |
-| Oxygen-destroying |
-| Dorsal-fin-glowing |
-| Ghidorah-headbutting |
-| Skull Island-exploring |
-| Monarch-monitoring |
-| Rodan-swooping |
-| Kong-climbing |
-| Gigan-slashing |
-| Shobijin-summoning |
-| Evangelion-syncing |
-| Kaiju-scoring |
-| Radiation-absorbing |
-| Godzilla-roaring |
-| Mothra-chanting |
-| Biollante-blooming |
-| Hedorah-polluting |
-| Anguirus-rolling |
-| Jet Jaguar-signaling |
-| SpaceGodzilla-crystalizing |
-| Destroyah-fragmenting |
+| Breathing atomic fire |
+| Wrangling kaiju |
+| Piloting MechaGodzilla |
+| Vacationing on Monster Island |
+| Praying to Mothra |
+| Stomping the city |
+| Nesting like a MUTO |
+| Awakening the Titans |
+| Firing the Oxygen Destroyer |
+| Glowing dorsal fins |
+| Headbutting Ghidorah |
+| Exploring Skull Island |
+| Monitoring for Monarch |
+| Swooping like Rodan |
+| Climbing like Kong |
+| Slashing like Gigan |
+| Summoning the Shobijin |
+| Syncing with the Evangelion |
+| Scoring the kaiju fight |
+| Absorbing radiation |
+| Roaring like Godzilla |
+| Chanting for Mothra |
+| Blooming like Biollante |
+| Polluting like Hedorah |
+| Rolling like Anguirus |
+| Signaling Jet Jaguar |
+| Crystalizing like SpaceGodzilla |
+| Fragmenting like Destoroyah |
 
 
 ### Gym Bro (50)
@@ -1891,8 +1891,8 @@ Verbs based on the Godzilla franchise.
 | Cutting |
 | Shredding |
 | Repping-out |
-| Gains-chasing |
-| Pump-chasing |
+| Chasing gains |
+| Chasing the pump |
 | Deadlifting |
 | Benching |
 | Squatting |
@@ -1905,13 +1905,13 @@ Verbs based on the Godzilla franchise.
 | Deloading |
 | Overloading |
 | Micro-loading |
-| Plate-loading |
+| Loading plates |
 | Rack-pulling |
 | Racking-up |
-| Macro-tracking |
+| Tracking macros |
 | Carb-loading |
 | Protein-loading |
-| Protein-shaking |
+| Shaking up protein |
 | Pre-workouting |
 | Dry-scooping |
 | Foam-rolling |
@@ -1922,21 +1922,21 @@ Verbs based on the Godzilla franchise.
 | Locking-in |
 | Dialing-in |
 | Beast-moding |
-| Swole-maxing |
+| Maxing out swole |
 | Flexing |
 | Mirin' |
 | Grindsetting |
 | Hypertrophying |
-| Pumping-iron |
-| Pushing-failure |
-| Chalk-dusting |
-| Mind-muscling |
-| Vein-popping |
-| Core-crushing |
+| Pumping iron |
+| Pushing to failure |
+| Dusting with chalk |
+| Working the mind-muscle connection |
+| Popping veins |
+| Crushing core |
 | Ego-lifting |
 | Lunking-around |
-| Rowing-hard |
-| PR-hunting |
+| Rowing hard |
+| Hunting PRs |
 
 
 ### Gym Bro Phrases (45)
@@ -1996,89 +1996,89 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 
 | Verb |
 |------|
-| Expelliarmus casting |
-| Expecto Patronum summoning |
-| Potion-brewing |
-| Quidditch playing |
-| Wand-waving |
-| Horcrux-hunting |
-| Floo powder traveling |
-| Snitch-catching |
-| Accio summoning |
-| Alohomora unlocking |
+| Casting expelliarmus |
+| Summoning a patronus |
+| Brewing potions |
+| Playing quidditch |
+| Waving a wand |
+| Hunting horcruxes |
+| Traveling with floo powder |
+| Catching the snitch |
+| Using accio to summon |
+| Unlocking with alohomora |
 | Marauding |
-| Howler-sending |
-| Boggart-banishing |
+| Sending a howler |
+| Banishing boggarts |
 
 
 ### Heist Movie (64)
 
 | Verb |
 |------|
-| Crew-assembling |
-| Talent-scouting |
-| Favor-calling |
-| Score-planning |
-| Joint-casing |
-| Blueprint-unrolling |
-| Floorplan-memorizing |
-| Plan-rehearsing |
-| Alibi-rehearsing |
-| Cover-building |
-| Mark-charming |
-| Gala-gliding |
-| Crowd-blending |
-| Accent-faking |
-| Tuxedo-tailoring |
-| Badge-borrowing |
-| Access-forging |
-| Guard-bribing |
-| Guard-distracting |
-| Insider-briefing |
-| Timing-syncing |
-| Camera-looping |
-| Signal-jamming |
-| Alarm-silencing |
-| Sensor-evading |
-| Laser-dodging |
-| Duct-crawling |
-| Roof-rappelling |
-| Skylight-descending |
-| Tunnel-boring |
-| Glass-cutting |
-| Wire-cutting |
-| Cable-splicing |
-| Hinge-melting |
-| Keypad-bypassing |
-| Lock-picking |
-| Pin-tumbling |
-| Tumbler-listening |
-| Dial-spinning |
-| Combination-guessing |
-| Vault-locating |
-| Vault-drilling |
-| Diamond-palming |
-| Bag-switching |
-| Decoy-deploying |
-| Pocket-picking |
-| Loot-bagging |
-| Lookout-posting |
-| Signal-waiting |
-| Exit-improvising |
-| Escape-mapping |
-| Van-idling |
-| Getaway-driving |
-| Traffic-weaving |
-| Tail-shaking |
-| Heat-avoiding |
-| Loot-fencing |
-| Take-splitting |
-| Betrayal-anticipating |
-| Twist-unveiling |
-| Grudge-burying |
-| Sunset-riding |
-| Retirement-delaying |
-| Last-jobbing |
+| Assembling the crew |
+| Scouting talent |
+| Calling in favors |
+| Planning the score |
+| Casing the joint |
+| Unrolling the blueprints |
+| Memorizing the floorplan |
+| Rehearsing the plan |
+| Rehearsing the alibi |
+| Building a cover |
+| Charming the mark |
+| Gliding through the gala |
+| Blending into the crowd |
+| Faking an accent |
+| Tailoring the tuxedo |
+| Borrowing a badge |
+| Forging access |
+| Bribing the guard |
+| Distracting the guard |
+| Briefing the insider |
+| Syncing watches |
+| Looping the cameras |
+| Jamming the signal |
+| Silencing the alarm |
+| Evading the sensors |
+| Dodging lasers |
+| Crawling through the ducts |
+| Rappelling from the roof |
+| Descending through the skylight |
+| Boring the tunnel |
+| Cutting the glass |
+| Cutting the wire |
+| Splicing cables |
+| Melting the hinges |
+| Bypassing the keypad |
+| Picking the lock |
+| Tumbling the pins |
+| Listening for the tumblers |
+| Spinning the dial |
+| Guessing the combination |
+| Locating the vault |
+| Drilling the vault |
+| Palming the diamond |
+| Switching the bags |
+| Deploying the decoy |
+| Picking pockets |
+| Bagging the loot |
+| Posting a lookout |
+| Waiting for the signal |
+| Improvising an exit |
+| Mapping the escape |
+| Idling the van |
+| Driving the getaway car |
+| Weaving through traffic |
+| Shaking the tail |
+| Avoiding the heat |
+| Fencing the loot |
+| Splitting the take |
+| Anticipating the betrayal |
+| Unveiling the twist |
+| Burying the grudge |
+| Riding into the sunset |
+| Delaying retirement |
+| Doing one last job |
 
 
 ### Heist Movie Phrases (74)
@@ -2167,11 +2167,11 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 
 | Verb |
 |------|
-| 5am-clubbing |
-| Audience-growing |
+| Joining the 5am club |
+| Growing the audience |
 | Automating |
-| Bag-chasing |
-| Bag-securing |
+| Chasing the bag |
+| Securing the bag |
 | Benchmarking |
 | Biohacking |
 | Closing |
@@ -2179,28 +2179,28 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 | Cold-emailing |
 | Cold-plunging |
 | Compounding |
-| Content-creating |
+| Creating content |
 | Cross-selling |
 | Day-trading |
-| Deal-closing |
-| Deal-flowing |
+| Closing deals |
+| Building deal flow |
 | Delegating |
 | Diversifying |
 | Dominating |
-| Dopamine-hacking |
+| Hacking dopamine |
 | Dropshipping |
-| Empire-building |
-| Equity-raising |
-| Exit-planning |
+| Building the empire |
+| Raising equity |
+| Planning the exit |
 | Failing-forward |
 | Forecasting |
 | Founder-moding |
-| Funnel-building |
+| Building the funnel |
 | Gamifying |
 | Habit-stacking |
 | Intermittent-fasting |
-| KPI-chasing |
-| Lead-generating |
+| Chasing KPIs |
+| Generating leads |
 | Masterminding |
 | Maximizing |
 | Monetizing |
@@ -2210,7 +2210,7 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 | Outworking |
 | Overachieving |
 | Overdelivering |
-| Paper-stacking |
+| Stacking paper |
 | Pitching |
 | Podcasting |
 | Prospecting |
@@ -2220,15 +2220,15 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 | Rise-and-grinding |
 | Sidehustling |
 | Sigma-moding |
-| Sleep-skipping |
+| Skipping sleep |
 | Sleepmaxxing |
 | Sprinting |
 | Strategizing |
 | Timeboxing |
-| Unicorn-chasing |
+| Chasing unicorns |
 | Upselling |
-| Vision-boarding |
-| Wealth-stacking |
+| Making a vision board |
+| Stacking wealth |
 | Wholesaling |
 | Winning |
 
@@ -2312,33 +2312,33 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 
 | Verb |
 |------|
-| Shaken-not-stirring |
-| Q branch tinkering |
-| Aston Martin driving |
+| Shaking, not stirring |
+| Tinkering in Q Branch |
+| Driving the Aston Martin |
 | Introducing 007 |
 | Goldfingering |
 | Bonding |
-| Tuxedo strutting |
+| Strutting in a tuxedo |
 | Dropping one liners |
 | Playing Casino Royale |
-| Moneypenny flirting |
+| Flirting with Moneypenny |
 
 
 ### Jungle / Rainforest (11)
 
 | Verb |
 |------|
-| Vine-swinging |
-| Canopy-hopping |
-| Toucan-calling |
-| Monkey-chattering |
-| Jaguar-stalking |
-| Anaconda-dodging |
-| Frog-chorusing |
-| Waterfall-plunging |
-| Butterfly-fluttering |
-| River-rafting |
-| Orchid-blooming |
+| Swinging on vines |
+| Hopping through the canopy |
+| Calling like a toucan |
+| Chattering like a monkey |
+| Stalking like a jaguar |
+| Dodging anacondas |
+| Chorusing with the frogs |
+| Plunging down the waterfall |
+| Fluttering like a butterfly |
+| Rafting the river |
+| Blooming like an orchid |
 
 
 ### Jurassic Park (10)
@@ -2347,14 +2347,14 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 |------|
 | Stalking raptors |
 | Life finding a way |
-| T-Rex-roaring |
+| Roaring like a T-Rex |
 | Cloning dinos |
 | Pondering chaos theory |
 | Outsmarting raptors |
-| Amber-extracting |
+| Extracting DNA from amber |
 | Sparing no expense |
-| Raptor-pack-hunting |
-| Island-escaping |
+| Hunting in a raptor pack |
+| Escaping the island |
 
 
 ### Kaomoji (185)
@@ -2641,16 +2641,16 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Verb |
 |------|
 | Crocheting |
-| Loom-weaving |
+| Weaving on the loom |
 | Yarn-bombing |
 | Purling |
 | Casting-on |
-| Cable-twisting |
+| Twisting cables |
 | Felting |
 | Quilting |
-| Bobbin-winding |
-| Swatch-knitting |
-| Pattern-reading |
+| Winding the bobbin |
+| Knitting a swatch |
+| Reading the pattern |
 
 
 ### LinkedIn-Speak (45)
@@ -2676,7 +2676,7 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Executing |
 | Amplifying |
 | Elevating |
-| Bandwidth-checking |
+| Checking bandwidth |
 | Boiling-the-ocean |
 | 10x-ing |
 | Paradigm-shifting |
@@ -2684,11 +2684,11 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Unpacking |
 | Building-in-public |
 | Maximizing-ROI |
-| Synergy-seeking |
+| Seeking synergy |
 | Right-sizing |
 | Aligning |
 | Roadmapping |
-| Low-hanging-fruiting |
+| Picking low-hanging fruit |
 | Delivering-impact |
 | Driving-outcomes |
 | Recalibrating |
@@ -2762,18 +2762,18 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Verb |
 |------|
 | Second-breakfasting |
-| Ring-bearing |
-| Ent mooting |
-| Shadowfax riding |
-| Palantir-peeking |
-| Lembas-munching |
-| Balrog-baiting |
-| Precious-hoarding |
-| Mithril-mining |
-| Gandalf sparking |
-| Nazgul-screeching |
-| Treebeard-muttering |
-| Shire-frolicking |
+| Bearing the ring |
+| Holding an Entmoot |
+| Riding Shadowfax |
+| Peeking into the palantír |
+| Munching lembas |
+| Baiting the Balrog |
+| Hoarding the precious |
+| Mining mithril |
+| Lighting Gandalf's fireworks |
+| Screeching like a Nazgûl |
+| Muttering like Treebeard |
+| Frolicking in the Shire |
 
 
 ### Mario / Nintendo (11)
@@ -2781,16 +2781,16 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Verb |
 |------|
 | Mushrooming |
-| Pipe-warping |
-| Star-powering |
-| Goomba-stomping |
-| Coin-collecting |
-| Fire flower shooting |
-| Princess-rescuing |
-| Kart-racing |
-| 1-up collecting |
-| Yoshi-riding |
-| Koopa shell tossing |
+| Warping through pipes |
+| Grabbing a Star |
+| Stomping Goombas |
+| Collecting coins |
+| Shooting fireballs |
+| Rescuing the princess |
+| Racing karts |
+| Grabbing a 1-up |
+| Riding Yoshi |
+| Tossing Koopa shells |
 
 
 ### Marvel / MCU (13)
@@ -2798,18 +2798,18 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Verb |
 |------|
 | Hulk-smashing |
-| Wakanda forever chanting |
+| Chanting Wakanda Forever |
 | Assembling |
 | Web-slinging |
-| Thanos-snapping |
-| Thor-hammering |
-| Infinity Stone wielding |
-| Arc reactor powering |
-| Vibranium-forging |
-| Multiverse-hopping |
-| Bifrost-bridging |
-| Groot-rooting |
-| Shield-throwing |
+| Snapping like Thanos |
+| Swinging Mjölnir |
+| Wielding the Infinity Stones |
+| Powering up the arc reactor |
+| Forging vibranium |
+| Hopping the multiverse |
+| Crossing the Bifrost |
+| Rooting like Groot |
+| Throwing the shield |
 
 
 ### Mathematics (11)
@@ -2818,14 +2818,14 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 |------|
 | Deriving |
 | Integrating |
-| Induction proving |
+| Proving by induction |
 | Factorizing |
-| Eigenvalue hunting |
-| Fractal zooming |
+| Hunting eigenvalues |
+| Zooming into fractals |
 | Fourier-transforming |
-| Matrix-multiplying |
+| Multiplying matrices |
 | Vectorizing |
-| Graph-traversing |
+| Traversing graphs |
 | Differentiating |
 
 
@@ -2833,17 +2833,17 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 
 | Verb |
 |------|
-| Red-pilling |
-| Bullet-timing |
+| Taking the red pill |
+| Entering bullet time |
 | Glitching |
-| Spoon-bending |
-| Agent-smithing |
-| Neo-dodging |
-| Kung-fu-loading |
-| Code-raining |
+| Bending spoons |
+| Multiplying like Agent Smith |
+| Dodging like Neo |
+| Loading kung fu |
+| Watching the code rain |
 | Denying spoons |
-| Jacking-in |
-| Reality-bending |
+| Jacking in |
+| Bending reality |
 
 
 ### Medieval / Knights (10)
@@ -2851,49 +2851,49 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Verb |
 |------|
 | Jousting |
-| Drawbridge lowering |
-| Dragon-slaying |
-| Castle-sieging |
-| Sword-swinging |
-| Chainmail-clanking |
-| Quest-embarking |
-| Round-tabling |
-| Chivalry upholding |
-| Armor-donning |
+| Lowering the drawbridge |
+| Slaying dragons |
+| Besieging the castle |
+| Swinging a sword |
+| Clanking in chainmail |
+| Embarking on a quest |
+| Gathering at the Round Table |
+| Upholding chivalry |
+| Donning armor |
 
 
 ### Meme Culture (11)
 
 | Verb |
 |------|
-| Distracted glancing |
+| Glancing like the distracted boyfriend |
 | Sitting in fire |
 | Yeeting |
-| Dank-meming |
+| Posting dank memes |
 | Galaxy-braining |
 | Pressing F |
-| Stonks rising |
-| Among Us sussing |
-| Ogre layering |
+| Watching stonks rise |
+| Calling sus in Among Us |
+| Peeling ogre layers |
 | Drake-approving |
-| Spongebob-mocking |
+| mOcKiNg LiKe SpOnGeBoB |
 
 
 ### Minecraft (11)
 
 | Verb |
 |------|
-| Creeper sneaking |
-| Redstone wiring |
-| Ender teleporting |
-| Block-placing |
-| Diamond-mining |
-| Nether-portaling |
-| Elytra-gliding |
-| Villager-trading |
-| Bed-exploding |
-| Biome-exploring |
-| Pickaxe-swinging |
+| Sneaking up like a creeper |
+| Wiring redstone |
+| Teleporting with ender pearls |
+| Placing blocks |
+| Mining diamonds |
+| Entering the Nether portal |
+| Gliding with elytra |
+| Trading with villagers |
+| Exploding beds in the Nether |
+| Exploring biomes |
+| Swinging the pickaxe |
 
 
 ### Mission Control / Space Launch (80)
@@ -2902,7 +2902,7 @@ Space ops drama meets software development.
 
 | Verb |
 |------|
-| T-minus deployment |
+| Counting down to deployment |
 | Go for launch on main |
 | We have liftoff on the build |
 | Ignition sequence start for the build |
@@ -2913,7 +2913,7 @@ Space ops drama meets software development.
 | Fueling up the dependency tank |
 | Uploading flight plan to the repo |
 | Holding at T-minus for review |
-| T-minus npm install |
+| Counting down to npm install |
 | All systems nominal... probably |
 | Passing through max-Q |
 | Booster separation confirmed |
@@ -2938,7 +2938,7 @@ Space ops drama meets software development.
 | Acquiring signal from the test suite |
 | Establishing a secure comm link with the API |
 | Searching for life in the log files |
-| Uplink PR diffs |
+| Uplinking PR diffs |
 | Checking comms on the API link |
 | Initiating docking sequence with upstream |
 | Rendezvous with main branch |
@@ -2979,7 +2979,7 @@ Space ops drama meets software development.
 | Go for orbital commit |
 | Engaging autopilot on the deploy script |
 | Engaging the autopilot for code review |
-| Next launch window polling |
+| Polling for the next launch window |
 | Clearing tower for git push |
 | Igniting engines on the CI stack |
 
@@ -2988,16 +2988,16 @@ Space ops drama meets software development.
 
 | Verb |
 |------|
-| Ni-ing |
-| Holy-grailing |
-| Spam-spamming |
+| Saying Ni |
+| Seeking the Holy Grail |
+| Spam, spam, spamming |
 | Silly-walking |
-| Dead-parroting |
-| Coconut-clopping |
-| French-taunting |
-| Nobody expecting |
-| Black-knight-fighting |
-| Lumberjack-singing |
+| Pining for the fjords |
+| Clopping coconuts |
+| Taunting like a Frenchman |
+| Not expecting the Spanish Inquisition |
+| Fighting the Black Knight |
+| Singing the Lumberjack Song |
 | Catapulting cows |
 
 
@@ -3184,11 +3184,11 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | Voguing |
 | Sampling |
 | Jamming |
-| Salsa dancing |
+| Dancing salsa |
 | Tangoing |
 | Rapping |
-| Djembe drumming |
-| Turntable scratching |
+| Drumming the djembe |
+| Scratching the turntables |
 | Two-stepping |
 | Moonstomping |
 
@@ -3217,9 +3217,9 @@ Hard-boiled debugging — film noir meets software development.
 | Trust nobody, especially the tests |
 | I've been chasing this pointer for days |
 | The dependency was hiding in plain sight |
-| Rain on the terminal window |
+| Watching rain on the terminal window |
 | Another night, another nil |
-| Stakeout on the garbage collector |
+| Staking out the garbage collector |
 | Promises colder than the rain |
 | Shady inheritance in the class |
 | Neon glow on console errors |
@@ -3230,11 +3230,11 @@ Hard-boiled debugging — film noir meets software development.
 | Race condition in the mist |
 | Profiling dim-lit suspects |
 | Router hid a dirty secret |
-| Merge conflict at midnight |
+| Settling a merge conflict at midnight |
 | Floating point double-cross |
 | Coroutine vanished in fog |
-| Ciphertext cracked open |
-| Payload dropped in shadows |
+| Cracking the ciphertext open |
+| Dropping the payload in shadows |
 | Breach lit by terminal rain |
 | The build was rigged from the start |
 | This API had a shady reputation |
@@ -3276,17 +3276,17 @@ Hard-boiled debugging — film noir meets software development.
 
 | Verb |
 |------|
-| Whale-singing |
-| Reef building |
+| Singing whale song |
+| Building a reef |
 | Tide-pooling |
-| Dolphin-leaping |
-| Shark-circling |
-| Octopus-inking |
-| Kelp swaying |
-| Wave-crashing |
-| Plankton-drifting |
-| Seashell-collecting |
-| Sea foam bubbling |
+| Leaping like a dolphin |
+| Circling like a shark |
+| Inking like an octopus |
+| Swaying with the kelp |
+| Crashing like a wave |
+| Drifting like plankton |
+| Collecting seashells |
+| Bubbling like sea foam |
 
 
 ### The Office (12)
@@ -3294,16 +3294,16 @@ Hard-boiled debugging — film noir meets software development.
 | Verb |
 |------|
 | Dropping innuendos |
-| Chili-spilling |
-| Assistant managing |
-| Stapler-jello-ing |
-| Prison-miking |
-| Beet-farming |
-| Jim-pranking |
+| Spilling the chili |
+| Assistant-to-the-regional-managing |
+| Putting the stapler in jello |
+| Doing Prison Mike |
+| Farming beets |
+| Pranking like Jim |
 | Shuffling paper |
 | Botching math |
-| Midnight screening |
-| Dundie-awarding |
+| Screening Threat Level Midnight |
+| Handing out Dundies |
 | Snatching pretzels |
 
 
@@ -3331,32 +3331,32 @@ Hard-boiled debugging — film noir meets software development.
 |------|
 | Excavating |
 | Carbon-dating |
-| Fossil-hunting |
-| Bone-brushing |
-| Dino-reconstructing |
-| Strata-sifting |
-| Trackway-tracing |
-| Amber-entombing |
-| Coprolite-collecting |
-| Museum-curating |
-| Skull-mounting |
+| Hunting fossils |
+| Brushing off bones |
+| Reconstructing dinos |
+| Sifting through strata |
+| Tracing trackways |
+| Entombing in amber |
+| Collecting coprolites |
+| Curating the museum |
+| Mounting the skull |
 
 
 ### Photography (11)
 
 | Verb |
 |------|
-| Aperture tweaking |
-| Long exposing |
-| Golden hour chasing |
-| Shutter-clicking |
-| Lens-focusing |
-| Bokeh-blurring |
+| Tweaking the aperture |
+| Shooting a long exposure |
+| Chasing golden hour |
+| Clicking the shutter |
+| Focusing the lens |
+| Blurring the bokeh |
 | Focus-pulling |
 | White-balancing |
-| RAW-processing |
+| Processing RAW files |
 | Color-grading |
-| ISO-adjusting |
+| Adjusting ISO |
 
 
 ### Pirate / Nautical (11)
@@ -3366,13 +3366,13 @@ Hard-boiled debugging — film noir meets software development.
 | Swashbuckling |
 | Plundering |
 | Yo-ho-hoing |
-| Treasure-mapping |
-| Sea-shantying |
-| Cannon-firing |
-| Jolly-rogering |
-| Plank-walking |
-| Parrot-perching |
-| Deck-swabbing |
+| Mapping the treasure |
+| Singing sea shanties |
+| Firing the cannons |
+| Hoisting the Jolly Roger |
+| Walking the plank |
+| Perching a parrot |
+| Swabbing the deck |
 | Keelhauling |
 
 
@@ -3380,17 +3380,17 @@ Hard-boiled debugging — film noir meets software development.
 
 | Verb |
 |------|
-| Pikachu shocking |
+| Shocking like Pikachu |
 | Evolving |
-| Pokeball-throwing |
+| Throwing a Pokeball |
 | Catchin' em all |
-| Gym-battling |
-| Shiny-hunting |
-| Team Rocket blasting |
-| Pokedex scanning |
+| Battling the gym leader |
+| Hunting shinies |
+| Blasting off like Team Rocket |
+| Scanning the Pokedex |
 | Thunderbolting |
-| Master Ball throwing |
-| Type-matching |
+| Throwing a Master Ball |
+| Matching types |
 
 
 ### Prohibition Era (11)
@@ -3398,16 +3398,16 @@ Hard-boiled debugging — film noir meets software development.
 | Verb |
 |------|
 | Bootlegging |
-| Speakeasy sneaking |
-| Charleston dancing |
+| Sneaking into the speakeasy |
+| Dancing the Charleston |
 | Moonshining |
-| Tommy-gunning |
-| Bathtub gin brewing |
-| G-man-dodging |
-| Jazz-clubbing |
-| Flapper dancing |
-| Gatsby partying |
-| Fedora-tilting |
+| Spraying the tommy gun |
+| Brewing bathtub gin |
+| Dodging G-men |
+| Hitting the jazz club |
+| Dancing like a flapper |
+| Partying like Gatsby |
+| Tilting the fedora |
 
 
 ### Quantum Physics (11)
@@ -3415,50 +3415,50 @@ Hard-boiled debugging — film noir meets software development.
 | Verb |
 |------|
 | Entangling |
-| Superposition juggling |
+| Juggling superpositions |
 | Collapsing |
 | Tunneling |
-| Schrödinger-catting |
-| Qubit-flipping |
+| Boxing Schrödinger's cat |
+| Flipping qubits |
 | Decohering |
-| Wavefunction evolving |
-| Uncertainty hedging |
-| Vacuum-fluctuating |
-| Spin-flipping |
+| Evolving the wavefunction |
+| Hedging uncertainty |
+| Fluctuating the vacuum |
+| Flipping spins |
 
 
 ### Retro Gaming (11)
 
 | Verb |
 |------|
-| Pac-Man chomping |
-| Tetris stacking |
-| Konami code entering |
-| Cartridge-blowing |
-| Coin-inserting |
-| Joystick-waggling |
-| 8-bit-bopping |
-| Sprite-rendering |
-| Warp-zoning |
-| Boss-rushing |
-| High-score-chasing |
+| Chomping like Pac-Man |
+| Stacking Tetris blocks |
+| Entering the Konami code |
+| Blowing on the cartridge |
+| Inserting a coin |
+| Waggling the joystick |
+| Bopping in 8-bit |
+| Rendering sprites |
+| Taking the warp zone |
+| Rushing the boss |
+| Chasing the high score |
 
 
 ### Samurai / Japanese (11)
 
 | Verb |
 |------|
-| Bushido honoring |
-| Sensei bowing |
-| Origami folding |
-| Katana-drawing |
-| Haiku-writing |
-| Tea ceremony pouring |
-| Zen-meditating |
-| Dojo-training |
-| Cherry-blossoming |
-| Ninja-stealthing |
-| Bamboo-cutting |
+| Honoring bushido |
+| Bowing to sensei |
+| Folding origami |
+| Drawing the katana |
+| Writing haiku |
+| Pouring the tea ceremony |
+| Meditating on zen |
+| Training in the dojo |
+| Watching cherry blossoms |
+| Sneaking like a ninja |
+| Cutting bamboo |
 
 
 ### Sci-Fi / Space (16)
@@ -3478,9 +3478,9 @@ Hard-boiled debugging — film noir meets software development.
 | Phasing |
 | Time-warping |
 | Hypershifting |
-| Nebula-hopping |
-| Photon-blasting |
-| Tractor-beaming |
+| Hopping nebulae |
+| Blasting photons |
+| Firing the tractor beam |
 
 
 ### Social Media (11)
@@ -3489,14 +3489,14 @@ Hard-boiled debugging — film noir meets software development.
 |------|
 | Doom-swiping |
 | Going viral |
-| Algorithm gaming |
+| Gaming the algorithm |
 | Hashtagging |
-| DM-sliding |
-| Clout-chasing |
+| Sliding into DMs |
+| Chasing clout |
 | Clickbaiting |
-| Thread-spinning |
-| Feed-refreshing |
-| Like-farming |
+| Spinning a thread |
+| Refreshing the feed |
+| Farming likes |
 | Influencing |
 
 
@@ -3505,13 +3505,13 @@ Hard-boiled debugging — film noir meets software development.
 | Verb |
 |------|
 | Aerobraking |
-| Attitude-tuning |
+| Tuning attitude |
 | Berthing |
 | Chilling down |
 | Circularizing |
 | Coasting |
-| Comet-chasing |
-| Crater-hopping |
+| Chasing comets |
+| Hopping craters |
 | Deorbiting |
 | Depressurizing |
 | Docking |
@@ -3538,7 +3538,7 @@ Hard-boiled debugging — film noir meets software development.
 | Slingshotting |
 | Splashing down |
 | Staging |
-| Star-tracking |
+| Tracking stars |
 | Starhopping |
 | Station-keeping |
 | Sunskimming |
@@ -3658,7 +3658,7 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Slacklining |
 | Rock-climbing |
 | Shadowboxing |
-| Yoga posing |
+| Striking a yoga pose |
 | Trampolining |
 
 
@@ -3667,18 +3667,18 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Verb |
 |------|
 | Engaging |
-| Beaming-up |
-| Boldly-going |
+| Beaming up |
+| Boldly going |
 | Mind-melding |
-| Holodeck simulating |
-| Tricorder scanning |
+| Running a holodeck simulation |
+| Scanning with the tricorder |
 | Redshirting |
 | Assimilating |
-| Tribble breeding |
-| Vulcan nerve pinching |
-| Red-alerting |
-| Cheating Kobayashi |
-| Prime Directive following |
+| Breeding tribbles |
+| Applying the Vulcan nerve pinch |
+| Sounding red alert |
+| Cheating the Kobayashi Maru |
+| Following the Prime Directive |
 | Replicating |
 
 
@@ -3687,34 +3687,34 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Verb |
 |------|
 | Force-pushing |
-| Jedi-mind-tricking |
+| Doing a Jedi mind trick |
 | Podracing |
-| Wookiee-roaring |
-| Kessel-running |
-| Cantina-jamming |
-| Bounty-hunting |
-| Sarlacc-dodging |
-| Ewok-dancing |
-| Saber-dueling |
-| Trench-running |
-| Yoda-flipping |
+| Roaring like a Wookiee |
+| Making the Kessel Run |
+| Jamming in the cantina |
+| Hunting bounties |
+| Dodging the Sarlacc |
+| Dancing with Ewoks |
+| Dueling with lightsabers |
+| Running the trench |
+| Flipping like Yoda |
 
 
 ### Stranger Things (11)
 
 | Verb |
 |------|
-| Upside down exploring |
+| Exploring the Upside Down |
 | Mind-flaying |
 | Eating Eggos |
-| Demogorgon-dodging |
+| Dodging the Demogorgon |
 | Fleeing Vecna |
 | Scooping cones |
-| Mall raiding |
-| Hellfire Club rolling |
-| Christmas-lighting |
-| Gate portaling |
-| D&D campaigning |
+| Raiding Starcourt Mall |
+| Rolling dice with the Hellfire Club |
+| Talking through Christmas lights |
+| Opening the Gate |
+| Running a D&D campaign |
 
 
 ### Streaming / Creator (11)
@@ -3723,48 +3723,48 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 |------|
 | Rage-quitting |
 | Calling GG |
-| Chat-moderating |
-| Sub-gifting |
-| Emote-spamming |
-| Overlay-tweaking |
-| Clip-editing |
-| Mic-checking |
-| Hype-train-riding |
-| Raid-hosting |
-| Stream-starting |
+| Moderating chat |
+| Gifting subs |
+| Spamming emotes |
+| Tweaking the overlay |
+| Editing clips |
+| Checking the mic |
+| Riding the hype train |
+| Hosting a raid |
+| Starting the stream |
 
 
 ### Studio Ghibli (10)
 
 | Verb |
 |------|
-| Totoro waiting |
-| Spiriting-away |
-| Riding catbus |
-| Moving castle |
-| Calcifer-burning |
-| Kiki-delivering |
-| Soot sprite scattering |
-| Ponyo-splashing |
-| Nausicaa-gliding |
-| Laputa-floating |
+| Waiting at the bus stop with Totoro |
+| Spiriting away |
+| Riding the Catbus |
+| Moving the castle |
+| Stoking Calcifer |
+| Delivering with Kiki |
+| Scattering soot sprites |
+| Splashing like Ponyo |
+| Gliding like Nausicaä |
+| Floating to Laputa |
 
 
 ### Synesthesia / Colors (11)
 
 | Verb |
 |------|
-| Ultraviolet glowing |
-| Iridescent shimmering |
-| Prism refracting |
-| Hue-shifting |
-| Chromatic-blooming |
-| Spectrum-singing |
-| Color-splashing |
-| Saturation-boosting |
-| Rainbow-blending |
-| Luminance-mapping |
-| Aura-sensing |
+| Glowing ultraviolet |
+| Shimmering iridescently |
+| Refracting through a prism |
+| Shifting hues |
+| Blooming chromatically |
+| Singing the spectrum |
+| Splashing color |
+| Boosting saturation |
+| Blending rainbows |
+| Mapping luminance |
+| Sensing auras |
 
 
 ### Tech / Programming (14)
@@ -3943,51 +3943,51 @@ Standing by — backstage crew chatter for when Claude is quietly making the pro
 | Verb |
 |------|
 | Backstaging |
-| Block-checking |
-| Break-rotating |
-| Churro-stocking |
+| Checking the block |
+| Rotating breaks |
+| Stocking churros |
 | Confiscating |
-| Costume-adjusting |
-| Crowd-herding |
-| E-stopping |
+| Adjusting costumes |
+| Herding the crowd |
+| Hitting the E-stop |
 | Escorting |
 | Evacuating |
-| Float-pushing |
-| Gate-latching |
-| Guest-recovering |
-| Height-measuring |
-| Lap-bar-tugging |
-| Mascot-wrangling |
-| Monorail-towing |
+| Pushing the float |
+| Latching the gate |
+| Doing guest recovery |
+| Measuring heights |
+| Tugging lap bars |
+| Wrangling mascots |
+| Towing the monorail |
 | On-staging |
-| Overlay-hanging |
-| Parade-marshaling |
+| Hanging the seasonal overlay |
+| Marshaling the parade |
 | Placating |
-| Platform-manning |
+| Manning the platform |
 | Power-washing |
 | Pulsing |
-| Pyro-loading |
+| Loading pyro |
 | Radioing |
 | Re-railing |
 | Re-strapping |
 | Re-theming |
 | Rebooting |
-| Restraint-checking |
-| Rope-dropping |
-| Seatbelt-tugging |
-| Single-rider-merging |
+| Checking restraints |
+| Dropping the rope |
+| Tugging seatbelts |
+| Merging the single-rider line |
 | Spieling |
-| Spill-coning |
+| Coning off a spill |
 | Stacking |
-| Stamp-checking |
-| Stanchion-shifting |
-| Stroller-stowing |
+| Checking hand stamps |
+| Shifting stanchions |
+| Stowing strollers |
 | Switchbacking |
-| Track-walking |
-| Tram-directing |
-| Tunnel-patrolling |
-| Turkey-leg-thawing |
-| Turnstile-unjamming |
+| Walking the track |
+| Directing trams |
+| Patrolling the utilidors |
+| Thawing turkey legs |
+| Unjamming the turnstile |
 | Unstacking |
 | Wristbanding |
 
@@ -4225,16 +4225,16 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Verb |
 |------|
 | Haberdashing |
-| Clockwork tinkering |
-| Monocle-adjusting |
-| Airship-sailing |
-| Gear-turning |
-| Cogwheel turning |
-| Brass-polishing |
-| Top hat tipping |
-| Steam-hissing |
-| Goggles adjusting |
-| Automaton-winding |
+| Tinkering with clockwork |
+| Adjusting my monocle |
+| Sailing the airship |
+| Turning gears |
+| Turning cogwheels |
+| Polishing brass |
+| Tipping my top hat |
+| Hissing steam |
+| Adjusting my goggles |
+| Winding the automaton |
 
 
 ### Viking / Norse (11)
@@ -4243,15 +4243,15 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 |------|
 | Pillaging |
 | Berserking |
-| Valhalla calling |
-| Longship-rowing |
-| Rune-carving |
-| Shield-walling |
-| Mead hall toasting |
-| Saga-telling |
-| Axe-throwing |
-| Ragnarok-prepping |
-| Fjord-sailing |
+| Answering Valhalla's call |
+| Rowing the longship |
+| Carving runes |
+| Forming a shield wall |
+| Toasting in the mead hall |
+| Telling sagas |
+| Throwing axes |
+| Prepping for Ragnarok |
+| Sailing the fjords |
 
 
 ### Volcanic (11)
@@ -4275,17 +4275,17 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 
 | Verb |
 |------|
-| Monsoon raging |
-| Tornado twisting |
-| Lightning-striking |
-| Thunder-rumbling |
-| Hurricane-eyeing |
-| Cyclone-spinning |
-| Hail-pelting |
-| Rainbow-arching |
-| Fog-rolling |
+| Raging like a monsoon |
+| Twisting like a tornado |
+| Striking like lightning |
+| Rumbling like thunder |
+| Sitting in the hurricane's eye |
+| Spinning like a cyclone |
+| Pelting hail |
+| Arching a rainbow |
+| Rolling in like fog |
 | Downpouring |
-| Barometer-watching |
+| Watching the barometer |
 
 
 ### Whimsical (20)
@@ -4318,17 +4318,17 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 
 | Verb |
 |------|
-| Lasso-ing |
-| Tumbleweed rolling |
+| Lassoing |
+| Rolling like a tumbleweed |
 | Facing a showdown |
 | Quick-drawing |
-| Saloon-swinging |
-| Gold-rushing |
-| Cattle-driving |
-| Spur-jingling |
-| Wanted poster nailing |
-| Campfire-storying |
-| Revolver-spinning |
+| Swinging through the saloon doors |
+| Rushing for gold |
+| Driving cattle |
+| Jingling spurs |
+| Nailing up a wanted poster |
+| Telling campfire stories |
+| Spinning the revolver |
 
 
 ### Wine / Sommelier (10)
@@ -4339,9 +4339,9 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Corking |
 | Aerating |
 | Barrel-aging |
-| Vintage-selecting |
-| Bouquet-sniffing |
-| Cellar-stocking |
-| Tannin-softening |
-| Terroir-tasting |
+| Selecting a vintage |
+| Sniffing the bouquet |
+| Stocking the cellar |
+| Softening tannins |
+| Tasting the terroir |
 | Uncorking |
