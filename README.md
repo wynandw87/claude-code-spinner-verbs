@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,821 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,987 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,636 additional verbs** across 115 themed categories.
+**185 built-in defaults** + **3,802 additional verbs** across 117 themed categories.
 
 ## How to Add Verbs
 
@@ -101,6 +101,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Jurassic Park (10)](#jurassic-park-10)
 - [Kaomoji (185)](#kaomoji-185)
 - [Knitting / Textile (11)](#knitting--textile-11)
+- [Letterkenny (74)](#letterkenny-74)
 - [LinkedIn-Speak (45)](#linkedin-speak-45)
 - [Lord of the Rings (13)](#lord-of-the-rings-13)
 - [Mario / Nintendo (11)](#mario--nintendo-11)
@@ -164,6 +165,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Heist Movie Phrases (74)](#heist-movie-phrases-74)
 - [Hustle Culture Phrases (67)](#hustle-culture-phrases-67)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
+- [Letterkenny Phrases (92)](#letterkenny-phrases-92)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
 - [Motivational Poster (80)](#motivational-poster-80)
@@ -2653,6 +2655,186 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Winding the bobbin |
 | Knitting a swatch |
 | Reading the pattern |
+
+
+### Letterkenny (74)
+
+| Verb |
+|------|
+| Choring |
+| Pitter-pattering |
+| Hay-baling |
+| Ten-fouring |
+| Figuring |
+| Alleging |
+| Dart-ripping |
+| Puppers-cracking |
+| Whisky-sipping |
+| Soft-yessing |
+| Hard-noing |
+| Back-to-backing |
+| Super-softing |
+| Dance-fighting |
+| Sister-guarding |
+| Produce-stacking |
+| Stand-tending |
+| Porch-sitting |
+| Skidding |
+| Fellowshipping |
+| Jiving |
+| Texas-sizing |
+| Barn-working |
+| Donnybrooking |
+| Chucking knucks |
+| Shirt-tucking |
+| Sleeve-rolling |
+| Stone-picking |
+| Raving |
+| Preaching |
+| Trash-can-kicking |
+| Leg-daying |
+| Scrap-planning |
+| Laneway-defending |
+| Goose-protecting |
+| Mumbling |
+| Barn-building |
+| Scrapping |
+| Appreciating |
+| Harvesting |
+| Pitchforking |
+| Glaring |
+| Bantering |
+| Yielding |
+| Ostrich-alleging |
+| Beat-dropping |
+| Degen-deflecting |
+| Birthday-softening |
+| To-be-fairing |
+| Squaring up |
+| Tarping |
+| Fence-mending |
+| Tractoring |
+| Plaid-wearing |
+| Bale-stacking |
+| Bale-chucking |
+| Toasting |
+| Duking it out |
+| Hard-passing |
+| Plowing |
+| Seeding |
+| Mowing |
+| Tilling |
+| Buying rounds |
+| Spelling |
+| Puck-fetching |
+| Dart-bumming |
+| Tarp-tugging |
+| Shed-sitting |
+| Fighting |
+| Twenty-percenting |
+| Laneway-standing |
+| Hero-avoiding |
+| Ostrich-farming |
+
+
+### Letterkenny Phrases (92)
+
+Hicks, skids, hockey players, and Christians — pitter patter, let's get at 'er.
+
+| Verb |
+|------|
+| Pitter patter, let's get at 'er |
+| Getting at 'er |
+| How are ya now? |
+| Good 'n you? Not so bad |
+| Saying "to be fair" in unison |
+| Giving a Texas-sized 10-4 |
+| Figuring it out |
+| Allegedly |
+| Delivering a hard no |
+| Offering a soft yes |
+| Taking about 20% off there |
+| Appreciating that about you |
+| Asking what you appreciates about me |
+| Wheel, snipe, celly, boys |
+| Doing it ferda boys |
+| Telling you not to be a hero |
+| Getting yer hands off my sister |
+| Knowing yer gonna get it |
+| Having a great day for hay |
+| Planning a super soft birthday |
+| Winning back to back to back |
+| Asking if you wanna go |
+| Ripping a dart on the porch |
+| Yelling "Bonnie McMurray!" |
+| Fighting at the Ag Hall dance |
+| Allegedly chasing a sick ostrich |
+| Kicking a trash can like Coach |
+| Protecting the majestic Canada goose |
+| Raving with the skids |
+| Buying darts from Tanis |
+| Dodging degens from up country |
+| Sitting at the produce stand |
+| Pouring some Gus N' Bru |
+| Popping a cold Puppers |
+| Cracking Puppers by the case |
+| Tucking in a plaid shirt |
+| Grabbing a drink at MoDean's |
+| Decoding McMurray's mumbling |
+| Avoiding Jivin' Pete today |
+| Keeping an eye on Dierks |
+| Skipping leg day with the boys |
+| Listening to Pastor Glen preach |
+| Watching Devon and Roald dance |
+| Dodging Gail at the bar |
+| Defending the end of the laneway |
+| Picking stones on a Sunday |
+| Choring with Wayne and Dary |
+| Running Reilly and Jonesy's drill |
+| Dodging Shoresy's latest chirp |
+| Stacking produce at Wayne's stand |
+| Squaring up at the end of the laneway |
+| Chucking knucks with the degens |
+| Rolling up the sleeves |
+| Throwing hay bales till dark |
+| Telling Squirrely Dan to take 20% off |
+| Listening to Squirrely Dan's theories |
+| Laughing like Katy |
+| Saying "ya, so" like Dary |
+| Explaining the plan to Dary twice |
+| Watching Stewart and the skids scheme |
+| Making a deal with Tanis |
+| Two-stepping at the Ag Hall dance |
+| Cheersing with Gus N' Bru |
+| Giving it a hard pass |
+| Waiting on the Ginger and Boots |
+| Praying with Glen |
+| Playing for the Letterkenny Irish |
+| Getting the puck, Jared |
+| Spitting before the scrap |
+| Toasting the toughest guy in Letterkenny |
+| Reminding you there's 5,000 people in Letterkenny |
+| Dealing with their problems |
+| Choring till the cows come home |
+| Yelling "Ferda!" from the bench |
+| Pulling a Wayne stare |
+| Choring around the farm |
+| Cataloguing Letterkenny's problems |
+| Tending the produce stand in the rain |
+| Sitting on the porch with a Puppers |
+| Not fighting on a Sunday |
+| Learning big words for the spelling bee |
+| Calling everything a Texas-sized 10-4 |
+| Signing off with a "figure it out" |
+| Asking Dary about the ostriches |
+| Keeping the skids off the produce stand |
+| Locking down the hard no |
+| Doing a super soft birthday, respectfully |
+| Stopping the fight at the dance |
+| Recruiting the hicks, skids, and hockey players |
+| Answering "not so bad" every single time |
+| Wondering what Wayne would do |
+| Being the toughest guy in Letterkenny |
 
 
 ### LinkedIn-Speak (45)
