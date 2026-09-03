@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,641 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **3,821 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,456 additional verbs** across 113 themed categories.
+**185 built-in defaults** + **3,636 additional verbs** across 115 themed categories.
 
 ## How to Add Verbs
 
@@ -124,6 +124,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Retro Gaming (11)](#retro-gaming-11)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
+- [Shoresy (89)](#shoresy-89)
 - [Social Media (11)](#social-media-11)
 - [Space / NASA (47)](#space--nasa-47)
 - [Sports (16)](#sports-16)
@@ -168,6 +169,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
@@ -3481,6 +3483,200 @@ Hard-boiled debugging — film noir meets software development.
 | Hopping nebulae |
 | Blasting photons |
 | Firing the tractor beam |
+
+
+### Shoresy (89)
+
+| Verb |
+|------|
+| Chirping |
+| Sniping |
+| Cellying |
+| Saucing |
+| Bag-skating |
+| Wheeling |
+| Dangling |
+| Deking |
+| Toe-dragging |
+| Forechecking |
+| Backchecking |
+| Stickhandling |
+| One-timing |
+| Bar-downing |
+| Top-shelfing |
+| Five-holing |
+| Sin-binning |
+| Pine-riding |
+| Twig-taping |
+| Bucket-buckling |
+| Barn-filling |
+| Cheddar-hunting |
+| Flow-growing |
+| Muffin-stopping |
+| Plug-pulling |
+| Bender-benching |
+| Bulldogging |
+| Sudbury-skating |
+| Dad-joking |
+| Mitt-dropping |
+| Dishing sauce |
+| Pumping tires |
+| Tending twine |
+| Fetching biscuits |
+| Polishing buckets |
+| Scraping ice |
+| Taping ankles |
+| Tone-setting |
+| Crosschecking |
+| Bodychecking |
+| Boarding |
+| Slashing |
+| Hooking |
+| Icing |
+| Screening |
+| Deflecting |
+| Pinching |
+| Cycling |
+| Dumping |
+| Chasing |
+| Line-changing |
+| Penalty-killing |
+| Powerplaying |
+| Faceoff-winning |
+| Lacing up |
+| Chirp-slinging |
+| Zamboni-ing |
+| Resurfacing |
+| Roasting |
+| Scouting |
+| Netminding |
+| Goaltending |
+| Board-battling |
+| Puck-hunting |
+| Gino-scoring |
+| Apple-dishing |
+| Sweater-tugging |
+| Lumber-tapping |
+| Hat-tricking |
+| Shift-taking |
+| Bench-clearing |
+| Puck-dropping |
+| Grocery-sticking |
+| Never-losing |
+| Tendy-screening |
+| Warming up |
+| Crease-crashing |
+| Skating |
+| Brawling |
+| Tugging |
+| Wristing |
+| Slap-shotting |
+| Snowing the tendy |
+| Dangling the D |
+| Chirping tendies |
+| Slapping muffins |
+| Fixing flows |
+| Settling down |
+| Bucket-tossing |
+
+
+### Shoresy Phrases (91)
+
+Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
+
+| Verb |
+|------|
+| Never losing again |
+| Giving your balls a tug |
+| Setting the tone out there |
+| Filling the barn in Sudbury |
+| Sniping top cheddar, bar down |
+| Sniping top cheddar for the boys |
+| Saucing the biscuit cross-crease |
+| Putting the biscuit in the basket |
+| Burying the biscuit top shelf |
+| Chirping the tendy from the bench |
+| Taping the twig for warmups |
+| Firing absolute muffins at the net |
+| Stopping muffins before they squeak |
+| Serving time in the sin bin |
+| Taking a lap in the sin bin |
+| Wheeling free from the sin bin |
+| Chirping from the penalty box |
+| Bag-skating until somebody pukes |
+| Bag-skating through a Sudbury winter |
+| Bag-skating the plugs |
+| Surviving the coach's bag skate |
+| Sitting like a grocery stick |
+| Showing off the Northern Ontario flow |
+| Growing championship-calibre flow |
+| Winning the NOSHO championship |
+| Keeping the NOSHO on notice |
+| Playing senior AAA for the love of it |
+| Tapping the lumber for the boys |
+| Dishing dirty sauce across the ice |
+| Tossing sauce right on the tape |
+| Talking to Laura Mohr post-game |
+| Answering every question with "huh?" |
+| Polishing the bucket for game night |
+| Wheeling around the defensive zone |
+| Wheeling past the Big Nickel |
+| Wheeling past benders |
+| Waiting for the Jims to nod |
+| Sending Jim, Jim, and Jim to the booth |
+| Chirping the other team's benders |
+| Chirping the whole roster |
+| Chirping Shoresy through the stall wall |
+| Chirping so hard the ref laughs |
+| Chirping the ref, respectfully |
+| Chirping in both official languages |
+| Being absolute beauties out there |
+| Helping Sanger set the tone |
+| Hearing Hitch spin a yarn |
+| Putting JJ Frankie JJ out there |
+| Letting Dolo find the beat |
+| Dodging Ziigwan's sharpest roast |
+| Matching Miigwan chirp for chirp |
+| Letting Ziigwan and Miigwan run things |
+| Keeping Nat's Bulldogs on schedule |
+| Groaning at another dad joke |
+| Loading the freshest dad joke |
+| Benching plugs, benders, and muffins |
+| Riding pine and chirping anyway |
+| Cellying like the Bulldogs just won |
+| Refusing to lose again |
+| Asking how your mom's doing |
+| Dropping the gloves at centre ice |
+| Lacing 'em up in Sudbury |
+| Rolling out the Zamboni between periods |
+| Going top cheddar on the tendy |
+| Going bar down from the point |
+| Going five-hole on the tendy |
+| Ripping a wristie bar down |
+| Getting the barn on its feet |
+| Selling out the Sudbury Community Arena |
+| Buying the boys wings after the game |
+| Getting the boys back on the bus |
+| Bussing home from Timmins |
+| Hitting the ice for warmups |
+| Pulling the goalie with a minute left |
+| Winning the faceoff clean |
+| Blocking a shot with your face |
+| Signing another tough guy from up north |
+| Landing a Gordie Howe hat trick |
+| Scoring a gino for the boys |
+| Dishing an apple to the point |
+| Toe-dragging through the neutral zone |
+| Crashing the crease |
+| Clearing the crease |
+| Battling in the corners |
+| Pumping the boys' tires |
+| Setting the tone on the first shift |
+| Stretching a shift way too long |
+| Skating till the whistle |
+| Grinding out the third period |
+| Hoisting the cup over your bucket |
+| Staying Sudbury tough |
 
 
 ### Social Media (11)
