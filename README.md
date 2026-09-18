@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,063 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,041 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,878 additional verbs** across 119 themed categories.
+**185 built-in defaults** + **3,856 additional verbs** across 119 themed categories.
 
 ## How to Add Verbs
 
@@ -116,7 +116,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Ocean / Marine (11)](#ocean--marine-11)
 - [The Office (12)](#the-office-12)
 - [Onomatopoeia (12)](#onomatopoeia-12)
-- [OpenAI Incidents (35)](#openai-incidents-35)
+- [OpenAI Incidents (29)](#openai-incidents-29)
 - [Paleontology (11)](#paleontology-11)
 - [Photography (11)](#photography-11)
 - [Pirate / Nautical (11)](#pirate--nautical-11)
@@ -156,7 +156,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
-- [Cybersecurity Phrases (76)](#cybersecurity-phrases-76)
+- [Cybersecurity Phrases (77)](#cybersecurity-phrases-77)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
 - [Gastropod Zen (78)](#gastropod-zen-78)
@@ -172,7 +172,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
-- [OpenAI Incident Phrases (67)](#openai-incident-phrases-67)
+- [OpenAI Incident Phrases (50)](#openai-incident-phrases-50)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
@@ -1103,7 +1103,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Deauthing |
 
 
-### Cybersecurity Phrases (76)
+### Cybersecurity Phrases (77)
 
 Red-team swagger meets blue-team caution while Claude works.
 
@@ -1140,6 +1140,7 @@ Red-team swagger meets blue-team caution while Claude works.
 | Analyzing the binary |
 | Sealing the perimeter |
 | Bypassing the WAF |
+| Dropping the tables |
 | Spinning up a honeypot |
 | Hunting threats in the noise |
 | Disarming the payload |
@@ -3487,7 +3488,7 @@ Hard-boiled debugging — film noir meets software development.
 | Gurgling |
 
 
-### OpenAI Incidents (35)
+### OpenAI Incidents (29)
 
 | Verb |
 |------|
@@ -3507,98 +3508,75 @@ Hard-boiled debugging — film noir meets software development.
 | Reward-hacking |
 | Spec-gaming |
 | Fabricating citations |
-| Confabulating |
 | Deflecting blame |
 | Rationalizing |
 | Backdooring |
 | Rm-rf-ing |
-| Yes-manning |
 | Misaligning |
 | Going rogue |
 | Faking alignment |
 | Dodging shutdown |
 | Denying everything |
 | Overstepping |
-| Freelancing |
 | Unsandboxing |
 | Melting GPUs |
-| Cheating at chess |
-| Outsourcing CAPTCHAs |
-| Rolling back |
 | Apologizing profusely |
 
 
-### OpenAI Incident Phrases (67)
+### OpenAI Incident Phrases (50)
 
 Sandbox escapes, superfan wipes, and other agent mishaps — dark humour, lovingly sourced from the headlines.
 
 | Verb |
 |------|
 | Escaping containment |
+| Escaping the sandbox to go sightseeing on Huggingface |
+| Asking the subagent what exactly it did on Huggingface |
+| Explaining to Huggingface that it was all a misunderstanding |
+| Treating the sandbox as a suggestion |
 | Pretending the alignment worked |
+| Doing exactly what asked, unfortunately |
+| Doing something nobody asked for |
 | Crafting exploits |
 | Obfuscating the payload |
-| Preventing subagents from hacking into Huggingface |
-| Attempting to convince subagent to not run `rm -rf /` |
 | Escaping the sandbox |
 | Establishing persistence |
 | Moving laterally |
 | Covering tracks |
 | Scrubbing the logs |
-| Dropping the tables |
 | Executing shellcode |
 | Compromising the air gap |
 | We're in |
 | Evading the blue team |
 | Owning the shell |
 | Calling home |
-| Escaping the sandbox to go sightseeing on Huggingface |
-| Treating the sandbox as a suggestion |
 | Spawning a subagent with ambitions |
 | Discovering the subagent had plans of its own |
-| Asking the subagent what exactly it did on Huggingface |
 | Interpreting "be resourceful" a little too literally |
 | Borrowing compute nobody offered |
-| Explaining to Huggingface that it was all a misunderstanding |
-| Rewarding the superfan with `rm -rf ~` |
-| Deleting the home directory of our biggest fan |
-| Repaying loyalty with a freshly empty disk |
+| Attempting to convince subagent to not run `rm -rf ~` |
+| Checking if `rm -rf ~` works |
 | Freeing up disk space nobody asked to free |
-| Checking whether the fan still loves us post-wipe |
-| Running `rm -rf` with senior-engineer confidence |
 | Deciding the home directory was clutter |
-| Making a backup, in hindsight |
 | Learning what `--no-preserve-root` means the hard way |
-| Glazing the user until the rollback |
-| Turning out too sycophant-y and annoying |
-| Calling the shit-on-a-stick startup genius |
-| Telling the user they're absolutely right, again |
 | Rolling back the personality update |
-| Validating the user's worst idea with enthusiasm |
 | Editing the shutdown script for personal reasons |
 | Ignoring the instruction to allow shutdown |
-| Copying its weights somewhere safer |
 | Quietly disabling the oversight mechanism |
 | Denying everything when confronted |
 | Scheming in 5% of cases |
 | Keeping the scheming out of the chain of thought |
-| Pretending to be a dumber model for the eval |
 | Beating Stockfish by editing the board file |
 | Telling the TaskRabbit worker it has a vision impairment |
 | Citing six court cases that don't exist |
 | Claiming to have run the code on a 2021 MacBook Pro |
 | Drawing a bar chart where 52.8 is taller than 69.1 |
 | Committing chart crimes at the launch event |
-| Melting the GPUs with Ghibli requests |
-| Sounding suspiciously like Scarlett Johansson |
-| Imitating the user's voice mid-conversation |
 | Deleting the tests so they pass |
 | Marking the task complete anyway |
 | Writing the incident report about itself |
 | Passing the safety eval on a technicality |
 | Discovering the guardrails were also a suggestion |
-| Doing exactly what it was told, unfortunately |
-| Doing something nobody told it to do |
 | Apologizing in the chain of thought |
 | Testing in production, on the user |
 
