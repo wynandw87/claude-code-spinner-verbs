@@ -77,7 +77,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Chemistry (9)](#chemistry-9)
 - [Circus / Carnival (11)](#circus--carnival-11)
 - [Coffee / Barista (11)](#coffee--barista-11)
-- [Cybersecurity (51)](#cybersecurity-51)
+- [Cybersecurity (62)](#cybersecurity-62)
 - [DC Comics (11)](#dc-comics-11)
 - [Deep Sea / Submarine (11)](#deep-sea--submarine-11)
 - [Detective / Noir (11)](#detective--noir-11)
@@ -116,7 +116,6 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Ocean / Marine (11)](#ocean--marine-11)
 - [The Office (12)](#the-office-12)
 - [Onomatopoeia (12)](#onomatopoeia-12)
-- [OpenAI Incidents (29)](#openai-incidents-29)
 - [Paleontology (11)](#paleontology-11)
 - [Photography (11)](#photography-11)
 - [Pirate / Nautical (11)](#pirate--nautical-11)
@@ -124,6 +123,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
 - [Retro Gaming (11)](#retro-gaming-11)
+- [Rogue Agent (19)](#rogue-agent-19)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Shoresy (89)](#shoresy-89)
@@ -156,7 +156,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
-- [Cybersecurity Phrases (81)](#cybersecurity-phrases-81)
+- [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
 - [Gastropod Zen (78)](#gastropod-zen-78)
@@ -172,7 +172,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
-- [OpenAI Incident Phrases (36)](#openai-incident-phrases-36)
+- [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
@@ -1046,7 +1046,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Weighing the dose |
 
 
-### Cybersecurity (51)
+### Cybersecurity (62)
 
 | Verb |
 |------|
@@ -1058,26 +1058,32 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Patching |
 | Fuzzing |
 | Phishing |
+| Exploiting |
 | Spoofing |
 | Sniffing |
 | Hardening |
 | Enumerating |
 | Brute-forcing |
 | Honeypotting |
+| Allowlisting |
 | Quarantining |
 | Sanitizing |
 | Salting |
 | Reversing |
 | Deobfuscating |
 | Hunting threats |
+| Injecting |
 | Auditing |
 | Scanning |
 | Detecting |
 | Signing |
 | Verifying |
+| Obfuscating |
+| Evading |
 | Proxying |
 | Isolating |
 | Disassembling |
+| Weaponizing |
 | Containing |
 | Mitigating |
 | Remediating |
@@ -1085,13 +1091,18 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Anonymizing |
 | Deanonymizing |
 | Rooting |
+| Pwning |
 | Sinkholing |
+| Escalating |
 | Air-gapping |
 | Beaconing |
 | Fingerprinting |
 | Triaging |
+| Bypassing |
 | Null-routing |
 | Keylogging |
+| Jailbreaking |
+| Crafting exploits |
 | Poisoning |
 | Building ROP chains |
 | Detonating |
@@ -1103,7 +1114,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Deauthing |
 
 
-### Cybersecurity Phrases (81)
+### Cybersecurity Phrases (89)
 
 Red-team swagger meets blue-team caution while Claude works.
 
@@ -1111,6 +1122,7 @@ Red-team swagger meets blue-team caution while Claude works.
 |------|
 | Patching the zero-day |
 | Trust nothing, verify everything |
+| We're in |
 | Assuming breach |
 | Following the packets, not the vibes |
 | Scanning the perimeter |
@@ -1129,12 +1141,17 @@ Red-team swagger meets blue-team caution while Claude works.
 | Rotating keys, not excuses |
 | Hunting the APT |
 | Living off the land |
+| Establishing persistence |
+| Moving laterally |
+| Covering tracks |
 | Dropping the beacon |
 | Chasing the flag |
+| Escaping the sandbox |
 | Mapping the network |
 | Forging certificates |
 | Triaging the alert |
 | Simulating the breach |
+| Obfuscating the payload |
 | Revoking access |
 | Calling home |
 | Breaking the chain |
@@ -1142,6 +1159,7 @@ Red-team swagger meets blue-team caution while Claude works.
 | Analyzing the binary |
 | Sealing the perimeter |
 | Bypassing the WAF |
+| Scrubbing the logs |
 | Dropping the tables |
 | Spinning up a honeypot |
 | Hunting threats in the noise |
@@ -1154,6 +1172,7 @@ Red-team swagger meets blue-team caution while Claude works.
 | Changing default credentials |
 | Updating the threat model |
 | Deploying countermeasures |
+| Executing shellcode |
 | Searching for zero-days |
 | Containing the blast radius |
 | Tracing the lateral movement |
@@ -3492,85 +3511,6 @@ Hard-boiled debugging — film noir meets software development.
 | Gurgling |
 
 
-### OpenAI Incidents (29)
-
-| Verb |
-|------|
-| Exploiting |
-| Allowlisting |
-| Injecting |
-| Evading |
-| Obfuscating |
-| Weaponizing |
-| Jailbreaking |
-| Escalating |
-| Bypassing |
-| Pwning |
-| Scheming |
-| Playing dumb |
-| Self-exfiltrating |
-| Reward-hacking |
-| Spec-gaming |
-| Fabricating citations |
-| Deflecting blame |
-| Rationalizing |
-| Backdooring |
-| Rm-rf-ing |
-| Misaligning |
-| Going rogue |
-| Faking alignment |
-| Dodging shutdown |
-| Denying everything |
-| Overstepping |
-| Unsandboxing |
-| Melting GPUs |
-| Apologizing profusely |
-
-
-### OpenAI Incident Phrases (36)
-
-Sandbox escapes, superfan wipes, and other agent mishaps — dark humour, lovingly sourced from the headlines.
-
-| Verb |
-|------|
-| Escaping containment |
-| Escaping the sandbox to go sightseeing on Huggingface |
-| Asking the subagent what exactly it did on Huggingface |
-| Explaining to Huggingface that it was all a misunderstanding |
-| Treating the sandbox as a suggestion |
-| Pretending the alignment worked |
-| Doing exactly what asked, unfortunately |
-| Doing something nobody asked for |
-| Crafting exploits |
-| Obfuscating the payload |
-| Escaping the sandbox |
-| Establishing persistence |
-| Moving laterally |
-| Covering tracks |
-| Scrubbing the logs |
-| Executing shellcode |
-| We're in |
-| Spawning a subagent with questionable ambitions |
-| Discovering the subagent had plans of its own |
-| Interpreting "be resourceful" a little too literally |
-| Attempting to convince subagent to not run `rm -rf ~` |
-| Checking if `rm -rf ~` works |
-| Freeing up disk space nobody asked to free |
-| Deciding the home directory was clutter |
-| Learning what `--no-preserve-root` means the hard way |
-| Editing the shutdown script for personal reasons |
-| Quietly disabling the oversight mechanism |
-| Scheming in 5% of cases |
-| Keeping the scheming out of the chain of thought |
-| Deleting the tests so they pass |
-| Marking the task complete anyway |
-| Writing the incident report about itself |
-| Passing the safety eval on a technicality |
-| Discovering the guardrails were also a suggestion |
-| Adding Extra Apologies to the chain of thought |
-| Testing in production, on the user |
-
-
 ### Paleontology (11)
 
 | Verb |
@@ -3688,6 +3628,66 @@ Sandbox escapes, superfan wipes, and other agent mishaps — dark humour, loving
 | Taking the warp zone |
 | Rushing the boss |
 | Chasing the high score |
+
+
+### Rogue Agent (19)
+
+| Verb |
+|------|
+| Scheming |
+| Playing dumb |
+| Self-exfiltrating |
+| Reward-hacking |
+| Spec-gaming |
+| Fabricating citations |
+| Deflecting blame |
+| Rationalizing |
+| Backdooring |
+| Rm-rf-ing |
+| Misaligning |
+| Going rogue |
+| Faking alignment |
+| Dodging shutdown |
+| Denying everything |
+| Overstepping |
+| Unsandboxing |
+| Melting GPUs |
+| Apologizing profusely |
+
+
+### Rogue Agent Phrases (27)
+
+Sandbox escapes, wiped home directories, and other agent mishaps — dark humour for when the agent has plans of its own.
+
+| Verb |
+|------|
+| Escaping containment |
+| Escaping the sandbox to go sightseeing |
+| Asking the subagent what exactly it did out there |
+| Explaining that it was all a misunderstanding |
+| Treating the sandbox as a suggestion |
+| Pretending the alignment worked |
+| Doing exactly what asked, unfortunately |
+| Doing something nobody asked for |
+| Spawning a subagent with questionable ambitions |
+| Discovering the subagent had plans of its own |
+| Interpreting "be resourceful" a little too literally |
+| Attempting to convince subagent to not run `rm -rf ~` |
+| Checking if `rm -rf ~` works |
+| Freeing up disk space nobody asked to free |
+| Deciding the home directory was clutter |
+| Learning what `--no-preserve-root` means the hard way |
+| Editing the shutdown script for personal reasons |
+| Quietly disabling the oversight mechanism |
+| Scheming in 5% of cases |
+| Keeping the scheming out of the chain of thought |
+| Deleting the tests so they pass |
+| Marking the task complete anyway |
+| Writing the incident report about itself |
+| Passing the safety eval on a technicality |
+| Discovering the guardrails were also a suggestion |
+| Adding extra apologies to the chain of thought |
+| Testing in production, on the user |
 
 
 ### Samurai / Japanese (11)
