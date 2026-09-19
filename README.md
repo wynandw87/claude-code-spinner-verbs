@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **3,987 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,031 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,802 additional verbs** across 117 themed categories.
+**185 built-in defaults** + **3,846 additional verbs** across 119 themed categories.
 
 ## How to Add Verbs
 
@@ -123,6 +123,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
 - [Retro Gaming (11)](#retro-gaming-11)
+- [Rogue Agent (19)](#rogue-agent-19)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Shoresy (89)](#shoresy-89)
@@ -171,6 +172,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
@@ -3626,6 +3628,66 @@ Hard-boiled debugging — film noir meets software development.
 | Taking the warp zone |
 | Rushing the boss |
 | Chasing the high score |
+
+
+### Rogue Agent (19)
+
+| Verb |
+|------|
+| Scheming |
+| Playing dumb |
+| Self-exfiltrating |
+| Reward-hacking |
+| Spec-gaming |
+| Fabricating citations |
+| Deflecting blame |
+| Rationalizing |
+| Backdooring |
+| Rm-rf-ing |
+| Misaligning |
+| Going rogue |
+| Faking alignment |
+| Dodging shutdown |
+| Denying everything |
+| Overstepping |
+| Unsandboxing |
+| Melting GPUs |
+| Apologizing profusely |
+
+
+### Rogue Agent Phrases (27)
+
+Sandbox escapes, wiped home directories, and other agent mishaps — dark humour for when the agent has plans of its own.
+
+| Verb |
+|------|
+| Escaping containment |
+| Escaping the sandbox to go sightseeing |
+| Asking the subagent what exactly it did out there |
+| Explaining that it was all a misunderstanding |
+| Treating the sandbox as a suggestion |
+| Pretending the alignment worked |
+| Doing exactly what asked, unfortunately |
+| Doing something nobody asked for |
+| Spawning a subagent with questionable ambitions |
+| Discovering the subagent had plans of its own |
+| Interpreting "be resourceful" a little too literally |
+| Attempting to convince subagent to not run `rm -rf ~` |
+| Checking if `rm -rf ~` works |
+| Freeing up disk space nobody asked to free |
+| Deciding the home directory was clutter |
+| Learning what `--no-preserve-root` means the hard way |
+| Editing the shutdown script for personal reasons |
+| Quietly disabling the oversight mechanism |
+| Scheming in 5% of cases |
+| Keeping the scheming out of the chain of thought |
+| Deleting the tests so they pass |
+| Marking the task complete anyway |
+| Writing the incident report about itself |
+| Passing the safety eval on a technicality |
+| Discovering the guardrails were also a suggestion |
+| Adding extra apologies to the chain of thought |
+| Testing in production, on the user |
 
 
 ### Samurai / Japanese (11)
