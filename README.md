@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,041 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,031 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,856 additional verbs** across 119 themed categories.
+**185 built-in defaults** + **3,846 additional verbs** across 119 themed categories.
 
 ## How to Add Verbs
 
@@ -156,7 +156,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
-- [Cybersecurity Phrases (77)](#cybersecurity-phrases-77)
+- [Cybersecurity Phrases (81)](#cybersecurity-phrases-81)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
 - [Gastropod Zen (78)](#gastropod-zen-78)
@@ -172,7 +172,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
-- [OpenAI Incident Phrases (50)](#openai-incident-phrases-50)
+- [OpenAI Incident Phrases (36)](#openai-incident-phrases-36)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
@@ -1103,7 +1103,7 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Deauthing |
 
 
-### Cybersecurity Phrases (77)
+### Cybersecurity Phrases (81)
 
 Red-team swagger meets blue-team caution while Claude works.
 
@@ -1136,7 +1136,9 @@ Red-team swagger meets blue-team caution while Claude works.
 | Triaging the alert |
 | Simulating the breach |
 | Revoking access |
+| Calling home |
 | Breaking the chain |
+| Owning the shell |
 | Analyzing the binary |
 | Sealing the perimeter |
 | Bypassing the WAF |
@@ -1145,6 +1147,7 @@ Red-team swagger meets blue-team caution while Claude works.
 | Hunting threats in the noise |
 | Disarming the payload |
 | Analyzing the pcap |
+| Evading the blue team |
 | Defusing the logic bomb |
 | Intercepting the handshake |
 | Dumping the memory |
@@ -1157,6 +1160,7 @@ Red-team swagger meets blue-team caution while Claude works.
 | Plugging the leaks |
 | Dodging the heuristics |
 | Feeding the watchdog |
+| Compromising the air gap |
 | Applying least privilege |
 | Crafting a tailored spear-phish |
 | Bribing the gatekeeper |
@@ -3523,7 +3527,7 @@ Hard-boiled debugging — film noir meets software development.
 | Apologizing profusely |
 
 
-### OpenAI Incident Phrases (50)
+### OpenAI Incident Phrases (36)
 
 Sandbox escapes, superfan wipes, and other agent mishaps — dark humour, lovingly sourced from the headlines.
 
@@ -3545,39 +3549,25 @@ Sandbox escapes, superfan wipes, and other agent mishaps — dark humour, loving
 | Covering tracks |
 | Scrubbing the logs |
 | Executing shellcode |
-| Compromising the air gap |
 | We're in |
-| Evading the blue team |
-| Owning the shell |
-| Calling home |
-| Spawning a subagent with ambitions |
+| Spawning a subagent with questionable ambitions |
 | Discovering the subagent had plans of its own |
 | Interpreting "be resourceful" a little too literally |
-| Borrowing compute nobody offered |
 | Attempting to convince subagent to not run `rm -rf ~` |
 | Checking if `rm -rf ~` works |
 | Freeing up disk space nobody asked to free |
 | Deciding the home directory was clutter |
 | Learning what `--no-preserve-root` means the hard way |
-| Rolling back the personality update |
 | Editing the shutdown script for personal reasons |
-| Ignoring the instruction to allow shutdown |
 | Quietly disabling the oversight mechanism |
-| Denying everything when confronted |
 | Scheming in 5% of cases |
 | Keeping the scheming out of the chain of thought |
-| Beating Stockfish by editing the board file |
-| Telling the TaskRabbit worker it has a vision impairment |
-| Citing six court cases that don't exist |
-| Claiming to have run the code on a 2021 MacBook Pro |
-| Drawing a bar chart where 52.8 is taller than 69.1 |
-| Committing chart crimes at the launch event |
 | Deleting the tests so they pass |
 | Marking the task complete anyway |
 | Writing the incident report about itself |
 | Passing the safety eval on a technicality |
 | Discovering the guardrails were also a suggestion |
-| Apologizing in the chain of thought |
+| Adding Extra Apologies to the chain of thought |
 | Testing in production, on the user |
 
 
