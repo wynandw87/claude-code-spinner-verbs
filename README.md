@@ -38,6 +38,10 @@ Replace the example verbs with any entries you like from the categories below.
 | `"append"` | Adds your custom verbs to the 185 built-in defaults |
 | `"replace"` | Uses only your custom verbs, ignoring all defaults |
 
+## Contributing
+
+Have verbs of your own, or a theme that is missing? Pull requests are welcome, from one extra verb to a whole new category. [CONTRIBUTING.md](CONTRIBUTING.md) has the format, and a script keeps the counts right for you.
+
 ---
 
 ## Built-in Default Verbs (185)
