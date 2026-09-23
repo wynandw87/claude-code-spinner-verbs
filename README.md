@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,233 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,348 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **4,048 additional verbs** across 123 themed categories.
+**185 built-in defaults** + **4,163 additional verbs** across 125 themed categories.
 
 ## How to Add Verbs
 
@@ -91,7 +91,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Espionage / Spy (11)](#espionage--spy-11)
 - [Firefighter (11)](#firefighter-11)
 - [Food (14)](#food-14)
-- [Futurama (43)](#futurama-43)
+- [Futurama (46)](#futurama-46)
 - [Gaming (13)](#gaming-13)
 - [Gardening / Botanical (11)](#gardening--botanical-11)
 - [Gen-Z (48)](#gen-z-48)
@@ -128,11 +128,12 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
 - [Retro Gaming (11)](#retro-gaming-11)
-- [Rick and Morty (46)](#rick-and-morty-46)
+- [Rick and Morty (52)](#rick-and-morty-52)
 - [Rogue Agent (19)](#rogue-agent-19)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Shoresy (89)](#shoresy-89)
+- [The Simpsons (45)](#the-simpsons-45)
 - [Social Media (11)](#social-media-11)
 - [Space / NASA (47)](#space--nasa-47)
 - [Sports (16)](#sports-16)
@@ -182,6 +183,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Rick and Morty Phrases (60)](#rick-and-morty-phrases-60)
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
+- [The Simpsons Phrases (61)](#the-simpsons-phrases-61)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
@@ -1544,7 +1546,7 @@ Philosophical musings about the craft of software development.
 | Aging |
 
 
-### Futurama (43)
+### Futurama (46)
 
 | Verb |
 |------|
@@ -1591,6 +1593,9 @@ Philosophical musings about the craft of software development.
 | Seymour-waiting |
 | Anthologizing |
 | Smell-o-scoping |
+| Whooping |
+| Burgling |
+| Rusting |
 
 
 ### Futurama Phrases (53)
@@ -3748,7 +3753,7 @@ Hard-boiled debugging — film noir meets software development.
 | Chasing the high score |
 
 
-### Rick and Morty (46)
+### Rick and Morty (52)
 
 | Verb |
 |------|
@@ -3798,6 +3803,12 @@ Hard-boiled debugging — film noir meets software development.
 | Whirly-dirlying |
 | Fleeb-juicing |
 | Mortying |
+| Unifying |
+| Multiversing |
+| Purging |
+| Vindicating |
+| Heisting |
+| App-developing |
 
 
 ### Rick and Morty Phrases (60)
@@ -4159,6 +4170,126 @@ Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
 | Grinding out the third period |
 | Hoisting the cup over your bucket |
 | Staying Sudbury tough |
+
+
+### The Simpsons (45)
+
+| Verb |
+|------|
+| D'oh-ing |
+| Embiggening |
+| Cromulenting |
+| Okily-dokilying |
+| Hi-diddly-ho-ing |
+| Steaming hams |
+| Ha-ha-ing |
+| Excellent-ing |
+| Shorts-eating |
+| Ay-caramba-ing |
+| Cowabunga-ing |
+| Milhousing |
+| Danger-sensing |
+| Couch-gagging |
+| Mr. Plowing |
+| Stonecutting |
+| Saxamaphoning |
+| Monorailing |
+| Kwik-E-Marting |
+| Squishee-slurping |
+| Guzzling Duff |
+| Glazing Lard Lads |
+| Donut-seeking |
+| Woohoo-ing |
+| Flanderizing |
+| Sideshow-bobbing |
+| Steepling fingers |
+| Releasing hounds |
+| Krustifying |
+| Frinking |
+| Glayvin-ing |
+| Scorpio-ing |
+| Poochie-fying |
+| Chalkboarding |
+| Choo-choo-choosing |
+| Tomacco-farming |
+| Smarching |
+| Cloud-yelling |
+| Naming Bort |
+| Prank-calling |
+| Spider-pigging |
+| Canyonero-ing |
+| Hedge-retreating |
+| Learnding |
+| Dental-planning |
+
+
+### The Simpsons Phrases (61)
+
+Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
+
+| Verb |
+|------|
+| Pressing Y with the drinking bird |
+| Calling them steamed hams despite being grilled |
+| Preparing for an unforgettable luncheon |
+| Explaining the aurora borealis is localized entirely within the kitchen |
+| Writing lines on Bart's chalkboard |
+| Embiggening a perfectly cromulent codebase |
+| D'oh-ing after the latest unexpected null |
+| Laughing "Ha-ha!" at the latest regression |
+| Whispering "Excellent" like Mr. Burns |
+| Releasing the hounds on a stubborn test suite |
+| Blocking the sun to improve market demand |
+| Shouting "Eat my shorts!" at the compiler |
+| Celebrating that everything's coming up Milhouse |
+| Chuckling "I'm in danger" while compiling |
+| Muttering "Worst. Code. Ever." under my breath |
+| Waiting through yet another couch gag |
+| Plowing through tasks as Mr. Plow |
+| Joining the Stonecutters to gain repository access |
+| Keeping the metric system down |
+| Playing Lisa's saxophone while the compiler complains |
+| Selling monorails to Ogdenville and North Haverbrook |
+| Singing the monorail song through every build step |
+| Sprinkling donut crumbs across the nuclear control panel |
+| Dropping the glowing green rod down my shirt collar |
+| Updating the "Days Since Last Accident" sign |
+| Browsing the Kwik-E-Mart for three-week-old hot dogs |
+| Cracking open a cold Duff for inspiration |
+| Making a Flaming Homer and calling it a Flaming Moe |
+| Staring down the giant Lard Lad donut |
+| Eating the forbidden donut |
+| Refereeing another Itchy & Scratchy session |
+| Inspecting the alien cookbook during Treehouse of Horror |
+| Neighboring a little too helpfully like Flanders |
+| Scheming an overly elaborate Sideshow Bob plan |
+| Stepping on every rake in Cape Feare |
+| Inventing Professor Frink's sarcasm detector |
+| Voting for Kang instead of Kodos |
+| Returning to my home planet because they need me |
+| Watching Frank Grimes discover Homer's workstation |
+| Selling the team on Hank Scorpio's benefits package |
+| Welcoming our new insect overlords |
+| Retaining the legal services of Lionel Hutz |
+| Remembering me from such coding tutorials as... |
+| Greeting the stack trace with "Hi, everybody!" |
+| Dining at Planet Hype while production smolders |
+| Choo-choo-choosing the correct dependency |
+| Yelling at a cloud in frustration |
+| Designing a car built for the average man |
+| Buying a hammock down in the hammock district |
+| Discovering the goggles do absolutely nothing |
+| Searching the gift shop for a license plate named Bort |
+| Falling off Springfield Gorge a second time |
+| Backing slowly into the hedge |
+| Remembering the dental plan, because Lisa needs braces |
+| Insisting "me fail English? That's unpossible" |
+| Learnding, just like Ralph |
+| Walking Spider-Pig across the ceiling |
+| Borrowing a feeling from Kirk Van Houten |
+| Remembering that trying is the first step toward failure |
+| Driving the Canyonero off-road |
+| Replacing my brain's crayon |
 
 
 ### Social Media (11)
