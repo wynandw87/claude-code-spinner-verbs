@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,381 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,456 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **4,196 additional verbs** across 127 themed categories.
+**185 built-in defaults** + **4,271 additional verbs** across 129 themed categories.
 
 ## How to Add Verbs
 
@@ -136,6 +136,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Shoresy (89)](#shoresy-89)
 - [The Simpsons (31)](#the-simpsons-31)
 - [Social Media (11)](#social-media-11)
+- [South Park (35)](#south-park-35)
 - [Space / NASA (47)](#space--nasa-47)
 - [Sports (16)](#sports-16)
 - [Star Trek (14)](#star-trek-14)
@@ -186,6 +187,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [The Simpsons Phrases (67)](#the-simpsons-phrases-67)
+- [South Park Phrases (40)](#south-park-phrases-40)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
@@ -4356,6 +4358,95 @@ Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 | Refreshing the feed |
 | Farming likes |
 | Influencing |
+
+
+### South Park (35)
+
+| Verb |
+|------|
+| Collecting underpants |
+| Respecting authoritah |
+| Farming tegridy |
+| Hunting Manbearpig |
+| Bringing a towel |
+| Reviving Kenny |
+| Eating Cheesy Poofs |
+| Zipping the parka |
+| Muffling speech |
+| Visiting Casa Bonita |
+| Entering Imaginationland |
+| Membering |
+| Unmasking Mysterion |
+| Unleashing Professor Chaos |
+| Patrolling with the Coon |
+| Calming Tweek |
+| Cheering on Timmy |
+| Setting up Jimmy's punchline |
+| Consulting Chef |
+| Asking Mr. Mackey |
+| Campaigning with Mr. Garrison |
+| Outsmarting Cartman |
+| Debating Wendy |
+| Checking privilege |
+| Fighting the streaming wars |
+| Seeking the Stick of Truth |
+| Watching Terrance and Phillip |
+| Blaming Canada |
+| Ordering from City Wok |
+| Grounding Butters |
+| Posing as AWESOM-O |
+| Grinding boars |
+| Singing as Lorde |
+| Catching Chinpokomon |
+| Doing what I want |
+
+
+### South Park Phrases (40)
+
+Quiet little mountain town — underpants gnomes, Tegridy, and authoritah.
+
+| Verb |
+|------|
+| Working out phase two of the underpants plan |
+| Taking this very super cereal |
+| Going home, screw you guys |
+| Demanding that you respect my authoritah |
+| Harvesting a fresh batch from Tegridy Farms |
+| Remembering to always bring a towel to the terminal |
+| Reminding you that syntax errors are bad, m'kay |
+| Gasping because they killed Kenny again |
+| Realizing that you know, I learned something today |
+| Arguing with the compiler because I thought this was America |
+| Trying to make love, not Warcraft |
+| Getting Butters grounded again |
+| Disguising myself as AWESOM-O to learn your movie ideas |
+| Pinning every bug on Canada |
+| Membering when programming used to be easier |
+| Yelling about how the robots took our jobs |
+| Letting ChatGPT write the texts, like Stan |
+| Searching the neighborhood for the legendary Stick of Truth |
+| Heading to Casa Bonita for cliff divers and sopapillas |
+| Guarding South Park as Mysterion while the Coon takes the credit |
+| Plotting world domination as Professor Chaos |
+| Realizing the Simpsons already did it |
+| Checking your microaggressions just like PC Principal |
+| Ordering some City Beef from City Wok |
+| Singing secretly in the studio because I am actually Lorde |
+| Muffling my brilliant ideas inside an orange parka |
+| Shouting "It's coming right for us!" |
+| Buying every Chinpokomon toy to overthrow the government |
+| Defending the barrier in Imaginationland |
+| Spreading holiday cheer with Mr. Hankey |
+| Correcting Token to Tolkien after the whole town missed the memo |
+| Supporting Tweek and Craig through another town-wide overreaction |
+| Reconnecting Cartman and Heidi against everyone's better judgment |
+| Surviving the Pandemic Special |
+| Shutting your mouth before Shelly hears another word |
+| Waiting for Timmy's legendary "Timmy!" |
+| Asking Chef for some advice |
+| Asking "Why would you say something so controversial, yet so brave?" |
+| Deciding "Whatever, I do what I want" |
+| Sulking with the goth kids |
 
 
 ### Space / NASA (47)
