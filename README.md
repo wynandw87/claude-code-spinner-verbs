@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,348 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,381 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **4,163 additional verbs** across 125 themed categories.
+**185 built-in defaults** + **4,196 additional verbs** across 127 themed categories.
 
 ## How to Add Verbs
 
@@ -89,9 +89,10 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Doctor Who (10)](#doctor-who-10)
 - [Dune (13)](#dune-13)
 - [Espionage / Spy (11)](#espionage--spy-11)
+- [Family Guy (14)](#family-guy-14)
 - [Firefighter (11)](#firefighter-11)
 - [Food (14)](#food-14)
-- [Futurama (46)](#futurama-46)
+- [Futurama (43)](#futurama-43)
 - [Gaming (13)](#gaming-13)
 - [Gardening / Botanical (11)](#gardening--botanical-11)
 - [Gen-Z (48)](#gen-z-48)
@@ -128,12 +129,12 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
 - [Retro Gaming (11)](#retro-gaming-11)
-- [Rick and Morty (52)](#rick-and-morty-52)
+- [Rick and Morty (44)](#rick-and-morty-44)
 - [Rogue Agent (19)](#rogue-agent-19)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Shoresy (89)](#shoresy-89)
-- [The Simpsons (45)](#the-simpsons-45)
+- [The Simpsons (31)](#the-simpsons-31)
 - [Social Media (11)](#social-media-11)
 - [Space / NASA (47)](#space--nasa-47)
 - [Sports (16)](#sports-16)
@@ -166,6 +167,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
+- [Family Guy Phrases (38)](#family-guy-phrases-38)
 - [Futurama Phrases (53)](#futurama-phrases-53)
 - [Gastropod Zen (78)](#gastropod-zen-78)
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
@@ -183,7 +185,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Rick and Morty Phrases (60)](#rick-and-morty-phrases-60)
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
-- [The Simpsons Phrases (61)](#the-simpsons-phrases-61)
+- [The Simpsons Phrases (67)](#the-simpsons-phrases-67)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
@@ -1509,6 +1511,72 @@ Philosophical musings about the craft of software development.
 | All pull requests seek forgiveness, not approval |
 
 
+### Family Guy (14)
+
+| Verb |
+|------|
+| Cutting away to a gag |
+| Fighting the chicken |
+| Founding Petoria |
+| Grinding gears |
+| Clutching my knee |
+| Hugging Rupert |
+| Time-machining |
+| Dominating the world |
+| Drinking at the Clam |
+| Falling in a bathtub |
+| Writing the novel |
+| Roaming Quahog |
+| Peg-legging |
+| Anchoring the news |
+
+
+### Family Guy Phrases (38)
+
+Quahog, cutaway gags, and the fourth chicken fight. Freakin' sweet.
+
+| Verb |
+|------|
+| Grinding my gears over one stubborn compiler error |
+| Fighting the giant chicken for the fourth time |
+| Reminding everyone the bird is the word |
+| Hiding the Surfin' Bird record from Peter |
+| Declaring this is worse than the time... |
+| Asking Lois if she remembers the time... |
+| Holding my shin and inhaling sharply |
+| Searching for Rupert before bedtime |
+| Plotting world domination with Rupert |
+| Recalibrating Stewie's time machine to undo the last commit |
+| Declaring victory is mine |
+| Muttering "Blast!" as the plan fails |
+| Insisting it's pronounced "Cool Hwhip" |
+| Asking Brian where my money is |
+| Heading down the Road to Rhode Island |
+| Spotting the evil monkey in Chris's closet again |
+| Drinking Pawtucket Patriot Ale at the Drunken Clam |
+| Drafting the constitution of Petoria |
+| Watching Cleveland's bathtub fall through the ceiling again |
+| Covering Death's shift while he recovers from a sprained ankle |
+| Acting like a cool hip dad |
+| Dancing the Shipoopi until continuous integration turns green |
+| Asking Consuela to clean the cache and hearing "No, no, no" |
+| Editing Brian's masterpiece, "Faster Than the Speed of Love" |
+| Asking what the deuce broke the build |
+| Declaring this solution freakin' sweet |
+| Yelling "Roadhouse!" before a roundhouse kick |
+| Laughing a very distinct "Nyehehehe" |
+| Bursting through the wall like the Kool-Aid Man |
+| Electing Mayor Adam West to govern the deployment pipeline |
+| Reporting breaking Quahog news with Tom Tucker |
+| Saying "oh no" like Bruce |
+| Getting advice from Seamus the sea captain |
+| Negotiating the release budget with Carter Pewterschmidt |
+| Telling Meg to shut up |
+| Keeping Quahog running despite absolutely no qualified supervision |
+| Bonding with Vinny, the replacement dog |
+| Responding with a polite "Giggity" |
+
+
 ### Firefighter (11)
 
 | Verb |
@@ -1546,51 +1614,48 @@ Philosophical musings about the craft of software development.
 | Aging |
 
 
-### Futurama (46)
+### Futurama (43)
 
 | Verb |
 |------|
 | Bending |
-| Bending girders |
 | Hypnotoading |
-| Slurping Slurm |
 | Zoidberging |
-| Woop-woop-wooping |
 | Scuttling sideways |
 | Farnsworthing |
-| Fry-squinting |
-| Leela-kicking |
+| Squinting like Fry |
+| Kicking like Leela |
 | Nibbling |
 | Branniganing |
-| Kif-sighing |
+| Sighing like Kif |
 | Calculoning |
-| Morbo-declaring |
-| Lrrr-conquering |
+| Declaring doom like Morbo |
+| Conquering Earth like Lrrr |
 | Poppling |
 | Dark-mattering |
-| Cryo-thawing |
+| Thawing out of cryo |
 | Blernsballing |
-| Scruffy-mopping |
-| Hermes-stamping |
+| Mopping like Scruffy |
+| Stamping forms like Hermes |
 | Bureaucratizing |
 | Limboing |
 | Velouring |
-| Amy-engineering |
+| Engineering with Amy |
 | Bamming |
-| Elzar-spicing |
+| Spicing it up like Elzar |
 | Hedonismbotting |
-| Devil-fiddling |
-| Mom-botting |
+| Fiddling for the Robot Devil |
+| Building robots for Mom |
 | Brain-spawning |
-| Head-jarring |
+| Jarring heads |
 | Bribing Nixon |
-| Roberto-robbing |
-| URL-policing |
+| Robbing banks with Roberto |
+| Policing with URL |
 | What-iffing |
-| Package-delivering |
+| Delivering packages |
 | Planet-expressing |
-| Near-death-starring |
-| Seymour-waiting |
+| Visiting the Near-Death Star |
+| Waiting like Seymour |
 | Anthologizing |
 | Smell-o-scoping |
 | Whooping |
@@ -3753,7 +3818,7 @@ Hard-boiled debugging — film noir meets software development.
 | Chasing the high score |
 
 
-### Rick and Morty (52)
+### Rick and Morty (44)
 
 | Verb |
 |------|
@@ -3765,50 +3830,42 @@ Hard-boiled debugging — film noir meets software development.
 | Tiny-Ricking |
 | Plumbusing |
 | Cronenberging |
-| Szechuan-seeking |
+| Seeking Szechuan sauce |
 | Gazorpazorping |
-| Wubba-lubba-dub-dubbing |
 | Citadeling |
-| Butter-passing |
 | Glootifying |
-| Blips-and-Chitzing |
-| Anatomy-Parking |
+| Touring Anatomy Park |
 | Goldenfolding |
 | Terryfying |
 | Birdpersoning |
-| Unity-merging |
+| Merging with Unity |
 | Evil-Mortying |
-| Federation-dodging |
+| Dodging the Federation |
 | Council-Ricking |
 | Planetina-ing |
-| Interdimensional-cabling |
+| Watching interdimensional cable |
 | Microversing |
 | Morty-proofing |
 | Jerrying |
 | Jerry-rigging |
 | Shleeming |
-| Ooo-weeing |
-| Snake-jazzing |
-| Mega-seeding |
-| Clone-vatting |
-| Roy-playing |
+| Playing snake jazz |
+| Growing clones in vats |
+| Playing Roy |
 | Snowballing |
-| Summer-safing |
-| Beth-cloning |
+| Cloning Beth |
 | Froopylanding |
-| Mind-blowing |
-| Riggity-wrecking |
-| Aw-jeezing |
+| Blowing minds |
 | Burping |
 | Whirly-dirlying |
-| Fleeb-juicing |
+| Making fleeb juice |
 | Mortying |
 | Unifying |
 | Multiversing |
 | Purging |
 | Vindicating |
 | Heisting |
-| App-developing |
+| Not developing Glootie's app |
 
 
 ### Rick and Morty Phrases (60)
@@ -4172,58 +4229,44 @@ Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
 | Staying Sudbury tough |
 
 
-### The Simpsons (45)
+### The Simpsons (31)
 
 | Verb |
 |------|
-| D'oh-ing |
 | Embiggening |
-| Cromulenting |
-| Okily-dokilying |
-| Hi-diddly-ho-ing |
 | Steaming hams |
-| Ha-ha-ing |
-| Excellent-ing |
-| Shorts-eating |
-| Ay-caramba-ing |
-| Cowabunga-ing |
 | Milhousing |
-| Danger-sensing |
-| Couch-gagging |
+| Sensing danger |
+| Watching the couch gag |
 | Mr. Plowing |
 | Stonecutting |
 | Saxamaphoning |
 | Monorailing |
 | Kwik-E-Marting |
-| Squishee-slurping |
+| Slurping a Squishee |
 | Guzzling Duff |
 | Glazing Lard Lads |
-| Donut-seeking |
-| Woohoo-ing |
+| Seeking donuts |
 | Flanderizing |
 | Sideshow-bobbing |
 | Steepling fingers |
 | Releasing hounds |
 | Krustifying |
 | Frinking |
-| Glayvin-ing |
 | Scorpio-ing |
 | Poochie-fying |
 | Chalkboarding |
-| Choo-choo-choosing |
-| Tomacco-farming |
+| Farming tomacco |
 | Smarching |
-| Cloud-yelling |
 | Naming Bort |
 | Prank-calling |
 | Spider-pigging |
 | Canyonero-ing |
-| Hedge-retreating |
+| Retreating into the hedge |
 | Learnding |
-| Dental-planning |
 
 
-### The Simpsons Phrases (61)
+### The Simpsons Phrases (67)
 
 Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 
@@ -4290,6 +4333,12 @@ Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 | Remembering that trying is the first step toward failure |
 | Driving the Canyonero off-road |
 | Replacing my brain's crayon |
+| Answering every request with "Okily-dokily" |
+| Greeting everyone with "Hi-diddly-ho, neighborino" |
+| Shouting "Ay, caramba!" |
+| Yelling "Cowabunga!" on the skateboard |
+| Celebrating with a "Woohoo!" |
+| Muttering "Glayvin!" like Professor Frink |
 
 
 ### Social Media (11)
