@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,137 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,233 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,952 additional verbs** across 121 themed categories.
+**185 built-in defaults** + **4,048 additional verbs** across 123 themed categories.
 
 ## How to Add Verbs
 
@@ -91,6 +91,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Espionage / Spy (11)](#espionage--spy-11)
 - [Firefighter (11)](#firefighter-11)
 - [Food (14)](#food-14)
+- [Futurama (43)](#futurama-43)
 - [Gaming (13)](#gaming-13)
 - [Gardening / Botanical (11)](#gardening--botanical-11)
 - [Gen-Z (48)](#gen-z-48)
@@ -164,6 +165,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
+- [Futurama Phrases (53)](#futurama-phrases-53)
 - [Gastropod Zen (78)](#gastropod-zen-78)
 - [Gen-Z Phrases (50)](#gen-z-phrases-50)
 - [Git Commit Messages (60)](#git-commit-messages-60)
@@ -1540,6 +1542,116 @@ Philosophical musings about the craft of software development.
 | Fermenting kimchi |
 | Dry-aging |
 | Aging |
+
+
+### Futurama (43)
+
+| Verb |
+|------|
+| Bending |
+| Bending girders |
+| Hypnotoading |
+| Slurping Slurm |
+| Zoidberging |
+| Woop-woop-wooping |
+| Scuttling sideways |
+| Farnsworthing |
+| Fry-squinting |
+| Leela-kicking |
+| Nibbling |
+| Branniganing |
+| Kif-sighing |
+| Calculoning |
+| Morbo-declaring |
+| Lrrr-conquering |
+| Poppling |
+| Dark-mattering |
+| Cryo-thawing |
+| Blernsballing |
+| Scruffy-mopping |
+| Hermes-stamping |
+| Bureaucratizing |
+| Limboing |
+| Velouring |
+| Amy-engineering |
+| Bamming |
+| Elzar-spicing |
+| Hedonismbotting |
+| Devil-fiddling |
+| Mom-botting |
+| Brain-spawning |
+| Head-jarring |
+| Bribing Nixon |
+| Roberto-robbing |
+| URL-policing |
+| What-iffing |
+| Package-delivering |
+| Planet-expressing |
+| Near-death-starring |
+| Seymour-waiting |
+| Anthologizing |
+| Smell-o-scoping |
+
+
+### Futurama Phrases (53)
+
+Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good news, everyone!
+
+| Verb |
+|------|
+| Announcing good news, everyone |
+| Shutting up and taking your money |
+| Biting my shiny metal chassis |
+| Giving all glory to the Hypnotoad |
+| Asking why not Zoidberg |
+| Being technically correct, the best kind of correct |
+| Bending girders to a precise thirty-degree angle |
+| Thawing Fry after a thousand-year code freeze |
+| Not being sure if it's working or just slow |
+| Filing form 2043 at the Central Bureaucracy |
+| Stamping Hermes's performance reviews "Adequate" |
+| Limboing under the Bureaucrat grade requirements |
+| Consulting the What-If Machine for an Anthology of Interest |
+| Fueling the ship with Nibbler's dark matter |
+| Delivering a suspicious package across the galaxy |
+| Feeling completely neutral about the Neutral Planet |
+| Surviving a family vacation to the Near-Death Star |
+| Challenging the Robot Devil to a fiddle contest |
+| Remembering Seymour waiting outside Panucci's Pizza |
+| Outsmarting the Brain Spawn with Fry's missing delta brainwave |
+| Discovering that Popplers are alarmingly delicious |
+| Kicking it up a notch with Elzar |
+| Fleeing a squad from Mom's Friendly Robot Company |
+| Reclining gracefully on a chaise longue like Hedonismbot |
+| Broadcasting Morbo's contempt for puny humans |
+| Receiving demands from Lrrr of Omicron Persei 8 |
+| Practicing Zapp Brannigan's legendary tactics |
+| Sighing heavily at Zapp Brannigan's latest orders |
+| Practicing an uncomfortably long dramatic pause for Calculon |
+| Hovering into work on Amy's pink scooter |
+| Checking the boiler with Scruffy |
+| Robbing the same bank again with Roberto |
+| Pulling over with URL the robot cop |
+| Browsing celebrities at the Head Museum |
+| Campaigning for Nixon's head in a jar |
+| Memorizing the convoluted rules of Blernsball |
+| Tuning in to an episode of The Scary Door |
+| Slurping Slurm straight from Wormulon |
+| Discovering Slurm's secret ingredient |
+| Eating a dumpster full of garbage like a respectable Zoidberg |
+| Scuttling away sideways, woop woop woop |
+| Piloting past trouble with Leela |
+| Declaring this the greatest episode of all time |
+| Rebooting after a Planet Express delivery gone sideways |
+| Letting Bender make dinner, against all advice |
+| Putting on a brain slug for the meeting |
+| Grabbing a slice at Panucci's |
+| Lighting up the Holophonor |
+| Pointing the Smell-o-Scope at the build server |
+| Wishing I'd listened to the Professor |
+| Wearing a career chip labeled "delivery boy" |
+| Hiding the good stuff in Bender's chest compartment |
+| Blaming it on the Harlem Globetrotters' superior science |
 
 
 ### Gaming (13)
