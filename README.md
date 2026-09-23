@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,031 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **4,137 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **3,846 additional verbs** across 119 themed categories.
+**185 built-in defaults** + **3,952 additional verbs** across 121 themed categories.
 
 ## How to Add Verbs
 
@@ -127,6 +127,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
 - [Retro Gaming (11)](#retro-gaming-11)
+- [Rick and Morty (46)](#rick-and-morty-46)
 - [Rogue Agent (19)](#rogue-agent-19)
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
@@ -176,6 +177,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Rick and Morty Phrases (60)](#rick-and-morty-phrases-60)
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
@@ -3632,6 +3634,126 @@ Hard-boiled debugging — film noir meets software development.
 | Taking the warp zone |
 | Rushing the boss |
 | Chasing the high score |
+
+
+### Rick and Morty (46)
+
+| Verb |
+|------|
+| Schwiftying |
+| Portaling |
+| Squanching |
+| Meeseeking |
+| Pickle-Ricking |
+| Tiny-Ricking |
+| Plumbusing |
+| Cronenberging |
+| Szechuan-seeking |
+| Gazorpazorping |
+| Wubba-lubba-dub-dubbing |
+| Citadeling |
+| Butter-passing |
+| Glootifying |
+| Blips-and-Chitzing |
+| Anatomy-Parking |
+| Goldenfolding |
+| Terryfying |
+| Birdpersoning |
+| Unity-merging |
+| Evil-Mortying |
+| Federation-dodging |
+| Council-Ricking |
+| Planetina-ing |
+| Interdimensional-cabling |
+| Microversing |
+| Morty-proofing |
+| Jerrying |
+| Jerry-rigging |
+| Shleeming |
+| Ooo-weeing |
+| Snake-jazzing |
+| Mega-seeding |
+| Clone-vatting |
+| Roy-playing |
+| Snowballing |
+| Summer-safing |
+| Beth-cloning |
+| Froopylanding |
+| Mind-blowing |
+| Riggity-wrecking |
+| Aw-jeezing |
+| Burping |
+| Whirly-dirlying |
+| Fleeb-juicing |
+| Mortying |
+
+
+### Rick and Morty Phrases (60)
+
+Portal-gun adventures, Meeseeks requests, and Citadel politics. Wubba lubba dub dub.
+
+| Verb |
+|------|
+| Passing the butter |
+| Turning myself into a pickle |
+| Existing to serve, then ceasing to exist |
+| Getting schwifty in here |
+| Showing the Cromulons what I got |
+| Hunting down that Szechuan sauce |
+| Keeping Summer safe |
+| Firing up the portal gun |
+| Defying the Council of Ricks |
+| Breaking out of the Citadel |
+| Assembling a standard plumbus |
+| Rubbing the fleeb to produce the fleeb juice |
+| Buying real fake doors on Interdimensional Cable |
+| Outrunning the Galactic Federation |
+| Taking Roy off the grid at Blips and Chitz |
+| Riding the Whirly Dirly toward production |
+| Touring the insides of Anatomy Park |
+| Building Pirates of the Pancreas |
+| Dodging Mr. Goldenfold's dream math |
+| Running from Scary Terry's dream layers |
+| Letting Snowball run the heist |
+| Developing Glootie's app despite the warning |
+| Reuniting with Birdperson |
+| Merging minds with Unity |
+| Waving confidently like Evil Morty |
+| Dropping the Tiny Rick mixtape |
+| Protecting Planetina from merge conflicts |
+| Evading Gromflomite scanners |
+| Checking in on Mr. Poopybutthole |
+| Wondering if I'm the clone or Space Beth |
+| Leaving Jerry at the Jerryboree |
+| Pitching "Hungry for Apples?" to an ad agency |
+| Erasing memories in Morty's Mind Blowers |
+| Powering a car battery with a microverse |
+| Smuggling mega seeds through intergalactic customs |
+| Brokering peace with the giant telepathic spiders |
+| Forgetting the puzzles I set up for the Vindicators |
+| Listening to some smooth snake jazz |
+| Assembling a crack team for a needlessly complex heist |
+| Masking my genius brainwaves with complementary brainwaves |
+| Curing the Cronenbergs with praying mantis DNA |
+| Escaping a Galactic Federation prison |
+| Opening a portal to the bug-free branch |
+| Solving Mr. Meeseeks' impossible request |
+| Asking the Butter Robot to reflect on its purpose |
+| Saying wubba lubba dub dub through the errors |
+| Playing Blips and Chitz until the build finishes |
+| Going on a quick twenty-minute adventure |
+| Getting riggity riggity wrecked, son |
+| Pressing the Meeseeks box for a simple task |
+| Taking two strokes off the golf game |
+| Swapping into a replacement dimension |
+| Burying my own body in the backyard |
+| Being fundamentally a Jerry about it |
+| Saying "Oh, jeez" for the fourth time |
+| Declaring no more heists |
+| Explaining that nobody exists on purpose |
+| Recalculating the central finite curve |
+| Letting Mr. Poopybutthole say "Ooo-wee" |
+| Wrapping it up with a Rick-level burp |
 
 
 ### Rogue Agent (19)
