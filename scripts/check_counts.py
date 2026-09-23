@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Check that every count in README.md matches the verbs actually listed.
+"""Check that every count in README.md matches the verbs actually listed,
+and that every category's "Copy as list" block matches its table.
 
     python3 scripts/check_counts.py         # report problems, exit 1 if any
     python3 scripts/check_counts.py --fix   # rewrite the counts in place
@@ -9,7 +10,12 @@ Counts live in three places: each category heading, its table-of-contents
 entry, and the totals in the intro. --fix updates all three, and adds a
 missing table-of-contents entry (under Spinner Phrases if the name ends in
 "Phrases" or --phrases is given, otherwise under Spinner Verbs).
+
+Each `| Verb |` table is followed
+by a collapsed "Copy as list" block holding the same entries as quoted
+strings, ready to paste into settings.json. --fix regenerates these too.
 """
+import json
 import re
 import sys
 from pathlib import Path
@@ -32,6 +38,51 @@ def is_verb_row(lines, i):
     if not lines[i].startswith("| "):
         return False
     return not (i + 1 < len(lines) and SEPARATOR.match(lines[i + 1]))
+
+
+def cell_text(row):
+    """The entry as the rendered table shows it: code spans and \\| unescaped."""
+    cell = row.strip()[1:-1].strip()
+    cell = re.sub(r"(`+) ?(.+?) ?\1", r"\2", cell)
+    return cell.replace("\\|", "|")
+
+
+def copy_block(verbs):
+    quoted = ",\n".join(json.dumps(v, ensure_ascii=False) for v in verbs)
+    return ["<details>", "<summary>Copy as list</summary>", "", "```",
+            *quoted.split("\n"), "```", "", "</details>"]
+
+
+def sync_copy_lists(lines):
+    """Add or refresh the "Copy as list" block after every | Verb | table.
+
+    Returns the updated lines and the headings whose block was missing or stale.
+    """
+    out, stale, heading = [], [], None
+    i = 0
+    while i < len(lines):
+        if lines[i].startswith("#"):
+            heading = lines[i].lstrip("# ")
+        if not (lines[i] == "| Verb |" and i + 1 < len(lines) and SEPARATOR.match(lines[i + 1])):
+            out.append(lines[i])
+            i += 1
+            continue
+        end = i + 2
+        while end < len(lines) and lines[end].startswith("| "):
+            end += 1
+        out += lines[i:end]
+        want = copy_block([cell_text(r) for r in lines[i + 2:end]])
+        # An existing block sits after one blank line; replace it whole.
+        have_at = end + 1
+        if lines[end:have_at + 2] == ["", "<details>", "<summary>Copy as list</summary>"]:
+            close = lines.index("</details>", have_at)
+            have, i = lines[have_at:close + 1], close + 1
+        else:
+            have, i = None, end
+        if have != want:
+            stale.append(heading)
+        out += [""] + want
+    return out, stale
 
 
 def main():
@@ -133,6 +184,9 @@ def main():
                 problems.append(f"intro totals out of date: '{found.group(0)}' should be '{want}'")
                 lines[i] = re.sub(pattern, want, lines[i])
 
+    lines, stale = sync_copy_lists(lines)
+    problems += [f"copy list out of date: {h}" for h in stale]
+
     if not problems:
         print(f"OK: {len(actual)} categories, {additional:,} additional verbs.")
         return 0
@@ -140,9 +194,9 @@ def main():
         print(p)
     if fix:
         README.write_text("\n".join(lines))
-        print("\nCounts rewritten. Re-run without --fix to confirm.")
+        print("\nCounts and copy lists rewritten. Re-run without --fix to confirm.")
         return 0
-    print("\nRun `python3 scripts/check_counts.py --fix` to update the counts.")
+    print("\nRun `python3 scripts/check_counts.py --fix` to update them.")
     return 1
 
 

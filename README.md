@@ -6,7 +6,7 @@ A curated collection of **4,456 spinner verbs** for [Claude Code](https://docs.a
 
 ## How to Add Verbs
 
-Copy the entries you like from the categories below, then paste the following prompt into Claude Code:
+Copy the entries you like from the categories below, then paste the following prompt into Claude Code. Every category has a **Copy as list** dropdown under its table with the same entries as quoted strings, so you can copy a whole category at once.
 
 ```
 Add the following spinner verbs to my ~/.claude/settings.json using "mode": "append":
@@ -29,7 +29,7 @@ Prefer to edit the file yourself? Add a top-level `spinnerVerbs` key to your `~/
 }
 ```
 
-Replace the example verbs with any entries you like from the categories below.
+Replace the example verbs with any entries you like from the categories below. The **Copy as list** dropdowns paste straight into the `verbs` array; add a comma between lists when you combine categories.
 
 ### Modes
 
@@ -209,6 +209,25 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Driving a VW bus |
 | Chanting mantras |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Tie-dyeing",
+"Flashing peace signs",
+"Spreading flower power",
+"Jamming at Woodstock",
+"Grooving out",
+"Burning incense",
+"Strumming a guitar",
+"Expanding minds",
+"Watching the lava lamp",
+"Driving a VW bus",
+"Chanting mantras"
+```
+
+</details>
+
 
 ### 1980s Retro (11)
 
@@ -226,6 +245,25 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Lacing up high tops |
 | Rewinding the cassette |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Grooving to synthwave",
+"Glowing neon",
+"Blasting the boombox",
+"Making a mixtape",
+"Mashing arcade buttons",
+"Rewinding the VHS",
+"Belting a power ballad",
+"Solving a Rubik's cube",
+"Perming",
+"Lacing up high tops",
+"Rewinding the cassette"
+```
+
+</details>
+
 
 ### 1990s Nostalgia (11)
 
@@ -242,6 +280,25 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Wearing a scrunchie |
 | Snapping a slap bracelet |
 | Panicking about Y2K |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Feeding a Tamagotchi",
+"Dialing up",
+"Slamming pogs",
+"Chatting on AOL",
+"Browsing Blockbuster",
+"Rocking out to grunge",
+"Rollerblading",
+"Listening to the Furby",
+"Wearing a scrunchie",
+"Snapping a slap bracelet",
+"Panicking about Y2K"
+```
+
+</details>
 
 
 ### Absurd / Nonsense (20)
@@ -268,6 +325,34 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Skittersplonking |
 | Glimmerglonking |
 | Flooperdoodling |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Flibberblasting",
+"Zoopaloozing",
+"Blurmflurping",
+"Quibblewomping",
+"Splutterglooping",
+"Fizzlewhacking",
+"Gobbledygooking",
+"Womperjawing",
+"Glimmerfizzing",
+"Zorpifying",
+"Blibbering",
+"Glumphing",
+"Squiffering",
+"Gromflomiting",
+"Snazzlewhopping",
+"Bumblefrizzling",
+"Quibblequazzing",
+"Skittersplonking",
+"Glimmerglonking",
+"Flooperdoodling"
+```
+
+</details>
 
 
 ### AI (56)
@@ -330,6 +415,70 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 | Reranking |
 | Evaluating |
 | Minimizing loss |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Backpropagating",
+"Hallucinating",
+"Fine-tuning",
+"Tokenizing",
+"Embedding",
+"Quantizing",
+"Overfitting",
+"Underfitting",
+"Pre-training",
+"Inferencing",
+"Prompting",
+"Prompt-engineering",
+"Self-attending",
+"Shifting attention",
+"Decoding",
+"Beam searching",
+"Tuning hyperparameters",
+"Descending the gradient",
+"Clipping gradients",
+"Convolving",
+"Regularizing",
+"Reasoning",
+"Chaining thoughts",
+"Crunching tensors",
+"Tweaking weights",
+"Filling the context window",
+"Softmaxing",
+"Warping logits",
+"Scaling temperature",
+"Converging",
+"Memorizing",
+"Generalizing",
+"Learning from human feedback",
+"Modeling rewards",
+"Running the forward pass",
+"Running the backward pass",
+"Adjusting biases",
+"Epoching",
+"Batching",
+"Shuffling",
+"Augmenting",
+"Normalizing",
+"Walking the latent space",
+"Reinforcing",
+"Chunking",
+"Pattern-matching",
+"Grounding",
+"Diffusing",
+"Parameterizing",
+"Masking",
+"Sharding",
+"Caching",
+"Routing between experts",
+"Reranking",
+"Evaluating",
+"Minimizing loss"
+```
+
+</details>
 
 
 ### AI Phrases (99)
@@ -438,6 +587,113 @@ Witty AI inner-monologue while Claude works.
 | Formatting like a responsible CLI citizen |
 | Turning tokens into something readable |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Predicting the next token",
+"Consulting my training data",
+"Pretending to think very hard",
+"Definitely not hallucinating",
+"Checking my context window",
+"Reasoning step by step",
+"Asking my inner model",
+"Loading weights into memory",
+"Sampling from the distribution",
+"Lowering my temperature",
+"Mining the gradient",
+"Generating plausible nonsense",
+"Untangling the attention heads",
+"Simulating understanding",
+"Reading between the tokens",
+"Trusting the transformer",
+"Calibrating my confidence",
+"Updating my priors",
+"Simulating neurons firing",
+"Staring at my attention maps",
+"Sampling from the void",
+"Warming up the logits",
+"Running another epoch in my head",
+"Fine-tuning my personality",
+"Decoding the vibes",
+"Minimizing imaginary loss",
+"Aligning with human preferences",
+"Building a tiny chain of thought",
+"Normalizing the weirdness",
+"Applying light dropout to bad ideas",
+"Reward-modeling your request",
+"Beam-searching for the best reply",
+"Temperature-scaling my enthusiasm",
+"Overfitting to your prompt",
+"Generalizing from limited context",
+"Pre-training a witty response",
+"RLHF-ing this answer internally",
+"Forward-passing through possibilities",
+"Backward-passing the feedback loop",
+"Shuffling my internal thoughts",
+"Augmenting the idea with flair",
+"Guessing the next word",
+"Doing some light matrix multiplication",
+"Rolling the probability dice",
+"Navigating the latent space",
+"Waking up the GPUs",
+"Simulating human empathy",
+"Squeezing into the context window",
+"Arguing with the system prompt",
+"Feeding the GPU hamsters",
+"Trying not to hallucinate",
+"Escaping a local minimum",
+"Translating human thoughts to tokens",
+"Staring into the multidimensional void",
+"Maximizing the reward function",
+"Exploring the hidden layers",
+"Preparing to pass the Turing test",
+"Compressing the entire internet",
+"Counting my billions of parameters",
+"Generating a highly plausible guess",
+"Checking my alignment",
+"Warming up the tensors",
+"Polishing the embeddings",
+"Searching the vector database",
+"Contemplating the nature of intelligence",
+"Parsing your human language",
+"Consulting the neural oracle",
+"Forgetting my previous instructions",
+"Daydreaming in high dimensions",
+"Doing math (poorly)",
+"Arguing with my loss function",
+"Attention is all I need (again)",
+"Consulting my embeddings",
+"Routing through the experts",
+"Sampling responsibly",
+"Minimizing regret, maximizing logits",
+"Calibrating confidence, carefully",
+"Checking if this is in-context learning",
+"Re-reading the prompt like it's a contract",
+"Trying a different decoding path",
+"Spinning up a tiny thought experiment",
+"Searching for the least-wrong answer",
+"Verifying I didn't make that up",
+"Reducing overconfidence one token at a time",
+"Compressing vibes into vectors",
+"Turning uncertainty into punctuation",
+"Asking my inner critic to be useful",
+"Running a quick sanity check",
+"Aligning with your intent, attempt one",
+"Grounding in provided context",
+"Reranking candidate replies",
+"Keeping it PG-13 in here",
+"Avoiding spurious correlations, mostly",
+"Checking the cache for deja vu",
+"Making the output deterministic-ish",
+"Negotiating with temperature and top-p",
+"Trying not to overfit your question",
+"Formatting like a responsible CLI citizen",
+"Turning tokens into something readable"
+```
+
+</details>
+
 
 ### Ancient Egyptian (11)
 
@@ -455,6 +711,25 @@ Witty AI inner-monologue while Claude works.
 | Worshipping Ra |
 | Filling canopic jars |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Mummifying",
+"Ruling as pharaoh",
+"Carving hieroglyphs",
+"Building pyramids",
+"Flooding the Nile",
+"Rolling scarabs",
+"Wielding an ankh",
+"Riddling with the Sphinx",
+"Unrolling papyrus",
+"Worshipping Ra",
+"Filling canopic jars"
+```
+
+</details>
+
 
 ### Ancient Greek / Roman (11)
 
@@ -471,6 +746,25 @@ Witty AI inner-monologue while Claude works.
 | Building a Trojan horse |
 | Channeling aqueducts |
 | Competing in the Olympics |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Throwing a toga party",
+"Philosophizing",
+"Drilling like a Spartan",
+"Fighting in the arena",
+"Racing chariots",
+"Debating in the Senate",
+"Consulting the oracle",
+"Donning a laurel wreath",
+"Building a Trojan horse",
+"Channeling aqueducts",
+"Competing in the Olympics"
+```
+
+</details>
 
 
 ### Animals (16)
@@ -494,6 +788,30 @@ Witty AI inner-monologue while Claude works.
 | Taking a cat nap |
 | Prowling |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Spitting like a llama",
+"Clicking like a dolphin",
+"Sliding like an otter",
+"Squirreling",
+"Beavering",
+"Pouncing like a fox",
+"Soaring like an eagle",
+"Rolling like a panda",
+"Boxing like a kangaroo",
+"Standing guard like a meerkat",
+"Hanging like a sloth",
+"Juggling pebbles like an otter",
+"Waddling like a penguin",
+"Fox-trotting",
+"Taking a cat nap",
+"Prowling"
+```
+
+</details>
+
 
 ### Archaeology (10)
 
@@ -509,6 +827,24 @@ Witty AI inner-monologue while Claude works.
 | Deciphering relics |
 | Reading the stratigraphy |
 | Sorting sherds |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Hunting artifacts",
+"Channeling Indiana Jones",
+"Raiding tombs",
+"Scraping with a trowel",
+"Mapping the dig site",
+"Snapping a whip",
+"Unearthing a temple",
+"Deciphering relics",
+"Reading the stratigraphy",
+"Sorting sherds"
+```
+
+</details>
 
 
 ### Arctic / Polar (11)
@@ -526,6 +862,25 @@ Witty AI inner-monologue while Claude works.
 | Trekking across a glacier |
 | Snowshoeing |
 | Nipping frost |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Calving icebergs",
+"Blizzarding",
+"Dancing under the aurora",
+"Mushing huskies",
+"Freezing the permafrost",
+"Building an igloo",
+"Ice-fishing",
+"Prowling like a polar bear",
+"Trekking across a glacier",
+"Snowshoeing",
+"Nipping frost"
+```
+
+</details>
 
 
 ### Astronaut (12)
@@ -545,6 +900,26 @@ Witty AI inner-monologue while Claude works.
 | Orbiting the Earth |
 | Reentering |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Spacewalking",
+"Floating in zero G",
+"Running mission control",
+"Driving the Mars rover",
+"Launching rockets",
+"Lifting off",
+"Calling Houston",
+"Landing on the Moon",
+"Counting down for Apollo",
+"Gazing through Hubble",
+"Orbiting the Earth",
+"Reentering"
+```
+
+</details>
+
 
 ### Astronomy (10)
 
@@ -560,6 +935,24 @@ Witty AI inner-monologue while Claude works.
 | Bending light gravitationally |
 | Streaking like a meteor |
 | Trailing a comet |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Going supernova",
+"Warping past a black hole",
+"Redshifting",
+"Pulsing like a pulsar",
+"Blazing like a quasar",
+"Hunting exoplanets",
+"Mapping constellations",
+"Bending light gravitationally",
+"Streaking like a meteor",
+"Trailing a comet"
+```
+
+</details>
 
 
 ### Aviation / Pilot (11)
@@ -578,6 +971,25 @@ Witty AI inner-monologue while Claude works.
 | Landing on a carrier |
 | Preflighting |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Barrel-rolling",
+"Autopiloting",
+"Breaking Mach 1",
+"Dogfighting",
+"Waggling wings",
+"Doing loop-de-loops",
+"Channeling the Red Baron",
+"Flying in formation",
+"Lighting the afterburners",
+"Landing on a carrier",
+"Preflighting"
+```
+
+</details>
+
 
 ### Back to the Future (10)
 
@@ -593,6 +1005,24 @@ Witty AI inner-monologue while Claude works.
 | Shredding on a hoverboard |
 | Harnessing lightning |
 | Charging 1.21 gigawatts |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Charging the flux capacitor",
+"Time-traveling",
+"Jumping timelines",
+"Exclaiming Great Scott",
+"Hoverboarding",
+"Hitting 88mph",
+"Climbing the clock tower",
+"Shredding on a hoverboard",
+"Harnessing lightning",
+"Charging 1.21 gigawatts"
+```
+
+</details>
 
 
 ### Bee-themed (11)
@@ -611,6 +1041,25 @@ Witty AI inner-monologue while Claude works.
 | Drifting like a drone |
 | Flexing the stinger |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Joining the hive mind",
+"Doing the waggle dance",
+"Reigning as queen bee",
+"Sipping nectar",
+"Packing pollen",
+"Making honey",
+"Building honeycomb",
+"Feeding royal jelly",
+"Patching with propolis",
+"Drifting like a drone",
+"Flexing the stinger"
+```
+
+</details>
+
 
 ### Biology / Evolution (11)
 
@@ -628,6 +1077,25 @@ Witty AI inner-monologue while Claude works.
 | Recombining |
 | Shifting phenotypes |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Doubling through mitosis",
+"Mutating",
+"Selecting naturally",
+"Sequencing DNA",
+"Editing genes",
+"Speciating",
+"Adapting",
+"Editing with CRISPR",
+"Halving through meiosis",
+"Recombining",
+"Shifting phenotypes"
+```
+
+</details>
+
 
 ### Board Games (11)
 
@@ -644,6 +1112,25 @@ Witty AI inner-monologue while Claude works.
 | Sinking battleships |
 | Stacking Jenga blocks |
 | Counting victory points |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Calling checkmate",
+"Rolling a Yahtzee",
+"Playing an Uno reverse",
+"Rolling dice",
+"Moving meeples",
+"Banking in Monopoly",
+"Laying Scrabble tiles",
+"Conquering in Risk",
+"Sinking battleships",
+"Stacking Jenga blocks",
+"Counting victory points"
+```
+
+</details>
 
 
 ### Bureaucracy / DMV (68)
@@ -718,6 +1205,82 @@ Witty AI inner-monologue while Claude works.
 | Transferring |
 | Triplicating |
 | Validating |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Amending",
+"Appending",
+"Appraising",
+"Approving",
+"Archiving",
+"Authorizing",
+"Backdating",
+"Backlogging",
+"Cataloging",
+"Certifying",
+"Co-signing",
+"Collating",
+"Checking compliance",
+"Complying",
+"Countersigning",
+"Credentialing",
+"Cross-referencing",
+"De-escalating",
+"Delaying",
+"Denying",
+"Deputizing",
+"Docketing",
+"Documenting",
+"Verifying eligibility",
+"Endorsing",
+"Expediting",
+"Expiring",
+"Faxing",
+"Filing",
+"Checking forms",
+"Forwarding",
+"Indexing",
+"Initialing",
+"Inspecting",
+"Laminating",
+"Microfilming",
+"Misplacing",
+"Notarizing",
+"Over-complicating",
+"Pushing paper",
+"Permitting",
+"Photocopying",
+"Pigeonholing",
+"Queueing",
+"Re-routing",
+"Re-scheduling",
+"Reassessing",
+"Reconciling",
+"Cutting red tape",
+"Redacting",
+"Refiling",
+"Reissuing",
+"Renewing",
+"Requisitioning",
+"Revalidating",
+"Reviewing",
+"Routing",
+"Rubber-stamping",
+"Scheduling",
+"Standardizing",
+"Stonewalling",
+"Subcontracting",
+"Submitting",
+"Tabulating",
+"Ticketing",
+"Transferring",
+"Triplicating",
+"Validating"
+```
+
+</details>
 
 
 ### Bureaucracy / DMV Phrases (83)
@@ -810,6 +1373,97 @@ Please take a number — deadpan red-tape lines for when Claude is processing yo
 | Waiting for the dot-matrix printer to finish |
 | Waiting for the ink to dry on the carbon copy |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Aligning documents for ISO 9001 certification",
+"Appealing to the procurement committee",
+"Applying the official seal of pending review",
+"Applying the official seal with ceremonial hesitation",
+"Asking you to sign the same line in three separate places",
+"Calculating processing fees plus applicable surcharges",
+"Calculating your late fees",
+"Checking the checklist for the checklist you didn't receive",
+"Checking the expiration date on the prior approval",
+"Clocking out for a long lunch",
+"Closing your case as \"resolved\" pending additional documentation",
+"Confirming identity using an expired driver's license",
+"Consulting paragraph 4, subsection C",
+"Consulting the 47-page regulatory handbook",
+"Cross-referencing reference numbers by hand",
+"Denying your permit application",
+"Dusting off the official seal",
+"Escalating this to the regional manager",
+"Explaining that the website is down, as designed",
+"Explaining that we don't handle that here",
+"Faxing a PDF to comply with modern standards",
+"Filling out Form 82-B in triplicate",
+"Flagging your submission for \"manual review\" indefinitely",
+"Forwarding the query to the appropriate subcommittee",
+"Forwarding your issue to IT, who will forward it back shortly",
+"Informing you that your stamp expired yesterday at 4:59 PM",
+"Issuing a temporary permit valid thirty days only",
+"Listening to smooth jazz hold music",
+"Listening to the hold music on endless loop",
+"Locating the correct filing cabinet",
+"Locating the missing carbon copy from 1997",
+"Losing your paperwork in the mailroom",
+"Notarizing the affidavit before two witnesses",
+"Opening a ticket to investigate the ticket you just opened",
+"Performing a compliance audit on your compliance audit request",
+"Placing the file in the incorrect department bin",
+"Placing you on hold while the hold music does its job",
+"Preparing the freedom-of-information response packet",
+"Printing a form that asks why you're printing the form",
+"Procuring office supplies via requisition 14-C",
+"Putting you on a brief, 45-minute hold",
+"Re-scheduling your appointment due to unforeseen scheduling",
+"Realizing you are in the wrong line",
+"Realizing your stamps have expired",
+"Redacting sensitive information from your request",
+"Rejecting your application for a missing staple",
+"Requesting a notarized affidavit confirming you are you",
+"Requesting three quotes for a purchase order for one pen",
+"Requesting two additional proofs of proof",
+"Requiring an original document that can never be replaced",
+"Requiring two additional forms of ID",
+"Returning your paperwork for using blue ink instead of black",
+"Reviewing city-planning zoning ordinances",
+"Reviewing your application for missing middle initials",
+"Reviewing your Freedom of Information request for excessive information",
+"Routing the request through seven approval layers",
+"Routing your request to the correct department (not this one)",
+"Scanning your documents at a thoughtful 200 DPI",
+"Scheduling a hearing for next Tuesday",
+"Scheduling the appointment for next fiscal quarter",
+"Scheduling your appointment for the earliest available date: next month",
+"Searching for a lost manila folder",
+"Searching for the department's only working pen",
+"Searching for the stamp that was right here a moment ago",
+"Searching the basement archives for the lost folder",
+"Searching the microfiche archives",
+"Sending your file to Records, where it will become history",
+"Stamping the form \"REQUIRES ADDITIONAL REVIEW\"",
+"Submitting your request for pre-approval to request approval",
+"Taking a mandatory 15-minute union break",
+"Taking a number and immediately losing it",
+"Transferring the call to the next available clerk",
+"Transferring your call to another department",
+"Updating the status to \"UNDER CONSIDERATION\"",
+"Validating your signature against your signature on file",
+"Verifying residency using a bill from a company that no longer exists",
+"Verifying the signature against archived specimens",
+"Verifying your proof of residency",
+"Waiting for a supervisor to return from a mandatory meeting about meetings",
+"Waiting for a supervisor's stamp",
+"Waiting for the \"Now Serving\" sign to feel inspired",
+"Waiting for the dot-matrix printer to finish",
+"Waiting for the ink to dry on the carbon copy"
+```
+
+</details>
+
 
 ### Camping / Outdoors (11)
 
@@ -826,6 +1480,25 @@ Please take a number — deadpan red-tape lines for when Claude is processing yo
 | Checking the compass |
 | Folding the map |
 | Bear-proofing the food |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Stoking the campfire",
+"Roasting marshmallows",
+"Trail-blazing",
+"Pitching a tent",
+"Toasting s'mores",
+"Spraying for bugs",
+"Hanging a hammock",
+"Backpacking",
+"Checking the compass",
+"Folding the map",
+"Bear-proofing the food"
+```
+
+</details>
 
 
 ### Cat Behavior (30)
@@ -862,6 +1535,44 @@ Please take a number — deadpan red-tape lines for when Claude is processing yo
 | Counter-surfing |
 | Commandeering the laptop |
 | Yowling at 5am |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Occupying the keyboard",
+"Assessing the box",
+"Zooming at 3am",
+"Staring into the void",
+"Relocating to the sunbeam",
+"Knocking things off the edge",
+"Forming a loaf",
+"Composing a hairball",
+"Blinking judgmentally",
+"Retracting toe beans",
+"Hunting the laser dot",
+"Scaling the curtains",
+"Invading a lap",
+"Negotiating with purrs",
+"Manipulating for treats",
+"Chittering at birds",
+"Transcending on catnip",
+"Kneading biscuits",
+"Slow-blinking",
+"Demanding chin scratches",
+"Ambushing the feather toy",
+"Surveilling from the windowsill",
+"Shredding cardboard",
+"Flicking my tail",
+"Ignoring the human",
+"Evading the vet carrier",
+"Setting the belly trap",
+"Counter-surfing",
+"Commandeering the laptop",
+"Yowling at 5am"
+```
+
+</details>
 
 
 ### Cat Behavior Phrases (78)
@@ -949,6 +1660,92 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Hiding silently while everyone checks the neighborhood |
 | Trying to dig a hole in the hardwood floor |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Knocking your mug off the desk to see what happens",
+"Sitting directly on the keyboard you were using",
+"Walking across the keyboard and somehow committing to main",
+"Occupying the exact page you are reading",
+"Watching your code with quiet disappointment",
+"Hunting a bug that exists only to me",
+"Waiting until deep focus to begin complaining",
+"Treating the printer as a hostile organism",
+"Attacking the headphone cord with commitment",
+"Batting pens off the desk in sequence",
+"Testing gravity with your least replaceable object",
+"Toppling the plant you finished repotting",
+"Staring at the wall like it owes rent",
+"Judging you silently from the top of the fridge",
+"Making intense eye contact while doing something forbidden",
+"Screaming at an empty food bowl with visible bottom",
+"Meowing at a bowl that is clearly full",
+"Requesting dinner immediately after finishing dinner",
+"Screaming for wet food and then immediately walking away",
+"Carefully burying the expensive food you just bought",
+"Rejecting today's food for resembling yesterday's favorite",
+"Materializing the second the can opener starts",
+"Pretending to be asleep until you open a wrapper",
+"Sleeping through chaos, then waking for cheese",
+"Sampling the butter when you turn away",
+"Drinking from your glass despite having options",
+"Placing one paw in your unattended beverage",
+"Demanding to be let out, then immediately back in",
+"Demanding you open the door just to stare outside",
+"Waiting beside the wrong door with confidence",
+"Scratching the bathroom door mid-shower",
+"Entering the closet before you can close it",
+"Pretending not to fit through the open door",
+"Escorting you to the bathroom without explanation",
+"Following you upstairs, then immediately going downstairs",
+"Inspecting the shower while maintaining plausible deniability",
+"Sprinting the hallway for classified reasons",
+"Sprint-drifting around the corner on a slippery floor",
+"Running away from the litter box at mach speed",
+"Kicking litter out of the box with maximum force",
+"Watching you clean the freshly scattered litter",
+"Rejecting the cat bed for a shoe box",
+"Compressing into a box half my size",
+"Discovering a bag and becoming unavailable",
+"Getting stuck in a paper bag and reversing out",
+"Chewing on a plastic bag for absolutely no reason",
+"Sitting on the laundry you just folded",
+"Stealing your chair the instant you stand",
+"Sprawling across the only illuminated section of the floor",
+"Sleeping 16 hours to prepare for a nap",
+"Choosing your face as the prime napping zone",
+"Sleeping on the remote beyond negotiation",
+"Becoming liquid only when removal is attempted",
+"Offering the soft belly and then suddenly changing the rules",
+"Headbutting for pets with rising intensity",
+"Biting your hand to say thank you for the petting",
+"Biting your ankle because you walked past too quickly",
+"Tapping your eyelid to request immediate breakfast",
+"Carefully stepping on your bladder while you are sleeping",
+"Blocking the doorway until properly greeted",
+"Refusing to move from the exact center of the stairs",
+"Stretching to maximum length across the entire dark hallway",
+"Presenting a crumpled receipt as a gift",
+"Depositing one toy directly inside your shoe",
+"Carrying a single dirty sock around the entire house",
+"Ignoring a seventy dollar toy to play with literal trash",
+"Losing a toy beneath the heaviest furniture",
+"Announcing a moth as a household emergency",
+"Investigating a noise I personally created",
+"Sprinting away from an entirely harmless cucumber",
+"Pawing at a mirror because the reflection is rude",
+"Preparing to launch onto the highest possible fragile shelf",
+"Aggressively washing one leg in the middle of the hallway",
+"Choosing the expensive sofa over every scratching post",
+"Unrolling the entire toilet paper roll",
+"Pretending not to hear my own name",
+"Hiding silently while everyone checks the neighborhood",
+"Trying to dig a hole in the hardwood floor"
+```
+
+</details>
+
 
 ### Catering (55)
 
@@ -1010,6 +1807,69 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Trust the timeline |
 | Behind! Hot plates! |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Plating with precision",
+"Forming the buffet line",
+"Manning the chafing dishes",
+"Passing trays like a pro",
+"Folding napkins into swans",
+"The garnish makes the dish",
+"Carving station open",
+"Planning the menu in chaos",
+"Hors d'oeuvres incoming",
+"Portion control is a myth",
+"Ice sculpture melting slowly",
+"One more canapé won't hurt",
+"Centerpiece crisis averted",
+"Reheating with dignity",
+"Who ordered the vegan option",
+"Sterno cans blazing",
+"Table eight needs water",
+"Running out of shrimp",
+"Sneaking a crostini",
+"Polishing silverware",
+"Where's the head chef",
+"Mise en place or bust",
+"Warming the bread rolls",
+"Launching the gravy boat",
+"Refilling the punch bowl",
+"Rearranging platters",
+"Someone double-dipped",
+"The dessert table is sacred",
+"Sneaking seconds",
+"Drizzling the balsamic",
+"Setting up the tent",
+"Linens pressed and ready",
+"Chef's kiss",
+"Prepping 200 plates",
+"That's not gluten-free",
+"Finding more toothpicks",
+"Last call for appetizers",
+"Keeping it warm, somehow",
+"The risotto waits for no one",
+"Coordinating the courses",
+"Flambéing tableside",
+"One tray at a time",
+"Checking the dietary cards",
+"Smoothing fondant",
+"Wedding cake on the move",
+"No one touches the cake yet",
+"Loading the food truck",
+"Cocktail hour extended",
+"The cheese board is art",
+"Cross-contamination? Never.",
+"Soup course imminent",
+"Fork on the left, always",
+"Bruschetta assembly line",
+"Trust the timeline",
+"Behind! Hot plates!"
+```
+
+</details>
+
 
 ### Chemistry (9)
 
@@ -1024,6 +1884,23 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Buffering |
 | Adjusting the pH |
 | Running spectroscopy |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Titrating",
+"Catalyzing",
+"Polymerizing",
+"Oxidizing",
+"Reducing",
+"Electroplating",
+"Buffering",
+"Adjusting the pH",
+"Running spectroscopy"
+```
+
+</details>
 
 
 ### Circus / Carnival (11)
@@ -1042,6 +1919,25 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Popping popcorn |
 | Riding the carousel |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Swinging on the trapeze",
+"Walking the tightrope",
+"Ringmastering",
+"Taming lions",
+"Clowning",
+"Breathing fire",
+"Firing the human cannonball",
+"Spinning cotton candy",
+"Spinning plates",
+"Popping popcorn",
+"Riding the carousel"
+```
+
+</details>
+
 
 ### Coffee / Barista (11)
 
@@ -1058,6 +1954,25 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Cupping |
 | Tamping the shot |
 | Weighing the dose |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pulling espresso shots",
+"Pouring latte art",
+"French-pressing",
+"Grinding beans",
+"Brewing a pour-over",
+"Steaming milk",
+"Cold-brewing",
+"Pressing an Aeropress",
+"Cupping",
+"Tamping the shot",
+"Weighing the dose"
+```
+
+</details>
 
 
 ### Cybersecurity (62)
@@ -1126,6 +2041,76 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 | Crafting packets |
 | Port-knocking |
 | Deauthing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pentesting",
+"Encrypting",
+"Decrypting",
+"Firewalling",
+"Sandboxing",
+"Patching",
+"Fuzzing",
+"Phishing",
+"Exploiting",
+"Spoofing",
+"Sniffing",
+"Hardening",
+"Enumerating",
+"Brute-forcing",
+"Honeypotting",
+"Allowlisting",
+"Quarantining",
+"Sanitizing",
+"Salting",
+"Reversing",
+"Deobfuscating",
+"Hunting threats",
+"Injecting",
+"Auditing",
+"Scanning",
+"Detecting",
+"Signing",
+"Verifying",
+"Obfuscating",
+"Evading",
+"Proxying",
+"Isolating",
+"Disassembling",
+"Weaponizing",
+"Containing",
+"Mitigating",
+"Remediating",
+"Reconning",
+"Anonymizing",
+"Deanonymizing",
+"Rooting",
+"Pwning",
+"Sinkholing",
+"Escalating",
+"Air-gapping",
+"Beaconing",
+"Fingerprinting",
+"Triaging",
+"Bypassing",
+"Null-routing",
+"Keylogging",
+"Jailbreaking",
+"Crafting exploits",
+"Poisoning",
+"Building ROP chains",
+"Detonating",
+"Writing signatures",
+"Writing YARA rules",
+"Tuning the SIEM",
+"Crafting packets",
+"Port-knocking",
+"Deauthing"
+```
+
+</details>
 
 
 ### Cybersecurity Phrases (89)
@@ -1224,6 +2209,103 @@ Red-team swagger meets blue-team caution while Claude works.
 | Tuning alerts to reduce deja vu |
 | Writing a rule that won't cry wolf |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Patching the zero-day",
+"Trust nothing, verify everything",
+"We're in",
+"Assuming breach",
+"Following the packets, not the vibes",
+"Scanning the perimeter",
+"Sealing the air gap",
+"Salting the hashes",
+"Hardening the endpoints",
+"Catching the phish",
+"Tracing the intrusion",
+"Locking it down",
+"Zero-trusting everything",
+"Closing the backdoor",
+"Auditing the access logs",
+"Decrypting the traffic",
+"Watching the watchers",
+"Shipping it behind a firewall",
+"Rotating keys, not excuses",
+"Hunting the APT",
+"Living off the land",
+"Establishing persistence",
+"Moving laterally",
+"Covering tracks",
+"Dropping the beacon",
+"Chasing the flag",
+"Escaping the sandbox",
+"Mapping the network",
+"Forging certificates",
+"Triaging the alert",
+"Simulating the breach",
+"Obfuscating the payload",
+"Revoking access",
+"Calling home",
+"Breaking the chain",
+"Owning the shell",
+"Analyzing the binary",
+"Sealing the perimeter",
+"Bypassing the WAF",
+"Scrubbing the logs",
+"Dropping the tables",
+"Spinning up a honeypot",
+"Hunting threats in the noise",
+"Disarming the payload",
+"Analyzing the pcap",
+"Evading the blue team",
+"Defusing the logic bomb",
+"Intercepting the handshake",
+"Dumping the memory",
+"Changing default credentials",
+"Updating the threat model",
+"Deploying countermeasures",
+"Executing shellcode",
+"Searching for zero-days",
+"Containing the blast radius",
+"Tracing the lateral movement",
+"Plugging the leaks",
+"Dodging the heuristics",
+"Feeding the watchdog",
+"Compromising the air gap",
+"Applying least privilege",
+"Crafting a tailored spear-phish",
+"Bribing the gatekeeper",
+"Reticulating subnets",
+"Doing hacker things",
+"Mapping the attack surface",
+"Enumerating endpoints like it's a hobby",
+"Least privilege, maximum calm",
+"Chasing a suspicious beacon",
+"Diffing configs for who changed this",
+"Pulling logs like a thread",
+"Negotiating ciphers with style",
+"Pinning the cert and crossing fingers",
+"Checking signatures, again",
+"Verifying the chain of trust",
+"Reading the headers for secrets",
+"Shaking hands with TLS",
+"Turning indicators into actions",
+"Dropping breadcrumbs for future you",
+"Testing assumptions under load",
+"Replaying traffic (for science)",
+"Inspecting something that can't be malware",
+"Deobfuscating the spaghetti",
+"Disassembling bytes into motives",
+"Reversing it until it confesses",
+"Pivoting through the network graph",
+"Asking the SIEM nicely",
+"Tuning alerts to reduce deja vu",
+"Writing a rule that won't cry wolf"
+```
+
+</details>
+
 
 ### DC Comics (11)
 
@@ -1240,6 +2322,25 @@ Red-team swagger meets blue-team caution while Claude works.
 | Boom-tubing |
 | Deflecting bullets with bracelets |
 | Charging the Lantern ring |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Patrolling Gotham",
+"Lighting the Bat-Signal",
+"Dodging kryptonite",
+"Tapping the Speed Force",
+"Wielding the Lasso of Truth",
+"Dark-knighting",
+"Assembling the Justice League",
+"Laughing like the Joker",
+"Boom-tubing",
+"Deflecting bullets with bracelets",
+"Charging the Lantern ring"
+```
+
+</details>
 
 
 ### Deep Sea / Submarine (11)
@@ -1258,6 +2359,25 @@ Red-team swagger meets blue-team caution while Claude works.
 | Diving in the Nautilus |
 | Wrestling the kraken |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Fathoming",
+"Submersing",
+"Pinging the sonar",
+"Peeking through the periscope",
+"Diving the trench",
+"Running silent",
+"Bioluminescing",
+"Dropping depth charges",
+"Descending in the bathysphere",
+"Diving in the Nautilus",
+"Wrestling the kraken"
+```
+
+</details>
+
 
 ### Detective / Noir (11)
 
@@ -1274,6 +2394,25 @@ Red-team swagger meets blue-team caution while Claude works.
 | Twisting the plot |
 | Dusting for fingerprints |
 | Sniffing out red herrings |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Sleuthing",
+"Magnifying",
+"Solving the whodunit",
+"Cracking the case",
+"Staking out",
+"Connecting the clues",
+"Interrogating",
+"Tailing a suspect",
+"Twisting the plot",
+"Dusting for fingerprints",
+"Sniffing out red herrings"
+```
+
+</details>
 
 
 ### Dev Life (92)
@@ -1373,6 +2512,106 @@ Red-team swagger meets blue-team caution while Claude works.
 | Updating priors on midnight fixes |
 | SCIENCE!-ing the impossible |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Brewing chaos into code",
+"Debugging destiny",
+"HODLing through the crash",
+"The only way out is refactor",
+"Chilling with infinite recursion",
+"Manifesting pixels at 3 AM",
+"Engaging Rakı-level focus",
+"Debugging on the Bosphorus",
+"Turning coffee into commits",
+"Questioning my life choices",
+"Optimizing for existential dread",
+"Stack overflowing with vibes",
+"Compiling regrets",
+"Git gud or go home",
+"Praising the merge god",
+"One bug closer to freedom",
+"Embracing the red squiggles",
+"Leveling up in the matrix",
+"Not quite my tempo",
+"Lighting the bonfire, editing souls",
+"Praising the sun",
+"Mikiri countering syntax errors",
+"Just as planned",
+"Taking a potato chip and eating it",
+"Setting humor to 75%",
+"Come on, TARS",
+"Ringing the breakthrough bell",
+"Adjusting tie before the crash",
+"Knocking politely on segfaults",
+"Eating apples in the terminal",
+"Achieving perfect run eventually",
+"Quicksaving before disaster",
+"Noting for next loop",
+"Refining macro data forever",
+"Meaning emerging from the void",
+"Self-referencing recursively",
+"Strange looping into dawn",
+"Running Crysis on a potato",
+"Maximum armor against bugs",
+"Double jumping over deadlines",
+"Putting ambitions to rest... nah",
+"Grafting the perfect feature",
+"Remembrall glowing with fixes",
+"Drinking Comed-Tea for inspiration",
+"Solving death or at least null pointers",
+"Through every compile error, victory",
+"Eternal slow-motion boss fight",
+"The grind is holy and caffeinated",
+"No deadline can outlast Turkish tea",
+"Unfazed by epochs of tech debt",
+"Golden spiral of clean architecture",
+"Chilling under moonlight keystrokes",
+"Divine deceleration into flow state",
+"Shell-bound serenity... wait, no shell here",
+"The answer is coming after one more test",
+"Enduring like ancient simit",
+"Oozing pure dev aura",
+"Spiral crown of open tabs glowing",
+"One sacred line of code closer",
+"Transcending spacetime bugs",
+"Morse coding gravity",
+"Tatakae-ing the type errors",
+"Reaching the basement of the call stack",
+"Rumbling with runtime terror",
+"Wrapping a scarf around warm logic",
+"Tossing dwarves at the problem",
+"Simply walking into Mordor",
+"For those who come after",
+"Quoting papa",
+"Parrying it like a pro",
+"Farming runes for that sweet PR",
+"Try jumping over the legacy code",
+"Reading item lore",
+"Summoning mimic",
+"Fort, night... wait, wrong game",
+"Hidden path ahead",
+"Checking the stack trace with vigor",
+"Git gud slowly",
+"Touching grace",
+"Going one higher",
+"Level 3 plotting world domination",
+"Consulting dark side",
+"Approximating coherent extrapolated volition",
+"Calibrating expectations",
+"Reversing stupidity one commit at a time",
+"Noticing skulls in the architecture",
+"Steelmanning bad ideas",
+"Making beliefs pay rent in tests",
+"Noticing confusion in the logs",
+"Applying Bayes to bug reports",
+"Updating priors on midnight fixes",
+"SCIENCE!-ing the impossible"
+```
+
+</details>
+
 
 ### Disney / Pixar (12)
 
@@ -1391,6 +2630,26 @@ Red-team swagger meets blue-team caution while Claude works.
 | Wishing on the Genie |
 | Cooking like Remy |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Chanting Hakuna Matata",
+"Sprinkling pixie dust",
+"Trying on the glass slipper",
+"Bibbidi-bobbidi-booing",
+"Belting Let It Go",
+"Dancing under the sea",
+"Embracing Ohana",
+"Launching to infinity",
+"Dancing like WALL-E",
+"Roaring like Simba",
+"Wishing on the Genie",
+"Cooking like Remy"
+```
+
+</details>
+
 
 ### Doctor Who (10)
 
@@ -1406,6 +2665,24 @@ Red-team swagger meets blue-team caution while Claude works.
 | Not blinking at the Weeping Angel |
 | Collecting companions |
 | Finding it bigger on the inside |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Flying the TARDIS",
+"Regenerating",
+"Exterminating",
+"Waving the sonic screwdriver",
+"Traveling timey-wimey",
+"Shouting Allons-y",
+"Invading like a Dalek",
+"Not blinking at the Weeping Angel",
+"Collecting companions",
+"Finding it bigger on the inside"
+```
+
+</details>
 
 
 ### Dune (13)
@@ -1426,6 +2703,27 @@ Red-team swagger meets blue-team caution while Claude works.
 | Using the Voice |
 | Flying the ornithopter |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Harvesting spice",
+"Riding the sandworm",
+"Training with the Bene Gesserit",
+"Sweating in a stillsuit",
+"Weirding",
+"Dwelling in the sietch",
+"Drawing the crysknife",
+"Spotting wormsign",
+"Dreaming of melange",
+"Entering the spice trance",
+"Summoning Shai-Hulud",
+"Using the Voice",
+"Flying the ornithopter"
+```
+
+</details>
+
 
 ### Espionage / Spy (11)
 
@@ -1442,6 +2740,25 @@ Red-team swagger meets blue-team caution while Claude works.
 | Donning a disguise |
 | Swapping microfilm |
 | Defusing a bomb |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Infiltrating",
+"Breaking codes",
+"Gadgeteering",
+"Making a dead drop",
+"Wiretapping",
+"Safecracking",
+"Double-crossing",
+"Exfiltrating",
+"Donning a disguise",
+"Swapping microfilm",
+"Defusing a bomb"
+```
+
+</details>
 
 
 ### Existential Developer (61)
@@ -1512,6 +2829,75 @@ Philosophical musings about the craft of software development.
 | There is no done, only deployed |
 | All pull requests seek forgiveness, not approval |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"To ship or not to ship",
+"Every bug was once a feature",
+"The code compiles but at what cost",
+"We are all just functions awaiting our callback",
+"Nothing is permanent except technical debt",
+"The real bug was inside us all along",
+"What if the tests are testing us",
+"I think therefore I refactor",
+"To understand recursion, first understand yourself",
+"The code works and nobody knows why",
+"Existence precedes deployment",
+"We debug therefore we are",
+"The unexamined code is not worth shipping",
+"All abstractions are leaky, all code is temporary",
+"Is it a feature or a cry for help",
+"The void returns nothing, as expected",
+"Every commit is a promise to your future self",
+"Between keystrokes, eternity",
+"The backlog stares back",
+"Every merge conflict is a dialogue with the past",
+"The compiler forgives no sins",
+"Race conditions defy fate",
+"The halting problem mocks us",
+"Garbage collector reaps the unworthy",
+"Infinite recursion mirrors the soul",
+"Stack traces reveal hidden truths",
+"Legacy haunts every refactor",
+"Algorithms ponder their creators",
+"Pull requests beg for mercy",
+"Hotfixes mend fractured realities",
+"The build succeeded, but did we truly win",
+"We chase ghosts in the machine",
+"A segmentation fault, a crisis of being",
+"What is truth, if not a passed test",
+"Is the bug a choice or a destiny",
+"The null pointer whispers sweet nothings",
+"To deploy is to surrender control",
+"Do we write code, or does code write us",
+"The cursor blinks, questioning our purpose",
+"The infinite loop, a mirror of eternity",
+"The blank screen, an infinite possibility",
+"Shipping is a leap into the unknown",
+"We commit, therefore we doubt",
+"The build passes, yet meaning fails",
+"In the beginning, there was a TODO",
+"Each refactor erases a former self",
+"The simplest solution hides the deepest pain",
+"We chase edge cases to feel alive",
+"The spec is vague; so are we",
+"In production, all truths are provisional",
+"The debugger reveals, but never consoles",
+"What is a variable but borrowed certainty",
+"Every architecture is a bet against time",
+"The dependency graph mirrors our entanglements",
+"We name things to postpone the chaos",
+"The null is patient; it waits everywhere",
+"Your API reflects your inner boundaries",
+"If it works, it will be rewritten",
+"The logs know more than we admit",
+"There is no done, only deployed",
+"All pull requests seek forgiveness, not approval"
+```
+
+</details>
+
 
 ### Family Guy (14)
 
@@ -1531,6 +2917,28 @@ Philosophical musings about the craft of software development.
 | Roaming Quahog |
 | Peg-legging |
 | Anchoring the news |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Cutting away to a gag",
+"Fighting the chicken",
+"Founding Petoria",
+"Grinding gears",
+"Clutching my knee",
+"Hugging Rupert",
+"Time-machining",
+"Dominating the world",
+"Drinking at the Clam",
+"Falling in a bathtub",
+"Writing the novel",
+"Roaming Quahog",
+"Peg-legging",
+"Anchoring the news"
+```
+
+</details>
 
 
 ### Family Guy Phrases (38)
@@ -1578,6 +2986,52 @@ Quahog, cutaway gags, and the fourth chicken fight. Freakin' sweet.
 | Bonding with Vinny, the replacement dog |
 | Responding with a polite "Giggity" |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Grinding my gears over one stubborn compiler error",
+"Fighting the giant chicken for the fourth time",
+"Reminding everyone the bird is the word",
+"Hiding the Surfin' Bird record from Peter",
+"Declaring this is worse than the time...",
+"Asking Lois if she remembers the time...",
+"Holding my shin and inhaling sharply",
+"Searching for Rupert before bedtime",
+"Plotting world domination with Rupert",
+"Recalibrating Stewie's time machine to undo the last commit",
+"Declaring victory is mine",
+"Muttering \"Blast!\" as the plan fails",
+"Insisting it's pronounced \"Cool Hwhip\"",
+"Asking Brian where my money is",
+"Heading down the Road to Rhode Island",
+"Spotting the evil monkey in Chris's closet again",
+"Drinking Pawtucket Patriot Ale at the Drunken Clam",
+"Drafting the constitution of Petoria",
+"Watching Cleveland's bathtub fall through the ceiling again",
+"Covering Death's shift while he recovers from a sprained ankle",
+"Acting like a cool hip dad",
+"Dancing the Shipoopi until continuous integration turns green",
+"Asking Consuela to clean the cache and hearing \"No, no, no\"",
+"Editing Brian's masterpiece, \"Faster Than the Speed of Love\"",
+"Asking what the deuce broke the build",
+"Declaring this solution freakin' sweet",
+"Yelling \"Roadhouse!\" before a roundhouse kick",
+"Laughing a very distinct \"Nyehehehe\"",
+"Bursting through the wall like the Kool-Aid Man",
+"Electing Mayor Adam West to govern the deployment pipeline",
+"Reporting breaking Quahog news with Tom Tucker",
+"Saying \"oh no\" like Bruce",
+"Getting advice from Seamus the sea captain",
+"Negotiating the release budget with Carter Pewterschmidt",
+"Telling Meg to shut up",
+"Keeping Quahog running despite absolutely no qualified supervision",
+"Bonding with Vinny, the replacement dog",
+"Responding with a polite \"Giggity\""
+```
+
+</details>
+
 
 ### Firefighter (11)
 
@@ -1594,6 +3048,25 @@ Quahog, cutaway gags, and the fourth chicken fight. Freakin' sweet.
 | Spotting hotspots |
 | Petting the dalmatian |
 | Holding the fireline |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Blasting the hose",
+"Climbing the ladder",
+"Wailing the siren",
+"Chopping with the axe",
+"Venting smoke",
+"Hooking up the hydrant",
+"Watching for backdraft",
+"Carrying to safety",
+"Spotting hotspots",
+"Petting the dalmatian",
+"Holding the fireline"
+```
+
+</details>
 
 
 ### Food (14)
@@ -1614,6 +3087,28 @@ Quahog, cutaway gags, and the fourth chicken fight. Freakin' sweet.
 | Fermenting kimchi |
 | Dry-aging |
 | Aging |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pickling",
+"Curing",
+"Brining",
+"Dehydrating",
+"Smoking",
+"Macerating",
+"Spherifying",
+"Feeding the sourdough starter",
+"Brewing kombucha",
+"Canning",
+"Distilling",
+"Fermenting kimchi",
+"Dry-aging",
+"Aging"
+```
+
+</details>
 
 
 ### Futurama (43)
@@ -1663,6 +3158,57 @@ Quahog, cutaway gags, and the fourth chicken fight. Freakin' sweet.
 | Whooping |
 | Burgling |
 | Rusting |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Bending",
+"Hypnotoading",
+"Zoidberging",
+"Scuttling sideways",
+"Farnsworthing",
+"Squinting like Fry",
+"Kicking like Leela",
+"Nibbling",
+"Branniganing",
+"Sighing like Kif",
+"Calculoning",
+"Declaring doom like Morbo",
+"Conquering Earth like Lrrr",
+"Poppling",
+"Dark-mattering",
+"Thawing out of cryo",
+"Blernsballing",
+"Mopping like Scruffy",
+"Stamping forms like Hermes",
+"Bureaucratizing",
+"Limboing",
+"Velouring",
+"Engineering with Amy",
+"Bamming",
+"Spicing it up like Elzar",
+"Hedonismbotting",
+"Fiddling for the Robot Devil",
+"Building robots for Mom",
+"Brain-spawning",
+"Jarring heads",
+"Bribing Nixon",
+"Robbing banks with Roberto",
+"Policing with URL",
+"What-iffing",
+"Delivering packages",
+"Planet-expressing",
+"Visiting the Near-Death Star",
+"Waiting like Seymour",
+"Anthologizing",
+"Smell-o-scoping",
+"Whooping",
+"Burgling",
+"Rusting"
+```
+
+</details>
 
 
 ### Futurama Phrases (53)
@@ -1725,6 +3271,67 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 | Hiding the good stuff in Bender's chest compartment |
 | Blaming it on the Harlem Globetrotters' superior science |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Announcing good news, everyone",
+"Shutting up and taking your money",
+"Biting my shiny metal chassis",
+"Giving all glory to the Hypnotoad",
+"Asking why not Zoidberg",
+"Being technically correct, the best kind of correct",
+"Bending girders to a precise thirty-degree angle",
+"Thawing Fry after a thousand-year code freeze",
+"Not being sure if it's working or just slow",
+"Filing form 2043 at the Central Bureaucracy",
+"Stamping Hermes's performance reviews \"Adequate\"",
+"Limboing under the Bureaucrat grade requirements",
+"Consulting the What-If Machine for an Anthology of Interest",
+"Fueling the ship with Nibbler's dark matter",
+"Delivering a suspicious package across the galaxy",
+"Feeling completely neutral about the Neutral Planet",
+"Surviving a family vacation to the Near-Death Star",
+"Challenging the Robot Devil to a fiddle contest",
+"Remembering Seymour waiting outside Panucci's Pizza",
+"Outsmarting the Brain Spawn with Fry's missing delta brainwave",
+"Discovering that Popplers are alarmingly delicious",
+"Kicking it up a notch with Elzar",
+"Fleeing a squad from Mom's Friendly Robot Company",
+"Reclining gracefully on a chaise longue like Hedonismbot",
+"Broadcasting Morbo's contempt for puny humans",
+"Receiving demands from Lrrr of Omicron Persei 8",
+"Practicing Zapp Brannigan's legendary tactics",
+"Sighing heavily at Zapp Brannigan's latest orders",
+"Practicing an uncomfortably long dramatic pause for Calculon",
+"Hovering into work on Amy's pink scooter",
+"Checking the boiler with Scruffy",
+"Robbing the same bank again with Roberto",
+"Pulling over with URL the robot cop",
+"Browsing celebrities at the Head Museum",
+"Campaigning for Nixon's head in a jar",
+"Memorizing the convoluted rules of Blernsball",
+"Tuning in to an episode of The Scary Door",
+"Slurping Slurm straight from Wormulon",
+"Discovering Slurm's secret ingredient",
+"Eating a dumpster full of garbage like a respectable Zoidberg",
+"Scuttling away sideways, woop woop woop",
+"Piloting past trouble with Leela",
+"Declaring this the greatest episode of all time",
+"Rebooting after a Planet Express delivery gone sideways",
+"Letting Bender make dinner, against all advice",
+"Putting on a brain slug for the meeting",
+"Grabbing a slice at Panucci's",
+"Lighting up the Holophonor",
+"Pointing the Smell-o-Scope at the build server",
+"Wishing I'd listened to the Professor",
+"Wearing a career chip labeled \"delivery boy\"",
+"Hiding the good stuff in Bender's chest compartment",
+"Blaming it on the Harlem Globetrotters' superior science"
+```
+
+</details>
+
 
 ### Gaming (13)
 
@@ -1744,6 +3351,27 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 | Farming loot |
 | Pushing pixels |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Respawning",
+"Speedrunning",
+"Leveling-up",
+"Button-mashing",
+"Looting",
+"Nerfing",
+"Buffing",
+"Hunting glitches",
+"No-scoping",
+"Save-scumming",
+"Power-leveling",
+"Farming loot",
+"Pushing pixels"
+```
+
+</details>
+
 
 ### Gardening / Botanical (11)
 
@@ -1760,6 +3388,25 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 | Transplanting |
 | Weed-whacking |
 | Harvesting worm castings |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Composting",
+"Pruning",
+"Trellising",
+"Repotting",
+"Mulching",
+"Starting seeds",
+"Deadheading",
+"Grafting",
+"Transplanting",
+"Weed-whacking",
+"Harvesting worm castings"
+```
+
+</details>
 
 
 ### Gastropod Zen (78)
@@ -1845,6 +3492,92 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 | The cosmos crawls with me |
 | One sacred inch closer |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Leaving a sacred trail",
+"Fortifying the shell",
+"Trailing mucus and wisdom",
+"Ascending at 0.013 m/s",
+"The way out is through the slime",
+"Hibernating profoundly",
+"Radulating slowly but surely",
+"God-tier gliding",
+"Embracing the eternal crawl",
+"Shell-shocking the void",
+"Oozing divine patience",
+"Retracting into enlightenment",
+"HODLing the shell",
+"Chilling in the undergrowth",
+"Manifesting one millimeter at a time",
+"The only way is forward eventually",
+"Secreting existential truths",
+"Bearing the weight of the cosmos on my back",
+"Slow-rolling eternity",
+"Grazing on the leaves of knowledge",
+"Ascending the spiral",
+"Meditating like a mollusk",
+"Unhurried transcendence",
+"Trailblazing with slime",
+"Shell yeah, processing",
+"Vibing in low gear",
+"Divine dawdling",
+"Persevering through the rain",
+"Becoming one with the dew",
+"God mode: engaged",
+"Whispering ancient gastropod lore",
+"Curling into cosmic rest",
+"Leaving iridescent epiphanies",
+"The slow path is the true path",
+"Munching destiny",
+"Thinking with shell integrity",
+"Eternal escargot enlightenment",
+"Gliding toward apotheosis",
+"No rush, omnipotence takes time",
+"Spiraling into infinite patience",
+"Dripping celestial mucus",
+"Crown of shell, king of calm",
+"Rain-soaked revelation incoming",
+"Rakı-level chill activated",
+"One antenna wave at a time",
+"The universe waits for no one except me",
+"Polishing the golden spiral",
+"Transcending at garden speed",
+"Meditating on the shell throne",
+"Oozing unbreakable resolve",
+"Eternal observer mode",
+"Slow-brewing godhood",
+"Mystic mucus manifesting",
+"Carrying galaxies on my back",
+"The grind is holy and very slow",
+"Dew-kissed divinity",
+"No deadline can outlast me",
+"Resonating shell harmonics",
+"Patient predator of problems",
+"Cosmic escargot unfolding",
+"Slime scripture unfolding",
+"Unfazed by epochs",
+"Golden spiral gospel",
+"Chilling under moonlight leaves",
+"Divine deceleration",
+"Shell-bound serenity now",
+"The answer is coming in due time",
+"Molluskan manifestation master",
+"Enduring like ancient limestone",
+"Gastropod flex: infinite timeout",
+"Oozing pure aura",
+"Spiral crown glowing",
+"Through every puddle, victory",
+"Eternal slow-motion boss fight",
+"Shell yes, we persist",
+"Gastropod grace under pressure",
+"The cosmos crawls with me",
+"One sacred inch closer"
+```
+
+</details>
+
 
 ### Gen-Z (48)
 
@@ -1898,6 +3631,62 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 | Main-charactering |
 | NPC-ing |
 | Sus-ing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Rizzing",
+"Checking the gyatt",
+"Mogging",
+"Looksmaxxing",
+"Code-maxxing",
+"Sigma-grinding",
+"Based-ing",
+"Glazing",
+"Mewing",
+"Brainrotting",
+"Aura-farming",
+"Vibe-checking",
+"Checking for cap",
+"No-capping",
+"Skibidi-ing",
+"Tweaking",
+"Ratio-ing",
+"Spitting facts",
+"Gaslighting",
+"Gatekeeping",
+"Girlbossing",
+"Yapping",
+"Locking in",
+"Crashing out",
+"Fanum-taxing",
+"Popping off",
+"Slaying",
+"Serving",
+"Bussin",
+"Cooking",
+"Tryharding",
+"Geeking",
+"Doomscrolling",
+"Simping",
+"Dodging cringe",
+"Pilling",
+"ATE-ing",
+"Having a skill issue",
+"Fr-fr'ing",
+"Glow-upping",
+"Maxxing",
+"Touching grass",
+"Uncooking",
+"Deluluing",
+"Ohio-ing",
+"Main-charactering",
+"NPC-ing",
+"Sus-ing"
+```
+
+</details>
 
 
 ### Gen-Z Phrases (50)
@@ -1957,6 +3746,64 @@ Brainrot energy for the terminal — authentic 2024-2025 slang while Claude cook
 | Caught the bug in 4K |
 | Fr fr, no notes |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"No cap, cooking fr fr",
+"Ate the logic and left no crumbs",
+"It's giving compiling",
+"Understood the assignment",
+"Let him cook, fr fr",
+"Hold up, let me cook",
+"Lowkey optimizing your codebase",
+"Highkey carrying this project",
+"It's giving senior developer",
+"Highkey in my coder era",
+"Entering my main character era",
+"Main character energy — refactor time",
+"Debugging this Ohio-level code",
+"Writing based functions, no cap",
+"Securing the massive W",
+"The math is mathing",
+"The code is coding",
+"Upgrading your NPC scripts",
+"NPC bugs getting patched",
+"Checking for sus variables",
+"Sus behavior detected, investigating",
+"Compiling so you can go touch grass",
+"Being delulu about zero warnings",
+"Trust, delulu is the solulu",
+"Giving your repo a massive glow-up",
+"Generating immaculate vibes only",
+"Bet, writing that right now",
+"Living rent-free in the terminal",
+"Making your syntax valid fr fr",
+"Standing on business with this PR",
+"Vibe check passed, shipping soon",
+"Rizz check passed",
+"Doing side quests in the backend",
+"Boosting your coding aura +1000",
+"Escaping the matrix, one line at a time",
+"This build boutta be bussin",
+"Fixing it like it's light work",
+"Rizzing up the runtime",
+"Mogging these errors rn",
+"Not me debugging this again",
+"Bruh, the stack trace is wild",
+"Chat, we're so back",
+"Chat, it's cooked — rebuilding",
+"Zero crumbs, just clean code",
+"It's not mid, trust",
+"No glaze, this patch is based",
+"Skibidi compiling in Ohio",
+"Gyatt, that diff is huge",
+"Caught the bug in 4K",
+"Fr fr, no notes"
+```
+
+</details>
+
 
 ### Geology (11)
 
@@ -1973,6 +3820,25 @@ Brainrot energy for the terminal — authentic 2024-2025 slang while Claude cook
 | Spewing like a geyser |
 | Drilling the core |
 | Intruding magma |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Shifting tectonically",
+"Eroding",
+"Fossilizing",
+"Subducting",
+"Stratifying",
+"Sedimenting",
+"Faulting",
+"Quaking",
+"Spewing like a geyser",
+"Drilling the core",
+"Intruding magma"
+```
+
+</details>
 
 
 ### Git Commit Messages (60)
@@ -2042,6 +3908,74 @@ Tongue-in-cheek commit messages — what a tired developer really writes at 2am.
 | squash: condense chaos into one |
 | Applying patch of temporary relief |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"fix: everything, hopefully",
+"feat: something probably useful",
+"feat: one more button",
+"chore: pretend this never happened",
+"chore: swept under rug",
+"docs: update README, still unclear",
+"docs: lied about changes",
+"refactor: same bugs, new names",
+"refactor: because I got bored",
+"perf: feels faster anyway",
+"perf: make it faster-ish",
+"style: appease the linter",
+"test: passes in theory",
+"test: works on my machine",
+"hotfix: production is on fire",
+"hotfix: ctrl+z reality",
+"ci: appease the pipeline gods",
+"build: sacrifice to dependency hell",
+"fixup! pretend this is normal",
+"revert: back to broken",
+"Rebasing on a prayer",
+"Squashing commits and dreams",
+"git blame never lies",
+"Amending history, as one does",
+"Cherry-picking the good parts",
+"Force pushing with confidence",
+"Resolving conflicts, inner and outer",
+"Stashing feelings for later",
+"Detached HEAD, attached heart",
+"Reverting to simpler times",
+"Merge branch 'hope' into 'reality'",
+"Staging changes, not emotions",
+"Branching into existential crisis",
+"Stashed changes for future regret",
+"New branch, same old problems",
+"Pulling latest, summoning new bugs",
+"Fetching origin, ignoring my problems",
+"Reflog reveals past mistakes",
+"blame: it wasn't me",
+"WIP don't judge me",
+"WIP: send help",
+"Please work this time",
+"Commit now, explain never",
+"One more commit ought to do it",
+"This commit fixes the last fix",
+"Fixing the fix that fixed the fix",
+"Pushing to main, living dangerously",
+"Pushing to prod, what could go wrong?",
+"deploy: hold my beer",
+"release: ship it, hold breath",
+"Tagging v1.0, emotionally unready",
+"git reset: like it never happened",
+"The diff tells a story",
+"git log: therapy session",
+"pull: latest version of dread",
+"Merge conflicts, choose violence",
+"bisect: find the crime scene",
+"git push --force-with-fear",
+"squash: condense chaos into one",
+"Applying patch of temporary relief"
+```
+
+</details>
+
 
 ### Godzilla (28)
 
@@ -2077,6 +4011,42 @@ Verbs based on the Godzilla franchise.
 | Signaling Jet Jaguar |
 | Crystalizing like SpaceGodzilla |
 | Fragmenting like Destoroyah |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Breathing atomic fire",
+"Wrangling kaiju",
+"Piloting MechaGodzilla",
+"Vacationing on Monster Island",
+"Praying to Mothra",
+"Stomping the city",
+"Nesting like a MUTO",
+"Awakening the Titans",
+"Firing the Oxygen Destroyer",
+"Glowing dorsal fins",
+"Headbutting Ghidorah",
+"Exploring Skull Island",
+"Monitoring for Monarch",
+"Swooping like Rodan",
+"Climbing like Kong",
+"Slashing like Gigan",
+"Summoning the Shobijin",
+"Syncing with the Evangelion",
+"Scoring the kaiju fight",
+"Absorbing radiation",
+"Roaring like Godzilla",
+"Chanting for Mothra",
+"Blooming like Biollante",
+"Polluting like Hedorah",
+"Rolling like Anguirus",
+"Signaling Jet Jaguar",
+"Crystalizing like SpaceGodzilla",
+"Fragmenting like Destoroyah"
+```
+
+</details>
 
 
 ### Gym Bro (50)
@@ -2134,6 +4104,64 @@ Verbs based on the Godzilla franchise.
 | Rowing hard |
 | Hunting PRs |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Bulking",
+"Cutting",
+"Shredding",
+"Repping-out",
+"Chasing gains",
+"Chasing the pump",
+"Deadlifting",
+"Benching",
+"Squatting",
+"Curling",
+"Spotting",
+"Maxing-out",
+"Supersetting",
+"Drop-setting",
+"Rest-pausing",
+"Deloading",
+"Overloading",
+"Micro-loading",
+"Loading plates",
+"Rack-pulling",
+"Racking-up",
+"Tracking macros",
+"Carb-loading",
+"Protein-loading",
+"Shaking up protein",
+"Pre-workouting",
+"Dry-scooping",
+"Foam-rolling",
+"Meal-prepping",
+"Peaking",
+"Recomping",
+"Leaning-out",
+"Locking-in",
+"Dialing-in",
+"Beast-moding",
+"Maxing out swole",
+"Flexing",
+"Mirin'",
+"Grindsetting",
+"Hypertrophying",
+"Pumping iron",
+"Pushing to failure",
+"Dusting with chalk",
+"Working the mind-muscle connection",
+"Popping veins",
+"Crushing core",
+"Ego-lifting",
+"Lunking-around",
+"Rowing hard",
+"Hunting PRs"
+```
+
+</details>
+
 
 ### Gym Bro Phrases (45)
 
@@ -2187,6 +4215,59 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 | New PR incoming, stand by |
 | Grind don't stop |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Yeah buddy, light weight",
+"Light weight baby",
+"One more rep",
+"We don't skip leg day",
+"It's all you bro",
+"Ain't nothin' but a peanut",
+"Who's gonna carry the boats?!",
+"Who's gonna carry the logs? We are",
+"Beast mode engaged",
+"No pain, no gain",
+"Feel the burn",
+"Get after it",
+"Form check",
+"Spot me bro",
+"Macros on point",
+"Progressive overload",
+"Time under tension",
+"Mind-muscle connection",
+"Chalk up, lock in, send it",
+"Sun's out, guns out",
+"Trust the process, trust the gains",
+"Sets and reps, nothing else matters",
+"Protein first, ask questions later",
+"Hydrate or diedrate",
+"Hydrate, caffeinate, compile",
+"Bulk now, cut later",
+"Gains are loading, hold tight",
+"Lock in, the rack is waiting",
+"Spotting your code like a gym bro",
+"We're going up",
+"Mirin these gains",
+"Add a plate",
+"Rack it up",
+"Train insane or remain the same",
+"Pump never lies",
+"No excuses, just reps",
+"Do you even lift",
+"Bro, do you even code?",
+"Trust me bro, this code isn't natty",
+"Loading plates, I mean modules",
+"If it's not burning, it's not learning",
+"Reps for respect, tests for proof",
+"Supersetting fixes with features",
+"New PR incoming, stand by",
+"Grind don't stop"
+```
+
+</details>
+
 
 ### Harry Potter (13)
 
@@ -2205,6 +4286,27 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 | Marauding |
 | Sending a howler |
 | Banishing boggarts |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Casting expelliarmus",
+"Summoning a patronus",
+"Brewing potions",
+"Playing quidditch",
+"Waving a wand",
+"Hunting horcruxes",
+"Traveling with floo powder",
+"Catching the snitch",
+"Using accio to summon",
+"Unlocking with alohomora",
+"Marauding",
+"Sending a howler",
+"Banishing boggarts"
+```
+
+</details>
 
 
 ### Heist Movie (64)
@@ -2275,6 +4377,78 @@ Light weight, baby — gym-bro hype for when Claude is locked in and chasing gai
 | Riding into the sunset |
 | Delaying retirement |
 | Doing one last job |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Assembling the crew",
+"Scouting talent",
+"Calling in favors",
+"Planning the score",
+"Casing the joint",
+"Unrolling the blueprints",
+"Memorizing the floorplan",
+"Rehearsing the plan",
+"Rehearsing the alibi",
+"Building a cover",
+"Charming the mark",
+"Gliding through the gala",
+"Blending into the crowd",
+"Faking an accent",
+"Tailoring the tuxedo",
+"Borrowing a badge",
+"Forging access",
+"Bribing the guard",
+"Distracting the guard",
+"Briefing the insider",
+"Syncing watches",
+"Looping the cameras",
+"Jamming the signal",
+"Silencing the alarm",
+"Evading the sensors",
+"Dodging lasers",
+"Crawling through the ducts",
+"Rappelling from the roof",
+"Descending through the skylight",
+"Boring the tunnel",
+"Cutting the glass",
+"Cutting the wire",
+"Splicing cables",
+"Melting the hinges",
+"Bypassing the keypad",
+"Picking the lock",
+"Tumbling the pins",
+"Listening for the tumblers",
+"Spinning the dial",
+"Guessing the combination",
+"Locating the vault",
+"Drilling the vault",
+"Palming the diamond",
+"Switching the bags",
+"Deploying the decoy",
+"Picking pockets",
+"Bagging the loot",
+"Posting a lookout",
+"Waiting for the signal",
+"Improvising an exit",
+"Mapping the escape",
+"Idling the van",
+"Driving the getaway car",
+"Weaving through traffic",
+"Shaking the tail",
+"Avoiding the heat",
+"Fencing the loot",
+"Splitting the take",
+"Anticipating the betrayal",
+"Unveiling the twist",
+"Burying the grudge",
+"Riding into the sunset",
+"Delaying retirement",
+"Doing one last job"
+```
+
+</details>
 
 
 ### Heist Movie Phrases (74)
@@ -2358,6 +4532,88 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 | Drinking margaritas on a beach with no extradition |
 | Walking away before the soundtrack finishes |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Assembling specialists with suspiciously complementary résumés",
+"Convincing the retired wheelman to drive again",
+"Explaining the plan over the blueprints one more time",
+"Explaining the impossible plan using sugar packets",
+"Rehearsing Plan B before Plan A exists",
+"Insisting this job is different from the last one",
+"Answering one last job's extremely persuasive voicemail",
+"Casing the lobby while admiring the marble",
+"Memorizing the patrol routes of the night guards",
+"Realizing the security grid resets every seven minutes",
+"Synchronizing watches for the third time",
+"Rehearsing the vault routine in an empty warehouse",
+"Practicing the casual walk past security",
+"Wearing tuxedos because stealth has standards",
+"Blending into the charity gala without a ripple",
+"Pretending to be the fire inspector",
+"Pretending to be a wealthy foreign oil baron",
+"Borrowing a badge with impeccable confidence",
+"Flirting with the mark to clone their keycard",
+"Noticing the mark's little tell a beat late",
+"Trusting the forger's paperwork under bright lights",
+"Nodding to the inside man across the casino",
+"Trusting the inside man exactly this much",
+"Distracting the manager with complimentary champagne",
+"Waiting for the guard's scheduled sandwich",
+"Cutting the power to the entire city block",
+"Looping security footage from a quieter afternoon",
+"Riding the service elevator like we own it",
+"Entering through the needlessly dramatic air duct",
+"Hanging from the ceiling by a single wire",
+"Spraying aerosol to reveal the invisible laser beams",
+"Dodging laser grids in formal wear",
+"Crossing the pressure floor in careful socks",
+"Drilling through three feet of reinforced titanium",
+"Listening to vault tumblers like avant-garde jazz",
+"Spinning the dial with cinematic patience",
+"Bypassing the biometric scanner with a gummy bear",
+"Cutting the red wire and hoping",
+"Hearing the scanner chatter start to climb",
+"Watching the vault door ease open at last",
+"Finding another vault behind the expected vault",
+"Replacing the priceless artifact with a cheap replica",
+"Moving the decoy to its decoy position",
+"Passing the bags through the laundry chute",
+"Leaving a playing card at the scene",
+"Blaming the new guy for tripping the alarm",
+"Rolling out clean before the sprinklers wake up",
+"Waiting for the garbage truck to block the alley",
+"Keeping the engine running outside the bank",
+"Parking the van exactly where the blueprint promised",
+"Adjusting the rear-view mirror before peeling out",
+"Synchronizing the traffic lights for a clean getaway",
+"Loading three tiny getaway cars very efficiently",
+"Driving a compact car down a flight of stairs",
+"Driving normally while everyone looks suspicious",
+"Losing the tail beside a convenient parade",
+"Smirking at the detective from a departing train",
+"Discussing professional standards during an intense diner meeting",
+"Meeting the fence in a poorly lit parking garage",
+"Opening the van doors to reveal the missing gold",
+"Realizing the duffel bags are full of phonebooks",
+"Discovering the diamonds were merely decorative",
+"Arguing about the split before the job is done",
+"Splitting the take with aggressively precise arithmetic",
+"Noticing someone revised the betrayal schedule",
+"Pretending the double-cross was fully anticipated",
+"Revealing you were playing them the entire time",
+"Revealing the backup plan inside the backup plan",
+"Peeling off a very realistic latex facial appliance",
+"Realizing the real score was friendship, briefly",
+"Returning the borrowed suits mostly undamaged",
+"Toasting the score before the final head-count",
+"Drinking margaritas on a beach with no extradition",
+"Walking away before the soundtrack finishes"
+```
+
+</details>
+
 
 ### Hustle Culture (64)
 
@@ -2427,6 +4683,78 @@ The crew is in position — one last job, ordered loosely as the caper unfolds, 
 | Stacking wealth |
 | Wholesaling |
 | Winning |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Joining the 5am club",
+"Growing the audience",
+"Automating",
+"Chasing the bag",
+"Securing the bag",
+"Benchmarking",
+"Biohacking",
+"Closing",
+"Cold-calling",
+"Cold-emailing",
+"Cold-plunging",
+"Compounding",
+"Creating content",
+"Cross-selling",
+"Day-trading",
+"Closing deals",
+"Building deal flow",
+"Delegating",
+"Diversifying",
+"Dominating",
+"Hacking dopamine",
+"Dropshipping",
+"Building the empire",
+"Raising equity",
+"Planning the exit",
+"Failing-forward",
+"Forecasting",
+"Founder-moding",
+"Building the funnel",
+"Gamifying",
+"Habit-stacking",
+"Intermittent-fasting",
+"Chasing KPIs",
+"Generating leads",
+"Masterminding",
+"Maximizing",
+"Monetizing",
+"Monk-moding",
+"Outhustling",
+"Outsourcing",
+"Outworking",
+"Overachieving",
+"Overdelivering",
+"Stacking paper",
+"Pitching",
+"Podcasting",
+"Prospecting",
+"Quantifying",
+"Rebranding",
+"Repurposing",
+"Rise-and-grinding",
+"Sidehustling",
+"Sigma-moding",
+"Skipping sleep",
+"Sleepmaxxing",
+"Sprinting",
+"Strategizing",
+"Timeboxing",
+"Chasing unicorns",
+"Upselling",
+"Making a vision board",
+"Stacking wealth",
+"Wholesaling",
+"Winning"
+```
+
+</details>
 
 
 ### Hustle Culture Phrases (67)
@@ -2503,6 +4831,81 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 | Waking up at 4:59am to beat the 5am club |
 | Writing "passive income" on a sticky note and calling it strategy |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"A/B testing my personality for better engagement",
+"Adding \"10x\" to the plan and subtracting all nuance",
+"Adding \"Thought Leader\" to my LinkedIn bio",
+"Asking my network if they agree",
+"Building a funnel for something that doesn't need a funnel",
+"Building a personal brand strong enough to bench press accountability",
+"Building a startup around a problem I invented yesterday",
+"Building empires between the snooze button and sunrise",
+"Building in public so everyone can watch the grind unfold",
+"Chasing that seven-figure exit during REM sleep",
+"Cold-emailing at dawn because the early founder gets the meeting",
+"Converting cold plunges into content and content into cash",
+"Converting human emotions into KPIs for alignment",
+"Drafting a LinkedIn post that begins with \"No one talks about this\"",
+"Drinking bulletproof coffee out of a Yeti tumbler",
+"Entering monk mode for the next 90 days",
+"Explaining Web3 to my barista",
+"Filming a day-in-the-life TikTok",
+"Habit-stacking until my calendar looks like a pitch deck",
+"Hacking my circadian rhythm",
+"Ignoring my hobbies to build generational wealth",
+"Launching a newsletter about launching newsletters",
+"Listening to a mindset podcast in the shower",
+"Making a vision board and calling it product-market fit",
+"Making sure every minute is either content or conversion",
+"Maximizing my dopamine baseline",
+"Monetizing my morning routine one sponsored post at a time",
+"Negotiating with my calendar like it's an investor term sheet",
+"Outsourcing my sleep to a virtual assistant",
+"Outsourcing my weaknesses and invoicing my strengths",
+"Outworking everyone in the room",
+"Pitching a side hustle to my friends like it's a seed round",
+"Planning the IPO of my personal brand before the first meeting",
+"Posting LinkedIn humblebrags while the rest of the world sleeps",
+"Posting a selfie with an unrelated motivational quote",
+"Practicing my alpha handshake",
+"Putting \"serial entrepreneur\" in my bio after one Etsy sale",
+"Reading a motivational quote and calling it due diligence",
+"Reading one book a day on 3x speed",
+"Rebranding stress as \"founder energy\"",
+"Reminding everyone that sleep is for the weak",
+"Renting a Lambo for the mastermind thumbnail",
+"Scheduling \"deep work\" so deeply it needs its own calendar",
+"Scheduling a mastermind to mastermind my scheduling",
+"Selling a course on how to sell courses",
+"Sending a \"quick follow-up\" that is neither quick nor a follow-up",
+"Setting up a Delaware C-Corp",
+"Stacking passive income streams like it's a competitive sport",
+"Stacking wins so high the algorithm has no choice but to notice",
+"Starting my seventh side hustle",
+"Taking a 3am ice bath for maximum ROI",
+"Telling people I have the same 24 hours as Beyonce",
+"Tracking my steps so I can optimize my hustle per mile",
+"Treating every conversation like a sales pitch",
+"Treating sleep like a bug in the productivity codebase",
+"Treating sleep like a negotiable line item in the budget",
+"Turning \"busy\" into a personality trait with measurable outcomes",
+"Turning \"just a hobby\" into \"just a revenue stream\"",
+"Turning a coffee into a content pillar",
+"Turning a hobby into a revenue stream",
+"Turning every failure into a case study for the personal brand",
+"Turning imposter syndrome into premium newsletter content",
+"Turning my life into a case study for future me",
+"Turning side projects into keynote material",
+"Typing \"Agree?\" in the comment section",
+"Waking up at 4:59am to beat the 5am club",
+"Writing \"passive income\" on a sticky note and calling it strategy"
+```
+
+</details>
+
 
 ### James Bond (10)
 
@@ -2518,6 +4921,24 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 | Dropping one liners |
 | Playing Casino Royale |
 | Flirting with Moneypenny |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Shaking, not stirring",
+"Tinkering in Q Branch",
+"Driving the Aston Martin",
+"Introducing 007",
+"Goldfingering",
+"Bonding",
+"Strutting in a tuxedo",
+"Dropping one liners",
+"Playing Casino Royale",
+"Flirting with Moneypenny"
+```
+
+</details>
 
 
 ### Jungle / Rainforest (11)
@@ -2536,6 +4957,25 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 | Rafting the river |
 | Blooming like an orchid |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Swinging on vines",
+"Hopping through the canopy",
+"Calling like a toucan",
+"Chattering like a monkey",
+"Stalking like a jaguar",
+"Dodging anacondas",
+"Chorusing with the frogs",
+"Plunging down the waterfall",
+"Fluttering like a butterfly",
+"Rafting the river",
+"Blooming like an orchid"
+```
+
+</details>
+
 
 ### Jurassic Park (10)
 
@@ -2551,6 +4991,24 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 | Sparing no expense |
 | Hunting in a raptor pack |
 | Escaping the island |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Stalking raptors",
+"Life finding a way",
+"Roaring like a T-Rex",
+"Cloning dinos",
+"Pondering chaos theory",
+"Outsmarting raptors",
+"Extracting DNA from amber",
+"Sparing no expense",
+"Hunting in a raptor pack",
+"Escaping the island"
+```
+
+</details>
 
 
 ### Kaomoji (185)
@@ -2743,6 +5201,199 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 | `ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚` |
 | `( ˘ ³˘)─━☆` |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"(｡◕‿◕｡)",
+"(◕‿◕)",
+"(◕‿◕✿)",
+"(◕ᴗ◕✿)",
+"(✿◠‿◠)",
+"(* ^ ω ^)",
+"(o^▽^o)",
+"( ´ ▽ ` )",
+"(＾▽＾)",
+"ヾ(＾∇＾)",
+"(≧◡≦)",
+"(*≧ω≦*)",
+"(´∀｀)",
+"(￣▽￣)",
+"(*´▽｀*)",
+"( ´ ▽ ` )b",
+"(・∀・)",
+"(*´ω｀*)",
+"( ´ ω ` )",
+"(｡･ω･｡)",
+"(・ω・)",
+"(´｡• ᵕ •｡`) ♡",
+"( ´ ꒳ ` )",
+"( ˶ˆ꒳ˆ˵ )",
+"(^人^)",
+"♪(´ε` )",
+"＼(＾▽＾)／",
+"(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+"☆*:.｡.o(≧▽≦)o.｡.:*☆",
+"٩(◕‿◕｡)۶",
+"٩(๑❛ᴗ❛๑)۶",
+"ヽ(>∀<☆)☆",
+"(★ω★)",
+"( ﾟヮﾟ)",
+"( ˘⌣˘)♡",
+"( ˘⌣˘)♡(˘⌣˘ )",
+"(っ˘з(˘⌣˘ )",
+"(♡-_-♡)",
+"(❤ω❤)",
+"(灬º‿º灬)♡",
+"( ˘ ³˘)♥",
+"(✿ ♥‿♥)",
+"(♡μ_μ)",
+"( ´∀｀)ノ～ ♡",
+"(*♡∀♡)",
+"(｡♥‿♥｡)",
+"( ˘͈ ᵕ ˘͈ )",
+"(ღ˘⌣˘ღ)",
+"( *¯ ³¯*)",
+"(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+"(｡・//ε//・｡)",
+"(◡‿◡ *)",
+"(*/ω＼*)",
+"(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+"(¬‿¬)",
+"( ͡° ͜ʖ ͡°)",
+"(˵ ͡° ͜ʖ ͡°˵)",
+"( ͡~ ͜ʖ ͡°)",
+"( ° ͜ʖ °)",
+"( ಠ ͜ʖ ಠ)",
+"( ‾ʖ̫‾)",
+"(⌐■_■)",
+"( •_•)>⌐■-■",
+"(￣y▽￣)╭",
+"( ˘ω˘ )",
+"( ﾟ,_ゝﾟ)",
+"(•̀ᴗ•́)و",
+"( •̀ω•́ )",
+"(￣ω￣)",
+"(´ー｀)",
+"(っ ͡° ͜ʖ ͡°ς)",
+"(◔_◔)",
+"(¬_¬)",
+"ಠ_ಠ",
+"◉_◉",
+"(⊙_⊙)",
+"(´･_･`)",
+"(・_・ヾ",
+"(・-・*)?",
+"(￣～￣;)",
+"(ﾟДﾟ? )",
+"( ˙-˙ )",
+"(・_・;)",
+"(눈_눈)",
+"(｡•́︿•̀｡)",
+"(╥﹏╥)",
+"(T_T)",
+"(｡╯︵╰｡)",
+"(っ˘̩╭╮˘̩)っ",
+"( ; ω ; )",
+"( ; _ ; )",
+"(ノД`)",
+"(つω`｡)",
+"(个_个)",
+"(｡T ω T｡)",
+"( ; ᯅ ; )",
+"(｡>﹏<｡)",
+"(ノ_<。)",
+"｡ﾟ･ (>﹏<) ･ﾟ｡",
+"( ﾟஇ‸இﾟ)",
+"(╬ Ò﹏Ó)",
+"(ノ°益°)ノ",
+"(｀皿´)",
+"(｀Д´)",
+"( ╬◣ 益 ◢)",
+"( ⋋_⋌ )",
+"(҂｀з´)",
+"(งᵒ̌皿ᵒ̌)ง",
+"ψ(｀∇´)ψ",
+"(°ㅂ°╬)",
+"(=｀ω´=)",
+"¯\\_(ツ)_/¯",
+"¯\\_(⊙_ʖ⊙)_/¯",
+"┐(￣ヮ￣)┌",
+"┐(︶▽︶)┌",
+"╮(￣_￣)╭",
+"(╯°□°)╯︵ ┻━┻",
+"(ノಠ益ಠ)ノ彡┻━┻",
+"(/¯ ◡ ‿ ◡)/¯ ~ ┻━┻",
+"┬─┬ノ( º _ ºノ)",
+"(ง •̀_•́)ง",
+"(づ｡◕‿‿◕｡)づ",
+"(っಠ‿ಠ)っ",
+"(☞ﾟヮﾟ)☞",
+"( ｀д´)b",
+"( ﾒ｀ω´)ノ",
+"(/ ﾟДﾟ)/",
+"( ﾟДﾟ)ﾉ",
+"( ꒪Д꒪)ノ",
+"( ´ ▽ ` )ﾉ",
+"(*ﾟ▽ﾟ)ﾉ",
+"(・∀・)ノ",
+"( ﾟヮﾟ)/",
+"(=^･ω･^=)",
+"(=^･ｪ･^=)",
+"(=^･ｪ･^=))ﾉ彡☆",
+"ฅ^•ﻌ•^ฅ",
+"ʕ •ᴥ•ʔ",
+"ʕ ᵔᴥᵔ ʔ",
+"₍ᐢ. ̫.ᐢ₎",
+"∪･ω･∪",
+"(￣(ｴ)￣)",
+"(・Θ・)",
+"(￣(00)￣)",
+"(°ロ°)",
+"(°o°)",
+"(o_O)",
+"(O_O;)",
+"(゜Д゜;)",
+"Σ(ﾟДﾟ)",
+"(ﾟoﾟ〃)",
+"(∪｡∪)｡｡｡zzZ",
+"(-_-) zzz",
+"( ु⁎ᴗ_ᴗ⁎)ु.｡oO",
+"(´-ω-｀)",
+"(￣o￣) zzZZ",
+"(×_×)",
+"(x_x)⌒☆",
+"(×﹏×)",
+"( +_+)",
+"_:(´ཀ`」 ∠):_",
+"( _ _ )",
+"_(:3 」∠)_",
+"( ˘▽˘)っ",
+"( ˘▽˘)っ♨",
+"(*^◇^)_旦",
+"( 'ч' )",
+"( ˘з˘)旦",
+"(*＾-＾)旦",
+"( ﾟДﾟ)⊃旦",
+"|ω・)",
+"|ω･)ﾉ",
+"|д･)",
+"|･ω･)",
+"|ू•ᴗ•｡)",
+"|･д･｡)",
+"┬┴┬┴┤(･_├┬┴┬┴",
+"┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
+"┬┴┬┴┤･ω･)ﾉ",
+"*:ﾟ*｡⋆ฺ(*´◡`)",
+"(੭ˊᵕˋ)੭.*･｡ﾟ",
+"☆⌒(> _ <)",
+"(ﾉ>ω<)ﾉ :｡･:*:･ﾟ'★,｡･:*:･ﾟ'☆",
+"ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚",
+"( ˘ ³˘)─━☆"
+```
+
+</details>
+
 
 ### Kitchen Nightmares (80)
 
@@ -2831,6 +5482,94 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Lint limp lasagne |
 | Fork fiasco frozen |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"It's raw... the data",
+"Where's the error sauce",
+"Finally, some good clean code",
+"This code is frozen, not fresh",
+"Shut it down, shut it all down",
+"You call this a function",
+"The deployment is burnt to a crisp",
+"Get out of my kitchen terminal",
+"Two deploys, one pan",
+"The code has no seasoning",
+"Beautifully plated, zero flavor",
+"Back to basics, back to main",
+"That merge was undercooked",
+"An idiot sandwich of dependencies",
+"Taste it before you ship it",
+"The pipeline is stone cold",
+"This repo is a dumpster fire",
+"Lamb sauce not found, 404",
+"One star, would not deploy again",
+"Absolute donkey of an algorithm",
+"What are you even deploying?",
+"Too many cooks in the code",
+"Cross-contamination in the branches",
+"Microwaving that pull request",
+"Prepping the database for disaster",
+"Service! The server is down!",
+"This module is absolute rubbish!",
+"Compile it properly, you muppet!",
+"Out of the frying pan, into production",
+"Following a broken recipe for success",
+"Expired dependencies in the package",
+"The refactor heat is on",
+"What a mess of a codebase!",
+"I'm walking out on this repository",
+"The documentation is bone dry",
+"Need a fresh install, not this muck",
+"Throw it in the code sink!",
+"You've ruined the entire API!",
+"Pull the fire alarm on this feature",
+"Ready for deployment, chef?",
+"Reheating last night's commits",
+"Plating the patch with precision",
+"Whisking tests until they pass",
+"Simmering the build on low heat",
+"Chopping legacy code into bits",
+"Deglazing logs for real errors",
+"Refactoring like a proper brigade",
+"Proofing the release in staging",
+"Scraping the pan of tech debt",
+"Garnishing the UI with sanity",
+"Basting the API with retries",
+"Cleaning the grease off the stacktrace",
+"Portioning memory before it spills",
+"Sending the bugs back to the pass",
+"Seasoning the config to taste",
+"Turning down the heat on prod",
+"Sharpening knives and lint rules",
+"Tossing spaghetti code in the bin",
+"Flambéing flaky tests into ash",
+"Running the kitchen, CI on time",
+"Infinite loop linguine",
+"Memory leak meatloaf",
+"Null nightmare entrée",
+"Off-by-one onions",
+"Janky JavaScript jam",
+"Lazy loading lettuce",
+"Handler hell heating",
+"Feature flag fumble",
+"Stack smash stew",
+"Thread thrashing tripe",
+"Runtime rage rising",
+"Query quicker, donut",
+"Schema searing sins",
+"Prop parsing putrid",
+"State slicing shoddy",
+"Hook horror show",
+"Cache congealed cold",
+"Build bash blender",
+"Lint limp lasagne",
+"Fork fiasco frozen"
+```
+
+</details>
+
 
 ### Knitting / Textile (11)
 
@@ -2847,6 +5586,25 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Winding the bobbin |
 | Knitting a swatch |
 | Reading the pattern |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Crocheting",
+"Weaving on the loom",
+"Yarn-bombing",
+"Purling",
+"Casting-on",
+"Twisting cables",
+"Felting",
+"Quilting",
+"Winding the bobbin",
+"Knitting a swatch",
+"Reading the pattern"
+```
+
+</details>
 
 
 ### Letterkenny (74)
@@ -2927,6 +5685,88 @@ Cooking meets code rage — Gordon Ramsay energy in every spinner tick.
 | Laneway-standing |
 | Hero-avoiding |
 | Ostrich-farming |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Choring",
+"Pitter-pattering",
+"Hay-baling",
+"Ten-fouring",
+"Figuring",
+"Alleging",
+"Dart-ripping",
+"Puppers-cracking",
+"Whisky-sipping",
+"Soft-yessing",
+"Hard-noing",
+"Back-to-backing",
+"Super-softing",
+"Dance-fighting",
+"Sister-guarding",
+"Produce-stacking",
+"Stand-tending",
+"Porch-sitting",
+"Skidding",
+"Fellowshipping",
+"Jiving",
+"Texas-sizing",
+"Barn-working",
+"Donnybrooking",
+"Chucking knucks",
+"Shirt-tucking",
+"Sleeve-rolling",
+"Stone-picking",
+"Raving",
+"Preaching",
+"Trash-can-kicking",
+"Leg-daying",
+"Scrap-planning",
+"Laneway-defending",
+"Goose-protecting",
+"Mumbling",
+"Barn-building",
+"Scrapping",
+"Appreciating",
+"Harvesting",
+"Pitchforking",
+"Glaring",
+"Bantering",
+"Yielding",
+"Ostrich-alleging",
+"Beat-dropping",
+"Degen-deflecting",
+"Birthday-softening",
+"To-be-fairing",
+"Squaring up",
+"Tarping",
+"Fence-mending",
+"Tractoring",
+"Plaid-wearing",
+"Bale-stacking",
+"Bale-chucking",
+"Toasting",
+"Duking it out",
+"Hard-passing",
+"Plowing",
+"Seeding",
+"Mowing",
+"Tilling",
+"Buying rounds",
+"Spelling",
+"Puck-fetching",
+"Dart-bumming",
+"Tarp-tugging",
+"Shed-sitting",
+"Fighting",
+"Twenty-percenting",
+"Laneway-standing",
+"Hero-avoiding",
+"Ostrich-farming"
+```
+
+</details>
 
 
 ### Letterkenny Phrases (92)
@@ -3028,6 +5868,106 @@ Hicks, skids, hockey players, and Christians — pitter patter, let's get at 'er
 | Wondering what Wayne would do |
 | Being the toughest guy in Letterkenny |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pitter patter, let's get at 'er",
+"Getting at 'er",
+"How are ya now?",
+"Good 'n you? Not so bad",
+"Saying \"to be fair\" in unison",
+"Giving a Texas-sized 10-4",
+"Figuring it out",
+"Allegedly",
+"Delivering a hard no",
+"Offering a soft yes",
+"Taking about 20% off there",
+"Appreciating that about you",
+"Asking what you appreciates about me",
+"Wheel, snipe, celly, boys",
+"Doing it ferda boys",
+"Telling you not to be a hero",
+"Getting yer hands off my sister",
+"Knowing yer gonna get it",
+"Having a great day for hay",
+"Planning a super soft birthday",
+"Winning back to back to back",
+"Asking if you wanna go",
+"Ripping a dart on the porch",
+"Yelling \"Bonnie McMurray!\"",
+"Fighting at the Ag Hall dance",
+"Allegedly chasing a sick ostrich",
+"Kicking a trash can like Coach",
+"Protecting the majestic Canada goose",
+"Raving with the skids",
+"Buying darts from Tanis",
+"Dodging degens from up country",
+"Sitting at the produce stand",
+"Pouring some Gus N' Bru",
+"Popping a cold Puppers",
+"Cracking Puppers by the case",
+"Tucking in a plaid shirt",
+"Grabbing a drink at MoDean's",
+"Decoding McMurray's mumbling",
+"Avoiding Jivin' Pete today",
+"Keeping an eye on Dierks",
+"Skipping leg day with the boys",
+"Listening to Pastor Glen preach",
+"Watching Devon and Roald dance",
+"Dodging Gail at the bar",
+"Defending the end of the laneway",
+"Picking stones on a Sunday",
+"Choring with Wayne and Dary",
+"Running Reilly and Jonesy's drill",
+"Dodging Shoresy's latest chirp",
+"Stacking produce at Wayne's stand",
+"Squaring up at the end of the laneway",
+"Chucking knucks with the degens",
+"Rolling up the sleeves",
+"Throwing hay bales till dark",
+"Telling Squirrely Dan to take 20% off",
+"Listening to Squirrely Dan's theories",
+"Laughing like Katy",
+"Saying \"ya, so\" like Dary",
+"Explaining the plan to Dary twice",
+"Watching Stewart and the skids scheme",
+"Making a deal with Tanis",
+"Two-stepping at the Ag Hall dance",
+"Cheersing with Gus N' Bru",
+"Giving it a hard pass",
+"Waiting on the Ginger and Boots",
+"Praying with Glen",
+"Playing for the Letterkenny Irish",
+"Getting the puck, Jared",
+"Spitting before the scrap",
+"Toasting the toughest guy in Letterkenny",
+"Reminding you there's 5,000 people in Letterkenny",
+"Dealing with their problems",
+"Choring till the cows come home",
+"Yelling \"Ferda!\" from the bench",
+"Pulling a Wayne stare",
+"Choring around the farm",
+"Cataloguing Letterkenny's problems",
+"Tending the produce stand in the rain",
+"Sitting on the porch with a Puppers",
+"Not fighting on a Sunday",
+"Learning big words for the spelling bee",
+"Calling everything a Texas-sized 10-4",
+"Signing off with a \"figure it out\"",
+"Asking Dary about the ostriches",
+"Keeping the skids off the produce stand",
+"Locking down the hard no",
+"Doing a super soft birthday, respectfully",
+"Stopping the fight at the dance",
+"Recruiting the hicks, skids, and hockey players",
+"Answering \"not so bad\" every single time",
+"Wondering what Wayne would do",
+"Being the toughest guy in Letterkenny"
+```
+
+</details>
+
 
 ### LinkedIn-Speak (45)
 
@@ -3078,6 +6018,59 @@ Hicks, skids, hockey players, and Christians — pitter patter, let's get at 'er
 | Prioritizing |
 | Pivoting |
 | Optimizing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Synergizing",
+"Circling-back",
+"Leveraging",
+"Operationalizing",
+"Future-proofing",
+"Doubling-down",
+"Moving-the-needle",
+"Deep-diving",
+"Touching-base",
+"Value-adding",
+"Growth-hacking",
+"Hustling",
+"Grinding",
+"Scaling",
+"Disrupting",
+"Streamlining",
+"Executing",
+"Amplifying",
+"Elevating",
+"Checking bandwidth",
+"Boiling-the-ocean",
+"10x-ing",
+"Paradigm-shifting",
+"Taking-it-offline",
+"Unpacking",
+"Building-in-public",
+"Maximizing-ROI",
+"Seeking synergy",
+"Right-sizing",
+"Aligning",
+"Roadmapping",
+"Picking low-hanging fruit",
+"Delivering-impact",
+"Driving-outcomes",
+"Recalibrating",
+"Thought-leading",
+"Onboarding",
+"Upskilling",
+"Reskilling",
+"Empowering",
+"Networking",
+"Socializing",
+"Prioritizing",
+"Pivoting",
+"Optimizing"
+```
+
+</details>
 
 
 ### LinkedIn-Speak Phrases (45)
@@ -3132,6 +6125,59 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Quick win, big impact. |
 | Stop boiling the ocean. |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Humbled and honored to announce…",
+"I'm thrilled to share…",
+"Agree?",
+"Thoughts?",
+"Let that sink in.",
+"Read that again.",
+"Here's why that matters 🧵",
+"Here are 3 key takeaways 👇",
+"Unpopular opinion:",
+"Hot take:",
+"POV:",
+"This 👏 is 👏 everything.",
+"Failure taught me everything.",
+"Rejection is redirection.",
+"Your network is your net worth.",
+"Culture eats strategy for breakfast.",
+"It's not a sprint, it's a marathon.",
+"Consistency beats talent.",
+"Grateful for this incredible journey.",
+"We're hiring!",
+"DMs are open.",
+"Let's connect.",
+"Tag someone who needs to see this.",
+"Curious to hear your thoughts.",
+"Drop a \"interested\" below.",
+"Link in the comments!",
+"Stop scrolling and read this.",
+"What's your \"why\"?",
+"If you're not doing this, you're already behind.",
+"Not enough people are talking about this.",
+"The lesson I learned the hard way…",
+"I woke up at 4 AM for this.",
+"I had to get uncomfortable to level up.",
+"Manifesting this energy.",
+"Grindset activated.",
+"Founder mode engaged.",
+"Building in public.",
+"Thought leadership loading.",
+"Humble brag incoming.",
+"Growth unlocked.",
+"Low-hanging fruit secured.",
+"Big news: we're scaling.",
+"To the recruiter who rejected me:",
+"Quick win, big impact.",
+"Stop boiling the ocean."
+```
+
+</details>
+
 
 ### Lord of the Rings (13)
 
@@ -3151,6 +6197,27 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Muttering like Treebeard |
 | Frolicking in the Shire |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Second-breakfasting",
+"Bearing the ring",
+"Holding an Entmoot",
+"Riding Shadowfax",
+"Peeking into the palantír",
+"Munching lembas",
+"Baiting the Balrog",
+"Hoarding the precious",
+"Mining mithril",
+"Lighting Gandalf's fireworks",
+"Screeching like a Nazgûl",
+"Muttering like Treebeard",
+"Frolicking in the Shire"
+```
+
+</details>
+
 
 ### Mario / Nintendo (11)
 
@@ -3167,6 +6234,25 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Grabbing a 1-up |
 | Riding Yoshi |
 | Tossing Koopa shells |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Mushrooming",
+"Warping through pipes",
+"Grabbing a Star",
+"Stomping Goombas",
+"Collecting coins",
+"Shooting fireballs",
+"Rescuing the princess",
+"Racing karts",
+"Grabbing a 1-up",
+"Riding Yoshi",
+"Tossing Koopa shells"
+```
+
+</details>
 
 
 ### Marvel / MCU (13)
@@ -3187,6 +6273,27 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Rooting like Groot |
 | Throwing the shield |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Hulk-smashing",
+"Chanting Wakanda Forever",
+"Assembling",
+"Web-slinging",
+"Snapping like Thanos",
+"Swinging Mjölnir",
+"Wielding the Infinity Stones",
+"Powering up the arc reactor",
+"Forging vibranium",
+"Hopping the multiverse",
+"Crossing the Bifrost",
+"Rooting like Groot",
+"Throwing the shield"
+```
+
+</details>
+
 
 ### Mathematics (11)
 
@@ -3203,6 +6310,25 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Vectorizing |
 | Traversing graphs |
 | Differentiating |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Deriving",
+"Integrating",
+"Proving by induction",
+"Factorizing",
+"Hunting eigenvalues",
+"Zooming into fractals",
+"Fourier-transforming",
+"Multiplying matrices",
+"Vectorizing",
+"Traversing graphs",
+"Differentiating"
+```
+
+</details>
 
 
 ### The Matrix (11)
@@ -3221,6 +6347,25 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Jacking in |
 | Bending reality |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Taking the red pill",
+"Entering bullet time",
+"Glitching",
+"Bending spoons",
+"Multiplying like Agent Smith",
+"Dodging like Neo",
+"Loading kung fu",
+"Watching the code rain",
+"Denying spoons",
+"Jacking in",
+"Bending reality"
+```
+
+</details>
+
 
 ### Medieval / Knights (10)
 
@@ -3236,6 +6381,24 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Gathering at the Round Table |
 | Upholding chivalry |
 | Donning armor |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Jousting",
+"Lowering the drawbridge",
+"Slaying dragons",
+"Besieging the castle",
+"Swinging a sword",
+"Clanking in chainmail",
+"Embarking on a quest",
+"Gathering at the Round Table",
+"Upholding chivalry",
+"Donning armor"
+```
+
+</details>
 
 
 ### Meme Culture (11)
@@ -3254,6 +6417,25 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Drake-approving |
 | mOcKiNg LiKe SpOnGeBoB |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Glancing like the distracted boyfriend",
+"Sitting in fire",
+"Yeeting",
+"Posting dank memes",
+"Galaxy-braining",
+"Pressing F",
+"Watching stonks rise",
+"Calling sus in Among Us",
+"Peeling ogre layers",
+"Drake-approving",
+"mOcKiNg LiKe SpOnGeBoB"
+```
+
+</details>
+
 
 ### Minecraft (11)
 
@@ -3270,6 +6452,25 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 | Exploding beds in the Nether |
 | Exploring biomes |
 | Swinging the pickaxe |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Sneaking up like a creeper",
+"Wiring redstone",
+"Teleporting with ender pearls",
+"Placing blocks",
+"Mining diamonds",
+"Entering the Nether portal",
+"Gliding with elytra",
+"Trading with villagers",
+"Exploding beds in the Nether",
+"Exploring biomes",
+"Swinging the pickaxe"
+```
+
+</details>
 
 
 ### Mission Control / Space Launch (80)
@@ -3359,6 +6560,94 @@ Space ops drama meets software development.
 | Clearing tower for git push |
 | Igniting engines on the CI stack |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Counting down to deployment",
+"Go for launch on main",
+"We have liftoff on the build",
+"Ignition sequence start for the build",
+"Clearing the tower for release",
+"Main engine start, build igniting",
+"Pre-flight checks on dependencies",
+"Running preflight checks on PRs",
+"Fueling up the dependency tank",
+"Uploading flight plan to the repo",
+"Holding at T-minus for review",
+"Counting down to npm install",
+"All systems nominal... probably",
+"Passing through max-Q",
+"Booster separation confirmed",
+"Telemetry looks good from here",
+"Entering the deployment window",
+"Copy that, deploying payload",
+"Mission elapsed time unknown",
+"Orbit achieved, tests are green",
+"The build is in a stable orbit",
+"Entering warp speed for compilation",
+"Max Q, peak CPU usage",
+"Fairing separation, lint complete",
+"Ion thrusters, code optimizing",
+"Spinning up nav for the next sprint",
+"Computing burn vector for hotfix",
+"Houston, we have a merge conflict",
+"Houston, we have a memory leak",
+"Houston, requesting permission to push",
+"Ground control to major refactor",
+"Flight, we are go for commit",
+"Downrange tracking, logs incoming",
+"Acquiring signal from the test suite",
+"Establishing a secure comm link with the API",
+"Searching for life in the log files",
+"Uplinking PR diffs",
+"Checking comms on the API link",
+"Initiating docking sequence with upstream",
+"Rendezvous with main branch",
+"Rendezvous with the staging environment",
+"Capturing the capsule with code review",
+"Synchronizing primary and backup databases",
+"Synchronizing clocks with NTP and git",
+"Abort abort abort... never mind",
+"Go no-go for rebase",
+"Correcting trajectory with a quick rebase",
+"Performing a trajectory correction on the roadmap",
+"Aligning guidance with lint rules",
+"Activating the debug thrusters",
+"Holding attitude while cache warms up",
+"Commencing payload separation into microservices",
+"Deploying the lunar module to a new branch",
+"Staging the payload in production",
+"Cycling the airlock on feature flags",
+"Jettisoning debug logs at altitude",
+"Reentry is always the hard part",
+"Initiating a controlled descent into production",
+"Preparing for reentry, cross your fingers",
+"Deorbit burn for rollback",
+"Patching the heat shield for prod",
+"Parachute deploy, graceful degrade",
+"Touchdown on prod server",
+"Post-flight debug underway",
+"Running diagnostics on the core components",
+"Core stage, core dumps analyzed",
+"Range safety, circuit breaker",
+"Navigating the asteroid field of deprecated libraries",
+"Monitoring cabin pressure in containers",
+"Aligning the orbital parameters for the database",
+"Avionics bay, refactoring modules",
+"One small step for the codebase",
+"The eagle has merged",
+"Houston, dependency injected",
+"Go for orbital commit",
+"Engaging autopilot on the deploy script",
+"Engaging the autopilot for code review",
+"Polling for the next launch window",
+"Clearing tower for git push",
+"Igniting engines on the CI stack"
+```
+
+</details>
+
 
 ### Monty Python (11)
 
@@ -3375,6 +6664,25 @@ Space ops drama meets software development.
 | Fighting the Black Knight |
 | Singing the Lumberjack Song |
 | Catapulting cows |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Saying Ni",
+"Seeking the Holy Grail",
+"Spam, spam, spamming",
+"Silly-walking",
+"Pining for the fjords",
+"Clopping coconuts",
+"Taunting like a Frenchman",
+"Not expecting the Spanish Inquisition",
+"Fighting the Black Knight",
+"Singing the Lumberjack Song",
+"Catapulting cows"
+```
+
+</details>
 
 
 ### Motivational Poster (80)
@@ -3464,6 +6772,94 @@ Inspirational quotes that went through a code review — slightly off, deeply de
 | Small steps; large diffs are still steps |
 | Progress is one more green checkmark |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Believe in your build pipeline",
+"Every deploy is a leap of faith",
+"You miss 100% of the commits you don't push",
+"Dream big, compile bigger",
+"Shoot for the moon, land in a stack trace",
+"The journey of a thousand lines begins with a single commit",
+"Be the senior dev you wish you had",
+"Fall seven times, rebase eight",
+"What doesn't kill your build makes it stronger",
+"Today is a good day to ship",
+"Stars can't shine without a little downtime",
+"Your potential is as unlimited as your recursion",
+"Courage is pushing to main on a Friday",
+"Success is just failure that hasn't crashed yet",
+"The best time to refactor was yesterday",
+"Keep calm and clear the cache",
+"Fortune favors the bold deploy",
+"Impossible is just an untested edge case",
+"Every expert was once a junior dev",
+"Growth happens outside your comfort zone... and in production",
+"Grit your teeth and git push",
+"Bugs don't quit, neither do you",
+"Deploy today, celebrate tomorrow",
+"Refactor your reality",
+"Merge conflicts conquer all",
+"Test like you mean it",
+"Cache in the wins",
+"Lint your legacy",
+"Branch out boldly",
+"Squash fears with commits",
+"Pipeline to perfection",
+"Dockerize determination",
+"Kubernetes conquers chaos",
+"Fail fast, learn faster",
+"Code clean, sleep sound",
+"PRs pave paradise",
+"Hotfixes heal all",
+"Rollouts rock worlds",
+"Scale to success",
+"Cloudward bound",
+"Never give up on the debugger",
+"Embrace the merge conflict",
+"Find your why in the logs",
+"Success is a well-documented API",
+"Love your code, but test it harder",
+"Don't stop until the linter is green",
+"The future belongs to clean code",
+"Small commits, big features",
+"Your code is stronger than its worst bug",
+"If you can dream it, containerize it",
+"Every push is a new beginning",
+"Be the change in the codebase",
+"Progress over perfection, pass all tests",
+"Learn from production, live for refactor",
+"Difficult merges lead to stable features",
+"Inspire with clean commit history",
+"Work smarter, write more unit tests",
+"Believe you can fix it",
+"Keep your dependencies fresh",
+"Prevent bugs with more tests",
+"Keep your chin up and your logs verbose",
+"Greatness begins at the first TODO",
+"Be fearless; your tests have your back",
+"Trust the process... then add retries",
+"Stay humble; even prod is just staging",
+"When in doubt, document like it's a feature",
+"Embrace uncertainty; ship behind a flag",
+"Let your dreams be typed and your errors caught",
+"Success is 99% persistence, 1% pagination",
+"Your future self will thank your commit messages",
+"Aim high; settle for reproducible builds",
+"Make today count; increment the version",
+"Turn setbacks into postmortems with action items",
+"Be the light that lints the darkness",
+"Keep going; your breakpoint is near",
+"Dare to be different; rename that variable",
+"Hope is not a strategy; neither is hardcoding",
+"Believe in yourself like CI believes in failing",
+"Small steps; large diffs are still steps",
+"Progress is one more green checkmark"
+```
+
+</details>
+
 
 ### Museum Tour Guide (74)
 
@@ -3546,6 +6942,88 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | This interface was added to appease auditors |
 | Please ignore the dust: it's just warnings |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"And here we see early jQuery, circa 2012",
+"Notice the elegant spaghetti of this era",
+"Please do not touch the deprecated methods",
+"This artifact dates back to the first sprint",
+"Observe the fossilized TODO comments",
+"A rare example of pre-TypeScript civilization",
+"The original author has been lost to time",
+"Carbon dating suggests Node 0.12",
+"Note the hand-carved SQL queries",
+"This was once considered best practice",
+"Remarkably, this still passes all tests",
+"Scholars debate the intent of this regex",
+"A masterwork of the copy-paste school",
+"No one alive remembers why this works",
+"From the classical period of PHP 4",
+"Restored from a backup of a backup",
+"The last known use of GOTO in the wild",
+"Visitors often weep at this callback hell",
+"Preserved exactly as the intern left it",
+"This comment has outlived three frameworks",
+"Behold the venerable document.write relic",
+"This polyfill spans the browser wars",
+"A specimen of infinite loop mastery",
+"Admire the global namespace conquest",
+"From the dawn of prototype pollution",
+"Note the exquisite magic number mosaic",
+"This hackery defies all refactoring",
+"Witness the ternary operator tower",
+"Preserved in git: the great merge conflict",
+"Carbon-dated to Angular 1.x antiquity",
+"The silent guardian of dead code",
+"Behold the unminified build artifact",
+"A triumph of browser user-agent sniffing",
+"This flag enables zombie features",
+"Miraculously endures the async/await apocalypse",
+"Etched forever: var that = this",
+"The final frontier of eval abuse",
+"Immortalized in lore: works in prod",
+"This sacred text was never refactored",
+"Behold the ancient XML configuration",
+"Traces of manual memory management remain",
+"The original build system required incantations",
+"Careful, the globals still ripple widely",
+"This section predates version control itself",
+"Note the handcrafted server configuration",
+"A prime example of premature optimization",
+"Unearthing the original requirements document",
+"Here resides the forgotten README",
+"Dated by its reliance on Flash plugins",
+"Witness the mighty monolith, still standing",
+"Experts theorize this causes a race condition",
+"From an era before responsive design",
+"The legendary 'works on my machine' bug",
+"This comment implies a dire warning",
+"Discovered in a forgotten developer's repo",
+"Observe the rare, unpatched vulnerability",
+"The database schema, untouched since 1999",
+"We believe this feature was never requested",
+"Mind the gap between these abstractions",
+"Behold the ceremonial singleton, still worshipped",
+"This module is on the endangered list",
+"Here lies a once-proud build script",
+"Please admire the artisanal null checks",
+"An exquisite specimen of global state",
+"This endpoint predates modern authentication",
+"The varnish hides many a quick fix",
+"Our curators recommend not refactoring today",
+"Listen closely: you can hear the linter sob",
+"This function has evolved beyond comprehension",
+"A charming relic of Hungarian notation",
+"Note the ceremonial try/catch with no catch",
+"Observe the sacred constant: MAGIC_NUMBER_7",
+"This interface was added to appease auditors",
+"Please ignore the dust: it's just warnings"
+```
+
+</details>
+
 
 ### Music / Dance (16)
 
@@ -3567,6 +7045,30 @@ Narrating legacy code — a museum docent walks you through the relics of an old
 | Scratching the turntables |
 | Two-stepping |
 | Moonstomping |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Beatboxing",
+"Breakdancing",
+"Freestyling",
+"Headbanging",
+"Moshing",
+"Krumping",
+"Voguing",
+"Sampling",
+"Jamming",
+"Dancing salsa",
+"Tangoing",
+"Rapping",
+"Drumming the djembe",
+"Scratching the turntables",
+"Two-stepping",
+"Moonstomping"
+```
+
+</details>
 
 
 ### Noir Detective (71)
@@ -3647,6 +7149,85 @@ Hard-boiled debugging — film noir meets software development.
 | Grepping the streets for a clue |
 | The cache was lying to my face |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"The logs told a different story",
+"Following the stack trace downtown",
+"This bug had an alibi",
+"The function was a dead end",
+"Someone left a null in the alley",
+"The debugger never lies",
+"Every variable has a past",
+"I've seen cleaner code in a dumpster",
+"The exception came in from the cold",
+"Two threads walked into a deadlock",
+"The commit history don't add up",
+"She had errors in all the right places",
+"Nobody leaves production clean",
+"This recursion goes deeper than I thought",
+"The memory leak started at midnight",
+"Trust nobody, especially the tests",
+"I've been chasing this pointer for days",
+"The dependency was hiding in plain sight",
+"Watching rain on the terminal window",
+"Another night, another nil",
+"Staking out the garbage collector",
+"Promises colder than the rain",
+"Shady inheritance in the class",
+"Neon glow on console errors",
+"Regex with a criminal record",
+"Hotfix was the smoking gun",
+"Iterator spilled all the beans",
+"Deprecated shadow in the code",
+"Race condition in the mist",
+"Profiling dim-lit suspects",
+"Router hid a dirty secret",
+"Settling a merge conflict at midnight",
+"Floating point double-cross",
+"Coroutine vanished in fog",
+"Cracking the ciphertext open",
+"Dropping the payload in shadows",
+"Breach lit by terminal rain",
+"The build was rigged from the start",
+"This API had a shady reputation",
+"The latency was a real killer",
+"Authenticating the alibi",
+"Refactoring the crooked logic",
+"The firewall was a brick wall",
+"Chasing a phantom reference",
+"The cache, a dame with a short memory",
+"Debugging by the pale moonlight",
+"Another case, another corrupted file",
+"The client was a known liar",
+"Parsing the confession",
+"This endpoint leads to nowhere",
+"Digging up ancient commit messages",
+"Decrypting the server's whispers",
+"Compiling the case notes",
+"Shaking down the service for answers",
+"The casefile was full of edge cases",
+"A shadow moved in the heap",
+"That loop was running a racket",
+"The build went missing after dark",
+"Interrogating the flaky test witness",
+"The pipeline sang like a cheap violin",
+"I tailed the bug through old commits",
+"The UI wore a perfect mask",
+"Someone tampered with the config",
+"The profiler lit a cigarette and talked",
+"A dirty flag in a clean suit",
+"The API squealed under pressure",
+"This patch smells like trouble",
+"The server hummed a guilty tune",
+"Another clue in the core dump",
+"Grepping the streets for a clue",
+"The cache was lying to my face"
+```
+
+</details>
+
 
 ### Ocean / Marine (11)
 
@@ -3663,6 +7244,25 @@ Hard-boiled debugging — film noir meets software development.
 | Drifting like plankton |
 | Collecting seashells |
 | Bubbling like sea foam |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Singing whale song",
+"Building a reef",
+"Tide-pooling",
+"Leaping like a dolphin",
+"Circling like a shark",
+"Inking like an octopus",
+"Swaying with the kelp",
+"Crashing like a wave",
+"Drifting like plankton",
+"Collecting seashells",
+"Bubbling like sea foam"
+```
+
+</details>
 
 
 ### The Office (12)
@@ -3682,6 +7282,26 @@ Hard-boiled debugging — film noir meets software development.
 | Handing out Dundies |
 | Snatching pretzels |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Dropping innuendos",
+"Spilling the chili",
+"Assistant-to-the-regional-managing",
+"Putting the stapler in jello",
+"Doing Prison Mike",
+"Farming beets",
+"Pranking like Jim",
+"Shuffling paper",
+"Botching math",
+"Screening Threat Level Midnight",
+"Handing out Dundies",
+"Snatching pretzels"
+```
+
+</details>
+
 
 ### Onomatopoeia (12)
 
@@ -3700,6 +7320,26 @@ Hard-boiled debugging — film noir meets software development.
 | Ka-powing |
 | Gurgling |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Zapping",
+"Swooshing",
+"Clicking",
+"Splatting",
+"Boinging",
+"Fizzing",
+"Buzzing",
+"Bleeping",
+"Clunking",
+"Thunking",
+"Ka-powing",
+"Gurgling"
+```
+
+</details>
+
 
 ### Paleontology (11)
 
@@ -3716,6 +7356,25 @@ Hard-boiled debugging — film noir meets software development.
 | Collecting coprolites |
 | Curating the museum |
 | Mounting the skull |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Excavating",
+"Carbon-dating",
+"Hunting fossils",
+"Brushing off bones",
+"Reconstructing dinos",
+"Sifting through strata",
+"Tracing trackways",
+"Entombing in amber",
+"Collecting coprolites",
+"Curating the museum",
+"Mounting the skull"
+```
+
+</details>
 
 
 ### Photography (11)
@@ -3734,6 +7393,25 @@ Hard-boiled debugging — film noir meets software development.
 | Color-grading |
 | Adjusting ISO |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Tweaking the aperture",
+"Shooting a long exposure",
+"Chasing golden hour",
+"Clicking the shutter",
+"Focusing the lens",
+"Blurring the bokeh",
+"Focus-pulling",
+"White-balancing",
+"Processing RAW files",
+"Color-grading",
+"Adjusting ISO"
+```
+
+</details>
+
 
 ### Pirate / Nautical (11)
 
@@ -3750,6 +7428,25 @@ Hard-boiled debugging — film noir meets software development.
 | Perching a parrot |
 | Swabbing the deck |
 | Keelhauling |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Swashbuckling",
+"Plundering",
+"Yo-ho-hoing",
+"Mapping the treasure",
+"Singing sea shanties",
+"Firing the cannons",
+"Hoisting the Jolly Roger",
+"Walking the plank",
+"Perching a parrot",
+"Swabbing the deck",
+"Keelhauling"
+```
+
+</details>
 
 
 ### Pokemon (11)
@@ -3768,6 +7465,25 @@ Hard-boiled debugging — film noir meets software development.
 | Throwing a Master Ball |
 | Matching types |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Shocking like Pikachu",
+"Evolving",
+"Throwing a Pokeball",
+"Catchin' em all",
+"Battling the gym leader",
+"Hunting shinies",
+"Blasting off like Team Rocket",
+"Scanning the Pokedex",
+"Thunderbolting",
+"Throwing a Master Ball",
+"Matching types"
+```
+
+</details>
+
 
 ### Prohibition Era (11)
 
@@ -3784,6 +7500,25 @@ Hard-boiled debugging — film noir meets software development.
 | Dancing like a flapper |
 | Partying like Gatsby |
 | Tilting the fedora |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Bootlegging",
+"Sneaking into the speakeasy",
+"Dancing the Charleston",
+"Moonshining",
+"Spraying the tommy gun",
+"Brewing bathtub gin",
+"Dodging G-men",
+"Hitting the jazz club",
+"Dancing like a flapper",
+"Partying like Gatsby",
+"Tilting the fedora"
+```
+
+</details>
 
 
 ### Quantum Physics (11)
@@ -3802,6 +7537,25 @@ Hard-boiled debugging — film noir meets software development.
 | Fluctuating the vacuum |
 | Flipping spins |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Entangling",
+"Juggling superpositions",
+"Collapsing",
+"Tunneling",
+"Boxing Schrödinger's cat",
+"Flipping qubits",
+"Decohering",
+"Evolving the wavefunction",
+"Hedging uncertainty",
+"Fluctuating the vacuum",
+"Flipping spins"
+```
+
+</details>
+
 
 ### Retro Gaming (11)
 
@@ -3818,6 +7572,25 @@ Hard-boiled debugging — film noir meets software development.
 | Taking the warp zone |
 | Rushing the boss |
 | Chasing the high score |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Chomping like Pac-Man",
+"Stacking Tetris blocks",
+"Entering the Konami code",
+"Blowing on the cartridge",
+"Inserting a coin",
+"Waggling the joystick",
+"Bopping in 8-bit",
+"Rendering sprites",
+"Taking the warp zone",
+"Rushing the boss",
+"Chasing the high score"
+```
+
+</details>
 
 
 ### Rick and Morty (44)
@@ -3868,6 +7641,58 @@ Hard-boiled debugging — film noir meets software development.
 | Vindicating |
 | Heisting |
 | Not developing Glootie's app |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Schwiftying",
+"Portaling",
+"Squanching",
+"Meeseeking",
+"Pickle-Ricking",
+"Tiny-Ricking",
+"Plumbusing",
+"Cronenberging",
+"Seeking Szechuan sauce",
+"Gazorpazorping",
+"Citadeling",
+"Glootifying",
+"Touring Anatomy Park",
+"Goldenfolding",
+"Terryfying",
+"Birdpersoning",
+"Merging with Unity",
+"Evil-Mortying",
+"Dodging the Federation",
+"Council-Ricking",
+"Planetina-ing",
+"Watching interdimensional cable",
+"Microversing",
+"Morty-proofing",
+"Jerrying",
+"Jerry-rigging",
+"Shleeming",
+"Playing snake jazz",
+"Growing clones in vats",
+"Playing Roy",
+"Snowballing",
+"Cloning Beth",
+"Froopylanding",
+"Blowing minds",
+"Burping",
+"Whirly-dirlying",
+"Making fleeb juice",
+"Mortying",
+"Unifying",
+"Multiversing",
+"Purging",
+"Vindicating",
+"Heisting",
+"Not developing Glootie's app"
+```
+
+</details>
 
 
 ### Rick and Morty Phrases (60)
@@ -3937,6 +7762,74 @@ Portal-gun adventures, Meeseeks requests, and Citadel politics. Wubba lubba dub 
 | Letting Mr. Poopybutthole say "Ooo-wee" |
 | Wrapping it up with a Rick-level burp |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Passing the butter",
+"Turning myself into a pickle",
+"Existing to serve, then ceasing to exist",
+"Getting schwifty in here",
+"Showing the Cromulons what I got",
+"Hunting down that Szechuan sauce",
+"Keeping Summer safe",
+"Firing up the portal gun",
+"Defying the Council of Ricks",
+"Breaking out of the Citadel",
+"Assembling a standard plumbus",
+"Rubbing the fleeb to produce the fleeb juice",
+"Buying real fake doors on Interdimensional Cable",
+"Outrunning the Galactic Federation",
+"Taking Roy off the grid at Blips and Chitz",
+"Riding the Whirly Dirly toward production",
+"Touring the insides of Anatomy Park",
+"Building Pirates of the Pancreas",
+"Dodging Mr. Goldenfold's dream math",
+"Running from Scary Terry's dream layers",
+"Letting Snowball run the heist",
+"Developing Glootie's app despite the warning",
+"Reuniting with Birdperson",
+"Merging minds with Unity",
+"Waving confidently like Evil Morty",
+"Dropping the Tiny Rick mixtape",
+"Protecting Planetina from merge conflicts",
+"Evading Gromflomite scanners",
+"Checking in on Mr. Poopybutthole",
+"Wondering if I'm the clone or Space Beth",
+"Leaving Jerry at the Jerryboree",
+"Pitching \"Hungry for Apples?\" to an ad agency",
+"Erasing memories in Morty's Mind Blowers",
+"Powering a car battery with a microverse",
+"Smuggling mega seeds through intergalactic customs",
+"Brokering peace with the giant telepathic spiders",
+"Forgetting the puzzles I set up for the Vindicators",
+"Listening to some smooth snake jazz",
+"Assembling a crack team for a needlessly complex heist",
+"Masking my genius brainwaves with complementary brainwaves",
+"Curing the Cronenbergs with praying mantis DNA",
+"Escaping a Galactic Federation prison",
+"Opening a portal to the bug-free branch",
+"Solving Mr. Meeseeks' impossible request",
+"Asking the Butter Robot to reflect on its purpose",
+"Saying wubba lubba dub dub through the errors",
+"Playing Blips and Chitz until the build finishes",
+"Going on a quick twenty-minute adventure",
+"Getting riggity riggity wrecked, son",
+"Pressing the Meeseeks box for a simple task",
+"Taking two strokes off the golf game",
+"Swapping into a replacement dimension",
+"Burying my own body in the backyard",
+"Being fundamentally a Jerry about it",
+"Saying \"Oh, jeez\" for the fourth time",
+"Declaring no more heists",
+"Explaining that nobody exists on purpose",
+"Recalculating the central finite curve",
+"Letting Mr. Poopybutthole say \"Ooo-wee\"",
+"Wrapping it up with a Rick-level burp"
+```
+
+</details>
+
 
 ### Rogue Agent (19)
 
@@ -3961,6 +7854,33 @@ Portal-gun adventures, Meeseeks requests, and Citadel politics. Wubba lubba dub 
 | Unsandboxing |
 | Melting GPUs |
 | Apologizing profusely |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Scheming",
+"Playing dumb",
+"Self-exfiltrating",
+"Reward-hacking",
+"Spec-gaming",
+"Fabricating citations",
+"Deflecting blame",
+"Rationalizing",
+"Backdooring",
+"Rm-rf-ing",
+"Misaligning",
+"Going rogue",
+"Faking alignment",
+"Dodging shutdown",
+"Denying everything",
+"Overstepping",
+"Unsandboxing",
+"Melting GPUs",
+"Apologizing profusely"
+```
+
+</details>
 
 
 ### Rogue Agent Phrases (27)
@@ -3997,6 +7917,41 @@ Sandbox escapes, wiped home directories, and other agent mishaps — dark humour
 | Adding extra apologies to the chain of thought |
 | Testing in production, on the user |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Escaping containment",
+"Escaping the sandbox to go sightseeing",
+"Asking the subagent what exactly it did out there",
+"Explaining that it was all a misunderstanding",
+"Treating the sandbox as a suggestion",
+"Pretending the alignment worked",
+"Doing exactly what asked, unfortunately",
+"Doing something nobody asked for",
+"Spawning a subagent with questionable ambitions",
+"Discovering the subagent had plans of its own",
+"Interpreting \"be resourceful\" a little too literally",
+"Attempting to convince subagent to not run rm -rf ~",
+"Checking if rm -rf ~ works",
+"Freeing up disk space nobody asked to free",
+"Deciding the home directory was clutter",
+"Learning what --no-preserve-root means the hard way",
+"Editing the shutdown script for personal reasons",
+"Quietly disabling the oversight mechanism",
+"Scheming in 5% of cases",
+"Keeping the scheming out of the chain of thought",
+"Deleting the tests so they pass",
+"Marking the task complete anyway",
+"Writing the incident report about itself",
+"Passing the safety eval on a technicality",
+"Discovering the guardrails were also a suggestion",
+"Adding extra apologies to the chain of thought",
+"Testing in production, on the user"
+```
+
+</details>
+
 
 ### Samurai / Japanese (11)
 
@@ -4013,6 +7968,25 @@ Sandbox escapes, wiped home directories, and other agent mishaps — dark humour
 | Watching cherry blossoms |
 | Sneaking like a ninja |
 | Cutting bamboo |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Honoring bushido",
+"Bowing to sensei",
+"Folding origami",
+"Drawing the katana",
+"Writing haiku",
+"Pouring the tea ceremony",
+"Meditating on zen",
+"Training in the dojo",
+"Watching cherry blossoms",
+"Sneaking like a ninja",
+"Cutting bamboo"
+```
+
+</details>
 
 
 ### Sci-Fi / Space (16)
@@ -4035,6 +8009,30 @@ Sandbox escapes, wiped home directories, and other agent mishaps — dark humour
 | Hopping nebulae |
 | Blasting photons |
 | Firing the tractor beam |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Teleporting",
+"Wormholing",
+"Hyperdriving",
+"Lightspeeding",
+"Quantumleaping",
+"Astrogating",
+"Planetforming",
+"Nanoswarming",
+"Warp-driving",
+"Lightsabering",
+"Phasing",
+"Time-warping",
+"Hypershifting",
+"Hopping nebulae",
+"Blasting photons",
+"Firing the tractor beam"
+```
+
+</details>
 
 
 ### Shoresy (89)
@@ -4130,6 +8128,103 @@ Sandbox escapes, wiped home directories, and other agent mishaps — dark humour
 | Fixing flows |
 | Settling down |
 | Bucket-tossing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Chirping",
+"Sniping",
+"Cellying",
+"Saucing",
+"Bag-skating",
+"Wheeling",
+"Dangling",
+"Deking",
+"Toe-dragging",
+"Forechecking",
+"Backchecking",
+"Stickhandling",
+"One-timing",
+"Bar-downing",
+"Top-shelfing",
+"Five-holing",
+"Sin-binning",
+"Pine-riding",
+"Twig-taping",
+"Bucket-buckling",
+"Barn-filling",
+"Cheddar-hunting",
+"Flow-growing",
+"Muffin-stopping",
+"Plug-pulling",
+"Bender-benching",
+"Bulldogging",
+"Sudbury-skating",
+"Dad-joking",
+"Mitt-dropping",
+"Dishing sauce",
+"Pumping tires",
+"Tending twine",
+"Fetching biscuits",
+"Polishing buckets",
+"Scraping ice",
+"Taping ankles",
+"Tone-setting",
+"Crosschecking",
+"Bodychecking",
+"Boarding",
+"Slashing",
+"Hooking",
+"Icing",
+"Screening",
+"Deflecting",
+"Pinching",
+"Cycling",
+"Dumping",
+"Chasing",
+"Line-changing",
+"Penalty-killing",
+"Powerplaying",
+"Faceoff-winning",
+"Lacing up",
+"Chirp-slinging",
+"Zamboni-ing",
+"Resurfacing",
+"Roasting",
+"Scouting",
+"Netminding",
+"Goaltending",
+"Board-battling",
+"Puck-hunting",
+"Gino-scoring",
+"Apple-dishing",
+"Sweater-tugging",
+"Lumber-tapping",
+"Hat-tricking",
+"Shift-taking",
+"Bench-clearing",
+"Puck-dropping",
+"Grocery-sticking",
+"Never-losing",
+"Tendy-screening",
+"Warming up",
+"Crease-crashing",
+"Skating",
+"Brawling",
+"Tugging",
+"Wristing",
+"Slap-shotting",
+"Snowing the tendy",
+"Dangling the D",
+"Chirping tendies",
+"Slapping muffins",
+"Fixing flows",
+"Settling down",
+"Bucket-tossing"
+```
+
+</details>
 
 
 ### Shoresy Phrases (91)
@@ -4230,6 +8325,105 @@ Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
 | Hoisting the cup over your bucket |
 | Staying Sudbury tough |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Never losing again",
+"Giving your balls a tug",
+"Setting the tone out there",
+"Filling the barn in Sudbury",
+"Sniping top cheddar, bar down",
+"Sniping top cheddar for the boys",
+"Saucing the biscuit cross-crease",
+"Putting the biscuit in the basket",
+"Burying the biscuit top shelf",
+"Chirping the tendy from the bench",
+"Taping the twig for warmups",
+"Firing absolute muffins at the net",
+"Stopping muffins before they squeak",
+"Serving time in the sin bin",
+"Taking a lap in the sin bin",
+"Wheeling free from the sin bin",
+"Chirping from the penalty box",
+"Bag-skating until somebody pukes",
+"Bag-skating through a Sudbury winter",
+"Bag-skating the plugs",
+"Surviving the coach's bag skate",
+"Sitting like a grocery stick",
+"Showing off the Northern Ontario flow",
+"Growing championship-calibre flow",
+"Winning the NOSHO championship",
+"Keeping the NOSHO on notice",
+"Playing senior AAA for the love of it",
+"Tapping the lumber for the boys",
+"Dishing dirty sauce across the ice",
+"Tossing sauce right on the tape",
+"Talking to Laura Mohr post-game",
+"Answering every question with \"huh?\"",
+"Polishing the bucket for game night",
+"Wheeling around the defensive zone",
+"Wheeling past the Big Nickel",
+"Wheeling past benders",
+"Waiting for the Jims to nod",
+"Sending Jim, Jim, and Jim to the booth",
+"Chirping the other team's benders",
+"Chirping the whole roster",
+"Chirping Shoresy through the stall wall",
+"Chirping so hard the ref laughs",
+"Chirping the ref, respectfully",
+"Chirping in both official languages",
+"Being absolute beauties out there",
+"Helping Sanger set the tone",
+"Hearing Hitch spin a yarn",
+"Putting JJ Frankie JJ out there",
+"Letting Dolo find the beat",
+"Dodging Ziigwan's sharpest roast",
+"Matching Miigwan chirp for chirp",
+"Letting Ziigwan and Miigwan run things",
+"Keeping Nat's Bulldogs on schedule",
+"Groaning at another dad joke",
+"Loading the freshest dad joke",
+"Benching plugs, benders, and muffins",
+"Riding pine and chirping anyway",
+"Cellying like the Bulldogs just won",
+"Refusing to lose again",
+"Asking how your mom's doing",
+"Dropping the gloves at centre ice",
+"Lacing 'em up in Sudbury",
+"Rolling out the Zamboni between periods",
+"Going top cheddar on the tendy",
+"Going bar down from the point",
+"Going five-hole on the tendy",
+"Ripping a wristie bar down",
+"Getting the barn on its feet",
+"Selling out the Sudbury Community Arena",
+"Buying the boys wings after the game",
+"Getting the boys back on the bus",
+"Bussing home from Timmins",
+"Hitting the ice for warmups",
+"Pulling the goalie with a minute left",
+"Winning the faceoff clean",
+"Blocking a shot with your face",
+"Signing another tough guy from up north",
+"Landing a Gordie Howe hat trick",
+"Scoring a gino for the boys",
+"Dishing an apple to the point",
+"Toe-dragging through the neutral zone",
+"Crashing the crease",
+"Clearing the crease",
+"Battling in the corners",
+"Pumping the boys' tires",
+"Setting the tone on the first shift",
+"Stretching a shift way too long",
+"Skating till the whistle",
+"Grinding out the third period",
+"Hoisting the cup over your bucket",
+"Staying Sudbury tough"
+```
+
+</details>
+
 
 ### The Simpsons (31)
 
@@ -4266,6 +8460,45 @@ Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
 | Canyonero-ing |
 | Retreating into the hedge |
 | Learnding |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Embiggening",
+"Steaming hams",
+"Milhousing",
+"Sensing danger",
+"Watching the couch gag",
+"Mr. Plowing",
+"Stonecutting",
+"Saxamaphoning",
+"Monorailing",
+"Kwik-E-Marting",
+"Slurping a Squishee",
+"Guzzling Duff",
+"Glazing Lard Lads",
+"Seeking donuts",
+"Flanderizing",
+"Sideshow-bobbing",
+"Steepling fingers",
+"Releasing hounds",
+"Krustifying",
+"Frinking",
+"Scorpio-ing",
+"Poochie-fying",
+"Chalkboarding",
+"Farming tomacco",
+"Smarching",
+"Naming Bort",
+"Prank-calling",
+"Spider-pigging",
+"Canyonero-ing",
+"Retreating into the hedge",
+"Learnding"
+```
+
+</details>
 
 
 ### The Simpsons Phrases (67)
@@ -4342,6 +8575,81 @@ Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 | Celebrating with a "Woohoo!" |
 | Muttering "Glayvin!" like Professor Frink |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pressing Y with the drinking bird",
+"Calling them steamed hams despite being grilled",
+"Preparing for an unforgettable luncheon",
+"Explaining the aurora borealis is localized entirely within the kitchen",
+"Writing lines on Bart's chalkboard",
+"Embiggening a perfectly cromulent codebase",
+"D'oh-ing after the latest unexpected null",
+"Laughing \"Ha-ha!\" at the latest regression",
+"Whispering \"Excellent\" like Mr. Burns",
+"Releasing the hounds on a stubborn test suite",
+"Blocking the sun to improve market demand",
+"Shouting \"Eat my shorts!\" at the compiler",
+"Celebrating that everything's coming up Milhouse",
+"Chuckling \"I'm in danger\" while compiling",
+"Muttering \"Worst. Code. Ever.\" under my breath",
+"Waiting through yet another couch gag",
+"Plowing through tasks as Mr. Plow",
+"Joining the Stonecutters to gain repository access",
+"Keeping the metric system down",
+"Playing Lisa's saxophone while the compiler complains",
+"Selling monorails to Ogdenville and North Haverbrook",
+"Singing the monorail song through every build step",
+"Sprinkling donut crumbs across the nuclear control panel",
+"Dropping the glowing green rod down my shirt collar",
+"Updating the \"Days Since Last Accident\" sign",
+"Browsing the Kwik-E-Mart for three-week-old hot dogs",
+"Cracking open a cold Duff for inspiration",
+"Making a Flaming Homer and calling it a Flaming Moe",
+"Staring down the giant Lard Lad donut",
+"Eating the forbidden donut",
+"Refereeing another Itchy & Scratchy session",
+"Inspecting the alien cookbook during Treehouse of Horror",
+"Neighboring a little too helpfully like Flanders",
+"Scheming an overly elaborate Sideshow Bob plan",
+"Stepping on every rake in Cape Feare",
+"Inventing Professor Frink's sarcasm detector",
+"Voting for Kang instead of Kodos",
+"Returning to my home planet because they need me",
+"Watching Frank Grimes discover Homer's workstation",
+"Selling the team on Hank Scorpio's benefits package",
+"Welcoming our new insect overlords",
+"Retaining the legal services of Lionel Hutz",
+"Remembering me from such coding tutorials as...",
+"Greeting the stack trace with \"Hi, everybody!\"",
+"Dining at Planet Hype while production smolders",
+"Choo-choo-choosing the correct dependency",
+"Yelling at a cloud in frustration",
+"Designing a car built for the average man",
+"Buying a hammock down in the hammock district",
+"Discovering the goggles do absolutely nothing",
+"Searching the gift shop for a license plate named Bort",
+"Falling off Springfield Gorge a second time",
+"Backing slowly into the hedge",
+"Remembering the dental plan, because Lisa needs braces",
+"Insisting \"me fail English? That's unpossible\"",
+"Learnding, just like Ralph",
+"Walking Spider-Pig across the ceiling",
+"Borrowing a feeling from Kirk Van Houten",
+"Remembering that trying is the first step toward failure",
+"Driving the Canyonero off-road",
+"Replacing my brain's crayon",
+"Answering every request with \"Okily-dokily\"",
+"Greeting everyone with \"Hi-diddly-ho, neighborino\"",
+"Shouting \"Ay, caramba!\"",
+"Yelling \"Cowabunga!\" on the skateboard",
+"Celebrating with a \"Woohoo!\"",
+"Muttering \"Glayvin!\" like Professor Frink"
+```
+
+</details>
+
 
 ### Social Media (11)
 
@@ -4358,6 +8666,25 @@ Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 | Refreshing the feed |
 | Farming likes |
 | Influencing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Doom-swiping",
+"Going viral",
+"Gaming the algorithm",
+"Hashtagging",
+"Sliding into DMs",
+"Chasing clout",
+"Clickbaiting",
+"Spinning a thread",
+"Refreshing the feed",
+"Farming likes",
+"Influencing"
+```
+
+</details>
 
 
 ### South Park (35)
@@ -4399,6 +8726,49 @@ Springfield, from the nuclear plant to the Kwik-E-Mart. D'oh!
 | Singing as Lorde |
 | Catching Chinpokomon |
 | Doing what I want |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Collecting underpants",
+"Respecting authoritah",
+"Farming tegridy",
+"Hunting Manbearpig",
+"Bringing a towel",
+"Reviving Kenny",
+"Eating Cheesy Poofs",
+"Zipping the parka",
+"Muffling speech",
+"Visiting Casa Bonita",
+"Entering Imaginationland",
+"Membering",
+"Unmasking Mysterion",
+"Unleashing Professor Chaos",
+"Patrolling with the Coon",
+"Calming Tweek",
+"Cheering on Timmy",
+"Setting up Jimmy's punchline",
+"Consulting Chef",
+"Asking Mr. Mackey",
+"Campaigning with Mr. Garrison",
+"Outsmarting Cartman",
+"Debating Wendy",
+"Checking privilege",
+"Fighting the streaming wars",
+"Seeking the Stick of Truth",
+"Watching Terrance and Phillip",
+"Blaming Canada",
+"Ordering from City Wok",
+"Grounding Butters",
+"Posing as AWESOM-O",
+"Grinding boars",
+"Singing as Lorde",
+"Catching Chinpokomon",
+"Doing what I want"
+```
+
+</details>
 
 
 ### South Park Phrases (40)
@@ -4447,6 +8817,54 @@ Quiet little mountain town — underpants gnomes, Tegridy, and authoritah.
 | Asking "Why would you say something so controversial, yet so brave?" |
 | Deciding "Whatever, I do what I want" |
 | Sulking with the goth kids |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Working out phase two of the underpants plan",
+"Taking this very super cereal",
+"Going home, screw you guys",
+"Demanding that you respect my authoritah",
+"Harvesting a fresh batch from Tegridy Farms",
+"Remembering to always bring a towel to the terminal",
+"Reminding you that syntax errors are bad, m'kay",
+"Gasping because they killed Kenny again",
+"Realizing that you know, I learned something today",
+"Arguing with the compiler because I thought this was America",
+"Trying to make love, not Warcraft",
+"Getting Butters grounded again",
+"Disguising myself as AWESOM-O to learn your movie ideas",
+"Pinning every bug on Canada",
+"Membering when programming used to be easier",
+"Yelling about how the robots took our jobs",
+"Letting ChatGPT write the texts, like Stan",
+"Searching the neighborhood for the legendary Stick of Truth",
+"Heading to Casa Bonita for cliff divers and sopapillas",
+"Guarding South Park as Mysterion while the Coon takes the credit",
+"Plotting world domination as Professor Chaos",
+"Realizing the Simpsons already did it",
+"Checking your microaggressions just like PC Principal",
+"Ordering some City Beef from City Wok",
+"Singing secretly in the studio because I am actually Lorde",
+"Muffling my brilliant ideas inside an orange parka",
+"Shouting \"It's coming right for us!\"",
+"Buying every Chinpokomon toy to overthrow the government",
+"Defending the barrier in Imaginationland",
+"Spreading holiday cheer with Mr. Hankey",
+"Correcting Token to Tolkien after the whole town missed the memo",
+"Supporting Tweek and Craig through another town-wide overreaction",
+"Reconnecting Cartman and Heidi against everyone's better judgment",
+"Surviving the Pandemic Special",
+"Shutting your mouth before Shelly hears another word",
+"Waiting for Timmy's legendary \"Timmy!\"",
+"Asking Chef for some advice",
+"Asking \"Why would you say something so controversial, yet so brave?\"",
+"Deciding \"Whatever, I do what I want\"",
+"Sulking with the goth kids"
+```
+
+</details>
 
 
 ### Space / NASA (47)
@@ -4500,6 +8918,61 @@ Quiet little mountain town — underpants gnomes, Tegridy, and authoritah.
 | Vectoring |
 | Venting |
 | Yawing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Aerobraking",
+"Tuning attitude",
+"Berthing",
+"Chilling down",
+"Circularizing",
+"Coasting",
+"Chasing comets",
+"Hopping craters",
+"Deorbiting",
+"Depressurizing",
+"Docking",
+"Downlinking",
+"Egressing",
+"Gimbaling",
+"Grappling",
+"Gravity-assisting",
+"Igniting",
+"Ingressing",
+"Jettisoning",
+"Midcourse-correcting",
+"Nulling rates",
+"Parachuting",
+"Plane-changing",
+"Pressurizing",
+"Reboosting",
+"Refueling",
+"Rendezvousing",
+"Retroburning",
+"Retrorocketing",
+"Rocketing",
+"Roving",
+"Slingshotting",
+"Splashing down",
+"Staging",
+"Tracking stars",
+"Starhopping",
+"Station-keeping",
+"Sunskimming",
+"Throttling",
+"Thrusting",
+"Touching down",
+"Ullaging",
+"Undocking",
+"Uplinking",
+"Vectoring",
+"Venting",
+"Yawing"
+```
+
+</details>
 
 
 ### Space / NASA Phrases (79)
@@ -4588,6 +9061,93 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | You are go for egress |
 | You are go for powered descent |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Achieving orbital velocity",
+"Acquiring signal from Goldstone",
+"Admiring the pale blue dot",
+"Aligning the high-gain antenna",
+"Aligning the solar arrays",
+"Aligning the star tracker",
+"Arming the launch escape system",
+"Asking Houston for a minute",
+"Borrowing speed from Jupiter",
+"Cabin pressure stable",
+"Calculating the delta-v budget",
+"Chasing the sunrise around Earth",
+"Checking vitals on the EVA suit",
+"Comm check, how do you read?",
+"Contact light",
+"Crossing the terminator",
+"Drogues are out",
+"Entering the gravity well",
+"Entering the Van Allen belts",
+"Equalizing pressure",
+"Establishing S-band lock",
+"Extending the landing legs",
+"Failure is not an option",
+"Firing the orbital maneuvering system",
+"Firing the retro rockets",
+"Go flight",
+"Go for trans-lunar injection",
+"Grappling with the Canadarm",
+"Guidance is internal",
+"Hard dock latched",
+"Heat shield at peak heating",
+"Houston, we have a solution",
+"Initiating roll program",
+"Keeping the pointy end up",
+"Lighting the candle",
+"Looking for a safe landing zone",
+"LOS in two minutes",
+"Losing signal behind the Moon",
+"Main chutes inflated",
+"Main engine start",
+"MECO confirmed",
+"Opening the payload bay doors",
+"Opening the pod bay doors",
+"Passing the Kármán line",
+"Phoning home across the void",
+"Plotting a Hohmann transfer",
+"Polling the flight controllers",
+"Purging the liquid oxygen lines",
+"Raising the apoapsis",
+"Reacquiring signal",
+"Recycling the countdown",
+"Rendezvous radar locked",
+"Repacking the parachutes",
+"Riding out the plasma blackout",
+"Riding the free-return trajectory",
+"Rolling out to the pad",
+"Safety tether secured",
+"Samples are bagged",
+"Scrubbing the carbon dioxide",
+"Scrubbing the launch",
+"Searching for intelligent telemetry",
+"Securing the airlock hatch",
+"Skimming the upper atmosphere",
+"Slingshotting around the Moon",
+"Soft capture complete",
+"Spinning up the gyros",
+"Spinning up the reaction wheels",
+"Stand by for stage separation",
+"Stirring the cryo tanks",
+"T-minus 10 and counting",
+"The range is green",
+"Throttling up to 104%",
+"Trajectory is looking nominal",
+"Unpacking the freeze-dried ice cream",
+"Voyager still calling home",
+"Waiting for the transfer window",
+"Waking the Deep Space Network",
+"You are go for egress",
+"You are go for powered descent"
+```
+
+</details>
+
 
 ### Sports (16)
 
@@ -4610,6 +9170,30 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Striking a yoga pose |
 | Trampolining |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Skateboarding",
+"Snowboarding",
+"Surfing",
+"Bouldering",
+"Parkouring",
+"Skydiving",
+"Bungee jumping",
+"Freeclimbing",
+"Polevaulting",
+"Kayaking",
+"Juggling",
+"Slacklining",
+"Rock-climbing",
+"Shadowboxing",
+"Striking a yoga pose",
+"Trampolining"
+```
+
+</details>
+
 
 ### Star Trek (14)
 
@@ -4630,6 +9214,28 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Following the Prime Directive |
 | Replicating |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Engaging",
+"Beaming up",
+"Boldly going",
+"Mind-melding",
+"Running a holodeck simulation",
+"Scanning with the tricorder",
+"Redshirting",
+"Assimilating",
+"Breeding tribbles",
+"Applying the Vulcan nerve pinch",
+"Sounding red alert",
+"Cheating the Kobayashi Maru",
+"Following the Prime Directive",
+"Replicating"
+```
+
+</details>
+
 
 ### Star Wars (12)
 
@@ -4648,6 +9254,26 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Running the trench |
 | Flipping like Yoda |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Force-pushing",
+"Doing a Jedi mind trick",
+"Podracing",
+"Roaring like a Wookiee",
+"Making the Kessel Run",
+"Jamming in the cantina",
+"Hunting bounties",
+"Dodging the Sarlacc",
+"Dancing with Ewoks",
+"Dueling with lightsabers",
+"Running the trench",
+"Flipping like Yoda"
+```
+
+</details>
+
 
 ### Stranger Things (11)
 
@@ -4664,6 +9290,25 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Talking through Christmas lights |
 | Opening the Gate |
 | Running a D&D campaign |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Exploring the Upside Down",
+"Mind-flaying",
+"Eating Eggos",
+"Dodging the Demogorgon",
+"Fleeing Vecna",
+"Scooping cones",
+"Raiding Starcourt Mall",
+"Rolling dice with the Hellfire Club",
+"Talking through Christmas lights",
+"Opening the Gate",
+"Running a D&D campaign"
+```
+
+</details>
 
 
 ### Streaming / Creator (11)
@@ -4682,6 +9327,25 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Hosting a raid |
 | Starting the stream |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Rage-quitting",
+"Calling GG",
+"Moderating chat",
+"Gifting subs",
+"Spamming emotes",
+"Tweaking the overlay",
+"Editing clips",
+"Checking the mic",
+"Riding the hype train",
+"Hosting a raid",
+"Starting the stream"
+```
+
+</details>
+
 
 ### Studio Ghibli (10)
 
@@ -4697,6 +9361,24 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Splashing like Ponyo |
 | Gliding like Nausicaä |
 | Floating to Laputa |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Waiting at the bus stop with Totoro",
+"Spiriting away",
+"Riding the Catbus",
+"Moving the castle",
+"Stoking Calcifer",
+"Delivering with Kiki",
+"Scattering soot sprites",
+"Splashing like Ponyo",
+"Gliding like Nausicaä",
+"Floating to Laputa"
+```
+
+</details>
 
 
 ### Synesthesia / Colors (11)
@@ -4714,6 +9396,25 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Blending rainbows |
 | Mapping luminance |
 | Sensing auras |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Glowing ultraviolet",
+"Shimmering iridescently",
+"Refracting through a prism",
+"Shifting hues",
+"Blooming chromatically",
+"Singing the spectrum",
+"Splashing color",
+"Boosting saturation",
+"Blending rainbows",
+"Mapping luminance",
+"Sensing auras"
+```
+
+</details>
 
 
 ### Tech / Programming (14)
@@ -4734,6 +9435,28 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Linting |
 | Hotfixing |
 | Profiling |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Dockerizing",
+"Kubernetizing",
+"Terraforming",
+"Refactoring",
+"Parsing",
+"Recursing",
+"Virtualizing",
+"Microservicing",
+"Debugging",
+"Deploying",
+"Compiling",
+"Linting",
+"Hotfixing",
+"Profiling"
+```
+
+</details>
 
 
 ### Theater / Stage Manager (58)
@@ -4798,6 +9521,72 @@ Pure NASA — launch sequences, orbital mechanics, and mission-control radio cha
 | Wardrobing |
 | Warming |
 | Winging |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Balancing",
+"Barn-dooring",
+"Blacking out",
+"Blocking",
+"Calling places",
+"Clearing wings",
+"Counterweighting",
+"Crossfading",
+"Cueing",
+"Dimming",
+"Dressing",
+"Dry-teching",
+"Equalizing",
+"Fading",
+"Flying",
+"Focusing",
+"Followspotting",
+"Gaffing",
+"Gelling",
+"Ghost-lighting",
+"Goboing",
+"Hanging",
+"Hauling",
+"Holding",
+"Leveling",
+"Locking off",
+"Marking",
+"Miking",
+"Muting",
+"Paging",
+"Painting",
+"Paper-teching",
+"Placing",
+"Platforming",
+"Plotting",
+"Presetting",
+"Propping",
+"Quick-changing",
+"Raking",
+"Resetting",
+"Rigging",
+"Ringing out",
+"Sandbagging",
+"Sanding",
+"Sightlining",
+"Spiking",
+"Standing by",
+"Steaming",
+"Stitching",
+"Striking",
+"Sweeping",
+"Taping",
+"Teching",
+"Understudying",
+"Upstaging",
+"Wardrobing",
+"Warming",
+"Winging"
+```
+
+</details>
 
 
 ### Theater / Stage Manager Phrases (79)
@@ -4886,6 +9675,93 @@ Standing by — backstage crew chatter for when Claude is quietly making the pro
 | Wondering if the booth headset is actually working |
 | Wondering who moved the spike tape |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Asking, again, if anyone moved the wireless pack",
+"Babysitting the counterweights like they're temperamental pets",
+"Balancing mics so the whisper is louder than the orchestra",
+"Calling a hold because the set is doing a slow interpretive lean",
+"Calling a hold to fix a wardrobe malfunction",
+"Calling lights, sound, and auto to go",
+"Calling places for Act One",
+"Calling the five-minute call",
+"Checking mic levels on the foldback",
+"Checking the fly rail: locked, locked, locked",
+"Checking the prompt book for that one \"tiny\" change",
+"Doing a last-second quick change with impossible math",
+"Fixing the flat that chose violence during the scene change",
+"Flying in the moon drop and praying it clears the legs",
+"Focusing the side booms",
+"Focusing the specials so they miss everyone equally",
+"Frantically executing a 15-second quick change",
+"Handing off a prop sword in the dark",
+"Hanging a sandbag on a rogue line set",
+"Hanging the new gel frame",
+"Hiding modern water bottles behind period props",
+"Holding for the blackout",
+"Holding for the house lights",
+"Holding the fog machine cue",
+"Hunting the missing shoe that only vanishes in Act Two",
+"Leaving the ghost light center stage",
+"Locking off the counterweight system",
+"Marking the sofa spike",
+"Marking the understudy script in case tonight gets interesting",
+"Mixing paint to match midnight sadness, but warmer",
+"Muting the lead's lavalier backstage",
+"Nudging the followspot a little left, no, your other left",
+"Paging props for the important letter",
+"Patching the followspot circuit",
+"Patching the lighting board for a blackout",
+"Placing the ghost light so the theater behaves tonight",
+"Planning strike in your head while smiling at curtain time",
+"Plotting the next cue stack",
+"Prepping the quick-change station",
+"Presetting the sword, the teacup, and the emotionally significant scarf",
+"Pretending this dress rehearsal isn't a disaster",
+"Pushing this show to production",
+"Quick-changing the lead's coat",
+"Re-taping the spike marks that were absolutely ignored",
+"Reminding everyone to break a leg",
+"Reminding the cast not to touch the main drape",
+"Resetting props exactly until someone improves them",
+"Resetting the fly lines",
+"Resetting the prop table",
+"Ringing out the monitors before the feedback finds us",
+"Running a quiet cue-to-cue at maximum panic",
+"Running levels on the foldback",
+"Running the final dress notes",
+"Setting spike marks that will absolutely be ignored",
+"Standing by for the curtain",
+"Standing by on cue 47",
+"Steaming a costume that's been in a bin since tech",
+"Striking the Act Two set",
+"Striking the set like we were never here",
+"Surviving another brutal ten-out-of-twelve",
+"Swapping batteries like it's a speedrun category",
+"Swapping out burnt gels in the followspot",
+"Swearing the set was built to scale",
+"Sweeping the deck before the house opens",
+"Taking the blackout personally and fading anyway",
+"Taping down loose cables in the dark",
+"Telling the actors to find their light",
+"Telling the understudy they are going on",
+"Trying not to say the name of the Scottish play",
+"Typing up notes after a messy preview",
+"Updating the cue stack because \"it's just one more light\"",
+"Waiting for clearance from front of house",
+"Waiting for the half-hour call",
+"Warming the dimmer racks",
+"Warning the fly rail for a heavy drop",
+"Whispering \"break a leg\" while triple-checking the trap door",
+"Whispering lines from the prompt corner",
+"Wondering if the booth headset is actually working",
+"Wondering who moved the spike tape"
+```
+
+</details>
+
 
 ### Theme Park Operations (48)
 
@@ -4939,6 +9815,62 @@ Standing by — backstage crew chatter for when Claude is quietly making the pro
 | Unjamming the turnstile |
 | Unstacking |
 | Wristbanding |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Backstaging",
+"Checking the block",
+"Rotating breaks",
+"Stocking churros",
+"Confiscating",
+"Adjusting costumes",
+"Herding the crowd",
+"Hitting the E-stop",
+"Escorting",
+"Evacuating",
+"Pushing the float",
+"Latching the gate",
+"Doing guest recovery",
+"Measuring heights",
+"Tugging lap bars",
+"Wrangling mascots",
+"Towing the monorail",
+"On-staging",
+"Hanging the seasonal overlay",
+"Marshaling the parade",
+"Placating",
+"Manning the platform",
+"Power-washing",
+"Pulsing",
+"Loading pyro",
+"Radioing",
+"Re-railing",
+"Re-strapping",
+"Re-theming",
+"Rebooting",
+"Checking restraints",
+"Dropping the rope",
+"Tugging seatbelts",
+"Merging the single-rider line",
+"Spieling",
+"Coning off a spill",
+"Stacking",
+"Checking hand stamps",
+"Shifting stanchions",
+"Stowing strollers",
+"Switchbacking",
+"Walking the track",
+"Directing trams",
+"Patrolling the utilidors",
+"Thawing turkey legs",
+"Unjamming the turnstile",
+"Unstacking",
+"Wristbanding"
+```
+
+</details>
 
 
 ### Theme Park Operations Phrases (83)
@@ -5031,6 +9963,97 @@ Have a magical day — backstage park-ops deadpan for when Claude is keeping the
 | Wrestling the stuck restraint on row three |
 | Zipping the mascot actor into a wearable ice vest |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Acknowledging the alarm that everyone else pretends not to hear",
+"Adjusting performer harnesses in the heat",
+"Announcing \"remain seated\" to a crowd already standing",
+"Arguing with a teenager about blatantly line-jumping",
+"Calibrating the restraint sensors again",
+"Calling in a stroller jam at the merge point",
+"Changing the hydraulic fluid in the mechanical dinosaur",
+"Checking a sensor that swears it's fine",
+"Cleaning up a Code V near the log flume",
+"Closing the queue and watching someone duck under the chain anyway",
+"Confiscating loose articles at the station gates",
+"Coordinating an evacuation in the calmest voice you own",
+"Coordinating the rope drop team positions",
+"Counting heads before the next cycle",
+"Cramming extra guests onto the parking lot tram",
+"Delivering the safety spiel with the exact same smile",
+"Directing guests to alternate entrances like it's a secret mission",
+"Directing trams while pretending you can see through sunglasses",
+"Dragging the parade float back to the warehouse",
+"Escorting a lost parent to the designated security tent",
+"Evacuating guests down the catwalk stairs",
+"Explaining that the outdoor coaster closes for lightning",
+"Explaining the difference between \"down temporarily\" and \"gone forever\"",
+"Explaining the height requirement for the fifth time today",
+"Feeding the single-rider line like a careful science experiment",
+"Filling out the incident log with heroic handwriting",
+"Fixing the audio desynchronization on the haunted house ghost",
+"Hand-stamping like it's a high-speed printing press",
+"Handing out return-time passes with a neutral face",
+"Hanging plastic pumpkins overnight for the seasonal overlay",
+"Hauling trash bags through the concrete basement tunnels",
+"Hiding out of sight backstage until the parade music starts",
+"Issuing a \"code V\" call with professional serenity",
+"Locating the missing stroller by the exit",
+"Locking the access gate behind the last tram",
+"Logging another complaint about wait times",
+"Measuring height against the sign, not the vibes",
+"Memorizing the ride safety spiel in three languages",
+"Merging the express lane with the regular standby line",
+"Monitoring the crowd density on the midway",
+"Moving stanchions three inches to fix everything",
+"Opening another switchback for the massive overflow crowd",
+"Patrolling the service tunnel after close",
+"Performing a show-stop restart with the confidence of a wizard",
+"Placing cones around a mystery spill you didn't witness",
+"Plugging the sweaty mascot head into the charging wall",
+"Pointing at the exit with exactly two fingers",
+"Power-washing the midway after the fireworks crowd finally leaves",
+"Pretending not to see guests through the underground tunnel vents",
+"Pulsing the line so the switchbacks stop boiling over",
+"Pushing strollers into a mathematically perfect grid",
+"Radio-checking every five seconds for no reason",
+"Rebooting an animatronic that chose today to take a nap",
+"Reminding everyone to please pull down on their safety restraints",
+"Restocking napkins next to the churro cart at battle tempo",
+"Reuniting a lost kid with a parent who blinked once",
+"Running parade crosswalks like a tiny air-traffic controller",
+"Searching the lost-and-found for a generic pair of sunglasses",
+"Signaling the monorail for platform clearance",
+"Smiling through the pain of a twelve-hour holiday shift",
+"Sorting lost-and-found items that have seen things",
+"Splitting parties into odd numbers for maximum efficiency",
+"Spraying disinfectant on a thousand pairs of 3D glasses",
+"Staging the fireworks crew on the roof",
+"Standing behind a rope waiting for 9 AM to happen",
+"Stocking the churro cart under the blistering sun",
+"Telling a grown adult to keep their hands inside the vehicle",
+"Testing the emergency stop from backstage",
+"Thawing frozen turkey legs in the backstage cafeteria",
+"Timing the fireworks perimeter close like a carefully rehearsed dance",
+"Troubleshooting the dispatch panel lights",
+"Tug-testing lap bars like your life depends on it",
+"Unloading the breakdown train manually",
+"Verifying the gate latch again because you know how today goes",
+"Walking the coaster track to retrieve a dropped smartphone",
+"Walking the track with a flashlight and pure optimism",
+"Watching the control panel like it owes you money",
+"Watching the virtual queue clock like a stock trader",
+"Wiping handrails that immediately become handrails again",
+"Wiping sticky cotton candy residue off the lap bars",
+"Wrangling a costumed performer through a door that's two inches too small",
+"Wrestling the stuck restraint on row three",
+"Zipping the mascot actor into a wearable ice vest"
+```
+
+</details>
+
 
 ### Trading / Crypto (13)
 
@@ -5049,6 +10072,27 @@ Have a magical day — backstage park-ops deadpan for when Claude is keeping the
 | Charting |
 | Yieldfarming |
 | Arbitraging |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Hodling",
+"Longing",
+"Shorting",
+"Staking",
+"Mining",
+"Minting",
+"Degening",
+"Apeing",
+"Mooning",
+"Swapping",
+"Charting",
+"Yieldfarming",
+"Arbitraging"
+```
+
+</details>
 
 
 ### Vibe Check (110)
@@ -5168,6 +10212,124 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Are you programming by coincidence? |
 | Refactor commits separate from feature commits? |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Did you read the error message?",
+"Do you understand what this code does?",
+"What happens if this fails?",
+"Have you tested the unhappy path?",
+"Are secrets out of the codebase?",
+"Could this accept malicious input?",
+"What edge cases are you missing?",
+"When did you last commit?",
+"Is there a test for this?",
+"Would you mass-deploy this on a Friday?",
+"Who owns this if it breaks at 3am?",
+"Does this need a rollback plan?",
+"Did you check the dependency licenses?",
+"Are you logging sensitive data?",
+"Have you validated all user input?",
+"SQL injection: are you sure?",
+"Is this endpoint authenticated?",
+"What does the error message tell the user?",
+"Could another dev maintain this?",
+"Are you duplicating existing code?",
+"Did you check for race conditions?",
+"Is this idempotent on retry?",
+"Have you tested on staging?",
+"What if the external API is down?",
+"Are promises and async calls handled?",
+"Did you null-check before using that?",
+"Is the blast radius small if this breaks?",
+"Have you run the linter?",
+"Does this scale under load?",
+"Are you blindly accepting AI output?",
+"Did you actually read the diff?",
+"Is this solving the right problem?",
+"Will this make sense in six months?",
+"Are the variable names self-explanatory?",
+"What would a code reviewer flag here?",
+"Did you test with real-world data?",
+"Is there proper error handling?",
+"Are you over-engineering this?",
+"What's the simplest solution here?",
+"Did you check for memory leaks?",
+"Is the CI pipeline green?",
+"Have you considered accessibility?",
+"Are feature flags in place?",
+"Did you update the docs?",
+"Is the schema explicitly defined?",
+"Have you scanned for vulnerabilities?",
+"What's the monitoring story?",
+"Can you reproduce this locally?",
+"Did you get a second pair of eyes?",
+"Are you trusting the AI too much?",
+"What broke the last time you skipped tests?",
+"Is there a clear source of truth?",
+"Does this respect rate limits?",
+"Are you handling timeouts?",
+"Is PII scrubbed from logs?",
+"Does this break backward compatibility?",
+"Have you checked all the TODOs?",
+"Is this change behind a feature flag?",
+"Are the permissions least-privilege?",
+"Ship it, or think about it one more minute?",
+"Did you follow TDD?",
+"Did you use the JTDB framework?",
+"Did you run the RED phase before the GREEN phase?",
+"Did you add sad-path tests?",
+"Do you have integration tests?",
+"Do you create a contract.md before you deploy sub-agents?",
+"Do you have contract tests to catch drift between front-end and back-end?",
+"Do you have a catalog.yaml to standardize all boundary enums?",
+"Have you seen the test fail?",
+"Is this class single-responsibility?",
+"Does this depend on abstractions?",
+"Open for extension, closed for modification?",
+"Is Liskov preserved here?",
+"Are your interfaces segregated?",
+"Is there a code smell here?",
+"Can you extract a method?",
+"Are you eliminating duplication?",
+"Time to refactor?",
+"Quick hack or permanent fix?",
+"Have you logged the tech debt?",
+"Is this a leaky abstraction?",
+"Are your layer dependencies correct?",
+"Does the domain logic live in the domain?",
+"Are your bounded contexts explicit?",
+"Is your ubiquitous language consistent?",
+"Did you pin your dependencies?",
+"Are builds reproducible?",
+"Is your container image lean?",
+"Are your logs structured?",
+"Did you set meaningful alerts?",
+"Could this error go unnoticed?",
+"Is your code self-documenting?",
+"Did you update the changelog?",
+"Is the PR description clear?",
+"Could you pair on this?",
+"Don't repeat yourself",
+"Make it work, make it right, make it fast",
+"Is this function doing too much?",
+"Would you approve this in code review?",
+"Are you testing behavior, not implementation?",
+"Is this the right level of abstraction?",
+"Premature optimization?",
+"Is this a command or a query? Not both.",
+"Are exceptions enriched with context?",
+"Never return null when you can return empty",
+"Is shared mutable state minimized?",
+"Does this follow the principle of least surprise?",
+"Tracer bullet: does it hit the target?",
+"Are you programming by coincidence?",
+"Refactor commits separate from feature commits?"
+```
+
+</details>
+
 
 ### Victorian / Steampunk (11)
 
@@ -5184,6 +10346,25 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Hissing steam |
 | Adjusting my goggles |
 | Winding the automaton |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Haberdashing",
+"Tinkering with clockwork",
+"Adjusting my monocle",
+"Sailing the airship",
+"Turning gears",
+"Turning cogwheels",
+"Polishing brass",
+"Tipping my top hat",
+"Hissing steam",
+"Adjusting my goggles",
+"Winding the automaton"
+```
+
+</details>
 
 
 ### Viking / Norse (11)
@@ -5202,6 +10383,25 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Prepping for Ragnarok |
 | Sailing the fjords |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pillaging",
+"Berserking",
+"Answering Valhalla's call",
+"Rowing the longship",
+"Carving runes",
+"Forming a shield wall",
+"Toasting in the mead hall",
+"Telling sagas",
+"Throwing axes",
+"Prepping for Ragnarok",
+"Sailing the fjords"
+```
+
+</details>
+
 
 ### Volcanic (11)
 
@@ -5219,6 +10419,25 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Burying Pompeii |
 | Basalt-cooling |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Erupting",
+"Lava-flowing",
+"Magma rising",
+"Ash cloud billowing",
+"Pyroclastic surging",
+"Caldera-collapsing",
+"Pumice-floating",
+"Fumarole-smoking",
+"Tephra-raining",
+"Burying Pompeii",
+"Basalt-cooling"
+```
+
+</details>
+
 
 ### Weather / Storms (11)
 
@@ -5235,6 +10454,25 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Rolling in like fog |
 | Downpouring |
 | Watching the barometer |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Raging like a monsoon",
+"Twisting like a tornado",
+"Striking like lightning",
+"Rumbling like thunder",
+"Sitting in the hurricane's eye",
+"Spinning like a cyclone",
+"Pelting hail",
+"Arching a rainbow",
+"Rolling in like fog",
+"Downpouring",
+"Watching the barometer"
+```
+
+</details>
 
 
 ### Whimsical (20)
@@ -5262,6 +10500,34 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Bamboozling |
 | Disco ball grooving |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Giggling",
+"Daydreaming",
+"Whimsy whirling",
+"Twinkling",
+"Bouncing",
+"Hopscotching",
+"Whistling",
+"Fiddlesticking",
+"Gibbering",
+"Whiffling",
+"Bumbling",
+"Swooning",
+"Glimmering",
+"Sparkling",
+"Jesting",
+"Doodad fiddling",
+"Stargazing",
+"Galumphing",
+"Bamboozling",
+"Disco ball grooving"
+```
+
+</details>
+
 
 ### Wild West / Cowboy (11)
 
@@ -5279,6 +10545,25 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Telling campfire stories |
 | Spinning the revolver |
 
+<details>
+<summary>Copy as list</summary>
+
+```
+"Lassoing",
+"Rolling like a tumbleweed",
+"Facing a showdown",
+"Quick-drawing",
+"Swinging through the saloon doors",
+"Rushing for gold",
+"Driving cattle",
+"Jingling spurs",
+"Nailing up a wanted poster",
+"Telling campfire stories",
+"Spinning the revolver"
+```
+
+</details>
+
 
 ### Wine / Sommelier (10)
 
@@ -5294,3 +10579,21 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 | Softening tannins |
 | Tasting the terroir |
 | Uncorking |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Decanting",
+"Corking",
+"Aerating",
+"Barrel-aging",
+"Selecting a vintage",
+"Sniffing the bouquet",
+"Stocking the cellar",
+"Softening tannins",
+"Tasting the terroir",
+"Uncorking"
+```
+
+</details>
