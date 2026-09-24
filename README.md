@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **4,456 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **5,284 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **4,271 additional verbs** across 129 themed categories.
+**185 built-in defaults** + **5,099 additional verbs** across 141 themed categories.
 
 ## How to Add Verbs
 
@@ -67,14 +67,17 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Ancient Greek / Roman (11)](#ancient-greek--roman-11)
 - [Animals (16)](#animals-16)
 - [Archaeology (10)](#archaeology-10)
+- [Archer (44)](#archer-44)
 - [Arctic / Polar (11)](#arctic--polar-11)
 - [Astronaut (12)](#astronaut-12)
 - [Astronomy (10)](#astronomy-10)
 - [Aviation / Pilot (11)](#aviation--pilot-11)
 - [Back to the Future (10)](#back-to-the-future-10)
 - [Bee-themed (11)](#bee-themed-11)
+- [The Big Lebowski (50)](#the-big-lebowski-50)
 - [Biology / Evolution (11)](#biology--evolution-11)
 - [Board Games (11)](#board-games-11)
+- [Breaking Bad (73)](#breaking-bad-73)
 - [Bureaucracy / DMV (68)](#bureaucracy--dmv-68)
 - [Camping / Outdoors (11)](#camping--outdoors-11)
 - [Cat Behavior (30)](#cat-behavior-30)
@@ -110,6 +113,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Letterkenny (74)](#letterkenny-74)
 - [LinkedIn-Speak (45)](#linkedin-speak-45)
 - [Lord of the Rings (13)](#lord-of-the-rings-13)
+- [The Mandalorian (54)](#the-mandalorian-54)
 - [Mario / Nintendo (11)](#mario--nintendo-11)
 - [Marvel / MCU (13)](#marvel--mcu-13)
 - [Mathematics (11)](#mathematics-11)
@@ -123,6 +127,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [The Office (12)](#the-office-12)
 - [Onomatopoeia (12)](#onomatopoeia-12)
 - [Paleontology (11)](#paleontology-11)
+- [Parks and Recreation (54)](#parks-and-recreation-54)
 - [Photography (11)](#photography-11)
 - [Pirate / Nautical (11)](#pirate--nautical-11)
 - [Pokemon (11)](#pokemon-11)
@@ -134,6 +139,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Samurai / Japanese (11)](#samurai--japanese-11)
 - [Sci-Fi / Space (16)](#sci-fi--space-16)
 - [Shoresy (89)](#shoresy-89)
+- [Silicon Valley (88)](#silicon-valley-88)
 - [The Simpsons (31)](#the-simpsons-31)
 - [Social Media (11)](#social-media-11)
 - [South Park (35)](#south-park-35)
@@ -162,6 +168,9 @@ Short, themed verbs — one or two words that replace the default spinner text.
 Full sentences and phrases — longer, more expressive spinner text with personality.
 
 - [AI Phrases (99)](#ai-phrases-99)
+- [Archer Phrases (57)](#archer-phrases-57)
+- [The Big Lebowski Phrases (66)](#the-big-lebowski-phrases-66)
+- [Breaking Bad Phrases (73)](#breaking-bad-phrases-73)
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
@@ -179,13 +188,16 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [Letterkenny Phrases (92)](#letterkenny-phrases-92)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
+- [The Mandalorian Phrases (93)](#the-mandalorian-phrases-93)
 - [Mission Control / Space Launch (80)](#mission-control--space-launch-80)
 - [Motivational Poster (80)](#motivational-poster-80)
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
+- [Parks and Recreation Phrases (87)](#parks-and-recreation-phrases-87)
 - [Rick and Morty Phrases (60)](#rick-and-morty-phrases-60)
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
+- [Silicon Valley Phrases (89)](#silicon-valley-phrases-89)
 - [The Simpsons Phrases (67)](#the-simpsons-phrases-67)
 - [South Park Phrases (40)](#south-park-phrases-40)
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
@@ -847,6 +859,238 @@ Witty AI inner-monologue while Claude works.
 </details>
 
 
+### Archer (44)
+
+| Verb |
+|------|
+| Wearing a tactleneck |
+| Rephrasing |
+| Rampaging |
+| Antproofing |
+| Answering to Duchess |
+| Tinkering like Krieger |
+| Sleuthing in Dreamland |
+| Snarking |
+| Island-hopping |
+| Spacefaring |
+| Wrangling Babou |
+| Paging Lana |
+| Screaming Lana |
+| Pulling on a turtleneck |
+| Paging Loggins |
+| Swilling Scotch |
+| Pouring Glengoolie |
+| Drift-racing |
+| Suppressing fire |
+| Counting shots |
+| Ignoring tinnitus |
+| Eating bearclaws |
+| Faking voicemails |
+| Cloning pigs |
+| Building cyborgs |
+| Dodging alligators |
+| Berating Cyril |
+| Scolding Woodhouse |
+| Hunting moles |
+| Revving Cadillacs |
+| Smuggling contraband |
+| Laundering cash |
+| Babysitting AJ |
+| Cyborgizing Barry |
+| Rebooting Katya |
+| Booting Mitsuko |
+| Repairing Ray |
+| Piloting seaplanes |
+| Micromanaging agents |
+| Baiting ants |
+| Shaking martinis |
+| Firing quips |
+| Ducking bullets |
+| Brawling like Pam |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Wearing a tactleneck",
+"Rephrasing",
+"Rampaging",
+"Antproofing",
+"Answering to Duchess",
+"Tinkering like Krieger",
+"Sleuthing in Dreamland",
+"Snarking",
+"Island-hopping",
+"Spacefaring",
+"Wrangling Babou",
+"Paging Lana",
+"Screaming Lana",
+"Pulling on a turtleneck",
+"Paging Loggins",
+"Swilling Scotch",
+"Pouring Glengoolie",
+"Drift-racing",
+"Suppressing fire",
+"Counting shots",
+"Ignoring tinnitus",
+"Eating bearclaws",
+"Faking voicemails",
+"Cloning pigs",
+"Building cyborgs",
+"Dodging alligators",
+"Berating Cyril",
+"Scolding Woodhouse",
+"Hunting moles",
+"Revving Cadillacs",
+"Smuggling contraband",
+"Laundering cash",
+"Babysitting AJ",
+"Cyborgizing Barry",
+"Rebooting Katya",
+"Booting Mitsuko",
+"Repairing Ray",
+"Piloting seaplanes",
+"Micromanaging agents",
+"Baiting ants",
+"Shaking martinis",
+"Firing quips",
+"Ducking bullets",
+"Brawling like Pam"
+```
+
+</details>
+
+
+### Archer Phrases (57)
+
+ISIS field ops, Krieger's lab, and Malory's liquor cabinet. Do you want ants? Because that's how you get ants.
+
+| Verb |
+|------|
+| Asking if you want ants |
+| Checking if that's how you get ants |
+| Leaving syntax errors lying around, which is how you get ants |
+| Entering the danger zone |
+| Entering the danger zone without a staging environment |
+| Waiting in the actual danger zone |
+| Calling Lana until the logs answer |
+| Yelling Lana across the bullpen |
+| Screaming "LANA" until the server finally responds |
+| Yelling "Phrasing!" at the variable names |
+| Explaining that it's a tactical turtleneck |
+| Putting on a tactleneck in a slightly darker black |
+| Pouring Malory another Glengoolie Blue |
+| Mixing Malory's third martini |
+| Debugging Krieger's virtual girlfriend |
+| Asking Krieger if that's another clone |
+| Hunting the mole hiding in the codebase |
+| Asking Barry which Barry this is |
+| Getting Ray another set of robot legs |
+| Wrangling Babou before standup |
+| Petting Babou against all available advice |
+| Checking the server room for ocelot toys |
+| Rebranding ISIS for extremely obvious reasons |
+| Rebranding again as The Figgis Agency |
+| Moving operations back to The Agency |
+| Letting Cyril explain the merge conflict |
+| Telling Cyril the build failed |
+| Letting Pam handle code review |
+| Drift-racing the Yakuza through the mainframe |
+| Keeping Cheryl away from the glue |
+| Changing my name from Cheryl to Carol to Cristal |
+| Sending Woodhouse out for coarse-grade sand |
+| Channeling full Burt Reynolds |
+| Riding shotgun in an airboat with Burt Reynolds |
+| Borrowing a getaway car from Ron Cadillac |
+| Solving one more murder in Dreamland |
+| Searching for a missing valet in 1947 Dreamland |
+| Waking up from a surprisingly long coma |
+| Crashing a seaplane into Danger Island's firewall |
+| Starting the seaplane on Danger Island |
+| Asking Crackers to stop narrating the build |
+| Rebooting the crew aboard the Seamus |
+| Liquidating the remaining Archer Vice inventory |
+| Forming an outlaw country trio while the database syncs |
+| Fearing alligators, crocodiles, and unhandled exceptions |
+| Counting my shots because I'm not sure I'm out of RAM |
+| Swearing I had something for this logic error |
+| Yelling "Suppressing fire!" while brute-forcing the algorithm |
+| Leaving the server a long, elaborate voicemail |
+| Bribing the network admin with bearclaws |
+| Telling the compiler it's not my supervisor |
+| Ignoring the tinnitus from all these compiler warnings |
+| Somehow shooting Brett during a routine bug fix |
+| Waiting for Sterling to read the ticket |
+| Dodging Slater's latest off-the-books assignment |
+| Updating Katya's cyborg firmware |
+| Booting Mitsuko in safe mode |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Asking if you want ants",
+"Checking if that's how you get ants",
+"Leaving syntax errors lying around, which is how you get ants",
+"Entering the danger zone",
+"Entering the danger zone without a staging environment",
+"Waiting in the actual danger zone",
+"Calling Lana until the logs answer",
+"Yelling Lana across the bullpen",
+"Screaming \"LANA\" until the server finally responds",
+"Yelling \"Phrasing!\" at the variable names",
+"Explaining that it's a tactical turtleneck",
+"Putting on a tactleneck in a slightly darker black",
+"Pouring Malory another Glengoolie Blue",
+"Mixing Malory's third martini",
+"Debugging Krieger's virtual girlfriend",
+"Asking Krieger if that's another clone",
+"Hunting the mole hiding in the codebase",
+"Asking Barry which Barry this is",
+"Getting Ray another set of robot legs",
+"Wrangling Babou before standup",
+"Petting Babou against all available advice",
+"Checking the server room for ocelot toys",
+"Rebranding ISIS for extremely obvious reasons",
+"Rebranding again as The Figgis Agency",
+"Moving operations back to The Agency",
+"Letting Cyril explain the merge conflict",
+"Telling Cyril the build failed",
+"Letting Pam handle code review",
+"Drift-racing the Yakuza through the mainframe",
+"Keeping Cheryl away from the glue",
+"Changing my name from Cheryl to Carol to Cristal",
+"Sending Woodhouse out for coarse-grade sand",
+"Channeling full Burt Reynolds",
+"Riding shotgun in an airboat with Burt Reynolds",
+"Borrowing a getaway car from Ron Cadillac",
+"Solving one more murder in Dreamland",
+"Searching for a missing valet in 1947 Dreamland",
+"Waking up from a surprisingly long coma",
+"Crashing a seaplane into Danger Island's firewall",
+"Starting the seaplane on Danger Island",
+"Asking Crackers to stop narrating the build",
+"Rebooting the crew aboard the Seamus",
+"Liquidating the remaining Archer Vice inventory",
+"Forming an outlaw country trio while the database syncs",
+"Fearing alligators, crocodiles, and unhandled exceptions",
+"Counting my shots because I'm not sure I'm out of RAM",
+"Swearing I had something for this logic error",
+"Yelling \"Suppressing fire!\" while brute-forcing the algorithm",
+"Leaving the server a long, elaborate voicemail",
+"Bribing the network admin with bearclaws",
+"Telling the compiler it's not my supervisor",
+"Ignoring the tinnitus from all these compiler warnings",
+"Somehow shooting Brett during a routine bug fix",
+"Waiting for Sterling to read the ticket",
+"Dodging Slater's latest off-the-books assignment",
+"Updating Katya's cyborg firmware",
+"Booting Mitsuko in safe mode"
+```
+
+</details>
+
+
 ### Arctic / Polar (11)
 
 | Verb |
@@ -1061,6 +1305,268 @@ Witty AI inner-monologue while Claude works.
 </details>
 
 
+### The Big Lebowski (50)
+
+| Verb |
+|------|
+| Abiding |
+| Bowling |
+| Bowling a strike |
+| Rolling gutter balls |
+| Polishing the ball |
+| Mixing a Caucasian |
+| Sipping Caucasians |
+| Mixing White Russians |
+| Drinking sarsaparilla |
+| Tying the room together |
+| Guarding the rug |
+| Recovering the rug |
+| Unrolling the rug |
+| Marking it zero |
+| Stepping over the line |
+| Throwing rocks |
+| Taking it easy |
+| Listening to Creedence |
+| Recovering the tapes |
+| Repairing the Torino |
+| Observing Shabbos |
+| Enduring Walter |
+| Shushing Donny |
+| Scattering ashes |
+| Packing the ringer |
+| Dropping the ringer |
+| Opening the briefcase |
+| Paying the ransom |
+| Questioning Larry |
+| Inspecting homework |
+| Procuring a toe |
+| Counting toes |
+| Painting toenails |
+| Tracking nihilists |
+| Feeding the marmot |
+| Wrangling the marmot |
+| Seeking Bunny |
+| Dreaming of Maude |
+| Flying on a magic carpet |
+| Tracing Treehorn's notepad |
+| Dodging coffee mugs |
+| Facing Quintana |
+| Consulting the Stranger |
+| Joining the achievers |
+| Watching Marty's dance quintet |
+| Greeting Brandt |
+| Not golfing |
+| Writing a check |
+| Tumbling |
+| Eating the bear |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Abiding",
+"Bowling",
+"Bowling a strike",
+"Rolling gutter balls",
+"Polishing the ball",
+"Mixing a Caucasian",
+"Sipping Caucasians",
+"Mixing White Russians",
+"Drinking sarsaparilla",
+"Tying the room together",
+"Guarding the rug",
+"Recovering the rug",
+"Unrolling the rug",
+"Marking it zero",
+"Stepping over the line",
+"Throwing rocks",
+"Taking it easy",
+"Listening to Creedence",
+"Recovering the tapes",
+"Repairing the Torino",
+"Observing Shabbos",
+"Enduring Walter",
+"Shushing Donny",
+"Scattering ashes",
+"Packing the ringer",
+"Dropping the ringer",
+"Opening the briefcase",
+"Paying the ransom",
+"Questioning Larry",
+"Inspecting homework",
+"Procuring a toe",
+"Counting toes",
+"Painting toenails",
+"Tracking nihilists",
+"Feeding the marmot",
+"Wrangling the marmot",
+"Seeking Bunny",
+"Dreaming of Maude",
+"Flying on a magic carpet",
+"Tracing Treehorn's notepad",
+"Dodging coffee mugs",
+"Facing Quintana",
+"Consulting the Stranger",
+"Joining the achievers",
+"Watching Marty's dance quintet",
+"Greeting Brandt",
+"Not golfing",
+"Writing a check",
+"Tumbling",
+"Eating the bear"
+```
+
+</details>
+
+
+### The Big Lebowski Phrases (66)
+
+White Russians, league bowling, and a rug that really tied the room together. The Dude abides.
+
+| Verb |
+|------|
+| Taking it easy for all us sinners |
+| Taking it easy for all us debuggers |
+| Abiding while the code compiles |
+| Abiding, because the code always abides |
+| Reminding everyone that the Dude abides |
+| Letting the whole thing just abide |
+| Answering to His Dudeness, or Duder, or El Duderino |
+| Minding the Dude's context window |
+| Bowling another frame in the league |
+| Polishing the ball before the big league tournament |
+| Sipping a Caucasian and waiting patiently |
+| Mixing a Caucasian while the packages install |
+| Drinking a good sarsaparilla while the server reboots |
+| Finding a rug that really ties the codebase together |
+| Tying the dependency graph together like a really good rug |
+| Tying the whole room together again |
+| Marking it zero because this syntax is over the line |
+| Marking that failing test zero |
+| Checking whether this commit crossed the line |
+| Facing Quintana without stepping over the line |
+| Listening to Creedence instead of spinning |
+| Looking for the Creedence tapes in the recovered vehicle |
+| Repairing the Dude's Torino without harming the Creedence tapes |
+| Deciding that this aggression will not stand |
+| Refusing to let this regression stand |
+| Noting that new stuff has come to light |
+| Asking the repository if this is your homework, Larry |
+| Asking Larry if this uncommitted code is his homework |
+| Failing the build because obviously you're not a golfer |
+| Confirming that this keyboard is obviously not a golfer |
+| Not rolling on Shabbos, but deploying the code anyway |
+| Observing Shabbos before touching production |
+| Reminding the terminal that nobody calls me Lebowski |
+| Calling him the Dude because nobody calls him Lebowski |
+| Accepting that sometimes you eat the bar |
+| Eating the bar before the bar eats this release |
+| Watching Donny's ashes drift from the can |
+| Scattering the ashes from a Folgers coffee can |
+| Scattering Donny's edge cases somewhere downwind this time |
+| Telling Donny he is completely out of his element |
+| Telling the linter to shut up, Donny |
+| Enduring another one of Walter's stories |
+| Throwing rocks tonight because the logic is sound |
+| Entering a world of pain to debug this fatal error |
+| Noting that this is just, like, your opinion, man |
+| Treating the compiler warning as just its opinion |
+| Dreaming through a choreographed bowling debugger |
+| Flying on a magic carpet over an infinite bowling alley |
+| Avoiding the nihilists and their angry marmot |
+| Evicting nihilists and an alleged marmot from the sandbox |
+| Checking whether the briefcase is a ringer |
+| Dropping the ringer briefcase at the designated bridge |
+| Swapping the ringer for a briefcase full of working code |
+| Procuring a toe by three o'clock, with nail polish |
+| Counting the toes before accepting the proof |
+| Searching every branch for Bunny |
+| Auditing the Big Lebowski's story and Brandt's nervous laugh |
+| Creating avant-garde art while suspended from a studio harness |
+| Interpreting Maude's art as a particularly bold flowchart |
+| Shading Jackie Treehorn's notepad to reveal a hidden clue |
+| Tracing Jackie Treehorn's sketch into an architecture diagram |
+| Dodging a coffee mug thrown by the Malibu police chief |
+| Listening to the Stranger narrate the progress bar |
+| Tumbling like a tumbleweed across the Los Angeles basin |
+| Commending the Little Lebowski Urban Achievers on a successful pull request |
+| Writing a post-dated check for sixty-nine cents |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Taking it easy for all us sinners",
+"Taking it easy for all us debuggers",
+"Abiding while the code compiles",
+"Abiding, because the code always abides",
+"Reminding everyone that the Dude abides",
+"Letting the whole thing just abide",
+"Answering to His Dudeness, or Duder, or El Duderino",
+"Minding the Dude's context window",
+"Bowling another frame in the league",
+"Polishing the ball before the big league tournament",
+"Sipping a Caucasian and waiting patiently",
+"Mixing a Caucasian while the packages install",
+"Drinking a good sarsaparilla while the server reboots",
+"Finding a rug that really ties the codebase together",
+"Tying the dependency graph together like a really good rug",
+"Tying the whole room together again",
+"Marking it zero because this syntax is over the line",
+"Marking that failing test zero",
+"Checking whether this commit crossed the line",
+"Facing Quintana without stepping over the line",
+"Listening to Creedence instead of spinning",
+"Looking for the Creedence tapes in the recovered vehicle",
+"Repairing the Dude's Torino without harming the Creedence tapes",
+"Deciding that this aggression will not stand",
+"Refusing to let this regression stand",
+"Noting that new stuff has come to light",
+"Asking the repository if this is your homework, Larry",
+"Asking Larry if this uncommitted code is his homework",
+"Failing the build because obviously you're not a golfer",
+"Confirming that this keyboard is obviously not a golfer",
+"Not rolling on Shabbos, but deploying the code anyway",
+"Observing Shabbos before touching production",
+"Reminding the terminal that nobody calls me Lebowski",
+"Calling him the Dude because nobody calls him Lebowski",
+"Accepting that sometimes you eat the bar",
+"Eating the bar before the bar eats this release",
+"Watching Donny's ashes drift from the can",
+"Scattering the ashes from a Folgers coffee can",
+"Scattering Donny's edge cases somewhere downwind this time",
+"Telling Donny he is completely out of his element",
+"Telling the linter to shut up, Donny",
+"Enduring another one of Walter's stories",
+"Throwing rocks tonight because the logic is sound",
+"Entering a world of pain to debug this fatal error",
+"Noting that this is just, like, your opinion, man",
+"Treating the compiler warning as just its opinion",
+"Dreaming through a choreographed bowling debugger",
+"Flying on a magic carpet over an infinite bowling alley",
+"Avoiding the nihilists and their angry marmot",
+"Evicting nihilists and an alleged marmot from the sandbox",
+"Checking whether the briefcase is a ringer",
+"Dropping the ringer briefcase at the designated bridge",
+"Swapping the ringer for a briefcase full of working code",
+"Procuring a toe by three o'clock, with nail polish",
+"Counting the toes before accepting the proof",
+"Searching every branch for Bunny",
+"Auditing the Big Lebowski's story and Brandt's nervous laugh",
+"Creating avant-garde art while suspended from a studio harness",
+"Interpreting Maude's art as a particularly bold flowchart",
+"Shading Jackie Treehorn's notepad to reveal a hidden clue",
+"Tracing Jackie Treehorn's sketch into an architecture diagram",
+"Dodging a coffee mug thrown by the Malibu police chief",
+"Listening to the Stranger narrate the progress bar",
+"Tumbling like a tumbleweed across the Los Angeles basin",
+"Commending the Little Lebowski Urban Achievers on a successful pull request",
+"Writing a post-dated check for sixty-nine cents"
+```
+
+</details>
+
+
 ### Biology / Evolution (11)
 
 | Verb |
@@ -1128,6 +1634,328 @@ Witty AI inner-monologue while Claude works.
 "Sinking battleships",
 "Stacking Jenga blocks",
 "Counting victory points"
+```
+
+</details>
+
+
+### Breaking Bad (73)
+
+| Verb |
+|------|
+| Knocking |
+| Becoming Heisenberg |
+| Treading lightly |
+| Applying chemistry |
+| Balancing equations |
+| Chasing the fly |
+| Ringing Tio's bell |
+| Tossing the pizza |
+| Rolling the barrel |
+| Burying money barrels |
+| Counting barrels |
+| Polishing the Aztek |
+| Driving the Aztek |
+| Collecting Hank's minerals |
+| Calling Saul |
+| Weighing the blue |
+| Refining blue product |
+| Inspecting blue sky |
+| Frying chicken |
+| Serving chicken |
+| Extracting ricin |
+| Hiding the ricin |
+| Stealing methylamine |
+| Fixing the RV |
+| Rolling the RV |
+| Decorating in purple |
+| Wearing Marie's purple |
+| Feeding Flynn |
+| Counting the cash |
+| Hiding the money |
+| Applying magnets |
+| Magnetizing evidence |
+| Dissolving the evidence |
+| Taking half measures |
+| Taking full measures |
+| Running Los Pollos Hermanos |
+| Harmonizing with Gale |
+| Remembering Gale |
+| Crossing the desert |
+| Meeting in the desert |
+| Meeting in secret |
+| Sending to Belize |
+| Pouring stevia |
+| Following Lydia |
+| Fixing the windshield |
+| Spinning the sign |
+| Protecting the family |
+| Smashing the phone |
+| Selling burner phones |
+| Wearing the porkpie hat |
+| Building an empire |
+| Washing cars |
+| Guarding the lab |
+| Avoiding Hank |
+| Perfecting purity |
+| Planning the train heist |
+| Outsmarting Tuco |
+| Testing 99.1% purity |
+| Roaming Albuquerque |
+| Building the superlab |
+| Consulting Mike |
+| Tracking Gus |
+| Calming Tuco |
+| Shadowing the Salamancas |
+| Guiding Jesse |
+| Balancing Skyler's books |
+| Watching the teddy bear fall |
+| Questioning Todd |
+| Distracting Badger |
+| Backing Skinny Pete |
+| Faking a fugue state |
+| Sweeping for bugs |
+| Lawyering up |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Knocking",
+"Becoming Heisenberg",
+"Treading lightly",
+"Applying chemistry",
+"Balancing equations",
+"Chasing the fly",
+"Ringing Tio's bell",
+"Tossing the pizza",
+"Rolling the barrel",
+"Burying money barrels",
+"Counting barrels",
+"Polishing the Aztek",
+"Driving the Aztek",
+"Collecting Hank's minerals",
+"Calling Saul",
+"Weighing the blue",
+"Refining blue product",
+"Inspecting blue sky",
+"Frying chicken",
+"Serving chicken",
+"Extracting ricin",
+"Hiding the ricin",
+"Stealing methylamine",
+"Fixing the RV",
+"Rolling the RV",
+"Decorating in purple",
+"Wearing Marie's purple",
+"Feeding Flynn",
+"Counting the cash",
+"Hiding the money",
+"Applying magnets",
+"Magnetizing evidence",
+"Dissolving the evidence",
+"Taking half measures",
+"Taking full measures",
+"Running Los Pollos Hermanos",
+"Harmonizing with Gale",
+"Remembering Gale",
+"Crossing the desert",
+"Meeting in the desert",
+"Meeting in secret",
+"Sending to Belize",
+"Pouring stevia",
+"Following Lydia",
+"Fixing the windshield",
+"Spinning the sign",
+"Protecting the family",
+"Smashing the phone",
+"Selling burner phones",
+"Wearing the porkpie hat",
+"Building an empire",
+"Washing cars",
+"Guarding the lab",
+"Avoiding Hank",
+"Perfecting purity",
+"Planning the train heist",
+"Outsmarting Tuco",
+"Testing 99.1% purity",
+"Roaming Albuquerque",
+"Building the superlab",
+"Consulting Mike",
+"Tracking Gus",
+"Calming Tuco",
+"Shadowing the Salamancas",
+"Guiding Jesse",
+"Balancing Skyler's books",
+"Watching the teddy bear fall",
+"Questioning Todd",
+"Distracting Badger",
+"Backing Skinny Pete",
+"Faking a fugue state",
+"Sweeping for bugs",
+"Lawyering up"
+```
+
+</details>
+
+
+### Breaking Bad Phrases (73)
+
+Albuquerque chemistry, from the RV to the superlab. Say my name.
+
+| Verb |
+|------|
+| I am the one who knocks |
+| I am the one who knocks on blocked processes |
+| I am the danger |
+| Say my name |
+| Waiting for you to say my name |
+| Saying my name before naming the next function |
+| Yeah, science! |
+| Yelling "Yeah, science!" in the Albuquerque desert |
+| Passing the test suite. Yeah, science! |
+| No half measures |
+| Making no half measures the deployment policy |
+| Tread lightly |
+| Stay out of my territory |
+| Chemistry is the study of change |
+| Jesse, we need to code |
+| I did it for me. I liked it. I was good at it |
+| Someone has to protect this family from the man who protects this family |
+| Just because you shot Jesse James don't make you Jesse James |
+| We had a good thing going |
+| Better call Saul |
+| It's all good, man |
+| Asking Saul, who knows a guy who knows a guy |
+| Letting Saul handle all the legal loopholes |
+| Applying a basic understanding of chemistry |
+| Respecting the chemistry at all costs |
+| Running a batch of tests that's 99.1% pure |
+| Throwing a family-sized pizza onto the roof |
+| Letting the pizza reconsider its place on the roof |
+| Trying to get the fly out of the superlab |
+| Treating the fly as the highest-priority bug |
+| Applying for a job at Los Pollos Hermanos |
+| Preparing a Los Pollos Hermanos signature spice blend |
+| Serving secrets on the side at Los Pollos Hermanos |
+| Explaining that they're minerals, not rocks |
+| Making sure Marie has enough purple in her house |
+| Letting Marie turn every setting purple |
+| Looking for the pink teddy bear in the pool |
+| Feeling the pink teddy bear watching from above |
+| Finding the money barrels at the coordinates |
+| Using giant magnets to wipe the hard drive |
+| Solving with magnets what backups could not |
+| Waiting for Hector to ding his bell |
+| Getting one more notification from Tio's bell |
+| Sending Gus Fring's regards |
+| Straightening Gus's tie before deployment |
+| Giving the RV one more jump-start |
+| Watching Albuquerque fade in the rearview mirror |
+| Enjoying a nice, nutritious breakfast with Walt Jr. |
+| Letting Flynn choose which name to commit under |
+| Buying a brand new car wash for the family |
+| Letting Todd be unsettlingly helpful |
+| Adding a touch of stevia to Lydia's drink |
+| Slipping a little ricin into the chamomile tea |
+| Forgetting where the ricin cigarette went |
+| Getting Badger and Skinny Pete to run the latest build |
+| Listening to Badger pitch another Star Trek episode |
+| Finding another of Gale's notebooks |
+| Listening to Gale sing Major Tom in his apartment |
+| Watching the cousins walk silently down the road |
+| Sending this legacy code on a trip to Belize |
+| Building a battery out of loose change and sponges |
+| Calling the vacuum repairman for a new dust filter |
+| Trading the Pontiac Aztek for a leased Chrysler |
+| Staring intensely at a cracked windshield |
+| Setting up the pest control tent over the house |
+| Hiring Mike to clean up the bugs |
+| Listening to Mike explain why this plan is a bad idea |
+| Demanding to know exactly how much is enough |
+| Realizing Tuco is tasting the product again |
+| Telling Tuco the build is tight, tight, tight |
+| Watching Jesse finally apply himself |
+| Hiding the burner phone in the drop ceiling |
+| Laughing maniacally down in the crawl space |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"I am the one who knocks",
+"I am the one who knocks on blocked processes",
+"I am the danger",
+"Say my name",
+"Waiting for you to say my name",
+"Saying my name before naming the next function",
+"Yeah, science!",
+"Yelling \"Yeah, science!\" in the Albuquerque desert",
+"Passing the test suite. Yeah, science!",
+"No half measures",
+"Making no half measures the deployment policy",
+"Tread lightly",
+"Stay out of my territory",
+"Chemistry is the study of change",
+"Jesse, we need to code",
+"I did it for me. I liked it. I was good at it",
+"Someone has to protect this family from the man who protects this family",
+"Just because you shot Jesse James don't make you Jesse James",
+"We had a good thing going",
+"Better call Saul",
+"It's all good, man",
+"Asking Saul, who knows a guy who knows a guy",
+"Letting Saul handle all the legal loopholes",
+"Applying a basic understanding of chemistry",
+"Respecting the chemistry at all costs",
+"Running a batch of tests that's 99.1% pure",
+"Throwing a family-sized pizza onto the roof",
+"Letting the pizza reconsider its place on the roof",
+"Trying to get the fly out of the superlab",
+"Treating the fly as the highest-priority bug",
+"Applying for a job at Los Pollos Hermanos",
+"Preparing a Los Pollos Hermanos signature spice blend",
+"Serving secrets on the side at Los Pollos Hermanos",
+"Explaining that they're minerals, not rocks",
+"Making sure Marie has enough purple in her house",
+"Letting Marie turn every setting purple",
+"Looking for the pink teddy bear in the pool",
+"Feeling the pink teddy bear watching from above",
+"Finding the money barrels at the coordinates",
+"Using giant magnets to wipe the hard drive",
+"Solving with magnets what backups could not",
+"Waiting for Hector to ding his bell",
+"Getting one more notification from Tio's bell",
+"Sending Gus Fring's regards",
+"Straightening Gus's tie before deployment",
+"Giving the RV one more jump-start",
+"Watching Albuquerque fade in the rearview mirror",
+"Enjoying a nice, nutritious breakfast with Walt Jr.",
+"Letting Flynn choose which name to commit under",
+"Buying a brand new car wash for the family",
+"Letting Todd be unsettlingly helpful",
+"Adding a touch of stevia to Lydia's drink",
+"Slipping a little ricin into the chamomile tea",
+"Forgetting where the ricin cigarette went",
+"Getting Badger and Skinny Pete to run the latest build",
+"Listening to Badger pitch another Star Trek episode",
+"Finding another of Gale's notebooks",
+"Listening to Gale sing Major Tom in his apartment",
+"Watching the cousins walk silently down the road",
+"Sending this legacy code on a trip to Belize",
+"Building a battery out of loose change and sponges",
+"Calling the vacuum repairman for a new dust filter",
+"Trading the Pontiac Aztek for a leased Chrysler",
+"Staring intensely at a cracked windshield",
+"Setting up the pest control tent over the house",
+"Hiring Mike to clean up the bugs",
+"Listening to Mike explain why this plan is a bad idea",
+"Demanding to know exactly how much is enough",
+"Realizing Tuco is tasting the product again",
+"Telling Tuco the build is tight, tight, tight",
+"Watching Jesse finally apply himself",
+"Hiding the burner phone in the drop ceiling",
+"Laughing maniacally down in the crawl space"
 ```
 
 </details>
@@ -6219,6 +7047,330 @@ Thought-leader cringe for the timeline — humbled and honored to compile your c
 </details>
 
 
+### The Mandalorian (54)
+
+| Verb |
+|------|
+| Forging beskar |
+| Smelting beskar |
+| Tempering steel |
+| Lighting the forge |
+| Forging signets |
+| Claiming bounties |
+| Tracking quarry |
+| Freezing quarry |
+| Freezing in carbonite |
+| Scanning pucks |
+| Delivering the asset |
+| Negotiating with the Guild |
+| Piloting the Crest |
+| Patching the Razor Crest |
+| Rebuilding the Crest |
+| Flying the N-1 |
+| Refitting the N-1 |
+| Modding starfighters |
+| Crash-landing |
+| Flying by jetpack |
+| Protecting foundlings |
+| Training foundlings |
+| Guarding Grogu |
+| Cradling Grogu |
+| Stealing macarons |
+| Snacking on frog eggs |
+| Transporting frog eggs |
+| Chasing the shifter knob |
+| Seeking the Living Waters |
+| Bathing in the Living Waters |
+| Walking the Way |
+| Swearing the Creed |
+| Sealing helmets |
+| Polishing armor |
+| Rallying the covert |
+| Reclaiming Mandalore |
+| Wielding the Darksaber |
+| Igniting the Darksaber |
+| Launching whistling birds |
+| Riding blurrgs |
+| Taming mudhorns |
+| Slaying krayt dragons |
+| Herding womp rats |
+| Trading with Jawas |
+| Chasing Jawas |
+| Distrusting droids |
+| Repairing IG-11 |
+| Initiating self-destruct |
+| Fighting dark troopers |
+| Dodging Moff Gideon |
+| Defeating Moff Gideon |
+| Patrolling Nevarro |
+| Scanning chain codes |
+| Sipping spotchka |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Forging beskar",
+"Smelting beskar",
+"Tempering steel",
+"Lighting the forge",
+"Forging signets",
+"Claiming bounties",
+"Tracking quarry",
+"Freezing quarry",
+"Freezing in carbonite",
+"Scanning pucks",
+"Delivering the asset",
+"Negotiating with the Guild",
+"Piloting the Crest",
+"Patching the Razor Crest",
+"Rebuilding the Crest",
+"Flying the N-1",
+"Refitting the N-1",
+"Modding starfighters",
+"Crash-landing",
+"Flying by jetpack",
+"Protecting foundlings",
+"Training foundlings",
+"Guarding Grogu",
+"Cradling Grogu",
+"Stealing macarons",
+"Snacking on frog eggs",
+"Transporting frog eggs",
+"Chasing the shifter knob",
+"Seeking the Living Waters",
+"Bathing in the Living Waters",
+"Walking the Way",
+"Swearing the Creed",
+"Sealing helmets",
+"Polishing armor",
+"Rallying the covert",
+"Reclaiming Mandalore",
+"Wielding the Darksaber",
+"Igniting the Darksaber",
+"Launching whistling birds",
+"Riding blurrgs",
+"Taming mudhorns",
+"Slaying krayt dragons",
+"Herding womp rats",
+"Trading with Jawas",
+"Chasing Jawas",
+"Distrusting droids",
+"Repairing IG-11",
+"Initiating self-destruct",
+"Fighting dark troopers",
+"Dodging Moff Gideon",
+"Defeating Moff Gideon",
+"Patrolling Nevarro",
+"Scanning chain codes",
+"Sipping spotchka"
+```
+
+</details>
+
+
+### The Mandalorian Phrases (93)
+
+Bounty pucks, beskar, and one very hungry foundling. This is the way.
+
+| Verb |
+|------|
+| Keeping the helmet on for this build |
+| Refusing to remove my helmet until the build passes |
+| Never removing the helmet mid-compile |
+| Walking the Way through the call stack |
+| Walking the Way to a successful compilation |
+| Following the linter because this is the way |
+| Closing the issue after Kuiil says "I have spoken" |
+| Formatting the output perfectly, I have spoken |
+| Continuing the build, I have spoken |
+| Asking Kuiil to hard-work the solution |
+| Treating this algorithm as my religion |
+| Waiting for the Armorer to strike the forge |
+| Returning this refactor to the Armorer's forge |
+| Striking the forge for a cleaner answer |
+| Forging your variables out of pure beskar |
+| Pouring beskar-grade type safety |
+| Trading an entire cache of beskar for one missing dependency |
+| Smelting down the scrap metal to forge a new signet |
+| Earning a mudhorn signet from this merge conflict |
+| Assigning a bounty puck to this ticket |
+| Checking the bounty puck for the next ticket |
+| Tracking down the memory leak with a Guild bounty puck |
+| Bringing the compiler errors in warm, or bringing them in cold |
+| Bringing the quarry in warm, preferably compiled |
+| Freezing the race condition in carbonite |
+| Freezing the legacy bugs in a solid block of carbonite |
+| Freezing stale processes in carbonite |
+| Protecting the foundling from null pointers |
+| Stopping Grogu from eating the source code |
+| Watching Grogu swallow the debug logs whole |
+| Catching Grogu eating something undocumented |
+| Counting the eggs again because Grogu looked innocent |
+| Protecting Frog Lady's eggs from a suspiciously hungry child |
+| Granting Frog Lady safe passage for her eggs |
+| Transporting the data packets as carefully as Frog Lady's eggs |
+| Chasing the silver ball across the heap |
+| Squeezing the silver knob while the pipeline runs |
+| Distracting the junior developer with a silver shifter knob |
+| Letting IG-11 nurse the crashing process |
+| Updating my base protocol to nurse and protect this script |
+| Reprogramming the IG unit to write tests instead of self-destructing |
+| Trusting IG-11 with deployment against better judgment |
+| Pressing "yes" on IG-12 until the Anzellans object |
+| Collecting bounties on bugs with Greef Karga |
+| Asking Greef whether Nevarro includes dental |
+| Calling a Guild meeting on Nevarro |
+| Letting Cara Dune handle the heavy artillery |
+| Locking down the perimeter of main with Cara Dune |
+| Reclaiming lost production branches with Bo-Katan |
+| Following Bo-Katan into another perfectly reasonable coup |
+| Rallying the remaining nodes to retake the main branch |
+| Watching Moff Gideon eye the Darksaber of deploy keys |
+| Finding Moff Gideon cloned the same bug three times |
+| Wielding the Darksaber to cut through technical debt |
+| Learning why the Darksaber gets heavier near deadlines |
+| Crossing the Living Waters of code review |
+| Purifying the production database in the Living Waters |
+| Descending into the Living Waters for a clean build |
+| Approving the pull request with the Children of the Watch |
+| Haggling with Peli Motto over spare dependencies |
+| Asking Peli Motto to babysit the build |
+| Paying Peli Motto to optimize the backend over sabacc |
+| Hiring Anzellan droidsmiths to squeeze into the microservices |
+| Listening to Anzellans whisper fixes to the hyperdrive |
+| Arming the whistling birds and waiting on standby |
+| Firing whistling birds at the flaky tests |
+| Deploying whistling birds to clear all compiler warnings |
+| Breaking atmosphere in the Razor Crest on the way to prod |
+| Rebuilding the repository from scratch like the Razor Crest |
+| Reassembling the Razor Crest one Jawa part at a time |
+| Punching it in the N-1 through legacy code |
+| Stripping the payload down like a custom N-1 |
+| Refitting the N-1 until it has negative legroom |
+| Charging the technical debt like a mudhorn |
+| Taking down a mudhorn just to get this pull request approved |
+| Spotting a krayt-dragon-sized refactor |
+| Luring the krayt dragon out of the legacy server room |
+| Crossing Tatooine without waking the krayt dragon |
+| Pinning the sheriff badge on Mos Pelgo main |
+| Catching Jawas looting unattended modules |
+| Negotiating with Jawas to buy back the missing dependencies |
+| Squashing womp-rat-sized edge cases |
+| Loading blurrgs with heavy dependencies |
+| Riding a blurrg through the slow part |
+| Riding a blurrg across the desert to deliver your output |
+| Accepting Jedi training on the recursion path |
+| Choosing between beskar chainmail and a tiny lightsaber |
+| Watching Luke's X-wing arrive exactly when the tests fail |
+| Watching a lone X-wing approach to save this failing build |
+| Rerouting the network requests around the Pyke spice runners |
+| Dropping in like a shock trooper to clear the remaining bugs |
+| Taking the mission anyway, like Din Djarin |
+| Preparing Din and Grogu for their big-screen mission |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Keeping the helmet on for this build",
+"Refusing to remove my helmet until the build passes",
+"Never removing the helmet mid-compile",
+"Walking the Way through the call stack",
+"Walking the Way to a successful compilation",
+"Following the linter because this is the way",
+"Closing the issue after Kuiil says \"I have spoken\"",
+"Formatting the output perfectly, I have spoken",
+"Continuing the build, I have spoken",
+"Asking Kuiil to hard-work the solution",
+"Treating this algorithm as my religion",
+"Waiting for the Armorer to strike the forge",
+"Returning this refactor to the Armorer's forge",
+"Striking the forge for a cleaner answer",
+"Forging your variables out of pure beskar",
+"Pouring beskar-grade type safety",
+"Trading an entire cache of beskar for one missing dependency",
+"Smelting down the scrap metal to forge a new signet",
+"Earning a mudhorn signet from this merge conflict",
+"Assigning a bounty puck to this ticket",
+"Checking the bounty puck for the next ticket",
+"Tracking down the memory leak with a Guild bounty puck",
+"Bringing the compiler errors in warm, or bringing them in cold",
+"Bringing the quarry in warm, preferably compiled",
+"Freezing the race condition in carbonite",
+"Freezing the legacy bugs in a solid block of carbonite",
+"Freezing stale processes in carbonite",
+"Protecting the foundling from null pointers",
+"Stopping Grogu from eating the source code",
+"Watching Grogu swallow the debug logs whole",
+"Catching Grogu eating something undocumented",
+"Counting the eggs again because Grogu looked innocent",
+"Protecting Frog Lady's eggs from a suspiciously hungry child",
+"Granting Frog Lady safe passage for her eggs",
+"Transporting the data packets as carefully as Frog Lady's eggs",
+"Chasing the silver ball across the heap",
+"Squeezing the silver knob while the pipeline runs",
+"Distracting the junior developer with a silver shifter knob",
+"Letting IG-11 nurse the crashing process",
+"Updating my base protocol to nurse and protect this script",
+"Reprogramming the IG unit to write tests instead of self-destructing",
+"Trusting IG-11 with deployment against better judgment",
+"Pressing \"yes\" on IG-12 until the Anzellans object",
+"Collecting bounties on bugs with Greef Karga",
+"Asking Greef whether Nevarro includes dental",
+"Calling a Guild meeting on Nevarro",
+"Letting Cara Dune handle the heavy artillery",
+"Locking down the perimeter of main with Cara Dune",
+"Reclaiming lost production branches with Bo-Katan",
+"Following Bo-Katan into another perfectly reasonable coup",
+"Rallying the remaining nodes to retake the main branch",
+"Watching Moff Gideon eye the Darksaber of deploy keys",
+"Finding Moff Gideon cloned the same bug three times",
+"Wielding the Darksaber to cut through technical debt",
+"Learning why the Darksaber gets heavier near deadlines",
+"Crossing the Living Waters of code review",
+"Purifying the production database in the Living Waters",
+"Descending into the Living Waters for a clean build",
+"Approving the pull request with the Children of the Watch",
+"Haggling with Peli Motto over spare dependencies",
+"Asking Peli Motto to babysit the build",
+"Paying Peli Motto to optimize the backend over sabacc",
+"Hiring Anzellan droidsmiths to squeeze into the microservices",
+"Listening to Anzellans whisper fixes to the hyperdrive",
+"Arming the whistling birds and waiting on standby",
+"Firing whistling birds at the flaky tests",
+"Deploying whistling birds to clear all compiler warnings",
+"Breaking atmosphere in the Razor Crest on the way to prod",
+"Rebuilding the repository from scratch like the Razor Crest",
+"Reassembling the Razor Crest one Jawa part at a time",
+"Punching it in the N-1 through legacy code",
+"Stripping the payload down like a custom N-1",
+"Refitting the N-1 until it has negative legroom",
+"Charging the technical debt like a mudhorn",
+"Taking down a mudhorn just to get this pull request approved",
+"Spotting a krayt-dragon-sized refactor",
+"Luring the krayt dragon out of the legacy server room",
+"Crossing Tatooine without waking the krayt dragon",
+"Pinning the sheriff badge on Mos Pelgo main",
+"Catching Jawas looting unattended modules",
+"Negotiating with Jawas to buy back the missing dependencies",
+"Squashing womp-rat-sized edge cases",
+"Loading blurrgs with heavy dependencies",
+"Riding a blurrg through the slow part",
+"Riding a blurrg across the desert to deliver your output",
+"Accepting Jedi training on the recursion path",
+"Choosing between beskar chainmail and a tiny lightsaber",
+"Watching Luke's X-wing arrive exactly when the tests fail",
+"Watching a lone X-wing approach to save this failing build",
+"Rerouting the network requests around the Pyke spice runners",
+"Dropping in like a shock trooper to clear the remaining bugs",
+"Taking the mission anyway, like Din Djarin",
+"Preparing Din and Grogu for their big-screen mission"
+```
+
+</details>
+
+
 ### Mario / Nintendo (11)
 
 | Verb |
@@ -7377,6 +8529,318 @@ Hard-boiled debugging — film noir meets software development.
 </details>
 
 
+### Parks and Recreation (54)
+
+| Verb |
+|------|
+| Filling the pit |
+| Whittling |
+| Building chairs |
+| Stacking waffles |
+| Flipping waffles |
+| Eating waffles |
+| Rolling calzones |
+| Reheating calzones |
+| Sipping Lagavulin |
+| Treating yo self |
+| Hating bureaucracy |
+| Organizing binders |
+| Binding proposals |
+| Laminating binders |
+| Planning festivals |
+| Celebrating Galentine's |
+| Literally running |
+| Running marathons |
+| Dodging Tammy |
+| Outlasting Tammy |
+| Mourning Li'l Sebastian |
+| Missing Li'l Sebastian |
+| Honoring Li'l Sebastian |
+| Uniting towns |
+| Gaveling meetings |
+| Moderating town hall |
+| Reporting live |
+| Fact-checking Perd |
+| Smoking meats |
+| Grilling bacon |
+| Hoarding meat |
+| Balancing budgets |
+| Auditing Ice Town |
+| Hating Eagleton |
+| Rivaling Eagleton |
+| Teaching karate |
+| Rocking with Mouse Rat |
+| Launching Entertainment 720 |
+| Playing Cones |
+| Rolling cones |
+| Shining shoes |
+| Burying gold |
+| Blaming Jerry |
+| Renaming Garry |
+| Feeding raccoons |
+| Mining data |
+| Pitching Snake Juice |
+| Petting Champion |
+| Designing murals |
+| Staring blankly |
+| Rebranding to Terry |
+| Shunning computers |
+| Grooming a moustache |
+| Playing sax like Duke Silver |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Filling the pit",
+"Whittling",
+"Building chairs",
+"Stacking waffles",
+"Flipping waffles",
+"Eating waffles",
+"Rolling calzones",
+"Reheating calzones",
+"Sipping Lagavulin",
+"Treating yo self",
+"Hating bureaucracy",
+"Organizing binders",
+"Binding proposals",
+"Laminating binders",
+"Planning festivals",
+"Celebrating Galentine's",
+"Literally running",
+"Running marathons",
+"Dodging Tammy",
+"Outlasting Tammy",
+"Mourning Li'l Sebastian",
+"Missing Li'l Sebastian",
+"Honoring Li'l Sebastian",
+"Uniting towns",
+"Gaveling meetings",
+"Moderating town hall",
+"Reporting live",
+"Fact-checking Perd",
+"Smoking meats",
+"Grilling bacon",
+"Hoarding meat",
+"Balancing budgets",
+"Auditing Ice Town",
+"Hating Eagleton",
+"Rivaling Eagleton",
+"Teaching karate",
+"Rocking with Mouse Rat",
+"Launching Entertainment 720",
+"Playing Cones",
+"Rolling cones",
+"Shining shoes",
+"Burying gold",
+"Blaming Jerry",
+"Renaming Garry",
+"Feeding raccoons",
+"Mining data",
+"Pitching Snake Juice",
+"Petting Champion",
+"Designing murals",
+"Staring blankly",
+"Rebranding to Terry",
+"Shunning computers",
+"Grooming a moustache",
+"Playing sax like Duke Silver"
+```
+
+</details>
+
+
+### Parks and Recreation Phrases (87)
+
+Pawnee's finest public servants: binders, breakfast food, and a deep distrust of government. Treat yo self to a longer build.
+
+| Verb |
+|------|
+| Treating yo self to a longer build |
+| Treating yo self to a passing test suite |
+| Filling the pit one commit at a time |
+| Falling into a deep pit of recursive dependency errors |
+| Binding another Leslie-level briefing |
+| Color-coding the repository using the Leslie Knope binder system |
+| Binding every edge case in a color-coded binder |
+| Waiting on waffles at JJ's Diner |
+| Ordering extra whipped cream on our JJ's Diner waffles |
+| Ordering JJ's waffles while the build finds itself |
+| Flipping waffles and waiting on tokens |
+| Asking if this meeting could've been a waffle |
+| Building the Cones of Dunshire endgame |
+| Forgetting that the essence of the game is about the cones |
+| Rolling the Cones of Dunshire for deployment priority |
+| Literally optimizing every single cycle |
+| Literally compiling the greatest application in the history of the universe |
+| Getting literally one step closer to completion |
+| Running up the metrics like Chris Traeger |
+| Sipping Lagavulin while the model thinks |
+| Drinking Lagavulin and quietly ignoring all JavaScript warnings |
+| Sipping Lagavulin while the code learns self-reliance |
+| Hating this much government process |
+| Making Ron proud by deleting unnecessary code |
+| Carving freedom into the codebase like Ron |
+| Whittling the solution from one solid block of logic |
+| Building a perfectly level wooden chair while waiting |
+| Consuming all the bacon and eggs that we have |
+| Burying the source code in a secondary, decoy location |
+| Throwing Ron's computer in the dumpster |
+| Hiding in Ron's cabin until the build finishes |
+| Playing the tenor sax under the alias Duke Silver |
+| Planning a Harvest Festival-grade deploy |
+| Holding the Harvest Festival together despite the curse |
+| Holding a moment of silence for Li'l Sebastian |
+| Remembering Li'l Sebastian at five thousand times the scale |
+| Singing 5,000 Candles in the Wind for this legacy code |
+| Singing five thousand candles into the test suite |
+| Rolling the perfect calzone of logic |
+| Opening a digital branch of the Low-Cal Calzone Zone |
+| Hosting an emergency Galentine's review |
+| Celebrating Galentine's Day with our beautiful, rule-breaking subroutines |
+| Calling this output a beautiful tropical fish |
+| Sending Burt Macklin, FBI, to investigate the memory leak |
+| Investigating the bug under Burt Macklin's jurisdiction |
+| Asking Janet Snakehole to interrogate the error logs |
+| Teaching this build a Johnny Karate life lesson |
+| Unleashing DJ Roomba to sweep up the data center |
+| Launching Entertainment 720 with confidence and no revenue |
+| Demanding money please to fund this ridiculous startup idea |
+| Calling the dependencies "deppies" like Tom Haverford |
+| Making money the old-fashioned way by getting hit by a Lexus |
+| Giving Donna the premium build experience she deserves |
+| Dodging Tammy 2 in the dependency tree |
+| Dodging Tammy 2 by hiding in the darkest corner of the library |
+| Escaping Tammy 2 with the repository intact |
+| Reporting the news, and the news is that your code is loading |
+| Reporting the result in the style of Perd Hapley |
+| Printing a Pawnee Journal headline before checking the facts |
+| Giving Joan Callamezzo nothing to spin |
+| Surviving another interview with Joan Callamezzo |
+| Surviving another angry town hall thread |
+| Hosting a Pawnee town hall to hear users complain about minor bugs |
+| Listening to an angry citizen demand the removal of all slugs |
+| Uniting Pawnee and Eagleton in the merge |
+| Updating the town charter to block all Eagleton IP addresses |
+| Outclassing Eagleton with aggressively adequate infrastructure |
+| Staging a Unity Concert of services |
+| Uniting the front end and back end for one final concert |
+| Jamming with Mouse Rat in the background |
+| Booking Mouse Rat to play an acoustic set for the server restart |
+| Keeping Jean-Ralphio far from production |
+| Waiting for Jean-Ralphio to stop singing |
+| Budgeting time like Ben Wyatt |
+| Turning Ice Town into Nice Code |
+| Asking Ben to put down the claymation |
+| Looking directly into the documentary camera in utter Ben Wyatt disbelief |
+| Sneaking past reviews like April Ludgate |
+| Deleting the production database because April said it would be funny |
+| Celebrating Garry's accidental green build |
+| Refactoring Jerry's terrible, awful, no-good pull request |
+| Renaming Jerry to Garry to Larry and back again |
+| Mining user metadata to send everyone a free Gryzzl drone |
+| Feeding Gryzzl slightly less personal data than requested |
+| Waiting for the Newport money to finish compiling |
+| Sponsoring this update with Sweetums NutriYum bars |
+| Cutting the ribbon on Pawnee Commons |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Treating yo self to a longer build",
+"Treating yo self to a passing test suite",
+"Filling the pit one commit at a time",
+"Falling into a deep pit of recursive dependency errors",
+"Binding another Leslie-level briefing",
+"Color-coding the repository using the Leslie Knope binder system",
+"Binding every edge case in a color-coded binder",
+"Waiting on waffles at JJ's Diner",
+"Ordering extra whipped cream on our JJ's Diner waffles",
+"Ordering JJ's waffles while the build finds itself",
+"Flipping waffles and waiting on tokens",
+"Asking if this meeting could've been a waffle",
+"Building the Cones of Dunshire endgame",
+"Forgetting that the essence of the game is about the cones",
+"Rolling the Cones of Dunshire for deployment priority",
+"Literally optimizing every single cycle",
+"Literally compiling the greatest application in the history of the universe",
+"Getting literally one step closer to completion",
+"Running up the metrics like Chris Traeger",
+"Sipping Lagavulin while the model thinks",
+"Drinking Lagavulin and quietly ignoring all JavaScript warnings",
+"Sipping Lagavulin while the code learns self-reliance",
+"Hating this much government process",
+"Making Ron proud by deleting unnecessary code",
+"Carving freedom into the codebase like Ron",
+"Whittling the solution from one solid block of logic",
+"Building a perfectly level wooden chair while waiting",
+"Consuming all the bacon and eggs that we have",
+"Burying the source code in a secondary, decoy location",
+"Throwing Ron's computer in the dumpster",
+"Hiding in Ron's cabin until the build finishes",
+"Playing the tenor sax under the alias Duke Silver",
+"Planning a Harvest Festival-grade deploy",
+"Holding the Harvest Festival together despite the curse",
+"Holding a moment of silence for Li'l Sebastian",
+"Remembering Li'l Sebastian at five thousand times the scale",
+"Singing 5,000 Candles in the Wind for this legacy code",
+"Singing five thousand candles into the test suite",
+"Rolling the perfect calzone of logic",
+"Opening a digital branch of the Low-Cal Calzone Zone",
+"Hosting an emergency Galentine's review",
+"Celebrating Galentine's Day with our beautiful, rule-breaking subroutines",
+"Calling this output a beautiful tropical fish",
+"Sending Burt Macklin, FBI, to investigate the memory leak",
+"Investigating the bug under Burt Macklin's jurisdiction",
+"Asking Janet Snakehole to interrogate the error logs",
+"Teaching this build a Johnny Karate life lesson",
+"Unleashing DJ Roomba to sweep up the data center",
+"Launching Entertainment 720 with confidence and no revenue",
+"Demanding money please to fund this ridiculous startup idea",
+"Calling the dependencies \"deppies\" like Tom Haverford",
+"Making money the old-fashioned way by getting hit by a Lexus",
+"Giving Donna the premium build experience she deserves",
+"Dodging Tammy 2 in the dependency tree",
+"Dodging Tammy 2 by hiding in the darkest corner of the library",
+"Escaping Tammy 2 with the repository intact",
+"Reporting the news, and the news is that your code is loading",
+"Reporting the result in the style of Perd Hapley",
+"Printing a Pawnee Journal headline before checking the facts",
+"Giving Joan Callamezzo nothing to spin",
+"Surviving another interview with Joan Callamezzo",
+"Surviving another angry town hall thread",
+"Hosting a Pawnee town hall to hear users complain about minor bugs",
+"Listening to an angry citizen demand the removal of all slugs",
+"Uniting Pawnee and Eagleton in the merge",
+"Updating the town charter to block all Eagleton IP addresses",
+"Outclassing Eagleton with aggressively adequate infrastructure",
+"Staging a Unity Concert of services",
+"Uniting the front end and back end for one final concert",
+"Jamming with Mouse Rat in the background",
+"Booking Mouse Rat to play an acoustic set for the server restart",
+"Keeping Jean-Ralphio far from production",
+"Waiting for Jean-Ralphio to stop singing",
+"Budgeting time like Ben Wyatt",
+"Turning Ice Town into Nice Code",
+"Asking Ben to put down the claymation",
+"Looking directly into the documentary camera in utter Ben Wyatt disbelief",
+"Sneaking past reviews like April Ludgate",
+"Deleting the production database because April said it would be funny",
+"Celebrating Garry's accidental green build",
+"Refactoring Jerry's terrible, awful, no-good pull request",
+"Renaming Jerry to Garry to Larry and back again",
+"Mining user metadata to send everyone a free Gryzzl drone",
+"Feeding Gryzzl slightly less personal data than requested",
+"Waiting for the Newport money to finish compiling",
+"Sponsoring this update with Sweetums NutriYum bars",
+"Cutting the ribbon on Pawnee Commons"
+```
+
+</details>
+
+
 ### Photography (11)
 
 | Verb |
@@ -8420,6 +9884,390 @@ Sudbury Bulldogs hockey — chirps, cellies, and never losing again.
 "Grinding out the third period",
 "Hoisting the cup over your bucket",
 "Staying Sudbury tough"
+```
+
+</details>
+
+
+### Silicon Valley (88)
+
+| Verb |
+|------|
+| Compressing middle-out |
+| Compressing losslessly |
+| Indenting with tabs |
+| Rejecting spaces |
+| Detecting hot dogs |
+| Squatting in the incubator |
+| Emptying the incubator |
+| Incubating startups |
+| Hooli-proofing |
+| Roasting Dinesh |
+| Needling Gilfoyle |
+| Recruiting Gilfoyle |
+| Calculating Weissman scores |
+| Joining the three-comma club |
+| Counting three commas |
+| Multiplying commas |
+| Drinking Tres Comas |
+| Failing upward |
+| Promoting Big Head |
+| Resting and vesting |
+| Growth hacking |
+| Pitching at TechCrunch Disrupt |
+| Pitching Peter Gregory |
+| Channeling Peter Gregory |
+| Analyzing sesame seeds |
+| Buying Burger King |
+| Decentralizing PiperNet |
+| Rebuilding the internet |
+| Building Pied Piper |
+| Scaling Pied Piper |
+| Hosting the hacker hostel |
+| Debugging Anton |
+| Rebooting Anton |
+| Cooling Anton |
+| Evading Hooli |
+| Evading Gavin |
+| Appeasing Belson |
+| Triangulating success |
+| Funding Bachmanity |
+| Celebrating Bachmanity |
+| Shepherding Richard |
+| Enduring Erlich |
+| Reassuring Jared |
+| Outsmarting Jian-Yang |
+| Evicting Jian-Yang |
+| Sweating profusely |
+| Deploying the Box |
+| Creating Aviato |
+| Rebranding Aviato |
+| Channeling Ed Chambers |
+| Managing blood boys |
+| Consulting Laurie Bream |
+| Consulting Monica |
+| Renting the palapa |
+| Selling to Raviga |
+| Developing PiperChat |
+| Presenting Nucleus |
+| Defeating Nucleus |
+| Opening billionaire doors |
+| Restoring car doors |
+| Seeking Series A |
+| Securing runway |
+| Brokering term sheets |
+| Smashing hard drives |
+| Mining Bitcoin |
+| Triggering Bitcoin alerts |
+| Repelling YaoNet |
+| Rendering Keenan's VR |
+| Routing Sliceline |
+| Hiding thumb drives |
+| Attracting finale rats |
+| Streaming packets |
+| Inverting servers |
+| Scoring algorithms |
+| Rendering previews |
+| Negotiating boards |
+| Scaling platforms |
+| Unifying protocols |
+| Launching pipelines |
+| Refactoring messengers |
+| Monetizing bandwidth |
+| Calibrating metrics |
+| Prototyping boxes |
+| Aggregating nodes |
+| Distilling codebases |
+| Tuning networks |
+| Deploying condensers |
+| Architecting internets |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Compressing middle-out",
+"Compressing losslessly",
+"Indenting with tabs",
+"Rejecting spaces",
+"Detecting hot dogs",
+"Squatting in the incubator",
+"Emptying the incubator",
+"Incubating startups",
+"Hooli-proofing",
+"Roasting Dinesh",
+"Needling Gilfoyle",
+"Recruiting Gilfoyle",
+"Calculating Weissman scores",
+"Joining the three-comma club",
+"Counting three commas",
+"Multiplying commas",
+"Drinking Tres Comas",
+"Failing upward",
+"Promoting Big Head",
+"Resting and vesting",
+"Growth hacking",
+"Pitching at TechCrunch Disrupt",
+"Pitching Peter Gregory",
+"Channeling Peter Gregory",
+"Analyzing sesame seeds",
+"Buying Burger King",
+"Decentralizing PiperNet",
+"Rebuilding the internet",
+"Building Pied Piper",
+"Scaling Pied Piper",
+"Hosting the hacker hostel",
+"Debugging Anton",
+"Rebooting Anton",
+"Cooling Anton",
+"Evading Hooli",
+"Evading Gavin",
+"Appeasing Belson",
+"Triangulating success",
+"Funding Bachmanity",
+"Celebrating Bachmanity",
+"Shepherding Richard",
+"Enduring Erlich",
+"Reassuring Jared",
+"Outsmarting Jian-Yang",
+"Evicting Jian-Yang",
+"Sweating profusely",
+"Deploying the Box",
+"Creating Aviato",
+"Rebranding Aviato",
+"Channeling Ed Chambers",
+"Managing blood boys",
+"Consulting Laurie Bream",
+"Consulting Monica",
+"Renting the palapa",
+"Selling to Raviga",
+"Developing PiperChat",
+"Presenting Nucleus",
+"Defeating Nucleus",
+"Opening billionaire doors",
+"Restoring car doors",
+"Seeking Series A",
+"Securing runway",
+"Brokering term sheets",
+"Smashing hard drives",
+"Mining Bitcoin",
+"Triggering Bitcoin alerts",
+"Repelling YaoNet",
+"Rendering Keenan's VR",
+"Routing Sliceline",
+"Hiding thumb drives",
+"Attracting finale rats",
+"Streaming packets",
+"Inverting servers",
+"Scoring algorithms",
+"Rendering previews",
+"Negotiating boards",
+"Scaling platforms",
+"Unifying protocols",
+"Launching pipelines",
+"Refactoring messengers",
+"Monetizing bandwidth",
+"Calibrating metrics",
+"Prototyping boxes",
+"Aggregating nodes",
+"Distilling codebases",
+"Tuning networks",
+"Deploying condensers",
+"Architecting internets"
+```
+
+</details>
+
+
+### Silicon Valley Phrases (89)
+
+Pied Piper, Hooli, and the race to build the new internet. Making the world a better place.
+
+| Verb |
+|------|
+| Making the world a better place |
+| Making the world a better place through minimal message-oriented transport layers |
+| I don't want to live in a world where someone else makes the world a better place better than we do |
+| Asking: hot dog or not hot dog? |
+| Classifying the current image as strictly Not Hotdog |
+| Building Shazam for food |
+| Consulting the conjoined triangles of success |
+| Moving the compromise to the exact center of the triangle |
+| Rehearsing the Always Blue TechCrunch pitch |
+| Playing "Always Blue" until everyone calms down |
+| Achieving a theoretical Weissman score of 5.2 |
+| Figuring out the optimal tip-to-tip efficiency |
+| Running the infamous auditorium optimization |
+| Building the new internet middle-out |
+| Building the new internet before YaoNet takes 51 percent |
+| Pitching a fully decentralized version of the internet |
+| Reopening the tabs-versus-spaces debate |
+| Erlich Bachman, this is you as old man |
+| Explaining to Jian-Yang it is not that app |
+| Hacking a massive network of smart refrigerators |
+| Asking Jian-Yang why the smart refrigerator is talking |
+| Letting Son of Anton fix the bug by deleting everything |
+| Waking Anton without overheating the garage |
+| Playing "You Suffer" every time Bitcoin dips |
+| Listening for Gilfoyle's Bitcoin alert |
+| Waiting for Gilfoyle to finish the rack |
+| Letting Richard spiral for one more minute |
+| Debugging Richard's latest pivot panic |
+| Vomiting into a dumpster right before the big pitch |
+| Checking Erlich's incubator occupancy |
+| Keeping the hacker hostel beneath the occupancy limit |
+| Keeping Erlich off the main stage |
+| Pronouncing "Aviato" the Erlich Bachman way |
+| Explaining to investors why Aviato was a massive success |
+| Finalizing Bachmanity's chaos budget |
+| Launching Bachmanity before the cap table catches fire |
+| Dodging Gavin Belson's latest countersuit |
+| Selecting a majestic animal for Gavin Belson's signature |
+| Bringing a live animal to a Hooli board meeting |
+| Engraving Gavin Belson's signature on the Box III |
+| Scheduling Gavin's next youthful blood transfusion |
+| Getting promoted to sole Head Hooli Dreamer |
+| Resting and vesting on the Hooli roof |
+| Drinking a giant Slurpee on the Hooli roof |
+| Counting Hooli XYZ false starts |
+| Measuring Pied Piper against Hooli's clone |
+| Watching Hooli Nucleus buffer at the worst possible moment |
+| Shipping before Hooli ships first |
+| Packing the Box for the floor expo |
+| Asking Action Jack why everything must become the Box |
+| Refusing to compromise your software for a hardware box |
+| Convincing the board the Box matters |
+| Finding where Big Head left production access |
+| Hearing Russ Hanneman chase the three-comma club |
+| Putting the doors back on Russ Hanneman's car |
+| Counting all three commas in Tres Comas |
+| Parsing Laurie Bream's term sheet twice |
+| Calling Raviga while Laurie displays almost one emotion |
+| Expressing absolutely zero emotion during a board meeting |
+| Taking Monica's advice this time |
+| Pretending Monica has definitely stopped smoking |
+| Letting Dinesh savor a quiet win |
+| Making fun of Dinesh's expensive new gold chain |
+| Polishing Dinesh's gold chain while his Tesla charges |
+| Hoping Jared does not draft another letter |
+| Recalling one of Jared's dark childhood stories |
+| Summoning Ed Chambers to handle Jared's dark work |
+| Pouring one out for Peter Gregory |
+| Counting sesame seeds on Burger King buns |
+| Waiting for Peter Gregory to finish saying "sesame seeds" |
+| Pricing sesame futures before the cicadas arrive |
+| Realizing cicadas only emerge every seventeen years |
+| Ordering everything on the Burger King menu |
+| Asking what Pied Piper actually does |
+| Checking Pied Piper's paper valuation |
+| Preparing the middle-out demo for TechCrunch Disrupt |
+| Winning the startup battlefield at TechCrunch Disrupt |
+| Tuning PiperChat before the demo melts |
+| Crashing the servers due to PiperChat user volume |
+| Auditing PiperChat's suspiciously youthful user base |
+| Checking whether Endframe stole the algorithm again |
+| Scrubbing all negative mentions from the internet |
+| Getting trapped inside a self-driving car on a shipping container |
+| Tripping over a cord and wiping out the servers |
+| Rebuilding the entire codebase in a single night |
+| Rendering Keenan Feldspar's VR without burning the runway |
+| Delivering Sliceline pizzas before the optimizer loops forever |
+| Asking Colin to remove one tiny feature from Gates of Galloo |
+| Sabotaging PiperNet, attracting rats, and misplacing the orange thumb drive |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Making the world a better place",
+"Making the world a better place through minimal message-oriented transport layers",
+"I don't want to live in a world where someone else makes the world a better place better than we do",
+"Asking: hot dog or not hot dog?",
+"Classifying the current image as strictly Not Hotdog",
+"Building Shazam for food",
+"Consulting the conjoined triangles of success",
+"Moving the compromise to the exact center of the triangle",
+"Rehearsing the Always Blue TechCrunch pitch",
+"Playing \"Always Blue\" until everyone calms down",
+"Achieving a theoretical Weissman score of 5.2",
+"Figuring out the optimal tip-to-tip efficiency",
+"Running the infamous auditorium optimization",
+"Building the new internet middle-out",
+"Building the new internet before YaoNet takes 51 percent",
+"Pitching a fully decentralized version of the internet",
+"Reopening the tabs-versus-spaces debate",
+"Erlich Bachman, this is you as old man",
+"Explaining to Jian-Yang it is not that app",
+"Hacking a massive network of smart refrigerators",
+"Asking Jian-Yang why the smart refrigerator is talking",
+"Letting Son of Anton fix the bug by deleting everything",
+"Waking Anton without overheating the garage",
+"Playing \"You Suffer\" every time Bitcoin dips",
+"Listening for Gilfoyle's Bitcoin alert",
+"Waiting for Gilfoyle to finish the rack",
+"Letting Richard spiral for one more minute",
+"Debugging Richard's latest pivot panic",
+"Vomiting into a dumpster right before the big pitch",
+"Checking Erlich's incubator occupancy",
+"Keeping the hacker hostel beneath the occupancy limit",
+"Keeping Erlich off the main stage",
+"Pronouncing \"Aviato\" the Erlich Bachman way",
+"Explaining to investors why Aviato was a massive success",
+"Finalizing Bachmanity's chaos budget",
+"Launching Bachmanity before the cap table catches fire",
+"Dodging Gavin Belson's latest countersuit",
+"Selecting a majestic animal for Gavin Belson's signature",
+"Bringing a live animal to a Hooli board meeting",
+"Engraving Gavin Belson's signature on the Box III",
+"Scheduling Gavin's next youthful blood transfusion",
+"Getting promoted to sole Head Hooli Dreamer",
+"Resting and vesting on the Hooli roof",
+"Drinking a giant Slurpee on the Hooli roof",
+"Counting Hooli XYZ false starts",
+"Measuring Pied Piper against Hooli's clone",
+"Watching Hooli Nucleus buffer at the worst possible moment",
+"Shipping before Hooli ships first",
+"Packing the Box for the floor expo",
+"Asking Action Jack why everything must become the Box",
+"Refusing to compromise your software for a hardware box",
+"Convincing the board the Box matters",
+"Finding where Big Head left production access",
+"Hearing Russ Hanneman chase the three-comma club",
+"Putting the doors back on Russ Hanneman's car",
+"Counting all three commas in Tres Comas",
+"Parsing Laurie Bream's term sheet twice",
+"Calling Raviga while Laurie displays almost one emotion",
+"Expressing absolutely zero emotion during a board meeting",
+"Taking Monica's advice this time",
+"Pretending Monica has definitely stopped smoking",
+"Letting Dinesh savor a quiet win",
+"Making fun of Dinesh's expensive new gold chain",
+"Polishing Dinesh's gold chain while his Tesla charges",
+"Hoping Jared does not draft another letter",
+"Recalling one of Jared's dark childhood stories",
+"Summoning Ed Chambers to handle Jared's dark work",
+"Pouring one out for Peter Gregory",
+"Counting sesame seeds on Burger King buns",
+"Waiting for Peter Gregory to finish saying \"sesame seeds\"",
+"Pricing sesame futures before the cicadas arrive",
+"Realizing cicadas only emerge every seventeen years",
+"Ordering everything on the Burger King menu",
+"Asking what Pied Piper actually does",
+"Checking Pied Piper's paper valuation",
+"Preparing the middle-out demo for TechCrunch Disrupt",
+"Winning the startup battlefield at TechCrunch Disrupt",
+"Tuning PiperChat before the demo melts",
+"Crashing the servers due to PiperChat user volume",
+"Auditing PiperChat's suspiciously youthful user base",
+"Checking whether Endframe stole the algorithm again",
+"Scrubbing all negative mentions from the internet",
+"Getting trapped inside a self-driving car on a shipping container",
+"Tripping over a cord and wiping out the servers",
+"Rebuilding the entire codebase in a single night",
+"Rendering Keenan Feldspar's VR without burning the runway",
+"Delivering Sliceline pizzas before the optimizer loops forever",
+"Asking Colin to remove one tiny feature from Gates of Galloo",
+"Sabotaging PiperNet, attracting rats, and misplacing the orange thumb drive"
 ```
 
 </details>
