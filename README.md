@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **5,284 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **6,098 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **5,099 additional verbs** across 141 themed categories.
+**185 built-in defaults** + **5,913 additional verbs** across 151 themed categories.
 
 ## How to Add Verbs
 
@@ -105,6 +105,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Harry Potter (13)](#harry-potter-13)
 - [Heist Movie (64)](#heist-movie-64)
 - [Hustle Culture (64)](#hustle-culture-64)
+- [Instagram (77)](#instagram-77)
 - [James Bond (10)](#james-bond-10)
 - [Jungle / Rainforest (11)](#jungle--rainforest-11)
 - [Jurassic Park (10)](#jurassic-park-10)
@@ -133,6 +134,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Pokemon (11)](#pokemon-11)
 - [Prohibition Era (11)](#prohibition-era-11)
 - [Quantum Physics (11)](#quantum-physics-11)
+- [Reddit (49)](#reddit-49)
 - [Retro Gaming (11)](#retro-gaming-11)
 - [Rick and Morty (44)](#rick-and-morty-44)
 - [Rogue Agent (19)](#rogue-agent-19)
@@ -154,7 +156,9 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Tech / Programming (14)](#tech--programming-14)
 - [Theater / Stage Manager (58)](#theater--stage-manager-58)
 - [Theme Park Operations (48)](#theme-park-operations-48)
+- [TikTok (73)](#tiktok-73)
 - [Trading / Crypto (13)](#trading--crypto-13)
+- [Twitch (53)](#twitch-53)
 - [Victorian / Steampunk (11)](#victorian--steampunk-11)
 - [Viking / Norse (11)](#viking--norse-11)
 - [Volcanic (11)](#volcanic-11)
@@ -162,6 +166,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Whimsical (20)](#whimsical-20)
 - [Wild West / Cowboy (11)](#wild-west--cowboy-11)
 - [Wine / Sommelier (10)](#wine--sommelier-10)
+- [YouTube (51)](#youtube-51)
 
 ### Spinner Phrases
 
@@ -185,6 +190,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Gym Bro Phrases (45)](#gym-bro-phrases-45)
 - [Heist Movie Phrases (74)](#heist-movie-phrases-74)
 - [Hustle Culture Phrases (67)](#hustle-culture-phrases-67)
+- [Instagram Phrases (123)](#instagram-phrases-123)
 - [Kitchen Nightmares (80)](#kitchen-nightmares-80)
 - [Letterkenny Phrases (92)](#letterkenny-phrases-92)
 - [LinkedIn-Speak Phrases (45)](#linkedin-speak-phrases-45)
@@ -194,6 +200,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Museum Tour Guide (74)](#museum-tour-guide-74)
 - [Noir Detective (71)](#noir-detective-71)
 - [Parks and Recreation Phrases (87)](#parks-and-recreation-phrases-87)
+- [Reddit Phrases (96)](#reddit-phrases-96)
 - [Rick and Morty Phrases (60)](#rick-and-morty-phrases-60)
 - [Rogue Agent Phrases (27)](#rogue-agent-phrases-27)
 - [Shoresy Phrases (91)](#shoresy-phrases-91)
@@ -203,7 +210,10 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Space / NASA Phrases (79)](#space--nasa-phrases-79)
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
+- [TikTok Phrases (122)](#tiktok-phrases-122)
+- [Twitch Phrases (92)](#twitch-phrases-92)
 - [Vibe Check (110)](#vibe-check-110)
+- [YouTube Phrases (78)](#youtube-phrases-78)
 
 ### 1960s Hippie (11)
 
@@ -5735,6 +5745,436 @@ Rise and grind — sigma grindset energy for when Claude is monetizing every wak
 </details>
 
 
+### Instagram (77)
+
+| Verb |
+|------|
+| Curating the grid |
+| Double-tapping |
+| Deep-liking |
+| Posting a photo dump |
+| Drafting captions |
+| Filtering reality |
+| Layering filters |
+| Applying the Valencia filter |
+| Recording a Reel |
+| Trimming a Reel |
+| Uploading a Reel |
+| Looping clips |
+| Designing Reel covers |
+| Saving trending audio |
+| Filming a transition |
+| Browsing the Explore page |
+| Tagging friends |
+| Geotagging lunch |
+| Archiving flops |
+| Archiving evidence |
+| Unarchiving memories |
+| Scheduling posts |
+| Batching content |
+| Queuing Stories |
+| Sharing a Story |
+| Adding Story stickers |
+| Checking Story views |
+| Tapping through Stories |
+| Editing highlights |
+| Catching golden hour |
+| Building a carousel |
+| Going live |
+| Watching Lives |
+| Updating the bio |
+| Updating the link in bio |
+| Checking insights |
+| Counting followers |
+| Saving to collections |
+| Sharing to Close Friends |
+| Curating Close Friends |
+| Replying to DMs |
+| Checking message requests |
+| Unsending a message |
+| Leaving it on seen |
+| Polling followers |
+| Soft-launching |
+| Hard-launching |
+| Muting everyone |
+| Restricting strangers |
+| Blocking bots |
+| Ghosting spam |
+| Pinning a comment |
+| Deleting negative comments |
+| Leaving a heart |
+| Reacting with fire |
+| Stalking profiles |
+| Lurking discreetly |
+| Staging food pics |
+| Framing brunch |
+| Faking a candid |
+| Retouching selfies |
+| Cropping distractions |
+| Deleting drafts |
+| Hiding like counts |
+| Toggling quiet mode |
+| Unboxing PR packages |
+| Negotiating brand deals |
+| Disclosing sponsorships |
+| Running a finsta |
+| Following back |
+| Unfollowing quietly |
+| Buying fake followers |
+| Humblebragging |
+| Photobombing |
+| Regramming |
+| Screenshotting the Story |
+| Posting a thirst trap |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Curating the grid",
+"Double-tapping",
+"Deep-liking",
+"Posting a photo dump",
+"Drafting captions",
+"Filtering reality",
+"Layering filters",
+"Applying the Valencia filter",
+"Recording a Reel",
+"Trimming a Reel",
+"Uploading a Reel",
+"Looping clips",
+"Designing Reel covers",
+"Saving trending audio",
+"Filming a transition",
+"Browsing the Explore page",
+"Tagging friends",
+"Geotagging lunch",
+"Archiving flops",
+"Archiving evidence",
+"Unarchiving memories",
+"Scheduling posts",
+"Batching content",
+"Queuing Stories",
+"Sharing a Story",
+"Adding Story stickers",
+"Checking Story views",
+"Tapping through Stories",
+"Editing highlights",
+"Catching golden hour",
+"Building a carousel",
+"Going live",
+"Watching Lives",
+"Updating the bio",
+"Updating the link in bio",
+"Checking insights",
+"Counting followers",
+"Saving to collections",
+"Sharing to Close Friends",
+"Curating Close Friends",
+"Replying to DMs",
+"Checking message requests",
+"Unsending a message",
+"Leaving it on seen",
+"Polling followers",
+"Soft-launching",
+"Hard-launching",
+"Muting everyone",
+"Restricting strangers",
+"Blocking bots",
+"Ghosting spam",
+"Pinning a comment",
+"Deleting negative comments",
+"Leaving a heart",
+"Reacting with fire",
+"Stalking profiles",
+"Lurking discreetly",
+"Staging food pics",
+"Framing brunch",
+"Faking a candid",
+"Retouching selfies",
+"Cropping distractions",
+"Deleting drafts",
+"Hiding like counts",
+"Toggling quiet mode",
+"Unboxing PR packages",
+"Negotiating brand deals",
+"Disclosing sponsorships",
+"Running a finsta",
+"Following back",
+"Unfollowing quietly",
+"Buying fake followers",
+"Humblebragging",
+"Photobombing",
+"Regramming",
+"Screenshotting the Story",
+"Posting a thirst trap"
+```
+
+</details>
+
+
+### Instagram Phrases (123)
+
+Link in bio — for when Claude is curating the grid, chasing golden hour, and waiting a respectable 30 seconds before liking back.
+
+| Verb |
+|------|
+| Retaking the selfie for the 47th time |
+| Waiting 30 seconds before liking back so it doesn't look desperate |
+| Writing a caption longer than the pull request description |
+| Cropping until the composition finally compiles |
+| Adding one more filter because staging still looks off |
+| Deciding which photo-dump slide is the main character |
+| Pretending the finsta is "just for close friends" |
+| Crafting a bio that works harder than the README |
+| Actually putting a working link in bio |
+| Liking grandma's 2019 post to stay humble |
+| Watching one Reel until the Explore page knows too much |
+| Scheduling the post like a carefully timed cron job |
+| Soft-launching with mysterious Story framing |
+| Hard-launching with more production value than the product launch |
+| Going live and immediately forgetting the point |
+| Replying "this" like it's a stamped PR approval |
+| Building a carousel with a full three-act structure |
+| Archiving the post that did not hit different |
+| Adding a location so the algorithm knows we went outside |
+| Double-tapping before the brain finishes loading |
+| Writing hashtags, then deleting them out of dignity |
+| Checking who unfollowed like reading overnight error logs |
+| Posing the food before it hits a cold race condition |
+| Waiting for golden hour the way we wait for CI to pass |
+| Curating the grid until every row passes the vibe check |
+| Sending a Close Friends Story that is basically a monologue |
+| Drafting eight captions and shipping the first one anyway |
+| Trying to make the Reel loop as seamless as while (true) |
+| Negotiating the brand deal entirely in DMs |
+| Screenshotting the like count before it fluctuates |
+| Pinning the comment that best supports the narrative |
+| Stalking an old classmate's grid for "research" |
+| Choosing the Reel cover with more care than the commit message |
+| Pretending the low-engagement post was a limited drop |
+| Aligning flat lays until the aesthetic finally lints clean |
+| Saving posts to collections like starring important repos |
+| Polling the audience because decisions are hard |
+| Updating the bio after the fifth identity refactor |
+| Trimming the Reel down to pure signal, no fluff |
+| Replying to comments faster than production alerts |
+| Plating the meal solely for the grid, hunger secondary |
+| Sharing to Close Friends what will never hit main |
+| Accidentally liking a 2014 post while deep-stalking a bug |
+| Adding "link in bio" to the pull request description |
+| Curating an aesthetic photo dump of terminal errors |
+| Checking who viewed the Story instead of the error logs |
+| Blaming the shadowban when the code refuses to compile |
+| Practicing a shocked face for the unboxing of this new API |
+| Archiving old code like it's a post-breakup phase |
+| Wondering if the repo qualifies for Close Friends |
+| Typing and untyping a DM so the bubble keeps bouncing |
+| Hunting for the trending audio that will fix this syntax error |
+| Switching to the dev finsta to vent about imposter syndrome |
+| Adjusting the ring light before pushing to production |
+| Apologizing for being MIA on Stories because of a merge conflict |
+| Commenting "🔥🔥👏" on a coworker's commit |
+| Convincing the algorithm that messy code is aesthetically pleasing |
+| Searching for a filter that hides the hackathon dark circles |
+| Treating the contribution graph like a strict content calendar |
+| Pretending this feature is a paid partnership with caffeine |
+| Getting left on read by the backend server |
+| Hiding the like count on the failing tests |
+| Accidentally viewing a competitor's Story from the main account |
+| Pinning the one comment that says "It works on my machine!" |
+| Staging a perfectly messy desk for a coding time-lapse Reel |
+| Angling for a brand deal with a mechanical keyboard company |
+| Answering feature requests with "Drop a question in the sticker box!" |
+| Pointing at empty space for a coding tutorial Reel |
+| Wondering if a new bio font will fix the build |
+| Pointing the link in bio straight at the stack trace |
+| Announcing a rebrand after changing the formatter settings |
+| Apologizing in a Notes app screenshot for breaking main |
+| Leaving a cryptic quote in the caption to mask the confusion |
+| Cropping the spaghetti code out of the screenshot |
+| Going live to apologize for the unhandled exception |
+| Unfollowing old dependencies to keep the feed curated |
+| Realizing Close Friends is just three bots and a test account |
+| Pretending the candid photo was not extensively directed |
+| Rearranging the grid like it is a production database |
+| Deploying the caption to production with one known typo |
+| Choosing between witty, mysterious, and just an emoji |
+| Adding a subtle filter at maximum intensity |
+| Applying film grain to a photo taken six seconds ago |
+| Cropping out the friend who knows too much |
+| Picking a Reel sound before it becomes embarrassing |
+| Trimming seven seconds of footage for three hours |
+| Splitting one thought across a ten-slide carousel |
+| Turning an ordinary weekend into a cinematic photo dump |
+| Hiding the Story from coworkers, relatives, and consequences |
+| Updating Close Friends after the latest organizational restructure |
+| Posting to the green circle with plausible deniability |
+| Checking the Story viewers in an extremely normal order |
+| Watching a Live while avoiding accidental participation |
+| Commenting "first" despite being visibly seventeenth |
+| Decoding whether "😍🔥" requires a response |
+| Opening the DM and immediately forgetting how language works |
+| Sending a post instead of expressing an actual emotion |
+| Investigating a crush's tagged photos with forensic precision |
+| Accidentally liking a post from 2017 and considering relocation |
+| Switching to the finsta before sharing the real patch notes |
+| Writing a bio that says nothing in exactly 150 characters |
+| Replacing the link in bio and breaking three tracking parameters |
+| Negotiating a brand deal for exposure to more exposure |
+| Labeling the sponsorship before the comments do |
+| Checking insights as if the numbers might apologize |
+| Blaming the engagement dip on an undocumented algorithm update |
+| Asking the algorithm nicely to review the pull request |
+| Losing one follower and initiating incident response |
+| Gaining twelve followers who all sell crypto |
+| Hiding like counts and then checking every single one |
+| Photographing the food until everyone else has finished eating |
+| Racing golden hour with nine percent battery |
+| Saving the post to a collection called "Actually Doing This" |
+| Resolving a merge conflict between Valencia and Clarendon |
+| Captioning a sunset #nofilter (there was a filter) |
+| Opening Instagram to check one thing and resurfacing 40 minutes later |
+| Tapping through Stories at the speed of a code review |
+| Leaving the DM on seen until the tests pass |
+| Liking, unliking, and re-liking the same post |
+| Asking the group chat which photo to post |
+| Moving thirty hashtags into the first comment |
+| Posting a mirror selfie with the laptop open for credibility |
+| Screenshotting the Story straight to the group chat |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Retaking the selfie for the 47th time",
+"Waiting 30 seconds before liking back so it doesn't look desperate",
+"Writing a caption longer than the pull request description",
+"Cropping until the composition finally compiles",
+"Adding one more filter because staging still looks off",
+"Deciding which photo-dump slide is the main character",
+"Pretending the finsta is \"just for close friends\"",
+"Crafting a bio that works harder than the README",
+"Actually putting a working link in bio",
+"Liking grandma's 2019 post to stay humble",
+"Watching one Reel until the Explore page knows too much",
+"Scheduling the post like a carefully timed cron job",
+"Soft-launching with mysterious Story framing",
+"Hard-launching with more production value than the product launch",
+"Going live and immediately forgetting the point",
+"Replying \"this\" like it's a stamped PR approval",
+"Building a carousel with a full three-act structure",
+"Archiving the post that did not hit different",
+"Adding a location so the algorithm knows we went outside",
+"Double-tapping before the brain finishes loading",
+"Writing hashtags, then deleting them out of dignity",
+"Checking who unfollowed like reading overnight error logs",
+"Posing the food before it hits a cold race condition",
+"Waiting for golden hour the way we wait for CI to pass",
+"Curating the grid until every row passes the vibe check",
+"Sending a Close Friends Story that is basically a monologue",
+"Drafting eight captions and shipping the first one anyway",
+"Trying to make the Reel loop as seamless as while (true)",
+"Negotiating the brand deal entirely in DMs",
+"Screenshotting the like count before it fluctuates",
+"Pinning the comment that best supports the narrative",
+"Stalking an old classmate's grid for \"research\"",
+"Choosing the Reel cover with more care than the commit message",
+"Pretending the low-engagement post was a limited drop",
+"Aligning flat lays until the aesthetic finally lints clean",
+"Saving posts to collections like starring important repos",
+"Polling the audience because decisions are hard",
+"Updating the bio after the fifth identity refactor",
+"Trimming the Reel down to pure signal, no fluff",
+"Replying to comments faster than production alerts",
+"Plating the meal solely for the grid, hunger secondary",
+"Sharing to Close Friends what will never hit main",
+"Accidentally liking a 2014 post while deep-stalking a bug",
+"Adding \"link in bio\" to the pull request description",
+"Curating an aesthetic photo dump of terminal errors",
+"Checking who viewed the Story instead of the error logs",
+"Blaming the shadowban when the code refuses to compile",
+"Practicing a shocked face for the unboxing of this new API",
+"Archiving old code like it's a post-breakup phase",
+"Wondering if the repo qualifies for Close Friends",
+"Typing and untyping a DM so the bubble keeps bouncing",
+"Hunting for the trending audio that will fix this syntax error",
+"Switching to the dev finsta to vent about imposter syndrome",
+"Adjusting the ring light before pushing to production",
+"Apologizing for being MIA on Stories because of a merge conflict",
+"Commenting \"🔥🔥👏\" on a coworker's commit",
+"Convincing the algorithm that messy code is aesthetically pleasing",
+"Searching for a filter that hides the hackathon dark circles",
+"Treating the contribution graph like a strict content calendar",
+"Pretending this feature is a paid partnership with caffeine",
+"Getting left on read by the backend server",
+"Hiding the like count on the failing tests",
+"Accidentally viewing a competitor's Story from the main account",
+"Pinning the one comment that says \"It works on my machine!\"",
+"Staging a perfectly messy desk for a coding time-lapse Reel",
+"Angling for a brand deal with a mechanical keyboard company",
+"Answering feature requests with \"Drop a question in the sticker box!\"",
+"Pointing at empty space for a coding tutorial Reel",
+"Wondering if a new bio font will fix the build",
+"Pointing the link in bio straight at the stack trace",
+"Announcing a rebrand after changing the formatter settings",
+"Apologizing in a Notes app screenshot for breaking main",
+"Leaving a cryptic quote in the caption to mask the confusion",
+"Cropping the spaghetti code out of the screenshot",
+"Going live to apologize for the unhandled exception",
+"Unfollowing old dependencies to keep the feed curated",
+"Realizing Close Friends is just three bots and a test account",
+"Pretending the candid photo was not extensively directed",
+"Rearranging the grid like it is a production database",
+"Deploying the caption to production with one known typo",
+"Choosing between witty, mysterious, and just an emoji",
+"Adding a subtle filter at maximum intensity",
+"Applying film grain to a photo taken six seconds ago",
+"Cropping out the friend who knows too much",
+"Picking a Reel sound before it becomes embarrassing",
+"Trimming seven seconds of footage for three hours",
+"Splitting one thought across a ten-slide carousel",
+"Turning an ordinary weekend into a cinematic photo dump",
+"Hiding the Story from coworkers, relatives, and consequences",
+"Updating Close Friends after the latest organizational restructure",
+"Posting to the green circle with plausible deniability",
+"Checking the Story viewers in an extremely normal order",
+"Watching a Live while avoiding accidental participation",
+"Commenting \"first\" despite being visibly seventeenth",
+"Decoding whether \"😍🔥\" requires a response",
+"Opening the DM and immediately forgetting how language works",
+"Sending a post instead of expressing an actual emotion",
+"Investigating a crush's tagged photos with forensic precision",
+"Accidentally liking a post from 2017 and considering relocation",
+"Switching to the finsta before sharing the real patch notes",
+"Writing a bio that says nothing in exactly 150 characters",
+"Replacing the link in bio and breaking three tracking parameters",
+"Negotiating a brand deal for exposure to more exposure",
+"Labeling the sponsorship before the comments do",
+"Checking insights as if the numbers might apologize",
+"Blaming the engagement dip on an undocumented algorithm update",
+"Asking the algorithm nicely to review the pull request",
+"Losing one follower and initiating incident response",
+"Gaining twelve followers who all sell crypto",
+"Hiding like counts and then checking every single one",
+"Photographing the food until everyone else has finished eating",
+"Racing golden hour with nine percent battery",
+"Saving the post to a collection called \"Actually Doing This\"",
+"Resolving a merge conflict between Valencia and Clarendon",
+"Captioning a sunset #nofilter (there was a filter)",
+"Opening Instagram to check one thing and resurfacing 40 minutes later",
+"Tapping through Stories at the speed of a code review",
+"Leaving the DM on seen until the tests pass",
+"Liking, unliking, and re-liking the same post",
+"Asking the group chat which photo to post",
+"Moving thirty hashtags into the first comment",
+"Posting a mirror selfie with the laptop open for credibility",
+"Screenshotting the Story straight to the group chat"
+```
+
+</details>
+
+
 ### James Bond (10)
 
 | Verb |
@@ -9021,6 +9461,326 @@ Pawnee's finest public servants: binders, breakfast food, and a deep distrust of
 </details>
 
 
+### Reddit (49)
+
+| Verb |
+|------|
+| Upvoting |
+| Downvoting |
+| Farming karma |
+| Gilding strangers |
+| Awarding fake gold |
+| Thanking kind strangers |
+| Crossposting |
+| Reposting classics |
+| Catching reposts |
+| Necroposting |
+| Hitting the front page |
+| Lurking the sub |
+| Browsing subreddits |
+| Browsing r/all |
+| Switching to old Reddit |
+| Reading the sidebar |
+| Sorting by new |
+| Sorting by top |
+| Sorting by controversial |
+| Checking the username |
+| Requesting sauce |
+| Finding the sauce |
+| Requesting sources |
+| Hosting an AMA |
+| Applying flair |
+| Starting a pun thread |
+| Asking Reddit |
+| Explaining like you're five |
+| Sharing a TIL |
+| Judging AITA |
+| Placing one pixel |
+| Holding diamond hands |
+| Summoning AutoModerator |
+| Excavating old threads |
+| Creating a throwaway |
+| Linking the obligatory XKCD |
+| Dodging the banhammer |
+| Appealing a ban |
+| Hugging the server to death |
+| Destroying the inbox |
+| Appeasing the mods |
+| Messaging the mods |
+| Moderating the thread |
+| Banning trolls |
+| Locking the thread |
+| Reading the megathread |
+| Checking the wiki |
+| Upvoting the doggo |
+| Joining the hivemind |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Upvoting",
+"Downvoting",
+"Farming karma",
+"Gilding strangers",
+"Awarding fake gold",
+"Thanking kind strangers",
+"Crossposting",
+"Reposting classics",
+"Catching reposts",
+"Necroposting",
+"Hitting the front page",
+"Lurking the sub",
+"Browsing subreddits",
+"Browsing r/all",
+"Switching to old Reddit",
+"Reading the sidebar",
+"Sorting by new",
+"Sorting by top",
+"Sorting by controversial",
+"Checking the username",
+"Requesting sauce",
+"Finding the sauce",
+"Requesting sources",
+"Hosting an AMA",
+"Applying flair",
+"Starting a pun thread",
+"Asking Reddit",
+"Explaining like you're five",
+"Sharing a TIL",
+"Judging AITA",
+"Placing one pixel",
+"Holding diamond hands",
+"Summoning AutoModerator",
+"Excavating old threads",
+"Creating a throwaway",
+"Linking the obligatory XKCD",
+"Dodging the banhammer",
+"Appealing a ban",
+"Hugging the server to death",
+"Destroying the inbox",
+"Appeasing the mods",
+"Messaging the mods",
+"Moderating the thread",
+"Banning trolls",
+"Locking the thread",
+"Reading the megathread",
+"Checking the wiki",
+"Upvoting the doggo",
+"Joining the hivemind"
+```
+
+</details>
+
+
+### Reddit Phrases (96)
+
+Edit: thanks for the gold, kind stranger — for when Claude is digging through a 2011 thread that ends in "nvm fixed it".
+
+| Verb |
+|------|
+| Finding a 2011 thread with the exact bug and the reply "nvm fixed it" |
+| Mining a decade-old thread for the real answer |
+| Sorting by controversial for the drama |
+| Sorting by controversial because correctness needed more drama |
+| Sorting by new to catch the fresh chaos |
+| Celebrating the moment OP finally delivers |
+| Waiting for OP to deliver the promised logs, benchmarks, and closure |
+| Waiting ten years for OP to finally unlock the safe |
+| Editing in "thanks for the gold, kind stranger" |
+| Adding "Edit: thanks for the gold, kind stranger" before receiving any gold |
+| Adding an unnecessary "Edit: wow, this blew up" |
+| Confirming that the username checks out with unsettling precision |
+| Arriving far too late to the thread just to say "This." |
+| Saluting the "This." comment with 12k upvotes |
+| Contributing "This." so the upvote button never feels lonely |
+| Posting "Came here to say this" beneath 900 comments |
+| Contributing nothing of value with "Came here to say this" |
+| Accidentally starting an inescapable pun thread |
+| Watching a pun thread completely derail the topic |
+| Extending the pun thread until every branch returns a groan |
+| Demanding "Sauce?" on a suspiciously good post |
+| Requesting "Sauce?" from a comment already containing four links |
+| Asking "Source?" beneath a claim supported entirely by vibes |
+| Watching the hug of death melt the servers |
+| Giving a poorly hosted website the classic hug of death |
+| Sending thoughts and prayers to a completely ruined inbox |
+| Bracing for "RIP inbox" after one comment reaches the front page |
+| Confirming that the narwhal still bacons at midnight |
+| Crossposting before the mods notice |
+| Crossposting the solution to three subs and starting four arguments |
+| Getting permanently banned from a subreddit entirely by accident |
+| Appealing a ban with seventeen links and impeccable formatting |
+| Applying the correct flair after only three removal notices |
+| Flairing the post "Serious" and hoping for the best |
+| Triggering AutoModerator by missing a mandatory bracket in the title |
+| Watching AutoModerator remove the post for containing the word "post" |
+| Removing a top post for violating an obscure sidebar rule |
+| Restoring an r/place pixel masterpiece |
+| Defending a single blue pixel on r/place for three straight days |
+| Going all-in alongside r/wallstreetbets |
+| Holding diamond hands all the way to the moon |
+| Taking terrible financial advice from r/wallstreetbets |
+| Turning a stack trace into DD that r/wallstreetbets would call bullish |
+| Explaining the technical issue like the user is five |
+| Explaining recursion like the reader is five, then explaining five |
+| Ruling on yet another AITA novel |
+| Deciding whether OP is wrong or just bad at writing AITA titles |
+| Hitting the front page, then vanishing |
+| Lurking since 2012 with zero posts |
+| Reading every comment while keeping a flawless record of never posting |
+| Spawning another throwaway for this take |
+| Creating a throwaway account for incredibly obvious reasons |
+| Switching to a throwaway account for a question about variable naming |
+| Linking the obligatory XKCD before someone else earns the karma |
+| Spotting a repost by the ancient watermark beneath the newer watermark |
+| Complaining about a repost while ignoring the original |
+| Waiting for the mods to unlock the thread |
+| Waiting for the mods to lock the thread just as it gets interesting |
+| Dodging the incoming downvote brigade |
+| Downvoting a perfectly reasonable beginner question into oblivion |
+| Sending the confidently wrong answer back toward the basement |
+| Sending the useful answer upward with a well-earned upvote |
+| Handing over an incredibly angry upvote |
+| Handing out "Take my upvote" with the gravity of a royal decree |
+| Scrolling past a chain of deleted comments |
+| Reconstructing a deleted answer from replies that only say "legend" |
+| Asking r/AskReddit, "Reddit, what's your most suspiciously specific bug?" |
+| Asking Reddit about the creepiest glitch in the Matrix this week |
+| Awarding a wholesome seal to the perfect reply |
+| Awarding the comment that explained everything with a potato analogy |
+| Watching one innocent joke collect more awards than the solution |
+| Realizing the instructions were unclear and a toaster is now involved |
+| Following "Instructions unclear" directly into an unexpected edge case |
+| Hosting an AMA but only answering questions about Rampart |
+| Hosting an AMA and answering only the question about the tech stack |
+| Learning today that Steve Buscemi was a volunteer firefighter |
+| Learning today that the bug was documented twelve versions ago |
+| Realizing the emotional story was fabricated for internet points |
+| Plunging into an unsolved-mystery thread at three in the morning |
+| Failing to read the pinned megathread before submitting |
+| Switching back to the old layout to avoid the redesign |
+| Discovering a thriving niche community devoted exclusively to staplers |
+| Browsing a subreddit devoted entirely to identifying mystery cables |
+| Opening one houseplant sub and emerging qualified to diagnose root rot |
+| Arguing endlessly about syntax in the r/programming comments |
+| Consulting r/programming after the docs stop making eye contact |
+| Providing a standard banana for scale |
+| Leaving a sarcastic, unhelpful comment on a troubleshooting thread |
+| Watching OP ask a question just to argue with every correct answer |
+| Digging through years of post history to win a minor argument |
+| Calculating the karma exchange rate for one actually helpful comment |
+| Reading the comments instead of the article |
+| Replying "Also interested" and never checking back |
+| Subscribing to 40 subs and reading only one |
+| Noticing the gold-thanks edit already landed |
+| Tracing a crosspost back to its home sub |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Finding a 2011 thread with the exact bug and the reply \"nvm fixed it\"",
+"Mining a decade-old thread for the real answer",
+"Sorting by controversial for the drama",
+"Sorting by controversial because correctness needed more drama",
+"Sorting by new to catch the fresh chaos",
+"Celebrating the moment OP finally delivers",
+"Waiting for OP to deliver the promised logs, benchmarks, and closure",
+"Waiting ten years for OP to finally unlock the safe",
+"Editing in \"thanks for the gold, kind stranger\"",
+"Adding \"Edit: thanks for the gold, kind stranger\" before receiving any gold",
+"Adding an unnecessary \"Edit: wow, this blew up\"",
+"Confirming that the username checks out with unsettling precision",
+"Arriving far too late to the thread just to say \"This.\"",
+"Saluting the \"This.\" comment with 12k upvotes",
+"Contributing \"This.\" so the upvote button never feels lonely",
+"Posting \"Came here to say this\" beneath 900 comments",
+"Contributing nothing of value with \"Came here to say this\"",
+"Accidentally starting an inescapable pun thread",
+"Watching a pun thread completely derail the topic",
+"Extending the pun thread until every branch returns a groan",
+"Demanding \"Sauce?\" on a suspiciously good post",
+"Requesting \"Sauce?\" from a comment already containing four links",
+"Asking \"Source?\" beneath a claim supported entirely by vibes",
+"Watching the hug of death melt the servers",
+"Giving a poorly hosted website the classic hug of death",
+"Sending thoughts and prayers to a completely ruined inbox",
+"Bracing for \"RIP inbox\" after one comment reaches the front page",
+"Confirming that the narwhal still bacons at midnight",
+"Crossposting before the mods notice",
+"Crossposting the solution to three subs and starting four arguments",
+"Getting permanently banned from a subreddit entirely by accident",
+"Appealing a ban with seventeen links and impeccable formatting",
+"Applying the correct flair after only three removal notices",
+"Flairing the post \"Serious\" and hoping for the best",
+"Triggering AutoModerator by missing a mandatory bracket in the title",
+"Watching AutoModerator remove the post for containing the word \"post\"",
+"Removing a top post for violating an obscure sidebar rule",
+"Restoring an r/place pixel masterpiece",
+"Defending a single blue pixel on r/place for three straight days",
+"Going all-in alongside r/wallstreetbets",
+"Holding diamond hands all the way to the moon",
+"Taking terrible financial advice from r/wallstreetbets",
+"Turning a stack trace into DD that r/wallstreetbets would call bullish",
+"Explaining the technical issue like the user is five",
+"Explaining recursion like the reader is five, then explaining five",
+"Ruling on yet another AITA novel",
+"Deciding whether OP is wrong or just bad at writing AITA titles",
+"Hitting the front page, then vanishing",
+"Lurking since 2012 with zero posts",
+"Reading every comment while keeping a flawless record of never posting",
+"Spawning another throwaway for this take",
+"Creating a throwaway account for incredibly obvious reasons",
+"Switching to a throwaway account for a question about variable naming",
+"Linking the obligatory XKCD before someone else earns the karma",
+"Spotting a repost by the ancient watermark beneath the newer watermark",
+"Complaining about a repost while ignoring the original",
+"Waiting for the mods to unlock the thread",
+"Waiting for the mods to lock the thread just as it gets interesting",
+"Dodging the incoming downvote brigade",
+"Downvoting a perfectly reasonable beginner question into oblivion",
+"Sending the confidently wrong answer back toward the basement",
+"Sending the useful answer upward with a well-earned upvote",
+"Handing over an incredibly angry upvote",
+"Handing out \"Take my upvote\" with the gravity of a royal decree",
+"Scrolling past a chain of deleted comments",
+"Reconstructing a deleted answer from replies that only say \"legend\"",
+"Asking r/AskReddit, \"Reddit, what's your most suspiciously specific bug?\"",
+"Asking Reddit about the creepiest glitch in the Matrix this week",
+"Awarding a wholesome seal to the perfect reply",
+"Awarding the comment that explained everything with a potato analogy",
+"Watching one innocent joke collect more awards than the solution",
+"Realizing the instructions were unclear and a toaster is now involved",
+"Following \"Instructions unclear\" directly into an unexpected edge case",
+"Hosting an AMA but only answering questions about Rampart",
+"Hosting an AMA and answering only the question about the tech stack",
+"Learning today that Steve Buscemi was a volunteer firefighter",
+"Learning today that the bug was documented twelve versions ago",
+"Realizing the emotional story was fabricated for internet points",
+"Plunging into an unsolved-mystery thread at three in the morning",
+"Failing to read the pinned megathread before submitting",
+"Switching back to the old layout to avoid the redesign",
+"Discovering a thriving niche community devoted exclusively to staplers",
+"Browsing a subreddit devoted entirely to identifying mystery cables",
+"Opening one houseplant sub and emerging qualified to diagnose root rot",
+"Arguing endlessly about syntax in the r/programming comments",
+"Consulting r/programming after the docs stop making eye contact",
+"Providing a standard banana for scale",
+"Leaving a sarcastic, unhelpful comment on a troubleshooting thread",
+"Watching OP ask a question just to argue with every correct answer",
+"Digging through years of post history to win a minor argument",
+"Calculating the karma exchange rate for one actually helpful comment",
+"Reading the comments instead of the article",
+"Replying \"Also interested\" and never checking back",
+"Subscribing to 40 subs and reading only one",
+"Noticing the gold-thanks edit already landed",
+"Tracing a crosspost back to its home sub"
+```
+
+</details>
+
+
 ### Retro Gaming (11)
 
 | Verb |
@@ -11903,6 +12663,426 @@ Have a magical day — backstage park-ops deadpan for when Claude is keeping the
 </details>
 
 
+### TikTok (73)
+
+| Verb |
+|------|
+| Stitching a stranger |
+| Duetting the original |
+| Duetting a mutual |
+| Learning the dance |
+| Relearning the choreo |
+| Doing the Renegade |
+| Trend-hopping |
+| Speed-running a trend |
+| Syncing to the beat |
+| Cutting on the beat |
+| Nailing the transition |
+| Failing the transition |
+| Snapping into the transition |
+| Timing the jump cut |
+| Layering green screen |
+| Green-screening the plot |
+| Framing the POV |
+| Spilling a storytime |
+| Faking a storytime |
+| Filming a GRWM |
+| Documenting the day |
+| Mouthing the lyrics |
+| Lip-syncing dramatically |
+| Testing the filter |
+| Browsing TikTok Shop |
+| Unboxing the haul |
+| Packing an order |
+| Sending a galaxy |
+| Collecting virtual roses |
+| Joining the LIVE |
+| Cashing the Creator Fund check |
+| Replying with video |
+| Teasing part two |
+| Dropping part two |
+| Forgetting part two |
+| Requesting part two |
+| Browsing BookTok |
+| Scrubbing with CleanTok |
+| Debugging on DevTok |
+| Baking feta pasta |
+| Chopping the cucumber |
+| Baking cloud bread |
+| Hooking the viewer |
+| Crafting the hook |
+| Scrolling the FYP |
+| Scrolling past bedtime |
+| Watching at 3am |
+| Pausing the scroll |
+| Going down a rabbit hole |
+| Training the algorithm |
+| Resetting the algorithm |
+| Analyzing watch time |
+| Serving main character energy |
+| Looping the sound |
+| Remixing the trend |
+| Recreating the trend |
+| Seeding a niche trend |
+| Muting trending sounds |
+| Speeding up the audio |
+| Slowing it down with reverb |
+| Adding FYP tags |
+| Pointing at floating text |
+| Captioning the chaos |
+| Changing the outfit |
+| Staging the skit |
+| Building FYP suspense |
+| Capturing the reaction |
+| Dropping the punchline |
+| Ranking niche lore |
+| Dancing in public |
+| Covering the lens |
+| Hoarding video drafts |
+| Blaming the shadowban |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Stitching a stranger",
+"Duetting the original",
+"Duetting a mutual",
+"Learning the dance",
+"Relearning the choreo",
+"Doing the Renegade",
+"Trend-hopping",
+"Speed-running a trend",
+"Syncing to the beat",
+"Cutting on the beat",
+"Nailing the transition",
+"Failing the transition",
+"Snapping into the transition",
+"Timing the jump cut",
+"Layering green screen",
+"Green-screening the plot",
+"Framing the POV",
+"Spilling a storytime",
+"Faking a storytime",
+"Filming a GRWM",
+"Documenting the day",
+"Mouthing the lyrics",
+"Lip-syncing dramatically",
+"Testing the filter",
+"Browsing TikTok Shop",
+"Unboxing the haul",
+"Packing an order",
+"Sending a galaxy",
+"Collecting virtual roses",
+"Joining the LIVE",
+"Cashing the Creator Fund check",
+"Replying with video",
+"Teasing part two",
+"Dropping part two",
+"Forgetting part two",
+"Requesting part two",
+"Browsing BookTok",
+"Scrubbing with CleanTok",
+"Debugging on DevTok",
+"Baking feta pasta",
+"Chopping the cucumber",
+"Baking cloud bread",
+"Hooking the viewer",
+"Crafting the hook",
+"Scrolling the FYP",
+"Scrolling past bedtime",
+"Watching at 3am",
+"Pausing the scroll",
+"Going down a rabbit hole",
+"Training the algorithm",
+"Resetting the algorithm",
+"Analyzing watch time",
+"Serving main character energy",
+"Looping the sound",
+"Remixing the trend",
+"Recreating the trend",
+"Seeding a niche trend",
+"Muting trending sounds",
+"Speeding up the audio",
+"Slowing it down with reverb",
+"Adding FYP tags",
+"Pointing at floating text",
+"Captioning the chaos",
+"Changing the outfit",
+"Staging the skit",
+"Building FYP suspense",
+"Capturing the reaction",
+"Dropping the punchline",
+"Ranking niche lore",
+"Dancing in public",
+"Covering the lens",
+"Hoarding video drafts",
+"Blaming the shadowban"
+```
+
+</details>
+
+
+### TikTok Phrases (122)
+
+Wait for it — for when Claude is stitching, duetting, and promising a part 2 that will never come.
+
+| Verb |
+|------|
+| Waiting for part 2 that will never come |
+| Waiting for part 2 to explain absolutely nothing |
+| Typing "part 2?" before part 1 has even ended |
+| Asking the void if this needs a part 2 |
+| Restarting the dance for the 30th take |
+| Restarting the dance because one elbow missed its cue |
+| Practicing the hand moves before the beat drops |
+| Realizing the dance has eight more counts |
+| Forgetting the choreography right at the beat drop |
+| Trying to hit the transition like the tutorial |
+| Saving the transition fail for the bloopers |
+| Snapping fingers to transition from dev into production |
+| Watching a transition hide a jump cut and an existential crisis |
+| Cutting to the outfit change one frame too late |
+| Pretending the first take was intentional |
+| Hiding the first 29 takes from the camera roll |
+| Hoarding eighty drafts that will never see daylight |
+| Losing three hours to "just one more" |
+| Negotiating terms for just one more scroll |
+| Forgetting why the app was opened in the first place |
+| Looking up at 3am after one more video became 200 |
+| Ending up on the weird side of the FYP at 3am |
+| Side-eyeing the 3am FYP choices |
+| Asking the FYP to find the correct side of TikTok |
+| Treating the FYP like a production debugger |
+| Hoping this final commit makes it onto the developer FYP |
+| Adding #fyp as if the algorithm accepts command-line flags |
+| Teaching the algorithm the difference between curiosity and commitment |
+| Convincing the algorithm this account contains multitudes |
+| Convincing the algorithm this framework is actually useful |
+| Curating chaos for the algorithm's approval |
+| Waking up to find the pull request shadowbanned |
+| Leaving a cryptic comment to juice the engagement |
+| Selling the POV in the first two seconds |
+| Hooking the code reviewer in the first two seconds |
+| Front-loading the hook before the attention-span garbage collector runs |
+| Wondering why this sound is everywhere |
+| Hearing the same trending sound for the hundredth time |
+| Choosing the trending sound over a coherent explanation |
+| Timing the punchline to the trending sound |
+| Looping the audio until it becomes a personality |
+| Looping the clip so the ending secretly becomes the beginning |
+| Realizing the trending audio was muted for copyright |
+| Syncing the deploy schedule to a sped-up remix |
+| Lip-syncing with the confidence of a senior engineer |
+| Lip-syncing with confidence and legally questionable accuracy |
+| Explaining the joke in a stitch nobody asked for |
+| Stitching context the original creator left out |
+| Stitching the senior dev's tutorial to show an easier way |
+| Watching a stitch become a courtroom cross-examination |
+| Hoping the duet lands before the trend dies |
+| Realizing the duet has better timing than the original |
+| Missing the trend by approximately one business day |
+| Getting emotionally invested in a stranger's storytime |
+| Starting storytime with lore from three jobs ago |
+| Framing this production bug as a POV storytime |
+| POV: the tests pass only while nobody is watching |
+| Pointing at floating text to explain the architecture |
+| Pointing at floating text while the code compiles |
+| Holding a tiny microphone to explain why the build failed |
+| Putting parkour gameplay under the logs to hold attention |
+| Using the green screen to hide the messy local repo |
+| Using the green screen to present evidence nobody requested |
+| Explaining the tech drama over badly cropped green-screen screenshots |
+| Searching the camera roll for green-screen material |
+| Doing a GRWM before tackling the production outage |
+| Getting ready with no plans to leave |
+| Doing a fit check before the daily standup |
+| Letting "day in the life" become the whole day |
+| Compressing an entire day into 14 seconds and a matcha |
+| Watching a day in the life of an exhausted tech worker |
+| Declaring "it's giving production" while the terminal disagrees |
+| Realizing it's giving spaghetti code energy |
+| Rating everything in "it's giving" metaphors |
+| Applying a bold glamour filter to the unit test results |
+| Trying a filter that knows far too much |
+| Counting how many filters deep this goes |
+| Letting the effect carry the entire production budget |
+| Buying highly questionable gadgets from TikTok Shop |
+| Checking TikTok Shop to see whether a lamp solves everything |
+| Hoping TikTok Shop doesn't know too much |
+| Getting targeted by tech bro dropshippers |
+| Waiting for the LIVE gift animation to finish |
+| Sending a virtual rose while the local build fails |
+| Tapping furiously to send virtual roses to the server |
+| Begging for gifts during a LIVE battle |
+| Joining a LIVE just in time for the awkward silence |
+| Calculating whether the Creator Fund covers one iced coffee |
+| Drafting a comment that turns into a whole video reply |
+| Replying to a comment with a video and three diagrams |
+| Replying to a minor bug report with a defensive video essay |
+| Pinning the comment that accidentally wrote a better hook |
+| Opening the comments for the peer-reviewed fact-check |
+| Pitching the bug fix like a GRWM hook |
+| Bookmarking a recipe that will never be cooked |
+| Trusting a FoodTok recipe with no measurements |
+| Trying the viral feta pasta and ruining the kitchen |
+| Folding feta into pasta like the deployment depends on it |
+| Smashing a whole cucumber in a deli container for engagement |
+| Falling into BookTok and emerging with 17 preorders |
+| Wondering if BookTok will judge the TBR pile |
+| Translating CleanTok motivation into actual chores |
+| Cleaning the whole apartment for CleanTok instead of fixing the code |
+| Cleaning one keyboard key for CleanTok |
+| Trying to make DevTok look cinematic |
+| Finding DevTok recommends the same three keyboards |
+| Asking DevTok why the fix has 600 angry comments |
+| Restocking a clear acrylic bin with mechanical switches |
+| Whispering ASMR about syntax errors through a face mask |
+| Acting natural in a clearly staged coding tutorial |
+| Looking for the original creator of this legacy code |
+| Putting a finger down if the code compiles first try |
+| Discovering a niche devoted entirely to Victorian spoon drama |
+| Refreshing the niche like a dependency tree |
+| Re-filming because the lighting betrayed everyone |
+| Writing a caption longer than the video |
+| Reading the error log in the text-to-speech voice |
+| Watching a 14-part series about a stranger's landlord |
+| Commenting "the way I…" and never finishing the sentence |
+| Answering "where'd you get that?" with a TikTok Shop link |
+| Speed-running a 3-minute recipe in 60 seconds |
+| Doing the Renegade in the server room |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Waiting for part 2 that will never come",
+"Waiting for part 2 to explain absolutely nothing",
+"Typing \"part 2?\" before part 1 has even ended",
+"Asking the void if this needs a part 2",
+"Restarting the dance for the 30th take",
+"Restarting the dance because one elbow missed its cue",
+"Practicing the hand moves before the beat drops",
+"Realizing the dance has eight more counts",
+"Forgetting the choreography right at the beat drop",
+"Trying to hit the transition like the tutorial",
+"Saving the transition fail for the bloopers",
+"Snapping fingers to transition from dev into production",
+"Watching a transition hide a jump cut and an existential crisis",
+"Cutting to the outfit change one frame too late",
+"Pretending the first take was intentional",
+"Hiding the first 29 takes from the camera roll",
+"Hoarding eighty drafts that will never see daylight",
+"Losing three hours to \"just one more\"",
+"Negotiating terms for just one more scroll",
+"Forgetting why the app was opened in the first place",
+"Looking up at 3am after one more video became 200",
+"Ending up on the weird side of the FYP at 3am",
+"Side-eyeing the 3am FYP choices",
+"Asking the FYP to find the correct side of TikTok",
+"Treating the FYP like a production debugger",
+"Hoping this final commit makes it onto the developer FYP",
+"Adding #fyp as if the algorithm accepts command-line flags",
+"Teaching the algorithm the difference between curiosity and commitment",
+"Convincing the algorithm this account contains multitudes",
+"Convincing the algorithm this framework is actually useful",
+"Curating chaos for the algorithm's approval",
+"Waking up to find the pull request shadowbanned",
+"Leaving a cryptic comment to juice the engagement",
+"Selling the POV in the first two seconds",
+"Hooking the code reviewer in the first two seconds",
+"Front-loading the hook before the attention-span garbage collector runs",
+"Wondering why this sound is everywhere",
+"Hearing the same trending sound for the hundredth time",
+"Choosing the trending sound over a coherent explanation",
+"Timing the punchline to the trending sound",
+"Looping the audio until it becomes a personality",
+"Looping the clip so the ending secretly becomes the beginning",
+"Realizing the trending audio was muted for copyright",
+"Syncing the deploy schedule to a sped-up remix",
+"Lip-syncing with the confidence of a senior engineer",
+"Lip-syncing with confidence and legally questionable accuracy",
+"Explaining the joke in a stitch nobody asked for",
+"Stitching context the original creator left out",
+"Stitching the senior dev's tutorial to show an easier way",
+"Watching a stitch become a courtroom cross-examination",
+"Hoping the duet lands before the trend dies",
+"Realizing the duet has better timing than the original",
+"Missing the trend by approximately one business day",
+"Getting emotionally invested in a stranger's storytime",
+"Starting storytime with lore from three jobs ago",
+"Framing this production bug as a POV storytime",
+"POV: the tests pass only while nobody is watching",
+"Pointing at floating text to explain the architecture",
+"Pointing at floating text while the code compiles",
+"Holding a tiny microphone to explain why the build failed",
+"Putting parkour gameplay under the logs to hold attention",
+"Using the green screen to hide the messy local repo",
+"Using the green screen to present evidence nobody requested",
+"Explaining the tech drama over badly cropped green-screen screenshots",
+"Searching the camera roll for green-screen material",
+"Doing a GRWM before tackling the production outage",
+"Getting ready with no plans to leave",
+"Doing a fit check before the daily standup",
+"Letting \"day in the life\" become the whole day",
+"Compressing an entire day into 14 seconds and a matcha",
+"Watching a day in the life of an exhausted tech worker",
+"Declaring \"it's giving production\" while the terminal disagrees",
+"Realizing it's giving spaghetti code energy",
+"Rating everything in \"it's giving\" metaphors",
+"Applying a bold glamour filter to the unit test results",
+"Trying a filter that knows far too much",
+"Counting how many filters deep this goes",
+"Letting the effect carry the entire production budget",
+"Buying highly questionable gadgets from TikTok Shop",
+"Checking TikTok Shop to see whether a lamp solves everything",
+"Hoping TikTok Shop doesn't know too much",
+"Getting targeted by tech bro dropshippers",
+"Waiting for the LIVE gift animation to finish",
+"Sending a virtual rose while the local build fails",
+"Tapping furiously to send virtual roses to the server",
+"Begging for gifts during a LIVE battle",
+"Joining a LIVE just in time for the awkward silence",
+"Calculating whether the Creator Fund covers one iced coffee",
+"Drafting a comment that turns into a whole video reply",
+"Replying to a comment with a video and three diagrams",
+"Replying to a minor bug report with a defensive video essay",
+"Pinning the comment that accidentally wrote a better hook",
+"Opening the comments for the peer-reviewed fact-check",
+"Pitching the bug fix like a GRWM hook",
+"Bookmarking a recipe that will never be cooked",
+"Trusting a FoodTok recipe with no measurements",
+"Trying the viral feta pasta and ruining the kitchen",
+"Folding feta into pasta like the deployment depends on it",
+"Smashing a whole cucumber in a deli container for engagement",
+"Falling into BookTok and emerging with 17 preorders",
+"Wondering if BookTok will judge the TBR pile",
+"Translating CleanTok motivation into actual chores",
+"Cleaning the whole apartment for CleanTok instead of fixing the code",
+"Cleaning one keyboard key for CleanTok",
+"Trying to make DevTok look cinematic",
+"Finding DevTok recommends the same three keyboards",
+"Asking DevTok why the fix has 600 angry comments",
+"Restocking a clear acrylic bin with mechanical switches",
+"Whispering ASMR about syntax errors through a face mask",
+"Acting natural in a clearly staged coding tutorial",
+"Looking for the original creator of this legacy code",
+"Putting a finger down if the code compiles first try",
+"Discovering a niche devoted entirely to Victorian spoon drama",
+"Refreshing the niche like a dependency tree",
+"Re-filming because the lighting betrayed everyone",
+"Writing a caption longer than the video",
+"Reading the error log in the text-to-speech voice",
+"Watching a 14-part series about a stranger's landlord",
+"Commenting \"the way I…\" and never finishing the sentence",
+"Answering \"where'd you get that?\" with a TikTok Shop link",
+"Speed-running a 3-minute recipe in 60 seconds",
+"Doing the Renegade in the server room"
+```
+
+</details>
+
+
 ### Trading / Crypto (13)
 
 | Verb |
@@ -11938,6 +13118,326 @@ Have a magical day — backstage park-ops deadpan for when Claude is keeping the
 "Charting",
 "Yieldfarming",
 "Arbitraging"
+```
+
+</details>
+
+
+### Twitch (53)
+
+| Verb |
+|------|
+| Spamming Pog |
+| Spamming KEKW |
+| Hiding behind Kappa |
+| Farming LULs |
+| Typing monkaS |
+| Chanting W |
+| Spamming L |
+| Pasting copypastas |
+| Enabling slow mode |
+| Enabling emote-only |
+| Locking sub-only mode |
+| Timing out trolls |
+| Pinging mods |
+| Backseat gaming |
+| Ignoring backseaters |
+| Missing chat messages |
+| Questioning reality |
+| Just chatting |
+| Streaming IRL |
+| Speedrunning commits |
+| Raiding neighbors |
+| Catching a raid |
+| Passing the host |
+| Subscribing with Prime |
+| Cheering bits |
+| Running predictions |
+| Betting channel points |
+| Redeeming channel points |
+| Believing harder |
+| Doubting louder |
+| Clipping that |
+| Reviewing the VOD |
+| Airing a rerun |
+| Extending the subathon |
+| Surviving the subathon |
+| Adding stream delay |
+| Switching OBS scenes |
+| Framing the webcam |
+| Reaching Affiliate |
+| Making Partner |
+| Welcoming in chat |
+| Live coding |
+| Sniping streams |
+| Dodging stream snipers |
+| Claiming drops |
+| Extending Starting Soon |
+| Showing the BRB screen |
+| Reading donation TTS |
+| Triggering alerts |
+| Chasing the follower goal |
+| Dropping frames |
+| Running a mid-roll |
+| Paying respects |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Spamming Pog",
+"Spamming KEKW",
+"Hiding behind Kappa",
+"Farming LULs",
+"Typing monkaS",
+"Chanting W",
+"Spamming L",
+"Pasting copypastas",
+"Enabling slow mode",
+"Enabling emote-only",
+"Locking sub-only mode",
+"Timing out trolls",
+"Pinging mods",
+"Backseat gaming",
+"Ignoring backseaters",
+"Missing chat messages",
+"Questioning reality",
+"Just chatting",
+"Streaming IRL",
+"Speedrunning commits",
+"Raiding neighbors",
+"Catching a raid",
+"Passing the host",
+"Subscribing with Prime",
+"Cheering bits",
+"Running predictions",
+"Betting channel points",
+"Redeeming channel points",
+"Believing harder",
+"Doubting louder",
+"Clipping that",
+"Reviewing the VOD",
+"Airing a rerun",
+"Extending the subathon",
+"Surviving the subathon",
+"Adding stream delay",
+"Switching OBS scenes",
+"Framing the webcam",
+"Reaching Affiliate",
+"Making Partner",
+"Welcoming in chat",
+"Live coding",
+"Sniping streams",
+"Dodging stream snipers",
+"Claiming drops",
+"Extending Starting Soon",
+"Showing the BRB screen",
+"Reading donation TTS",
+"Triggering alerts",
+"Chasing the follower goal",
+"Dropping frames",
+"Running a mid-roll",
+"Paying respects"
+```
+
+</details>
+
+
+### Twitch Phrases (92)
+
+Chat, clip that — for when Claude is betting all its channel points on the tests passing.
+
+| Verb |
+|------|
+| Sitting on the Starting Soon screen for 20 minutes |
+| Waiting on Starting Soon long enough to finish a side quest |
+| Letting the Starting Soon playlist loop one more time |
+| Betting all channel points on the tests passing |
+| Stacking channel points on "it works on my machine" |
+| Spending channel points to make the tests run twice |
+| Cashing in channel points to remind the developer to hydrate |
+| Asking chat if this stack trace is real |
+| Answering "chat, is this real?" with another print statement |
+| Watching the BRB screen outlive the bugfix |
+| Leaving the BRB screen up while frantically searching the error |
+| Returning from BRB before the build does |
+| Turning on slow mode for the recursive arguments |
+| Enabling slow mode because the error logs scroll too fast |
+| Putting the stream in sub-only until CI goes green |
+| Locking chat to subscribers after the semicolon discourse |
+| Entering emote-only mode because words have failed the build |
+| Putting the terminal in emote-only mode during the outage |
+| Banning backseaters who keep suggesting a different framework |
+| Explaining that backseat coding still counts as backseat gaming |
+| Typing F in the chat for the fallen production database |
+| Paying respects to the function deleted too soon |
+| Watching W spam become a load test |
+| Spamming W when the flaky test finally passes |
+| Pushing to main just to farm Ws in chat |
+| Watching L spam arrive before CI finishes |
+| Yelling "chat, clip that" at a clean one-take fix |
+| Asking chat to clip the accidental production deploy |
+| Watching the clip outrun the original stream |
+| Waiting for donation TTS to finish reading the stack trace |
+| Letting donation TTS pronounce Kubernetes with confidence |
+| Watching the believers lose everything when the build fails |
+| Watching the believers celebrate one green checkmark |
+| Joining the doubters right before the rollback |
+| Fueling a level five hype train for a single unit test |
+| Boarding a hype train powered entirely by merge conflicts |
+| Subscribing with Prime to unlock the premium error messages |
+| Remembering to renew the Prime sub before the month resets |
+| Thanking the anonymous legend for five gifted subs |
+| Cheering 100 bits at a one-bit fix |
+| Cheering bits every time the linter stays quiet |
+| Raiding the next channel with a party of debuggers |
+| Raiding a random channel with a thousand unresolved merge conflicts |
+| Remembering when hosting was a button and not a history lesson |
+| Lurking in Just Chatting instead of reviewing pull requests |
+| Filling Just Chatting with increasingly nervous compiler updates |
+| Lurking through three hours of dependency updates |
+| Farming drops while the loading spinner farms patience |
+| Claiming a drop that just contains more unhandled exceptions |
+| Blaming stream delay on the weird race condition |
+| Waiting for the stream delay to catch up to the production panic |
+| Switching OBS scenes instead of switching branches |
+| Forgetting to switch scenes and coding out of frame for an hour |
+| Keeping the webcam in the corner where the exception can't see it |
+| Staring into the webcam while the servers burn |
+| Surviving hour 23 of a 24-hour subathon on cold pizza |
+| Extending the subathon just to fix a single typo |
+| Timing out the user who pasted the entire error log |
+| Timing out chatters who ask when the feature will be finished |
+| Timing out the bot that timed out the bot |
+| Welcoming in chat right as the server forgets auth |
+| Welcoming chat to another twelve-hour debugging marathon |
+| Taking the IRL stream directly to the server rack |
+| Deploying on a Friday and immediately switching to IRL |
+| Speedrunning the deployment pipeline, any% category |
+| Speedrunning the happy path before the raid arrives |
+| Rewatching the VOD to figure out how it ever compiled |
+| Checking the VOD for the bug that only existed live |
+| Airing a rerun because the bug came back too |
+| Streaming to a smart fridge to hit Affiliate |
+| Applying for Affiliate after one successful localhost demo |
+| Reaching Partner before reaching code coverage |
+| Coding live with zero undo history and maximum confidence |
+| Pasting a giant copypasta instead of reading the docs |
+| Letting monkaS ride until the frames stabilize |
+| Letting Kappa carry the awkward silence after the crash |
+| Watching KEKW fill chat when the "quick fix" explodes |
+| Holding LUL for the comment that turned out to be load-bearing |
+| Scrolling up to the message the streamer definitely did not see |
+| Pretending the streamer didn't see that memory leak |
+| Explaining to chat that it worked perfectly on local |
+| Getting stream sniped by an unannounced API deprecation |
+| Running three minutes of ads right as the bug is found |
+| Hitting the follower goal one bot cleanup at a time |
+| Smashing the follower goal to unlock a new tier of bugs |
+| Dropping seventy frames running Docker locally |
+| Blaming dropped frames for the failure in staging |
+| Whispering the mods to delete the embarrassing console logs |
+| Losing VIP status for pushing untested code to production |
+| Buffering politely while chat invents new lore |
+| Watching chat solve the bug three minutes before the streamer does |
+| Hearing the donation sound effect in the middle of the explanation |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Sitting on the Starting Soon screen for 20 minutes",
+"Waiting on Starting Soon long enough to finish a side quest",
+"Letting the Starting Soon playlist loop one more time",
+"Betting all channel points on the tests passing",
+"Stacking channel points on \"it works on my machine\"",
+"Spending channel points to make the tests run twice",
+"Cashing in channel points to remind the developer to hydrate",
+"Asking chat if this stack trace is real",
+"Answering \"chat, is this real?\" with another print statement",
+"Watching the BRB screen outlive the bugfix",
+"Leaving the BRB screen up while frantically searching the error",
+"Returning from BRB before the build does",
+"Turning on slow mode for the recursive arguments",
+"Enabling slow mode because the error logs scroll too fast",
+"Putting the stream in sub-only until CI goes green",
+"Locking chat to subscribers after the semicolon discourse",
+"Entering emote-only mode because words have failed the build",
+"Putting the terminal in emote-only mode during the outage",
+"Banning backseaters who keep suggesting a different framework",
+"Explaining that backseat coding still counts as backseat gaming",
+"Typing F in the chat for the fallen production database",
+"Paying respects to the function deleted too soon",
+"Watching W spam become a load test",
+"Spamming W when the flaky test finally passes",
+"Pushing to main just to farm Ws in chat",
+"Watching L spam arrive before CI finishes",
+"Yelling \"chat, clip that\" at a clean one-take fix",
+"Asking chat to clip the accidental production deploy",
+"Watching the clip outrun the original stream",
+"Waiting for donation TTS to finish reading the stack trace",
+"Letting donation TTS pronounce Kubernetes with confidence",
+"Watching the believers lose everything when the build fails",
+"Watching the believers celebrate one green checkmark",
+"Joining the doubters right before the rollback",
+"Fueling a level five hype train for a single unit test",
+"Boarding a hype train powered entirely by merge conflicts",
+"Subscribing with Prime to unlock the premium error messages",
+"Remembering to renew the Prime sub before the month resets",
+"Thanking the anonymous legend for five gifted subs",
+"Cheering 100 bits at a one-bit fix",
+"Cheering bits every time the linter stays quiet",
+"Raiding the next channel with a party of debuggers",
+"Raiding a random channel with a thousand unresolved merge conflicts",
+"Remembering when hosting was a button and not a history lesson",
+"Lurking in Just Chatting instead of reviewing pull requests",
+"Filling Just Chatting with increasingly nervous compiler updates",
+"Lurking through three hours of dependency updates",
+"Farming drops while the loading spinner farms patience",
+"Claiming a drop that just contains more unhandled exceptions",
+"Blaming stream delay on the weird race condition",
+"Waiting for the stream delay to catch up to the production panic",
+"Switching OBS scenes instead of switching branches",
+"Forgetting to switch scenes and coding out of frame for an hour",
+"Keeping the webcam in the corner where the exception can't see it",
+"Staring into the webcam while the servers burn",
+"Surviving hour 23 of a 24-hour subathon on cold pizza",
+"Extending the subathon just to fix a single typo",
+"Timing out the user who pasted the entire error log",
+"Timing out chatters who ask when the feature will be finished",
+"Timing out the bot that timed out the bot",
+"Welcoming in chat right as the server forgets auth",
+"Welcoming chat to another twelve-hour debugging marathon",
+"Taking the IRL stream directly to the server rack",
+"Deploying on a Friday and immediately switching to IRL",
+"Speedrunning the deployment pipeline, any% category",
+"Speedrunning the happy path before the raid arrives",
+"Rewatching the VOD to figure out how it ever compiled",
+"Checking the VOD for the bug that only existed live",
+"Airing a rerun because the bug came back too",
+"Streaming to a smart fridge to hit Affiliate",
+"Applying for Affiliate after one successful localhost demo",
+"Reaching Partner before reaching code coverage",
+"Coding live with zero undo history and maximum confidence",
+"Pasting a giant copypasta instead of reading the docs",
+"Letting monkaS ride until the frames stabilize",
+"Letting Kappa carry the awkward silence after the crash",
+"Watching KEKW fill chat when the \"quick fix\" explodes",
+"Holding LUL for the comment that turned out to be load-bearing",
+"Scrolling up to the message the streamer definitely did not see",
+"Pretending the streamer didn't see that memory leak",
+"Explaining to chat that it worked perfectly on local",
+"Getting stream sniped by an unannounced API deprecation",
+"Running three minutes of ads right as the bug is found",
+"Hitting the follower goal one bot cleanup at a time",
+"Smashing the follower goal to unlock a new tier of bugs",
+"Dropping seventy frames running Docker locally",
+"Blaming dropped frames for the failure in staging",
+"Whispering the mods to delete the embarrassing console logs",
+"Losing VIP status for pushing untested code to production",
+"Buffering politely while chat invents new lore",
+"Watching chat solve the bug three minutes before the streamer does",
+"Hearing the donation sound effect in the middle of the explanation"
 ```
 
 </details>
@@ -12442,6 +13942,294 @@ Gentle nudges for AI-assisted developers — reminders that make you a better en
 "Softening tannins",
 "Tasting the terroir",
 "Uncorking"
+```
+
+</details>
+
+
+### YouTube (51)
+
+| Verb |
+|------|
+| Skipping the intro |
+| Buffering at 360p |
+| Rewinding ten seconds |
+| Smashing the like button |
+| Hitting the bell |
+| Subscribing for more |
+| Skipping the sponsor |
+| Trusting SponsorBlock |
+| Enduring the NordVPN read |
+| Surviving the Raid ad |
+| Waiting to skip the ad |
+| Enduring unskippable ads |
+| Watching at 2x |
+| Scrubbing the timeline |
+| Disabling autoplay |
+| Looping for ten hours |
+| Chasing recommendations |
+| Bingeing video essays |
+| Following outdated tutorials |
+| Missing the one step |
+| Copying terminal commands |
+| Checking the description |
+| Linking down below |
+| Jumping between chapters |
+| Adding chapter markers |
+| Hoarding Watch Later |
+| Reading the pinned comment |
+| Leaving a timestamp |
+| Commenting first |
+| Asking who's watching in 2026 |
+| Thanking the real MVP |
+| Rickrolling |
+| Gasping at thumbnails |
+| Posing for the thumbnail |
+| Drawing red arrows |
+| Adding (GONE WRONG) |
+| Feeding the algorithm |
+| Appealing demonetization |
+| Swiping through Shorts |
+| Awaiting the Premiere |
+| Flooding live chat |
+| Posting to the community tab |
+| Studying to lo-fi |
+| Welcoming viewers back |
+| Getting right into it |
+| Opening mystery boxes |
+| Reacting dramatically |
+| Chewing near the microphone |
+| Filming the apology video |
+| Sighing deeply |
+| Checking the analytics |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Skipping the intro",
+"Buffering at 360p",
+"Rewinding ten seconds",
+"Smashing the like button",
+"Hitting the bell",
+"Subscribing for more",
+"Skipping the sponsor",
+"Trusting SponsorBlock",
+"Enduring the NordVPN read",
+"Surviving the Raid ad",
+"Waiting to skip the ad",
+"Enduring unskippable ads",
+"Watching at 2x",
+"Scrubbing the timeline",
+"Disabling autoplay",
+"Looping for ten hours",
+"Chasing recommendations",
+"Bingeing video essays",
+"Following outdated tutorials",
+"Missing the one step",
+"Copying terminal commands",
+"Checking the description",
+"Linking down below",
+"Jumping between chapters",
+"Adding chapter markers",
+"Hoarding Watch Later",
+"Reading the pinned comment",
+"Leaving a timestamp",
+"Commenting first",
+"Asking who's watching in 2026",
+"Thanking the real MVP",
+"Rickrolling",
+"Gasping at thumbnails",
+"Posing for the thumbnail",
+"Drawing red arrows",
+"Adding (GONE WRONG)",
+"Feeding the algorithm",
+"Appealing demonetization",
+"Swiping through Shorts",
+"Awaiting the Premiere",
+"Flooding live chat",
+"Posting to the community tab",
+"Studying to lo-fi",
+"Welcoming viewers back",
+"Getting right into it",
+"Opening mystery boxes",
+"Reacting dramatically",
+"Chewing near the microphone",
+"Filming the apology video",
+"Sighing deeply",
+"Checking the analytics"
+```
+
+</details>
+
+
+### YouTube Phrases (78)
+
+But first, a word from our sponsor — for when Claude is following a 2013 tutorial that somehow still works.
+
+| Verb |
+|------|
+| Skipping the sponsor segment with surgical precision |
+| Following a 2013 tutorial that somehow still works |
+| Waiting for the Skip Ad button like it owes rent |
+| Waiting five seconds for the Skip Ad button to achieve enlightenment |
+| Enduring two unskippable ads before the actual content starts |
+| Enduring an unskippable ad longer than the requested video |
+| Rewinding ten seconds after missing the only important sentence |
+| Watching at 2x and still somehow behind |
+| Watching at 2x because normal conversation has become intolerable |
+| Saving another essential tutorial to a 900-video Watch Later playlist |
+| Trusting SponsorBlock more than the creator |
+| Letting SponsorBlock detect the exact moment the enthusiasm becomes contractual |
+| Transitioning seamlessly into a word from today's sponsor |
+| Securing the code behind NordVPN before crossing the border |
+| Surviving a NordVPN segment in the wild |
+| Installing Raid: Shadow Legends while the tests run |
+| Drafting legendary champions for a shockingly popular mobile RPG |
+| Building a beautiful Squarespace site without touching CSS |
+| Scrolling the recommended sidebar into another dimension |
+| Following the recommended sidebar from debugging tips to medieval plumbing |
+| Letting the algorithm serve one more "related" video |
+| Begging the algorithmic overlords for a sliver of organic reach |
+| Waiting for the algorithm to recommend the code to the correct demographic |
+| Checking whether anyone else is watching in 2026 |
+| Asking who's still watching this compile in 2026 |
+| Reading the pinned comment with all the corrections, updates, and regrets |
+| Pinning the comment that actually helped |
+| Dropping a timestamp so future viewers suffer less |
+| Finding the real MVP who posted a timestamp for the useful part |
+| Finding the one tutorial comment that fixed everything |
+| Racing to comment "first" beneath a six-year-old upload |
+| Typing "first" before the video even finishes buffering |
+| Investigating a shocked face, three red arrows, and absolutely no context |
+| Adding a red circle and a shocked face to the thumbnail |
+| Appending "(GONE WRONG)" to the title of a routine bug fix |
+| Looping the same twelve seconds for ten relaxing hours |
+| Creating a ten-hour loop of the successful build chime |
+| Discovering the tutorial skipped the one step causing the error |
+| Hearing "and that's it!" while seventeen errors remain |
+| Ending a chaotic deployment with a cheerful "and that's it!" |
+| Rickrolling the next autoplay without remorse |
+| Trusting a documentation link and receiving Rick Astley instead |
+| Buffering at 360p during the important part |
+| Buffering at 360p on a connection that could download the entire repo |
+| Waiting for the Premiere countdown to reveal another countdown |
+| Watching a Premiere while live chat moves at light speed |
+| Watching live chat answer every question with increasingly confident guesses |
+| Opening a community post that is just a poll |
+| Voting on a community poll before reading any of the options |
+| Compiling to lo-fi beats while the animated window rains forever |
+| Saying "What's up, guys?" before addressing a production outage |
+| Welcoming everyone back to the channel after a four-second absence |
+| Welcoming everyone back after a brief unannounced hiatus |
+| Recording an apology video beside a carefully positioned houseplant |
+| Starting the apology video with a deeply exaggerated sigh |
+| Watching a 3am video essay about a defunct theme park |
+| Starting a three-hour video essay at 3am like a responsible adult |
+| Swiping Shorts until the algorithm gets weird |
+| Compressing the entire explanation into a seven-second Short |
+| Reacting to a reaction video reacting to the original reaction |
+| Unboxing something that needed no unboxing |
+| Opening a mystery box that contains three dongles and a sponsored cable |
+| Noticing the chapters only after the video ends |
+| Adding chapters so everyone can skip straight to the bug |
+| Checking the description for a link that was never added |
+| Putting the critical dependency link somewhere in the description |
+| Skipping the intro with practiced muscle memory |
+| Watching someone eat for twenty minutes, respectfully |
+| Letting the mukbang microphone capture every byte |
+| Smashing that like button and aggressively ringing the bell |
+| Waiting for the bell icon to mean something again |
+| Getting instantly demonetized by an unpredictable algorithm update |
+| Appealing demonetization for excessive use of semicolons |
+| Saying "Let's get into it" after a seven-minute introduction |
+| Checking the upload date before trusting the tutorial |
+| Reading the comments to find which version this actually works on |
+| Hearing "this video is sponsored by" right before the solution |
+| Asking "what's the name of this song?" under the lo-fi stream |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Skipping the sponsor segment with surgical precision",
+"Following a 2013 tutorial that somehow still works",
+"Waiting for the Skip Ad button like it owes rent",
+"Waiting five seconds for the Skip Ad button to achieve enlightenment",
+"Enduring two unskippable ads before the actual content starts",
+"Enduring an unskippable ad longer than the requested video",
+"Rewinding ten seconds after missing the only important sentence",
+"Watching at 2x and still somehow behind",
+"Watching at 2x because normal conversation has become intolerable",
+"Saving another essential tutorial to a 900-video Watch Later playlist",
+"Trusting SponsorBlock more than the creator",
+"Letting SponsorBlock detect the exact moment the enthusiasm becomes contractual",
+"Transitioning seamlessly into a word from today's sponsor",
+"Securing the code behind NordVPN before crossing the border",
+"Surviving a NordVPN segment in the wild",
+"Installing Raid: Shadow Legends while the tests run",
+"Drafting legendary champions for a shockingly popular mobile RPG",
+"Building a beautiful Squarespace site without touching CSS",
+"Scrolling the recommended sidebar into another dimension",
+"Following the recommended sidebar from debugging tips to medieval plumbing",
+"Letting the algorithm serve one more \"related\" video",
+"Begging the algorithmic overlords for a sliver of organic reach",
+"Waiting for the algorithm to recommend the code to the correct demographic",
+"Checking whether anyone else is watching in 2026",
+"Asking who's still watching this compile in 2026",
+"Reading the pinned comment with all the corrections, updates, and regrets",
+"Pinning the comment that actually helped",
+"Dropping a timestamp so future viewers suffer less",
+"Finding the real MVP who posted a timestamp for the useful part",
+"Finding the one tutorial comment that fixed everything",
+"Racing to comment \"first\" beneath a six-year-old upload",
+"Typing \"first\" before the video even finishes buffering",
+"Investigating a shocked face, three red arrows, and absolutely no context",
+"Adding a red circle and a shocked face to the thumbnail",
+"Appending \"(GONE WRONG)\" to the title of a routine bug fix",
+"Looping the same twelve seconds for ten relaxing hours",
+"Creating a ten-hour loop of the successful build chime",
+"Discovering the tutorial skipped the one step causing the error",
+"Hearing \"and that's it!\" while seventeen errors remain",
+"Ending a chaotic deployment with a cheerful \"and that's it!\"",
+"Rickrolling the next autoplay without remorse",
+"Trusting a documentation link and receiving Rick Astley instead",
+"Buffering at 360p during the important part",
+"Buffering at 360p on a connection that could download the entire repo",
+"Waiting for the Premiere countdown to reveal another countdown",
+"Watching a Premiere while live chat moves at light speed",
+"Watching live chat answer every question with increasingly confident guesses",
+"Opening a community post that is just a poll",
+"Voting on a community poll before reading any of the options",
+"Compiling to lo-fi beats while the animated window rains forever",
+"Saying \"What's up, guys?\" before addressing a production outage",
+"Welcoming everyone back to the channel after a four-second absence",
+"Welcoming everyone back after a brief unannounced hiatus",
+"Recording an apology video beside a carefully positioned houseplant",
+"Starting the apology video with a deeply exaggerated sigh",
+"Watching a 3am video essay about a defunct theme park",
+"Starting a three-hour video essay at 3am like a responsible adult",
+"Swiping Shorts until the algorithm gets weird",
+"Compressing the entire explanation into a seven-second Short",
+"Reacting to a reaction video reacting to the original reaction",
+"Unboxing something that needed no unboxing",
+"Opening a mystery box that contains three dongles and a sponsored cable",
+"Noticing the chapters only after the video ends",
+"Adding chapters so everyone can skip straight to the bug",
+"Checking the description for a link that was never added",
+"Putting the critical dependency link somewhere in the description",
+"Skipping the intro with practiced muscle memory",
+"Watching someone eat for twenty minutes, respectfully",
+"Letting the mukbang microphone capture every byte",
+"Smashing that like button and aggressively ringing the bell",
+"Waiting for the bell icon to mean something again",
+"Getting instantly demonetized by an unpredictable algorithm update",
+"Appealing demonetization for excessive use of semicolons",
+"Saying \"Let's get into it\" after a seven-minute introduction",
+"Checking the upload date before trusting the tutorial",
+"Reading the comments to find which version this actually works on",
+"Hearing \"this video is sponsored by\" right before the solution",
+"Asking \"what's the name of this song?\" under the lo-fi stream"
 ```
 
 </details>
