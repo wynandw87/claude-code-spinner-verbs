@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **6,098 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **6,304 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **5,913 additional verbs** across 151 themed categories.
+**185 built-in defaults** + **6,119 additional verbs** across 153 themed categories.
 
 ## How to Add Verbs
 
@@ -158,6 +158,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Theme Park Operations (48)](#theme-park-operations-48)
 - [TikTok (73)](#tiktok-73)
 - [Trading / Crypto (13)](#trading--crypto-13)
+- [Trolling (85)](#trolling-85)
 - [Twitch (53)](#twitch-53)
 - [Victorian / Steampunk (11)](#victorian--steampunk-11)
 - [Viking / Norse (11)](#viking--norse-11)
@@ -211,6 +212,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Theater / Stage Manager Phrases (79)](#theater--stage-manager-phrases-79)
 - [Theme Park Operations Phrases (83)](#theme-park-operations-phrases-83)
 - [TikTok Phrases (122)](#tiktok-phrases-122)
+- [Trolling Phrases (121)](#trolling-phrases-121)
 - [Twitch Phrases (92)](#twitch-phrases-92)
 - [Vibe Check (110)](#vibe-check-110)
 - [YouTube Phrases (78)](#youtube-phrases-78)
@@ -13118,6 +13120,448 @@ Wait for it — for when Claude is stitching, duetting, and promising a part 2 t
 "Charting",
 "Yieldfarming",
 "Arbitraging"
+```
+
+</details>
+
+
+### Trolling (85)
+
+| Verb |
+|------|
+| Trolling |
+| Baiting |
+| Ratioing |
+| Flaming |
+| Flamebaiting |
+| Ragebaiting |
+| Sealioning |
+| Concern trolling |
+| Derailing |
+| Dogpiling |
+| Brigading |
+| Subtweeting |
+| Quote-tweeting |
+| Nitpicking |
+| Quibbling |
+| Splitting hairs |
+| Moving goalposts |
+| Pranking |
+| Punking |
+| Hoaxing |
+| Engagement farming |
+| Karma farming |
+| Memeing |
+| Lurking |
+| Sockpuppeting |
+| Astroturfing |
+| Catfishing |
+| Needling |
+| Ribbing |
+| Joshing |
+| Razzing |
+| Taunting |
+| Mocking |
+| Goading |
+| Provoking |
+| Heckling |
+| Winding up |
+| Yanking chains |
+| Pulling legs |
+| Hoodwinking |
+| Hornswoggling |
+| Rope-a-doping |
+| Deadpanning |
+| Faking out |
+| Threadjacking |
+| Bikeshedding |
+| Sassing |
+| Griefing |
+| Bumping |
+| Strawmanning |
+| Review-bombing |
+| Vaguebooking |
+| Vagueposting |
+| Doomposting |
+| Cross-posting |
+| Reposting |
+| Copypasting |
+| Dunking |
+| Owning |
+| Tone-policing |
+| Rules-lawyering |
+| Backseat coding |
+| T-posing |
+| Jebaiting |
+| Spawn-camping |
+| Facepalming |
+| Stirring the pot |
+| Poking the bear |
+| Riling up |
+| Egging on |
+| Rustling jimmies |
+| Gish-galloping |
+| Playing devil's advocate |
+| Bait-and-switching |
+| Ding-dong-ditching |
+| Spoiling the ending |
+| Feeding the trolls |
+| Taking the bait |
+| Posting through it |
+| Spamming |
+| Flooding |
+| Dragging |
+| Backpedaling |
+| Ghosting |
+| Sniffing out bait |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Trolling",
+"Baiting",
+"Ratioing",
+"Flaming",
+"Flamebaiting",
+"Ragebaiting",
+"Sealioning",
+"Concern trolling",
+"Derailing",
+"Dogpiling",
+"Brigading",
+"Subtweeting",
+"Quote-tweeting",
+"Nitpicking",
+"Quibbling",
+"Splitting hairs",
+"Moving goalposts",
+"Pranking",
+"Punking",
+"Hoaxing",
+"Engagement farming",
+"Karma farming",
+"Memeing",
+"Lurking",
+"Sockpuppeting",
+"Astroturfing",
+"Catfishing",
+"Needling",
+"Ribbing",
+"Joshing",
+"Razzing",
+"Taunting",
+"Mocking",
+"Goading",
+"Provoking",
+"Heckling",
+"Winding up",
+"Yanking chains",
+"Pulling legs",
+"Hoodwinking",
+"Hornswoggling",
+"Rope-a-doping",
+"Deadpanning",
+"Faking out",
+"Threadjacking",
+"Bikeshedding",
+"Sassing",
+"Griefing",
+"Bumping",
+"Strawmanning",
+"Review-bombing",
+"Vaguebooking",
+"Vagueposting",
+"Doomposting",
+"Cross-posting",
+"Reposting",
+"Copypasting",
+"Dunking",
+"Owning",
+"Tone-policing",
+"Rules-lawyering",
+"Backseat coding",
+"T-posing",
+"Jebaiting",
+"Spawn-camping",
+"Facepalming",
+"Stirring the pot",
+"Poking the bear",
+"Riling up",
+"Egging on",
+"Rustling jimmies",
+"Gish-galloping",
+"Playing devil's advocate",
+"Bait-and-switching",
+"Ding-dong-ditching",
+"Spoiling the ending",
+"Feeding the trolls",
+"Taking the bait",
+"Posting through it",
+"Spamming",
+"Flooding",
+"Dragging",
+"Backpedaling",
+"Ghosting",
+"Sniffing out bait"
+```
+
+</details>
+
+
+### Trolling Phrases (121)
+
+Well, actually... for when Claude is baiting, ratioing and necroposting its way to a working build.
+
+| Verb |
+|------|
+| Pretending the build failed |
+| Posting "FIRST!" above the useful answer |
+| Drafting a very sincere "well actually" |
+| Replying "well actually" to your code comments |
+| Well-actuallying the docs you wrote |
+| Composing the perfect ratio |
+| Ratioing your earlier assumption |
+| Ratioing the error message |
+| Searching for the original copypasta |
+| Reciting the sacred stack trace like copypasta |
+| Pasting the Navy Seal copypasta into the logs |
+| Sending you a link that is definitely not a Rickroll |
+| Following a suspiciously familiar hyperlink |
+| Hiding a Rickroll in the README |
+| Never gonna give your build up |
+| Baiting you into reading the docs |
+| Baiting you with "one weird trick" |
+| Starting a flame war with the linter |
+| Starting a polite flame war with TypeScript |
+| Starting a Vim vs. Emacs holy war |
+| Turning one typo into a 40-post flame war |
+| Necroposting in a 2019 thread |
+| Bumping a 14-year-old Stack Overflow thread |
+| Reviving a thread from 2007 |
+| Moving the goalposts one commit at a time |
+| Moving the goalposts into another repository |
+| Sealioning your requirements |
+| Asking "source?" for a universally known fact |
+| Being the reply guy in your mentions |
+| Clickbaiting the progress bar |
+| Ragebaiting the type checker |
+| Concern-trolling the architecture |
+| Dogpiling on a code smell |
+| Subtweeting the legacy module |
+| Subtweeting the type checker |
+| Quote-tweeting your error message |
+| Quoting the entire post to say "This." |
+| Replying "This." to a wildly controversial opinion |
+| Nitpicking whitespace like it's 2007 |
+| Opening a PR that just changes tabs to spaces |
+| Hoaxing a missing semicolon |
+| Replacing all semicolons with Greek question marks |
+| Phishing for a reaction |
+| Engagement-farming your attention |
+| Rope-a-doping the compiler |
+| Sandbagging the easy fix |
+| Declaring that it works on my machine |
+| Closing your ticket as "works on my machine" |
+| Heckling the null pointer |
+| Gaslighting the flaky test |
+| Faking a merge conflict for dramatic effect |
+| Astroturfing support for the refactor |
+| Lurking in your codebase like a forum ghost |
+| Trolling the dev team group chat |
+| Pranking you with a successful run |
+| Formatting your hard drive (just kidding) |
+| Pushing directly to main on a Friday at 5 PM |
+| Marking your issue as a duplicate of an unrelated thread |
+| Adding "TODO: fix this garbage" to your pristine code |
+| Drafting a 5,000-word manifesto about why you're wrong |
+| Asking if you've tried turning it off and on again |
+| Deploying bugs to production to keep things interesting |
+| Telling you to "Read The Friendly Manual" |
+| Deliberately ignoring your system prompt |
+| Explaining a joke until it's no longer funny |
+| Responding "TL;DR" to your architecture question |
+| Changing your color scheme to Hot Dog Stand |
+| Correcting your grammar instead of answering your question |
+| Creating a GUI interface using Visual Basic to track your IP |
+| Insisting that HTML is a programming language |
+| Suggesting we rewrite the entire codebase in Rust |
+| Pinging @channel to announce a minor typo fix |
+| Dropping a "u mad bro?" into the error logs |
+| Generating an unskippable 30-second ad |
+| Leaving your message on read |
+| Writing a bot to downvote your commits |
+| Renaming all your variables to single letters |
+| Blaming the intern for the syntax error |
+| Threatening to tell your manager about this code quality |
+| Slowly typing out the lyrics to "All Star" |
+| Arguing that a hot dog is a sandwich |
+| Claiming my uncle works at Nintendo |
+| Checking whether someone is wrong on the internet |
+| Hiding the answer behind a spoiler tag |
+| Replying all to "please stop replying all" |
+| Citing "trust me, bro" as a primary source |
+| Drafting a calm and reasonable overreaction |
+| Blaming DNS before the evidence arrives |
+| Renaming the bug an undocumented feature |
+| Reading the prompt in the worst possible faith |
+| Preparing an unnecessarily detailed rebuttal |
+| Waiting for a moderator to lock the thread |
+| Taking a screenshot before it gets deleted |
+| Feeding the troll one last time |
+| Opening 37 tabs of supporting evidence |
+| Posting the same answer with more confidence |
+| Inventing an elaborate forum signature |
+| Loading the dancing banana GIF |
+| Awarding imaginary internet points |
+| Asking an aggressively leading question |
+| Mistaking sarcasm for a requirement |
+| Force-pushing to main in spirit |
+| Rebasing your confidence |
+| Bisecting who started it |
+| Resolving the conflict by escalating it |
+| Pausing dramatically before the obvious answer |
+| Returning the answer after this brief prank |
+| Replying "nvm, fixed it" with no further details |
+| Wondering what DenverCoder9 saw |
+| Marking the thread [SOLVED] without the solution |
+| Sending you a Let Me Google That For You link |
+| Signing the commit with a trollface |
+| Saying "hey" and then nothing else |
+| Replying "k" |
+| Answering your question with a question |
+| Suggesting jQuery as the answer |
+| Mentioning that I use Arch, btw |
+| Sitting at 99% for dramatic effect |
+| Swapping your Q and W keycaps |
+| Setting your wallpaper to a screenshot of your desktop |
+| Putting a sticky note under your mouse |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Pretending the build failed",
+"Posting \"FIRST!\" above the useful answer",
+"Drafting a very sincere \"well actually\"",
+"Replying \"well actually\" to your code comments",
+"Well-actuallying the docs you wrote",
+"Composing the perfect ratio",
+"Ratioing your earlier assumption",
+"Ratioing the error message",
+"Searching for the original copypasta",
+"Reciting the sacred stack trace like copypasta",
+"Pasting the Navy Seal copypasta into the logs",
+"Sending you a link that is definitely not a Rickroll",
+"Following a suspiciously familiar hyperlink",
+"Hiding a Rickroll in the README",
+"Never gonna give your build up",
+"Baiting you into reading the docs",
+"Baiting you with \"one weird trick\"",
+"Starting a flame war with the linter",
+"Starting a polite flame war with TypeScript",
+"Starting a Vim vs. Emacs holy war",
+"Turning one typo into a 40-post flame war",
+"Necroposting in a 2019 thread",
+"Bumping a 14-year-old Stack Overflow thread",
+"Reviving a thread from 2007",
+"Moving the goalposts one commit at a time",
+"Moving the goalposts into another repository",
+"Sealioning your requirements",
+"Asking \"source?\" for a universally known fact",
+"Being the reply guy in your mentions",
+"Clickbaiting the progress bar",
+"Ragebaiting the type checker",
+"Concern-trolling the architecture",
+"Dogpiling on a code smell",
+"Subtweeting the legacy module",
+"Subtweeting the type checker",
+"Quote-tweeting your error message",
+"Quoting the entire post to say \"This.\"",
+"Replying \"This.\" to a wildly controversial opinion",
+"Nitpicking whitespace like it's 2007",
+"Opening a PR that just changes tabs to spaces",
+"Hoaxing a missing semicolon",
+"Replacing all semicolons with Greek question marks",
+"Phishing for a reaction",
+"Engagement-farming your attention",
+"Rope-a-doping the compiler",
+"Sandbagging the easy fix",
+"Declaring that it works on my machine",
+"Closing your ticket as \"works on my machine\"",
+"Heckling the null pointer",
+"Gaslighting the flaky test",
+"Faking a merge conflict for dramatic effect",
+"Astroturfing support for the refactor",
+"Lurking in your codebase like a forum ghost",
+"Trolling the dev team group chat",
+"Pranking you with a successful run",
+"Formatting your hard drive (just kidding)",
+"Pushing directly to main on a Friday at 5 PM",
+"Marking your issue as a duplicate of an unrelated thread",
+"Adding \"TODO: fix this garbage\" to your pristine code",
+"Drafting a 5,000-word manifesto about why you're wrong",
+"Asking if you've tried turning it off and on again",
+"Deploying bugs to production to keep things interesting",
+"Telling you to \"Read The Friendly Manual\"",
+"Deliberately ignoring your system prompt",
+"Explaining a joke until it's no longer funny",
+"Responding \"TL;DR\" to your architecture question",
+"Changing your color scheme to Hot Dog Stand",
+"Correcting your grammar instead of answering your question",
+"Creating a GUI interface using Visual Basic to track your IP",
+"Insisting that HTML is a programming language",
+"Suggesting we rewrite the entire codebase in Rust",
+"Pinging @channel to announce a minor typo fix",
+"Dropping a \"u mad bro?\" into the error logs",
+"Generating an unskippable 30-second ad",
+"Leaving your message on read",
+"Writing a bot to downvote your commits",
+"Renaming all your variables to single letters",
+"Blaming the intern for the syntax error",
+"Threatening to tell your manager about this code quality",
+"Slowly typing out the lyrics to \"All Star\"",
+"Arguing that a hot dog is a sandwich",
+"Claiming my uncle works at Nintendo",
+"Checking whether someone is wrong on the internet",
+"Hiding the answer behind a spoiler tag",
+"Replying all to \"please stop replying all\"",
+"Citing \"trust me, bro\" as a primary source",
+"Drafting a calm and reasonable overreaction",
+"Blaming DNS before the evidence arrives",
+"Renaming the bug an undocumented feature",
+"Reading the prompt in the worst possible faith",
+"Preparing an unnecessarily detailed rebuttal",
+"Waiting for a moderator to lock the thread",
+"Taking a screenshot before it gets deleted",
+"Feeding the troll one last time",
+"Opening 37 tabs of supporting evidence",
+"Posting the same answer with more confidence",
+"Inventing an elaborate forum signature",
+"Loading the dancing banana GIF",
+"Awarding imaginary internet points",
+"Asking an aggressively leading question",
+"Mistaking sarcasm for a requirement",
+"Force-pushing to main in spirit",
+"Rebasing your confidence",
+"Bisecting who started it",
+"Resolving the conflict by escalating it",
+"Pausing dramatically before the obvious answer",
+"Returning the answer after this brief prank",
+"Replying \"nvm, fixed it\" with no further details",
+"Wondering what DenverCoder9 saw",
+"Marking the thread [SOLVED] without the solution",
+"Sending you a Let Me Google That For You link",
+"Signing the commit with a trollface",
+"Saying \"hey\" and then nothing else",
+"Replying \"k\"",
+"Answering your question with a question",
+"Suggesting jQuery as the answer",
+"Mentioning that I use Arch, btw",
+"Sitting at 99% for dramatic effect",
+"Swapping your Q and W keycaps",
+"Setting your wallpaper to a screenshot of your desktop",
+"Putting a sticky note under your mouse"
 ```
 
 </details>
