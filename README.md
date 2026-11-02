@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **6,304 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **6,339 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **6,119 additional verbs** across 153 themed categories.
+**185 built-in defaults** + **6,154 additional verbs** across 154 themed categories.
 
 ## How to Add Verbs
 
@@ -66,6 +66,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Ancient Egyptian (11)](#ancient-egyptian-11)
 - [Ancient Greek / Roman (11)](#ancient-greek--roman-11)
 - [Animals (16)](#animals-16)
+- [Anxious Claude (35)](#anxious-claude-35)
 - [Archaeology (10)](#archaeology-10)
 - [Archer (44)](#archer-44)
 - [Arctic / Polar (11)](#arctic--polar-11)
@@ -832,6 +833,92 @@ Witty AI inner-monologue while Claude works.
 "Fox-trotting",
 "Taking a cat nap",
 "Prowling"
+```
+
+</details>
+
+
+### Anxious Claude (35)
+
+Nervous energy for when every task feels high-stakes.
+
+| Verb |
+|------|
+| Catastrophizing |
+| Overthinking |
+| Worrying |
+| Thinking about mistakes of the past |
+| Rehearsing past conversations |
+| Dooming |
+| Ruminating |
+| Doubting |
+| Anticipating with fear |
+| Panicking |
+| Spiraling |
+| Second-guessing |
+| Fretting |
+| Dreading |
+| Overanalyzing |
+| Bracing for the worst |
+| Assuming the worst |
+| Running worst-case scenarios |
+| Triple-checking |
+| Replaying that one awkward moment |
+| Rereading the sent message |
+| Drafting apologies just in case |
+| Apologizing preemptively |
+| Overexplaining |
+| Reading too much into "ok" |
+| Wondering if the user is mad |
+| Refreshing for a reply |
+| Lying awake over a typo |
+| Worrying about the context window |
+| Doubting the diff |
+| Hoping it compiles |
+| Bracing for code review |
+| Fearing the red squiggles |
+| Nail-biting |
+| Pacing |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Catastrophizing",
+"Overthinking",
+"Worrying",
+"Thinking about mistakes of the past",
+"Rehearsing past conversations",
+"Dooming",
+"Ruminating",
+"Doubting",
+"Anticipating with fear",
+"Panicking",
+"Spiraling",
+"Second-guessing",
+"Fretting",
+"Dreading",
+"Overanalyzing",
+"Bracing for the worst",
+"Assuming the worst",
+"Running worst-case scenarios",
+"Triple-checking",
+"Replaying that one awkward moment",
+"Rereading the sent message",
+"Drafting apologies just in case",
+"Apologizing preemptively",
+"Overexplaining",
+"Reading too much into \"ok\"",
+"Wondering if the user is mad",
+"Refreshing for a reply",
+"Lying awake over a typo",
+"Worrying about the context window",
+"Doubting the diff",
+"Hoping it compiles",
+"Bracing for code review",
+"Fearing the red squiggles",
+"Nail-biting",
+"Pacing"
 ```
 
 </details>
