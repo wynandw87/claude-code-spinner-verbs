@@ -3440,9 +3440,6 @@ Red-team swagger meets blue-team caution while Claude works.
 </details>
 
 
-
-
-
 ### DC Comics (11)
 
 | Verb |
