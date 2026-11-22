@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **6,339 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **6,427 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **6,154 additional verbs** across 154 themed categories.
+**185 built-in defaults** + **6,242 additional verbs** across 156 themed categories.
 
 ## How to Add Verbs
 
@@ -85,6 +85,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Chemistry (9)](#chemistry-9)
 - [Circus / Carnival (11)](#circus--carnival-11)
 - [Coffee / Barista (11)](#coffee--barista-11)
+- [Cooking (36)](#cooking-36)
 - [Cybersecurity (62)](#cybersecurity-62)
 - [DC Comics (11)](#dc-comics-11)
 - [Deep Sea / Submarine (11)](#deep-sea--submarine-11)
@@ -181,6 +182,7 @@ Full sentences and phrases — longer, more expressive spinner text with persona
 - [Bureaucracy / DMV Phrases (83)](#bureaucracy--dmv-phrases-83)
 - [Cat Behavior Phrases (78)](#cat-behavior-phrases-78)
 - [Catering (55)](#catering-55)
+- [Cooking Phrases (52)](#cooking-phrases-52)
 - [Cybersecurity Phrases (89)](#cybersecurity-phrases-89)
 - [Dev Life (92)](#dev-life-92)
 - [Existential Developer (61)](#existential-developer-61)
@@ -2897,6 +2899,210 @@ The cat is helping — first-person feline chaos for when Claude is sitting on e
 "Cupping",
 "Tamping the shot",
 "Weighing the dose"
+```
+
+</details>
+
+
+### Cooking (36)
+
+| Verb |
+|------|
+| Dicing |
+| Mincing |
+| Chopping |
+| Chiffonading |
+| Braising |
+| Searing |
+| Poaching |
+| Broiling |
+| Grilling |
+| Stir-frying |
+| Deep-frying |
+| Pan-frying |
+| Sous-viding |
+| Deglazing |
+| Emulsifying |
+| Basting |
+| Plating |
+| Pureeing |
+| Straining |
+| Spatchcocking |
+| Tenderizing |
+| Parboiling |
+| Sweating |
+| Scalding |
+| Griddling |
+| Grating |
+| Peeling |
+| Trimming |
+| Dredging |
+| Rendering |
+| Torching |
+| Scoring |
+| Trussing |
+| Shucking |
+| Coring |
+| Pitting |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Dicing",
+"Mincing",
+"Chopping",
+"Chiffonading",
+"Braising",
+"Searing",
+"Poaching",
+"Broiling",
+"Grilling",
+"Stir-frying",
+"Deep-frying",
+"Pan-frying",
+"Sous-viding",
+"Deglazing",
+"Emulsifying",
+"Basting",
+"Plating",
+"Pureeing",
+"Straining",
+"Spatchcocking",
+"Tenderizing",
+"Parboiling",
+"Sweating",
+"Scalding",
+"Griddling",
+"Grating",
+"Peeling",
+"Trimming",
+"Dredging",
+"Rendering",
+"Torching",
+"Scoring",
+"Trussing",
+"Shucking",
+"Coring",
+"Pitting"
+```
+
+</details>
+
+
+### Cooking Phrases (52)
+
+| Verb |
+|------|
+| Slicing against the grain |
+| Roasting vegetables |
+| Steaming dumplings |
+| Reducing the sauce |
+| Folding in the egg whites |
+| Creaming butter and sugar |
+| Rolling out the dough |
+| Skimming the stock |
+| Tasting for salt |
+| Salting the pasta water |
+| Resting the steak |
+| Toasting spices |
+| Blooming the spices |
+| Browning the butter |
+| Clarifying butter |
+| Dredging in flour |
+| Piping icing |
+| Crimping the pie crust |
+| Sifting flour |
+| Mashing potatoes |
+| Shucking oysters |
+| Scoring the bread |
+| Mounting with butter |
+| Bringing to a rolling boil |
+| Trussing the chicken |
+| Flipping the pancake |
+| Preheating the oven to 375 |
+| Setting a timer for ten minutes |
+| Waiting for the water to boil |
+| Keeping an eye on the pot |
+| Stirring the pot clockwise |
+| Tasting the sauce one more time |
+| Adding a pinch more salt |
+| Seasoning in layers |
+| Reading the recipe all the way through |
+| Measuring twice, pouring once |
+| Getting the pan screaming hot |
+| Scraping up the good bits from the pan |
+| Letting it rest before slicing |
+| Turning the heat down to low |
+| Keeping the pot from boiling over |
+| Whisking until stiff peaks form |
+| Checking if the toothpick comes out clean |
+| Letting the dough rise a little longer |
+| Sprinkling with fresh herbs |
+| Doubling the garlic, as one does |
+| Licking the wooden spoon |
+| Wiping the counter between steps |
+| Flipping at exactly the right moment |
+| Smelling something wonderful |
+| Swapping in butter for oil |
+| Wondering if that's a lot of cumin |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Slicing against the grain",
+"Roasting vegetables",
+"Steaming dumplings",
+"Reducing the sauce",
+"Folding in the egg whites",
+"Creaming butter and sugar",
+"Rolling out the dough",
+"Skimming the stock",
+"Tasting for salt",
+"Salting the pasta water",
+"Resting the steak",
+"Toasting spices",
+"Blooming the spices",
+"Browning the butter",
+"Clarifying butter",
+"Dredging in flour",
+"Piping icing",
+"Crimping the pie crust",
+"Sifting flour",
+"Mashing potatoes",
+"Shucking oysters",
+"Scoring the bread",
+"Mounting with butter",
+"Bringing to a rolling boil",
+"Trussing the chicken",
+"Flipping the pancake",
+"Preheating the oven to 375",
+"Setting a timer for ten minutes",
+"Waiting for the water to boil",
+"Keeping an eye on the pot",
+"Stirring the pot clockwise",
+"Tasting the sauce one more time",
+"Adding a pinch more salt",
+"Seasoning in layers",
+"Reading the recipe all the way through",
+"Measuring twice, pouring once",
+"Getting the pan screaming hot",
+"Scraping up the good bits from the pan",
+"Letting it rest before slicing",
+"Turning the heat down to low",
+"Keeping the pot from boiling over",
+"Whisking until stiff peaks form",
+"Checking if the toothpick comes out clean",
+"Letting the dough rise a little longer",
+"Sprinkling with fresh herbs",
+"Doubling the garlic, as one does",
+"Licking the wooden spoon",
+"Wiping the counter between steps",
+"Flipping at exactly the right moment",
+"Smelling something wonderful",
+"Swapping in butter for oil",
+"Wondering if that's a lot of cumin"
 ```
 
 </details>
