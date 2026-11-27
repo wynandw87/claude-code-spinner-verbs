@@ -1,8 +1,8 @@
 # Claude Code Spinner Verbs Collection
 
-A curated collection of **6,427 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
+A curated collection of **6,465 spinner verbs** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These display in the spinner while Claude is working.
 
-**185 built-in defaults** + **6,242 additional verbs** across 156 themed categories.
+**185 built-in defaults** + **6,280 additional verbs** across 157 themed categories.
 
 ## How to Add Verbs
 
@@ -75,6 +75,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Aviation / Pilot (11)](#aviation--pilot-11)
 - [Back to the Future (10)](#back-to-the-future-10)
 - [Bee-themed (11)](#bee-themed-11)
+- [Gaming - bad behavior (40)](#gaming---bad-behavior-40)
 - [The Big Lebowski (50)](#the-big-lebowski-50)
 - [Biology / Evolution (11)](#biology--evolution-11)
 - [Board Games (11)](#board-games-11)
@@ -98,7 +99,7 @@ Short, themed verbs — one or two words that replace the default spinner text.
 - [Firefighter (11)](#firefighter-11)
 - [Food (14)](#food-14)
 - [Futurama (43)](#futurama-43)
-- [Gaming (13)](#gaming-13)
+- [Gaming (11)](#gaming-11)
 - [Gardening / Botanical (11)](#gardening--botanical-11)
 - [Gen-Z (48)](#gen-z-48)
 - [Geology (11)](#geology-11)
@@ -4466,41 +4467,131 @@ Planet Express deliveries, Hypnotoad worship, and 31st-century bureaucracy. Good
 </details>
 
 
-### Gaming (13)
+### Gaming (11)
 
 | Verb |
 |------|
-| Respawning |
-| Speedrunning |
-| Leveling-up |
+| Buffing |
 | Button-mashing |
+| Farming loot |
+| Hunting glitches |
+| Leveling-up |
 | Looting |
 | Nerfing |
-| Buffing |
-| Hunting glitches |
 | No-scoping |
-| Save-scumming |
-| Power-leveling |
-| Farming loot |
 | Pushing pixels |
+| Respawning |
+| Speedrunning |
 
 <details>
 <summary>Copy as list</summary>
 
 ```
-"Respawning",
-"Speedrunning",
-"Leveling-up",
+"Buffing",
 "Button-mashing",
+"Farming loot",
+"Hunting glitches",
+"Leveling-up",
 "Looting",
 "Nerfing",
-"Buffing",
-"Hunting glitches",
 "No-scoping",
-"Save-scumming",
-"Power-leveling",
-"Farming loot",
-"Pushing pixels"
+"Pushing pixels",
+"Respawning",
+"Speedrunning"
+```
+
+</details>
+
+
+### Gaming - bad behavior (40)
+
+| Verb |
+|------|
+| Account sharing |
+| AFK-ing |
+| Aimbotting |
+| Boosting |
+| Botting |
+| Bug using |
+| Camping |
+| Cheating |
+| Cheesing |
+| Duping |
+| Editing saves |
+| Exploiting |
+| Farming |
+| Farming gold |
+| Gold farming |
+| Gold selling |
+| Griefing |
+| Grinding |
+| Hacking |
+| Kill stealing |
+| Kiting |
+| Luring |
+| Maphacking |
+| Metagaming |
+| Multiboxing |
+| Ninja looting |
+| Paying to win |
+| Powerleveling |
+| Ragequitting |
+| Real money trading |
+| Rushing |
+| Sandbagging |
+| Save scumming |
+| Scamming |
+| Smurfing |
+| Spamming |
+| Teamkilling |
+| Trolling |
+| Twinking |
+| Wallhacking |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Account sharing",
+"AFK-ing",
+"Aimbotting",
+"Boosting",
+"Botting",
+"Bug using",
+"Camping",
+"Cheating",
+"Cheesing",
+"Duping",
+"Editing saves",
+"Exploiting",
+"Farming",
+"Farming gold",
+"Gold farming",
+"Gold selling",
+"Griefing",
+"Grinding",
+"Hacking",
+"Kill stealing",
+"Kiting",
+"Luring",
+"Maphacking",
+"Metagaming",
+"Multiboxing",
+"Ninja looting",
+"Paying to win",
+"Powerleveling",
+"Ragequitting",
+"Real money trading",
+"Rushing",
+"Sandbagging",
+"Save scumming",
+"Scamming",
+"Smurfing",
+"Spamming",
+"Teamkilling",
+"Trolling",
+"Twinking",
+"Wallhacking"
 ```
 
 </details>
